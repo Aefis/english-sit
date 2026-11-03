@@ -1,0 +1,212 @@
+# Lot 002 : essentiels B1 (vie courante, conversation, début du professionnel)
+@word
+accept|accepter|B1||4|I can't accept this offer.|Je ne peux pas accepter cette offre.|accept|w||work,decision|pos=v
+achieve|atteindre, réussir|B1||4|We achieved our goal.|Nous avons atteint notre objectif.|achieved|w||pro,work|pos=v ;; notes=achieve a goal : ne se traduit pas par « achever ».
+allow|permettre, autoriser|B1||4|Dogs aren't allowed here.|Les chiens ne sont pas autorisés ici.|allowed|d||daily_life,rules|pos=v
+appear|apparaître, sembler|B1||3|He appeared at the door.|Il est apparu à la porte.|appeared|c||narration|pos=v
+apply|postuler, s'appliquer|B1||4|I applied for the job.|J'ai postulé pour ce poste.|applied|w||work,career|pos=v ;; sense=postuler ;; notes=apply for a job.
+argue|se disputer, argumenter|B1||3|They argue about money all the time.|Ils se disputent tout le temps pour l'argent.|argue|c||relationships|pos=v
+arrive|arriver|B1||4|We arrived in Rome at noon.|Nous sommes arrivés à Rome à midi.|arrived|t||travel|pos=v ;; notes=arrive in une ville, arrive at un lieu précis, jamais « arrive to ».
+become|devenir|B1||5|She became a doctor.|Elle est devenue médecin.|became|c||narration|pos=v ;; forms=become, became, become ;; notes=Faux ami : ne veut pas dire « bientôt ».
+bring|apporter, amener|B1||5|Can I bring a friend?|Je peux amener un ami ?|bring|c||conversation|pos=v ;; forms=bring, brought, brought
+carry|porter, transporter|B1||3|Can you carry this bag?|Tu peux porter ce sac ?|carry|d||daily_life|pos=v
+cause|causer, provoquer|B1||4|The storm caused a lot of damage.|La tempête a causé beaucoup de dégâts.|caused|n||news|pos=v
+check|vérifier|B1||5|Let me check my calendar.|Je vais vérifier mon agenda.|check|w||pro,work|pos=v
+compare|comparer|B1||3|Let's compare the two prices.|Comparons les deux prix.|compare|d||shopping,analysis|pos=v
+complain|se plaindre|B1||4|He always complains about the food.|Il se plaint toujours de la nourriture.|complains|c||conversation|pos=v ;; notes=complain about something.
+consider|envisager, réfléchir à|B1||4|We're considering moving to Spain.|Nous envisageons de déménager en Espagne.|considering|c||decision|pos=v ;; notes=Suivi d'un verbe en -ing.
+continue|continuer|B1||4|Please continue, I'm listening.|Continue, je t'écoute.|continue|c||conversation|pos=v
+describe|décrire|B1||3|Can you describe the problem?|Tu peux décrire le problème ?|describe|w||communication|pos=v
+discuss|discuter de|B1||4|We need to discuss the budget.|Nous devons discuter du budget.|discuss|w||pro,meetings|pos=v ;; notes=Sans « about » : discuss something.
+expect|s'attendre à|B1||5|I didn't expect that.|Je ne m'attendais pas à ça.|expect|c||conversation|pos=v ;; notes=Faux ami : attendre quelqu'un se dit wait for.
+fail|échouer, rater|B1||4|He failed his driving test.|Il a raté son permis.|failed|c||education|pos=v
+fix|réparer, régler|B1||4|Can you fix my laptop?|Tu peux réparer mon ordinateur ?|fix|w||it,daily_life|pos=v
+follow|suivre|B1||4|Follow me, it's this way.|Suis-moi, c'est par ici.|Follow|t||travel|pos=v
+happen|arriver, se passer|B1||5|It happens to everyone.|Ça arrive à tout le monde.|happens|c||conversation|pos=v
+imagine|imaginer|B1||3|I can't imagine living without music.|Je ne peux pas imaginer vivre sans musique.|imagine|c||conversation|pos=v ;; notes=Suivi d'un verbe en -ing.
+include|inclure, comprendre|B1||4|Breakfast is included.|Le petit-déjeuner est compris.|included|t||travel|pos=v
+increase|augmenter|B1||4|Prices have increased a lot.|Les prix ont beaucoup augmenté.|increased|n||money,news|pos=v
+invite|inviter|B1||3|They invited us to dinner.|Ils nous ont invités à dîner.|invited|c||leisure|pos=v
+join|rejoindre, s'inscrire à|B1||4|Do you want to join us?|Tu veux te joindre à nous ?|join|c||conversation|pos=v
+learn|apprendre|A2||5|I'm learning to drive.|J'apprends à conduire.|learning|c||learning|pos=v ;; notes=Enseigner se dit teach, pas learn.
+manage|gérer, réussir à|B1||5|I managed to finish on time.|J'ai réussi à finir à temps.|managed|w||pro,work|pos=v ;; notes=manage to + verbe : réussir à.
+mention|mentionner|B1||4|He didn't mention the price.|Il n'a pas mentionné le prix.|mention|c||communication|pos=v
+miss|manquer, rater|B1||5|I miss you.|Tu me manques.|miss|c||feelings|pos=v ;; notes=Attention à l'ordre : I miss you = tu me manques.
+notice|remarquer|B1||4|Did you notice anything strange?|Tu as remarqué quelque chose de bizarre ?|notice|c||conversation|pos=v ;; notes=Faux ami : une notice se dit instructions.
+offer|proposer, offrir|B1||4|Can I offer you a drink?|Je peux t'offrir un verre ?|offer|c||conversation|pos=v ;; notes=Offrir un cadeau se dit give.
+prefer|préférer|A2||4|I prefer tea to coffee.|Je préfère le thé au café.|prefer|c||conversation,fn_opinion|pos=v ;; notes=prefer A to B.
+prepare|préparer|B1||3|I need to prepare for the meeting.|Je dois préparer la réunion.|prepare|w||pro,meetings|pos=v
+prevent|empêcher, éviter|B1||3|Exercise can prevent heart disease.|L'exercice peut prévenir les maladies du cœur.|prevent|n||health|pos=v ;; notes=prevent someone from doing something.
+promise|promettre|B1||4|I promise I'll be there.|Je te promets que je serai là.|promise|c||conversation|pos=v
+protect|protéger|B1||3|This cream protects your skin.|Cette crème protège ta peau.|protects|d||health|pos=v
+provide|fournir|B1||4|We provide free training.|Nous fournissons une formation gratuite.|provide|w|f|pro,work|pos=v
+realize|se rendre compte|B1||5|I didn't realize it was so late.|Je ne m'étais pas rendu compte qu'il était si tard.|realize|c||conversation|pos=v ;; notes=Faux ami : réaliser un projet se dit carry out. UK : realise.
+receive|recevoir|B1||3|Did you receive my email?|Tu as reçu mon e-mail ?|receive|w||pro,communication|pos=v
+recommend|recommander|B1||3|Can you recommend a good dentist?|Tu peux me recommander un bon dentiste ?|recommend|d||conversation|pos=v
+reduce|réduire|B1||3|We need to reduce costs.|Nous devons réduire les coûts.|reduce|w||pro,work,money|pos=v
+refuse|refuser|B1||3|He refused to answer.|Il a refusé de répondre.|refused|c||conversation|pos=v
+remind|rappeler (à quelqu'un)|B1||5|Remind me to call the bank.|Rappelle-moi d'appeler la banque.|Remind|c||conversation|pos=v ;; notes=remind someone to do something. Remember, c'est se souvenir soi-même.
+rent|louer|B1||3|We rented a car in Italy.|Nous avons loué une voiture en Italie.|rented|t||travel,housing|pos=v
+replace|remplacer|B1||3|I need to replace my phone.|Je dois remplacer mon téléphone.|replace|d||daily_life|pos=v
+seem|sembler|B1||5|You seem tired.|Tu as l'air fatigué.|seem|c||conversation,fn_nuance|pos=v
+share|partager|B1||4|Can we share a dessert?|On peut partager un dessert ?|share|d||food,conversation|pos=v
+choice|choix|B1||4|We had no choice.|Nous n'avions pas le choix.|choice|c||decision|pos=n
+company|entreprise|A2||4|She works for a big company.|Elle travaille pour une grande entreprise.|company|w||pro,work|pos=n ;; sense=entreprise
+customer|client|B1||4|The customer is always right.|Le client a toujours raison.|customer|w||pro,work,business|pos=n
+difference|différence|B1||3|What's the difference between them?|Quelle est la différence entre eux ?|difference|c||fn_compare|pos=n
+experience|expérience|B1||4|I have five years of experience.|J'ai cinq ans d'expérience.|experience|w||work,career|pos=n
+goal|objectif|B1||4|My goal is to speak fluently.|Mon objectif est de parler couramment.|goal|w||pro,learning|pos=n ;; sense=objectif
+habit|habitude|B1||3|Smoking is a bad habit.|Fumer est une mauvaise habitude.|habit|d||health|pos=n
+health|santé|B1||4|Sleep is good for your health.|Le sommeil est bon pour la santé.|health|d||health|pos=n
+information|information(s)|A2||4|I need more information.|J'ai besoin de plus d'informations.|information|w||communication|pos=n ;; notes=Indénombrable : jamais « informations ».
+knowledge|connaissances, savoir|B1||3|He has a good knowledge of French.|Il a de bonnes connaissances en français.|knowledge|w||learning|pos=n ;; notes=Indénombrable. Le k ne se prononce pas.
+meeting|réunion|A2||5|I have a meeting at ten.|J'ai une réunion à dix heures.|meeting|w||pro,meetings|pos=n
+message|message|A2||3|I left you a message.|Je t'ai laissé un message.|message|d||communication|pos=n
+moment|moment|A2||4|This isn't a good moment.|Ce n'est pas le bon moment.|moment|c||time|pos=n
+neighbour|voisin|A2||3|Our neighbours are very friendly.|Nos voisins sont très sympas.|neighbours|d||relationships,uk_us|pos=n ;; variant=UK ;; counterpart=neighbor
+price|prix|A2||4|The price is too high.|Le prix est trop élevé.|price|d||money,shopping|pos=n
+purpose|but, objectif|B1||3|What's the purpose of this meeting?|Quel est le but de cette réunion ?|purpose|w||pro,meetings|pos=n
+report|rapport|B1||4|I'll send you the report tomorrow.|Je t'enverrai le rapport demain.|report|w||pro,reporting|pos=n
+result|résultat|B1||4|The results are very good.|Les résultats sont très bons.|results|w||pro,analysis|pos=n
+risk|risque|B1||4|It's not worth the risk.|Ça ne vaut pas le risque.|risk|w||pro,risk|pos=n
+rule|règle|B1||4|You have to follow the rules.|Il faut respecter les règles.|rules|c||rules|pos=n
+skill|compétence|B1||4|Communication is a key skill.|La communication est une compétence essentielle.|skill|w||pro,career|pos=n
+solution|solution|B1||4|We need to find a solution.|Nous devons trouver une solution.|solution|w||pro,work|pos=n
+step|étape|B1||4|What's the next step?|Quelle est la prochaine étape ?|step|w||pro,project|pos=n ;; sense=étape
+task|tâche|B1||4|This task will take two hours.|Cette tâche prendra deux heures.|task|w||pro,project|pos=n
+trip|voyage, déplacement|A2||4|How was your trip?|Ton voyage s'est bien passé ?|trip|t||travel,small_talk|pos=n
+salary|salaire|B1||3|They offered me a good salary.|Ils m'ont proposé un bon salaire.|salary|w||work,money|pos=n
+schedule|planning, emploi du temps|B1||4|My schedule is full this week.|Mon planning est plein cette semaine.|schedule|w||pro,project|pos=n ;; notes=Prononciation : /ˈʃedjuːl/ (UK), /ˈskedʒuːl/ (US).
+appointment|rendez-vous|B1||4|I have a dentist appointment.|J'ai rendez-vous chez le dentiste.|appointment|d||health|pos=n ;; notes=Pour un rendez-vous professionnel ou médical. Entre amis : meet up.
+meal|repas|A2||3|We had a great meal.|Nous avons très bien mangé.|meal|d||food|pos=n
+journey|trajet, voyage|B1||3|The journey takes two hours.|Le trajet dure deux heures.|journey|t||travel|pos=n ;; notes=Faux ami : une journée se dit a day.
+weekend|week-end|A1||4|What are you doing this weekend?|Tu fais quoi ce week-end ?|weekend|c||time,small_talk|pos=n
+able|capable|B1||4|I wasn't able to sleep.|Je n'ai pas réussi à dormir.|able|c||conversation|pos=adj ;; notes=be able to + verbe.
+afraid|effrayé, qui a peur|A2||3|She's afraid of dogs.|Elle a peur des chiens.|afraid|c||feelings|pos=adj ;; notes=be afraid of something.
+angry|en colère|A2||3|Are you angry with me?|Tu es en colère contre moi ?|angry|c||feelings|pos=adj
+available|disponible|B1||5|Are you available on Monday?|Tu es disponible lundi ?|available|w||pro,meetings|pos=adj
+boring|ennuyeux|A2||3|The film was really boring.|Le film était vraiment ennuyeux.|boring|c||feelings|pos=adj ;; notes=boring décrit la chose, bored décrit la personne.
+clear|clair|B1||4|Is that clear?|C'est clair ?|clear|w||communication,fn_clarify|pos=adj
+comfortable|confortable, à l'aise|B1||3|This chair is really comfortable.|Cette chaise est vraiment confortable.|comfortable|d||description|pos=adj
+dangerous|dangereux|A2||3|This road is dangerous at night.|Cette route est dangereuse la nuit.|dangerous|t||description|pos=adj
+different|différent|A2||4|Everyone is different.|Tout le monde est différent.|different|c||fn_compare|pos=adj ;; notes=different from.
+excited|enthousiaste, impatient|B1||4|I'm so excited about the trip!|Je suis tellement impatient de faire ce voyage !|excited|c||feelings|pos=adj ;; notes=Ne veut pas dire « excité » au sens français courant.
+fair|juste, équitable|B1||4|That's not fair!|Ce n'est pas juste !|fair|c||fn_react|pos=adj ;; sense=juste
+friendly|sympathique, amical|A2||3|The staff are very friendly.|Le personnel est très sympathique.|friendly|t||description,personality|pos=adj
+funny|drôle|A2||4|That's so funny!|C'est trop drôle !|funny|c||fn_react|pos=adj
+honest|honnête|B1||3|To be honest, I don't like it.|Pour être honnête, je n'aime pas ça.|honest|c||personality,fn_opinion|pos=adj ;; notes=Le h ne se prononce pas.
+important|important|A2||5|This is really important.|C'est vraiment important.|important|w||conversation|pos=adj
+lucky|chanceux|B1||4|You're so lucky!|Tu as tellement de chance !|lucky|c||fn_react|pos=adj ;; notes=Avec be : you're lucky, pas « you have luck ».
+necessary|nécessaire|B1||3|Is it really necessary?|C'est vraiment nécessaire ?|necessary|w|f|conversation|pos=adj
+nervous|nerveux, stressé|B1||3|I always get nervous before interviews.|Je suis toujours stressé avant les entretiens.|nervous|w||feelings,career|pos=adj
+possible|possible|A2||4|Is it possible to change the date?|Est-il possible de changer la date ?|possible|w||conversation|pos=adj
+proud|fier|B1||3|I'm really proud of you.|Je suis vraiment fier de toi.|proud|c||feelings|pos=adj ;; notes=be proud of.
+serious|sérieux, grave|B1||4|Are you serious?|Tu es sérieux ?|serious|c||fn_react|pos=adj
+strange|étrange, bizarre|B1||4|That's strange, it was here a minute ago.|C'est bizarre, c'était là il y a une minute.|strange|c||fn_react|pos=adj ;; notes=Un étranger se dit a foreigner ou a stranger (inconnu).
+surprised|surpris|B1||3|I was surprised to see him.|J'ai été surpris de le voir.|surprised|c||feelings|pos=adj
+useful|utile|B1||3|This app is really useful.|Cette application est vraiment utile.|useful|d||description|pos=adj
+worried|inquiet|B1||4|I'm worried about the exam.|Je suis inquiet pour l'examen.|worried|c||feelings|pos=adj ;; notes=worried about.
+
+@chunk
+I'm thinking of...|Je pense à... J'envisage de...|B1|4|4|I'm thinking of changing jobs.|J'envisage de changer de travail.|I'm thinking of|c||conversation,decision|notes=Suivi d'un verbe en -ing.
+I was wondering if...|Je me demandais si...|B1|4|5|I was wondering if you could help me.|Je me demandais si tu pouvais m'aider.|I was wondering if|c||conversation,pro,fn_request|notes=Une façon très polie de demander quelque chose. ;; sit=Tu veux demander poliment un service à un collègue que tu connais peu.
+I'd love to.|Avec plaisir.|B1|4|4|Do you want to come? I'd love to.|Tu veux venir ? Avec plaisir.|I'd love to|c||conversation,fn_agree|sit=Un ami t'invite à une soirée et tu es ravi d'accepter.
+Would it be possible to...?|Serait-il possible de... ?|B1|3|4|Would it be possible to change the date?|Serait-il possible de changer la date ?|Would it be possible to|w|f|pro,email,fn_request|
+I'm having trouble...|J'ai du mal à...|B1|4|5|I'm having trouble logging in.|J'ai du mal à me connecter.|I'm having trouble|w||pro,it,fn_explain|notes=Suivi d'un verbe en -ing.
+It seems like...|On dirait que...|B1|5|5|It seems like nobody's home.|On dirait qu'il n'y a personne à la maison.|It seems like|c||conversation,fn_nuance|
+What if...?|Et si... ?|B1|5|5|What if it rains?|Et s'il pleut ?|What if|c||conversation,fn_suggest|
+What about you?|Et toi ?|A2|5|5|I'm fine, what about you?|Je vais bien, et toi ?|what about you?|c||small_talk,fn_start|
+That's fine.|Ça va, pas de souci.|A2|5|4|Tomorrow? That's fine.|Demain ? Pas de souci.|That's fine|c||conversation,fn_agree|
+That's true.|C'est vrai.|A2|5|4|That's true, I hadn't noticed.|C'est vrai, je n'avais pas remarqué.|That's true|c||conversation,fn_agree|
+That's why...|C'est pour ça que...|B1|5|5|I missed the bus. That's why I'm late.|J'ai raté le bus. C'est pour ça que je suis en retard.|That's why|c||conversation,fn_explain|
+It's hard to say.|C'est difficile à dire.|B1|4|4|Will it work? It's hard to say.|Est-ce que ça va marcher ? C'est difficile à dire.|It's hard to say|c||conversation,fn_hesitate|
+I can't stand...|Je ne supporte pas...|B1|4|5|I can't stand this noise.|Je ne supporte pas ce bruit.|I can't stand|c||conversation,fn_opinion|notes=Suivi d'un nom ou d'un verbe en -ing.
+I'm into...|Je suis fan de... J'aime bien...|B1|4|4|I'm really into cooking at the moment.|Je suis vraiment à fond dans la cuisine en ce moment.|I'm really into|c|i|conversation,leisure|
+I'm fed up with...|J'en ai marre de...|B1|4|4|I'm fed up with this weather.|J'en ai marre de ce temps.|I'm fed up with|c|i|conversation,feelings|
+I'm tired of...|Je suis fatigué de... J'en ai assez de...|B1|4|4|I'm tired of waiting.|J'en ai assez d'attendre.|I'm tired of|c||conversation,feelings|notes=Suivi d'un verbe en -ing.
+It's time to...|Il est temps de...|B1|4|4|It's time to go home.|Il est temps de rentrer.|It's time to|c||conversation,time|
+No way!|Pas question ! Sans blague !|B1|5|4|You won the lottery? No way!|Tu as gagné au loto ? Sans blague !|No way|c|i|conversation,fn_react|
+You never know.|On ne sait jamais.|B1|4|4|Try it, you never know.|Essaie, on ne sait jamais.|you never know|c||conversation,fn_nuance|
+You know what?|Tu sais quoi ?|B1|5|4|You know what? Let's just stay here.|Tu sais quoi ? Restons ici.|You know what?|c|i|conversation,fn_start|
+Let me explain.|Je t'explique.|B1|4|4|It's complicated. Let me explain.|C'est compliqué. Je t'explique.|Let me explain|c||conversation,fn_explain|
+Let me check.|Je vérifie.|A2|4|4|I'm not sure. Let me check.|Je ne suis pas sûr. Je vérifie.|Let me check|w||conversation,pro|
+Can you give me a hand?|Tu peux me donner un coup de main ?|B1|4|5|This box is heavy. Can you give me a hand?|Ce carton est lourd. Tu peux me donner un coup de main ?|Can you give me a hand?|c|i|conversation,fn_request|sit=Tu déménages un meuble et tu as besoin de l'aide d'un ami.
+It was nice talking to you.|Ça m'a fait plaisir de te parler.|B1|4|4|It was nice talking to you. See you soon!|Ça m'a fait plaisir de te parler. À bientôt !|It was nice talking to you|c||small_talk,fn_end|sit=Tu mets fin poliment à une conversation avec quelqu'un que tu viens de rencontrer.
+How was your day?|Ta journée s'est bien passée ?|A2|4|4|Hi! How was your day?|Salut ! Ta journée s'est bien passée ?|How was your day?|c||small_talk,fn_start|
+What do you do?|Tu fais quoi dans la vie ?|A2|5|5|So, what do you do?|Alors, tu fais quoi dans la vie ?|what do you do?|c||small_talk,work,fn_start|notes=Question sur le métier, pas sur l'instant présent.
+How long have you...?|Depuis combien de temps tu... ?|B1|4|5|How long have you lived here?|Depuis combien de temps tu habites ici ?|How long have you|c||small_talk,grammar|notes=Le français met le présent, l'anglais le present perfect.
+How much does it cost?|Combien ça coûte ?|A2|5|4|How much does it cost to park here?|Combien ça coûte de se garer ici ?|How much does it cost|d||shopping,travel|
+Where are you from?|Tu viens d'où ?|A1|5|4|Your accent is nice. Where are you from?|Ton accent est sympa. Tu viens d'où ?|Where are you from?|c||small_talk,fn_start|
+What are you up to?|Tu fais quoi ?|B1|4|4|Hey, what are you up to this weekend?|Salut, tu fais quoi ce week-end ?|what are you up to|c|i|small_talk|
+Sorry to bother you.|Désolé de te déranger.|B1|4|5|Sorry to bother you, do you have a minute?|Désolé de te déranger, tu as une minute ?|Sorry to bother you|w||pro,communication,fn_interrupt|sit=Tu viens interrompre un collègue occupé pour lui poser une question.
+Thanks for...|Merci de... Merci pour...|A2|5|4|Thanks for coming.|Merci d'être venu.|Thanks for|c||conversation,email|notes=Suivi d'un nom ou d'un verbe en -ing.
+I appreciate it.|Je te remercie. C'est gentil.|B1|4|4|Thanks for your help, I really appreciate it.|Merci pour ton aide, c'est vraiment gentil.|I really appreciate it|c||conversation,pro,fn_react|
+Just kidding.|Je plaisante.|B1|4|3|I'm leaving tomorrow. Just kidding!|Je pars demain. Je plaisante !|Just kidding|c|i|conversation,fn_react|
+Good for you!|Tant mieux pour toi ! Bravo !|B1|4|3|You passed? Good for you!|Tu as réussi ? Bravo !|Good for you|c||conversation,fn_react|
+That's a shame.|C'est dommage.|B1|4|4|You can't come? That's a shame.|Tu ne peux pas venir ? C'est dommage.|That's a shame|c||conversation,fn_react|
+It's not working.|Ça ne marche pas.|A2|5|4|I restarted it, but it's not working.|Je l'ai redémarré, mais ça ne marche pas.|it's not working|w||it,conversation|
+I can't help it.|C'est plus fort que moi.|B1|4|3|I know it's silly, but I can't help it.|Je sais que c'est bête, mais c'est plus fort que moi.|I can't help it|c||conversation,feelings|
+It takes...|Il faut... (durée)|B1|5|5|It takes an hour to get there.|Il faut une heure pour y aller.|It takes|c||time,conversation|
+Is that okay?|Ça te va ?|A2|5|4|I'll call you at six. Is that okay?|Je t'appelle à six heures. Ça te va ?|Is that okay?|c||conversation,fn_request|
+I don't get it.|Je ne comprends pas.|B1|5|5|Sorry, I don't get it. Can you explain?|Désolé, je ne comprends pas. Tu peux expliquer ?|I don't get it|c|i|conversation,fn_clarify|
+I'll let you know.|Je te tiendrai au courant.|B1|5|4|I'm not sure yet. I'll let you know.|Je ne sais pas encore. Je te tiens au courant.|I'll let you know|w||pro,communication|
+I'm sorry to hear that.|Je suis désolé de l'apprendre.|B1|4|5|You lost your job? I'm sorry to hear that.|Tu as perdu ton travail ? Je suis désolé de l'apprendre.|I'm sorry to hear that|c||conversation,fn_react|sit=Un ami t'annonce une mauvaise nouvelle.
+As you know...|Comme tu le sais...|B1|3|3|As you know, the office is closed on Friday.|Comme tu le sais, le bureau est fermé vendredi.|As you know|w||pro,email|
+
+@collocation
+make an appointment|prendre rendez-vous|B1|4|4|I'd like to make an appointment.|J'aimerais prendre rendez-vous.|make an appointment|d||health|
+make a phone call|passer un coup de fil|B1|3|4|Excuse me, I need to make a phone call.|Excusez-moi, je dois passer un coup de fil.|make a phone call|c||communication|
+make an effort|faire un effort|B1|4|4|You need to make more of an effort.|Tu dois faire un peu plus d'efforts.|make more of an effort|c||conversation|
+make a suggestion|faire une suggestion|B1|3|4|Can I make a suggestion?|Je peux faire une suggestion ?|make a suggestion|w||pro,meetings,fn_suggest|
+do exercise|faire du sport|B1|3|3|I try to do some exercise every day.|J'essaie de faire du sport tous les jours.|do some exercise|d||health|
+do someone a favour|rendre service à quelqu'un|B1|4|4|Can you do me a favour?|Tu peux me rendre service ?|do me a favour|c||conversation,fn_request,uk_us|variant=UK ;; counterpart=do someone a favor
+have a meeting|avoir une réunion|A2|4|4|We're having a meeting at three.|Nous avons une réunion à quinze heures.|having a meeting|w||pro,meetings|
+have a conversation|avoir une conversation|B1|4|3|We had a long conversation about it.|Nous avons longuement discuté de ça.|had a long conversation|c||communication|
+have fun|s'amuser|A2|5|4|Have fun at the party!|Amuse-toi bien à la soirée !|Have fun|c||leisure,fn_end|
+take a risk|prendre un risque|B1|4|4|Sometimes you have to take a risk.|Parfois, il faut prendre un risque.|take a risk|w||pro,decision|
+take part in|participer à|B1|4|4|Forty people took part in the survey.|Quarante personnes ont participé à l'enquête.|took part in|w||pro,work|
+give advice|donner des conseils|B1|3|3|She gave me some good advice.|Elle m'a donné de bons conseils.|gave me some good advice|c||conversation|
+give a presentation|faire une présentation|B1|4|4|I'm giving a presentation on Friday.|Je fais une présentation vendredi.|giving a presentation|w||pro,presentations|
+get ready|se préparer|A2|5|4|I need ten minutes to get ready.|J'ai besoin de dix minutes pour me préparer.|get ready|d||daily_life|family=get
+get better|s'améliorer, aller mieux|B1|4|4|My English is getting better.|Mon anglais s'améliore.|getting better|c||learning,health|family=get
+get lost|se perdre|A2|4|4|We got lost in the old town.|Nous nous sommes perdus dans la vieille ville.|got lost|t||travel|family=get
+lose weight|perdre du poids|B1|3|3|He's lost a lot of weight.|Il a perdu beaucoup de poids.|lost a lot of weight|d||health|
+reach a goal|atteindre un objectif|B1|3|4|We reached our sales goal in June.|Nous avons atteint notre objectif de ventes en juin.|reached our sales goal|w||pro,work|
+solve a problem|résoudre un problème|B1|4|5|We solved the problem in ten minutes.|Nous avons résolu le problème en dix minutes.|solved the problem|w||pro,work|
+tell a story|raconter une histoire|A2|4|3|He told us a funny story.|Il nous a raconté une histoire drôle.|told us a funny story|c||fn_narrate|
+earn a living|gagner sa vie|B1|3|3|What does she do to earn a living?|Que fait-elle pour gagner sa vie ?|earn a living|w||work,money|
+break the rules|enfreindre les règles|B1|3|3|If you break the rules, you pay a fine.|Si tu enfreins les règles, tu paies une amende.|break the rules|c||rules|
+heavy traffic|circulation dense|B1|3|3|There was heavy traffic this morning.|Il y avait beaucoup de circulation ce matin.|heavy traffic|t||transport|
+free time|temps libre|A2|4|4|What do you do in your free time?|Que fais-tu pendant ton temps libre ?|free time|c||leisure,small_talk|
+public transport|transports en commun|B1|4|4|I always use public transport.|Je prends toujours les transports en commun.|public transport|t||transport,uk_us|variant=UK ;; counterpart=public transportation
+part-time job|travail à temps partiel|B1|3|3|She has a part-time job in a bookshop.|Elle travaille à temps partiel dans une librairie.|part-time job|w||work|
+
+@phrasal_verb
+carry on|continuer, poursuivre|B1|4|4|Carry on, don't mind me.|Continue, ne fais pas attention à moi.|Carry on|c||conversation|
+work out|trouver, résoudre|B1|5|5|We'll work it out.|On va trouver une solution.|work it out|w||pro,conversation|sense=résoudre ;; notes=Sens fréquent aussi : faire du sport.
+run out of|ne plus avoir de|B1|4|5|We've run out of milk.|Nous n'avons plus de lait.|run out of|d||daily_life|forms=run, ran, run
+put off|remettre à plus tard|B1|4|5|Don't put it off until tomorrow.|Ne remets pas ça à demain.|put it off|w||pro,time|forms=put, put, put
+take care of|se charger de|B1|5|5|I'll take care of the tickets.|Je me charge des billets.|take care of|c||conversation,pro|
+fill out|remplir (un formulaire)|B1|4|4|Please fill out this form.|Merci de remplir ce formulaire.|fill out|w||admin,pro|also=fill in
+try on|essayer (un vêtement)|A2|3|3|Can I try on these shoes?|Je peux essayer ces chaussures ?|try on|d||shopping,clothes|
+throw away|jeter|A2|4|4|Don't throw away that box.|Ne jette pas ce carton.|throw away|d||daily_life|forms=throw, threw, thrown
+call back|rappeler (au téléphone)|A2|4|4|Can I call you back in five minutes?|Je peux te rappeler dans cinq minutes ?|call you back|c||communication,pro|
+grow up|grandir|A2|4|4|I grew up in a small village.|J'ai grandi dans un petit village.|grew up|c||small_talk,fn_narrate|forms=grow, grew, grown
+break down|tomber en panne|B1|4|4|The car broke down on the motorway.|La voiture est tombée en panne sur l'autoroute.|broke down|t||transport|forms=break, broke, broken
+show up|arriver, se pointer|B1|4|4|He didn't show up.|Il n'est pas venu.|show up|c|i|conversation|
+
+@connector
+so far|jusqu'ici, pour l'instant|B1|5|5|So far, everything is going well.|Pour l'instant, tout se passe bien.|So far|c||conversation,pro,fn_narrate|
+in that case|dans ce cas|B1|4|4|You're busy? In that case, I'll call back later.|Tu es occupé ? Dans ce cas, je rappellerai plus tard.|In that case|c||conversation,fn_explain|
+besides|en plus, d'ailleurs|B1|4|4|It's too far. Besides, I'm tired.|C'est trop loin. En plus, je suis fatigué.|Besides|c||conversation,fn_explain|
+in fact|en fait, d'ailleurs|B1|5|4|I know him. In fact, we work together.|Je le connais. D'ailleurs, nous travaillons ensemble.|In fact|c||conversation,fn_explain|
+even though|même si, bien que|B1|5|5|I went to work even though I was sick.|Je suis allé travailler même si j'étais malade.|even though|c||conversation,fn_nuance|
+unless|à moins que, sauf si|B1|4|5|I'll be there unless it rains.|Je serai là, sauf s'il pleut.|unless|c||conversation,fn_nuance|
+otherwise|sinon|B1|4|5|Hurry up, otherwise we'll be late.|Dépêche-toi, sinon on sera en retard.|otherwise|c||conversation|
+
+@idiom
+take it easy|y aller doucement, se détendre|B1|4|4|You work too much. Take it easy!|Tu travailles trop. Détends-toi !|Take it easy|c|i|conversation,health|
+once in a while|de temps en temps|B1|4|4|We see each other once in a while.|Nous nous voyons de temps en temps.|once in a while|c||conversation,time|
+cost an arm and a leg|coûter les yeux de la tête|B1|3|3|That car cost an arm and a leg.|Cette voiture a coûté les yeux de la tête.|cost an arm and a leg|c|i|money|
+out of the blue|tout à coup, sans prévenir|B2|4|3|She called me out of the blue.|Elle m'a appelé sans prévenir.|out of the blue|c||conversation,fn_narrate|
+in the same boat|dans la même galère|B2|3|3|Don't worry, we're all in the same boat.|Ne t'inquiète pas, on est tous dans la même galère.|in the same boat|c|i|conversation|

@@ -1,10 +1,51 @@
 [
   {
-    "ids": ["its-not-a-big-deal", "a-big-deal"],
+    "ids": [
+      "its-not-a-big-deal",
+      "a-big-deal"
+    ],
     "reason": "Sens opposés : « ce n'est pas grave » contre « c'est important » (cahier des charges §4)."
   },
   {
-    "ids": ["what-do-you-mean", "what-does-mean"],
+    "ids": [
+      "what-do-you-mean",
+      "what-does-mean"
+    ],
     "reason": "Usages différents : demander à quelqu'un de préciser sa pensée, ou demander le sens d'un mot."
+  },
+  {
+    "ids": [
+      "take-care",
+      "take-care-of"
+    ],
+    "reason": "Sens différents : formule d'au revoir, et se charger de quelque chose."
+  },
+  {
+    "ids": [
+      "meeting",
+      "meet"
+    ],
+    "reason": "meeting est un nom à part entière (réunion), pas une flexion à apprendre."
+  },
+  {
+    "ids": [
+      "meet-a-deadline",
+      "set-a-deadline"
+    ],
+    "reason": "Actions différentes : respecter une date limite, ou la fixer."
+  },
+  {
+    "ids": [
+      "what-do-you-mean",
+      "what-i-mean-is"
+    ],
+    "reason": "Une question pour faire préciser, et une reformulation de sa propre pensée."
+  },
+  {
+    "ids": [
+      "what-does-mean",
+      "what-i-mean-is"
+    ],
+    "reason": "Le sens d'un mot, et une reformulation de sa propre pensée."
   }
 ]

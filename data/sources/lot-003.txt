@@ -1,0 +1,212 @@
+# Lot 003 : fin B1 et B2 (argumenter, nuancer, travailler en anglais)
+@word
+admit|admettre, avouer|B2||4|I admit I was wrong.|J'admets que j'avais tort.|admit|c||conversation,fn_agree|pos=v
+advise|conseiller|B1||3|I'd advise you to wait.|Je te conseille d'attendre.|advise|c||fn_suggest|pos=v ;; notes=Le verbe s'écrit avec un s, le nom advice avec un c.
+afford|avoir les moyens de|B1||5|I can't afford a new car.|Je n'ai pas les moyens d'acheter une voiture neuve.|afford|d||money|pos=v
+announce|annoncer|B1||3|They announced the results yesterday.|Ils ont annoncé les résultats hier.|announced|n||news,communication|pos=v
+apologize|s'excuser|B1||4|I apologize for the delay.|Je m'excuse pour le retard.|apologize|w||pro,email|pos=v ;; notes=apologize for something. UK : apologise.
+appreciate|apprécier, être reconnaissant de|B2||4|We appreciate your patience.|Nous vous remercions de votre patience.|appreciate|w|f|pro,email|pos=v
+approve|approuver, valider|B2||3|My manager approved the budget.|Mon responsable a validé le budget.|approved|w||pro,management|pos=v
+attach|joindre, attacher|B2||3|I've attached the file.|J'ai joint le fichier.|attached|w||pro,email|pos=v
+blame|reprocher, rejeter la faute sur|B2||4|Don't blame me!|Ne rejette pas la faute sur moi !|blame|c||conversation|pos=v
+cancel|annuler|B1||4|My flight was cancelled.|Mon vol a été annulé.|cancelled|t||travel,pro|pos=v ;; notes=US : canceled.
+claim|affirmer, prétendre|B2||4|He claims he didn't see it.|Il prétend qu'il ne l'a pas vu.|claims|n||news,argument|pos=v
+confirm|confirmer|B1||4|Can you confirm the time?|Tu peux confirmer l'heure ?|confirm|w||pro,communication|pos=v
+contact|contacter|B1||4|Please contact me if you have questions.|Contacte-moi si tu as des questions.|contact|w||pro,email|pos=v ;; notes=Sans préposition : contact someone.
+convince|convaincre|B2||4|She convinced me to stay.|Elle m'a convaincu de rester.|convinced|c||argument|pos=v
+deliver|livrer, tenir (ses engagements)|B1||4|They delivered the sofa this morning.|Ils ont livré le canapé ce matin.|delivered|d||shopping|pos=v
+deny|nier|B2||3|He denied everything.|Il a tout nié.|denied|n||news|pos=v
+deserve|mériter|B2||4|You deserve a holiday.|Tu mérites des vacances.|deserve|c||conversation|pos=v
+doubt|douter|B2||3|I doubt he'll come.|Je doute qu'il vienne.|doubt|c||fn_nuance|pos=v ;; notes=Le b ne se prononce pas.
+encourage|encourager|B1||3|She encouraged me to apply.|Elle m'a encouragé à postuler.|encouraged|w||career|pos=v
+ensure|s'assurer, garantir|B2||4|We need to ensure the data is correct.|Nous devons nous assurer que les données sont correctes.|ensure|w|f|pro,analysis|pos=v
+estimate|estimer|B2||3|We estimate the cost at two thousand euros.|Nous estimons le coût à deux mille euros.|estimate|w||pro,project|pos=v
+focus|se concentrer|B1||5|Let's focus on the main problem.|Concentrons-nous sur le problème principal.|focus|w||pro,work|pos=v ;; notes=focus on something.
+gain|acquérir, gagner|B2||3|She gained a lot of confidence.|Elle a pris beaucoup d'assurance.|gained|w||career|pos=v
+guess|deviner, supposer|B1||5|Guess who I saw today!|Devine qui j'ai vu aujourd'hui !|Guess|c||conversation|pos=v
+handle|gérer, s'occuper de|B2||5|I can handle it.|Je peux gérer ça.|handle|w||pro,work|pos=v
+hire|embaucher, louer|B2||4|They hired three new engineers.|Ils ont embauché trois nouveaux ingénieurs.|hired|w||pro,management|pos=v
+identify|identifier|B2||4|We identified the cause of the problem.|Nous avons identifié la cause du problème.|identified|w||pro,analysis|pos=v
+ignore|ignorer (ne pas tenir compte)|B2||4|Just ignore him.|Ne fais pas attention à lui.|ignore|c||conversation|pos=v ;; notes=Faux ami : ne pas savoir se dit not know.
+influence|influencer|B2||3|Social media influences our opinions.|Les réseaux sociaux influencent nos opinions.|influences|n||news|pos=v
+inform|informer|B2||3|Please inform your manager.|Merci d'informer ton responsable.|inform|w|f|pro,communication|pos=v
+involve|impliquer, comporter|B2||4|The job involves a lot of travel.|Le poste implique beaucoup de déplacements.|involves|w||work|pos=v
+last|durer|B1||4|The meeting lasted three hours.|La réunion a duré trois heures.|lasted|w||time|pos=v ;; sense=durer
+lead|diriger, mener|B2||4|She leads a team of ten.|Elle dirige une équipe de dix personnes.|leads|w||pro,management|pos=v ;; forms=lead, led, led
+maintain|maintenir, entretenir|B2||3|It's hard to maintain this speed.|C'est difficile de maintenir ce rythme.|maintain|w||work|pos=v
+measure|mesurer|B2||3|How do you measure success?|Comment mesures-tu le succès ?|measure|w||pro,analysis|pos=v
+organize|organiser|B1||4|I organized a party for her.|J'ai organisé une fête pour elle.|organized|c||leisure,pro|pos=v ;; notes=UK : organise.
+owe|devoir (de l'argent, un service)|B2||4|You owe me ten euros.|Tu me dois dix euros.|owe|d||money|pos=v
+persuade|persuader|B2||3|I tried to persuade him to stay.|J'ai essayé de le persuader de rester.|persuade|c||argument|pos=v
+postpone|reporter|B2||4|We had to postpone the meeting.|Nous avons dû reporter la réunion.|postpone|w||pro,meetings|pos=v
+predict|prédire, prévoir|B2||3|Nobody could predict this.|Personne ne pouvait prévoir ça.|predict|n||news|pos=v
+pretend|faire semblant|B2||4|He pretended not to hear me.|Il a fait semblant de ne pas m'entendre.|pretended|c||conversation|pos=v ;; notes=Faux ami : prétendre se dit claim.
+raise|augmenter, soulever|B2||4|They raised the price again.|Ils ont encore augmenté le prix.|raised|d||money|pos=v
+react|réagir|B1||3|How did she react?|Comment a-t-elle réagi ?|react|c||conversation|pos=v
+recognize|reconnaître|B1||4|I didn't recognize you!|Je ne t'avais pas reconnu !|recognize|c||conversation|pos=v ;; notes=UK : recognise.
+recover|se remettre, récupérer|B2||3|He's recovering from an operation.|Il se remet d'une opération.|recovering|d||health|pos=v
+regret|regretter|B2||4|I regret not studying more.|Je regrette de ne pas avoir étudié davantage.|regret|c||feelings|pos=v ;; notes=regret + verbe en -ing pour le passé.
+reject|rejeter, refuser|B2||3|They rejected our proposal.|Ils ont rejeté notre proposition.|rejected|w||pro,decision|pos=v
+rely|compter sur|B2||5|You can rely on me.|Tu peux compter sur moi.|rely|c||conversation,pro|pos=v ;; family=rely ;; notes=rely on someone.
+request|demander (formellement)|B2||3|We requested more information.|Nous avons demandé des informations supplémentaires.|requested|w|f|pro,email|pos=v
+require|exiger, nécessiter|B2||4|This job requires experience.|Ce poste exige de l'expérience.|requires|w|f|pro,work|pos=v
+respond|répondre, réagir|B2||3|They haven't responded yet.|Ils n'ont pas encore répondu.|responded|w||pro,communication|pos=v
+review|examiner, relire|B2||4|Can you review my report?|Tu peux relire mon rapport ?|review|w||pro,reporting|pos=v
+struggle|avoir du mal, se battre|B2||5|I'm struggling with this exercise.|J'ai du mal avec cet exercice.|struggling|c||conversation,learning|pos=v
+update|mettre à jour|B1||5|I need to update the app.|Je dois mettre à jour l'application.|update|w||pro,it|pos=v
+warn|avertir, prévenir|B2||4|I warned you!|Je t'avais prévenu !|warned|c||conversation|pos=v
+waste|gaspiller, perdre|B1||4|Don't waste your time.|Ne perds pas ton temps.|waste|c||conversation,time|pos=v
+ability|capacité|B2||4|She has the ability to stay calm.|Elle a la capacité de rester calme.|ability|w||pro,career|pos=n
+access|accès|B2||4|I don't have access to this file.|Je n'ai pas accès à ce fichier.|access|w||pro,it|pos=n
+agreement|accord|B2||4|We finally reached an agreement.|Nous sommes enfin parvenus à un accord.|agreement|w||pro,business|pos=n
+amount|quantité, montant|B2||4|That's a huge amount of money.|C'est une somme énorme.|amount|d||money|pos=n
+attitude|attitude|B2||3|She has a great attitude.|Elle a une super attitude.|attitude|w||personality|pos=n
+benefit|avantage, bénéfice|B2||4|What are the benefits of this plan?|Quels sont les avantages de ce plan ?|benefits|w||pro,analysis|pos=n
+budget|budget|B1||4|We're over budget.|Nous avons dépassé le budget.|budget|w||pro,project,money|pos=n
+challenge|défi|B2||4|This job is a real challenge.|Ce poste est un vrai défi.|challenge|w||pro,career|pos=n
+colleague|collègue|B1||4|I had lunch with a colleague.|J'ai déjeuné avec un collègue.|colleague|w||pro,work|pos=n
+concern|préoccupation, inquiétude|B2||4|My main concern is the cost.|Ma principale préoccupation est le coût.|concern|w||pro,fn_opinion|pos=n
+confidence|confiance en soi, assurance|B2||4|I've lost my confidence.|J'ai perdu confiance en moi.|confidence|c||feelings|pos=n
+contract|contrat|B2||4|I signed the contract today.|J'ai signé le contrat aujourd'hui.|contract|w||pro,business|pos=n
+delay|retard|B1||4|Sorry for the delay.|Désolé pour le retard.|delay|w||pro,email,travel|pos=n
+detail|détail|B1||4|Send me the details by email.|Envoie-moi les détails par e-mail.|details|w||pro,communication|pos=n
+effect|effet|B2||4|It had no effect.|Ça n'a eu aucun effet.|effect|c||analysis|pos=n
+employee|employé, salarié|B1||4|The company has fifty employees.|L'entreprise compte cinquante salariés.|employees|w||pro,work|pos=n
+fault|faute|B1||4|It's not my fault.|Ce n'est pas ma faute.|fault|c||conversation|pos=n
+impact|impact, effet|B2||4|This will have a big impact on sales.|Cela aura un fort impact sur les ventes.|impact|w||pro,analysis|pos=n
+interview|entretien|B1||4|I have a job interview on Monday.|J'ai un entretien d'embauche lundi.|interview|w||career|pos=n
+lack|manque|B2||4|The problem is a lack of time.|Le problème, c'est le manque de temps.|lack|w||pro,fn_explain|pos=n
+manager|responsable, manager|B1||4|I'll talk to my manager.|Je vais en parler à mon responsable.|manager|w||pro,management|pos=n
+opportunity|occasion, opportunité|B2||5|This is a great opportunity.|C'est une super occasion.|opportunity|w||pro,career|pos=n
+option|option, possibilité|B1||4|We have two options.|Nous avons deux possibilités.|options|w||decision|pos=n
+priority|priorité|B2||5|Safety is our top priority.|La sécurité est notre priorité absolue.|priority|w||pro,project|pos=n
+progress|progrès, avancement|B1||4|We've seen a lot of progress this year.|Nous avons constaté beaucoup de progrès cette année.|progress|w||pro,project|pos=n ;; notes=Indénombrable : jamais « progresses ».
+quality|qualité|B1||4|The quality is excellent.|La qualité est excellente.|quality|d||description|pos=n
+research|recherche(s)|B2||4|Have you done any research?|Tu as fait des recherches ?|research|a||academic,analysis|pos=n ;; notes=Indénombrable : some research.
+responsibility|responsabilité|B2||4|It's your responsibility.|C'est ta responsabilité.|responsibility|w||pro,work|pos=n
+staff|personnel, équipe|B2||4|The staff are very helpful.|Le personnel est très serviable.|staff|w||pro,work|pos=n ;; notes=Collectif : jamais « staffs » pour des personnes.
+strategy|stratégie|B2||3|What's our strategy?|Quelle est notre stratégie ?|strategy|w||pro,management|pos=n
+aware|conscient|B2||5|I'm aware of the risks.|Je suis conscient des risques.|aware|w||pro,conversation|pos=adj ;; notes=be aware of.
+confident|sûr de soi, confiant|B2||4|I'm confident we'll win.|Je suis sûr que nous allons gagner.|confident|c||feelings|pos=adj
+current|actuel|B2||4|What's your current job?|Quel est ton poste actuel ?|current|w||work|pos=adj
+disappointed|déçu|B1||4|I'm really disappointed.|Je suis vraiment déçu.|disappointed|c||feelings|pos=adj ;; notes=Faux ami : désappointé est rare, le mot courant est déçu.
+efficient|efficace (sans perte de temps)|B2||4|This system is very efficient.|Ce système est très efficace.|efficient|w||pro,analysis|pos=adj
+embarrassed|gêné|B1||3|I was so embarrassed.|J'étais tellement gêné.|embarrassed|c||feelings|pos=adj
+flexible|flexible|B2||3|My hours are flexible.|Mes horaires sont flexibles.|flexible|w||work|pos=adj
+main|principal|B1||5|That's the main reason.|C'est la raison principale.|main|c||conversation|pos=adj
+obvious|évident|B2||5|The answer is obvious.|La réponse est évidente.|obvious|c||conversation|pos=adj
+previous|précédent|B2||4|In my previous job, I managed a team.|Dans mon poste précédent, je dirigeais une équipe.|previous|w||career|pos=adj
+relevant|pertinent|B2||4|That's not relevant here.|Ce n'est pas pertinent ici.|relevant|w||pro,argument|pos=adj
+responsible|responsable|B2||4|Who's responsible for this?|Qui est responsable de ça ?|responsible|w||pro,work|pos=adj ;; notes=responsible for.
+urgent|urgent|B1||4|It's urgent, please call me.|C'est urgent, appelle-moi s'il te plaît.|urgent|w||pro,communication|pos=adj
+apparently|apparemment|B2||4|Apparently, he's left the company.|Apparemment, il a quitté l'entreprise.|Apparently|c||conversation,fn_nuance|pos=adv
+basically|en gros|B2||5|Basically, we need more time.|En gros, il nous faut plus de temps.|Basically|c|i|conversation,fn_explain|pos=adv
+definitely|vraiment, sans aucun doute|B1||5|I'll definitely be there.|Je serai là sans faute.|definitely|c||conversation|pos=adv ;; notes=Faux ami : définitivement se dit permanently.
+exactly|exactement|B1||5|That's exactly what I meant.|C'est exactement ce que je voulais dire.|exactly|c||conversation,fn_agree|pos=adv
+hardly|à peine|B2||4|I hardly know him.|Je le connais à peine.|hardly|c||conversation,fn_nuance|pos=adv ;; notes=N'a rien à voir avec hard (dur).
+obviously|évidemment|B2||5|Obviously, I'll pay you back.|Évidemment, je te rembourserai.|Obviously|c||conversation|pos=adv
+slightly|légèrement|B2||4|Prices are slightly higher this year.|Les prix sont légèrement plus élevés cette année.|slightly|w||fn_nuance,analysis|pos=adv
+
+@chunk
+If I understand correctly...|Si je comprends bien...|B2|4|5|If I understand correctly, you want to leave.|Si je comprends bien, tu veux partir.|If I understand correctly|c||conversation,pro,fn_rephrase|sit=Tu veux vérifier en réunion que tu as bien saisi ce que vient de dire un collègue.
+That's not the point.|Là n'est pas la question.|B2|4|5|It's cheap, but that's not the point.|C'est pas cher, mais là n'est pas la question.|that's not the point|c||conversation,fn_disagree|
+The point is...|Ce qui compte, c'est que...|B2|5|5|The point is, we need to act now.|Ce qui compte, c'est qu'on doit agir maintenant.|The point is|c||conversation,fn_explain|
+What I mean is...|Ce que je veux dire, c'est que...|B2|4|5|What I mean is, we can do better.|Ce que je veux dire, c'est qu'on peut faire mieux.|What I mean is|c||conversation,fn_rephrase|
+Let me put it another way.|Je vais le dire autrement.|B2|3|4|Let me put it another way: it's too risky.|Je vais le dire autrement : c'est trop risqué.|Let me put it another way|c||conversation,fn_rephrase|sit=Ton interlocuteur n'a pas compris ton explication et tu reformules.
+Correct me if I'm wrong, but...|Corrige-moi si je me trompe, mais...|B2|3|4|Correct me if I'm wrong, but wasn't it Tuesday?|Corrige-moi si je me trompe, mais ce n'était pas mardi ?|Correct me if I'm wrong, but|c||conversation,pro,fn_nuance|
+What do you mean by...?|Qu'est-ce que tu entends par... ?|B2|4|5|What do you mean by soon?|Qu'est-ce que tu entends par bientôt ?|What do you mean by|c||conversation,fn_clarify|
+I'm not sure I follow.|Je ne suis pas sûr de te suivre.|B2|3|4|Sorry, I'm not sure I follow.|Désolé, je ne suis pas sûr de te suivre.|I'm not sure I follow|c||conversation,pro,fn_clarify|
+Sorry, I didn't catch that.|Désolé, je n'ai pas saisi.|B2|4|5|Sorry, I didn't catch that. Could you repeat it?|Désolé, je n'ai pas saisi. Tu peux répéter ?|Sorry, I didn't catch that|c||conversation,fn_clarify|sit=En visioconférence, tu n'as pas entendu ce que ton collègue vient de dire.
+Can I just add something?|Je peux juste ajouter quelque chose ?|B2|3|4|Can I just add something? It's about the budget.|Je peux juste ajouter quelque chose ? C'est à propos du budget.|Can I just add something?|w||pro,meetings,fn_interrupt|
+Sorry to interrupt, but...|Désolé de t'interrompre, mais...|B2|4|5|Sorry to interrupt, but your taxi is here.|Désolé de t'interrompre, mais ton taxi est là.|Sorry to interrupt, but|c||conversation,pro,fn_interrupt|sit=Tu dois couper poliment la parole à quelqu'un en réunion.
+Going back to...|Pour revenir à...|B2|3|4|Going back to your first point, I agree.|Pour revenir à ton premier point, je suis d'accord.|Going back to|w||pro,meetings,fn_topic_change|
+As I was saying...|Comme je disais...|B2|4|4|As I was saying, the deadline is tight.|Comme je disais, le délai est serré.|As I was saying|c||conversation,fn_topic_change|
+Where was I?|Où en étais-je ?|B1|4|4|Sorry about that. Where was I?|Désolé pour ça. Où en étais-je ?|Where was I?|c||conversation,fn_narrate|
+Let's move on.|Passons à la suite.|B2|4|4|We've spent enough time on this. Let's move on.|Nous y avons passé assez de temps. Passons à la suite.|Let's move on|w||pro,meetings,fn_topic_change|
+Let's get started.|Commençons.|B1|4|4|Is everyone here? Let's get started.|Tout le monde est là ? Commençons.|Let's get started|w||pro,meetings,fn_start|
+Does that make sense?|C'est clair ? Tu vois ce que je veux dire ?|B2|5|5|We do it in two steps. Does that make sense?|On le fait en deux étapes. C'est clair ?|Does that make sense?|c||conversation,pro,fn_clarify|
+Fair enough.|D'accord, c'est normal.|B2|5|5|You need more time? Fair enough.|Il te faut plus de temps ? D'accord, c'est normal.|Fair enough|c|i|conversation,fn_agree|sit=Quelqu'un te donne une raison valable de refuser, et tu l'acceptes.
+I take your point.|Je comprends ton argument.|B2|3|4|I take your point, but it's still too expensive.|Je comprends ton argument, mais ça reste trop cher.|I take your point|c||conversation,pro,fn_disagree|
+I'm not so sure about that.|Je n'en suis pas si sûr.|B2|4|5|It'll be easy? I'm not so sure about that.|Ce sera facile ? Je n'en suis pas si sûr.|I'm not so sure about that|c||conversation,fn_disagree|sit=Tu veux exprimer un doute sans contredire frontalement ton interlocuteur.
+It's not that simple.|Ce n'est pas si simple.|B2|4|5|I'd like to help, but it's not that simple.|J'aimerais t'aider, mais ce n'est pas si simple.|it's not that simple|c||conversation,fn_nuance|
+It's worth...|Ça vaut la peine de...|B2|5|5|It's worth visiting the old town.|Ça vaut la peine de visiter la vieille ville.|It's worth|c||conversation,fn_suggest|notes=Suivi d'un verbe en -ing.
+There's no need to...|Pas besoin de...|B2|4|4|There's no need to shout.|Pas besoin de crier.|There's no need to|c||conversation|
+I'd say...|Je dirais...|B1|5|5|I'd say it takes about an hour.|Je dirais que ça prend environ une heure.|I'd say|c||conversation,fn_opinion|
+As far as I'm concerned...|En ce qui me concerne...|B2|3|4|As far as I'm concerned, it's over.|En ce qui me concerne, c'est terminé.|As far as I'm concerned|c||conversation,fn_opinion|
+I tend to...|J'ai tendance à...|B2|4|5|I tend to work better in the morning.|J'ai tendance à mieux travailler le matin.|I tend to|c||conversation,fn_nuance|
+I'm pretty sure...|Je suis presque sûr que...|B1|5|5|I'm pretty sure it's closed today.|Je suis presque sûr que c'est fermé aujourd'hui.|I'm pretty sure|c||conversation,fn_nuance|
+I doubt it.|J'en doute.|B2|4|4|Will he call? I doubt it.|Il va appeler ? J'en doute.|I doubt it|c||conversation,fn_nuance|
+Not necessarily.|Pas forcément.|B2|4|5|Is it better? Not necessarily.|C'est mieux ? Pas forcément.|Not necessarily|c||conversation,fn_nuance|
+more or less|plus ou moins|B1|5|4|It's more or less finished.|C'est plus ou moins fini.|more or less|c||conversation,fn_nuance|
+kind of|plutôt, un peu|B1|5|5|I'm kind of tired.|Je suis un peu fatigué.|kind of|c|i|conversation,fn_nuance|also=sort of ;; notes=À l'oral, on entend souvent kinda.
+or something like that|ou quelque chose comme ça|B1|5|4|He's a teacher or something like that.|Il est prof, ou quelque chose comme ça.|or something like that|c|i|conversation,fn_nuance|
+That reminds me...|Ça me fait penser que...|B2|4|4|That reminds me, I need to call Anna.|Ça me fait penser que je dois appeler Anna.|That reminds me|c||conversation,fn_topic_change|
+I have a feeling...|J'ai l'impression que...|B1|4|5|I have a feeling she's not coming.|J'ai l'impression qu'elle ne viendra pas.|I have a feeling|c||conversation,fn_nuance|
+Please find attached...|Veuillez trouver ci-joint...|B2|4|4|Please find attached the latest report.|Veuillez trouver ci-joint le dernier rapport.|Please find attached|w|f|pro,email|
+I'm writing to...|Je vous écris pour...|B2|4|4|I'm writing to confirm our meeting.|Je vous écris pour confirmer notre réunion.|I'm writing to|w|f|pro,email|
+Thank you for your email.|Merci pour votre e-mail.|B1|4|4|Thank you for your email. I'll reply tomorrow.|Merci pour votre e-mail. Je vous répondrai demain.|Thank you for your email|w||pro,email|
+Can we schedule a call?|On peut prévoir un appel ?|B2|4|4|Can we schedule a call for next week?|On peut prévoir un appel la semaine prochaine ?|Can we schedule a call|w||pro,meetings|
+Is now a good time?|C'est le bon moment ?|B2|4|4|Is now a good time to talk?|C'est le bon moment pour parler ?|Is now a good time|w||pro,communication,fn_start|
+keep in touch|rester en contact|B1|4|4|Let's keep in touch.|Restons en contact.|keep in touch|c||relationships,fn_end|
+I don't see why not.|Je ne vois pas d'inconvénient.|B2|4|4|Can I bring my dog? I don't see why not.|Je peux amener mon chien ? Je n'y vois pas d'inconvénient.|I don't see why not|c||conversation,fn_agree|
+the sooner the better|le plus tôt sera le mieux|B2|4|4|When should I call? The sooner the better.|Quand dois-je appeler ? Le plus tôt sera le mieux.|The sooner the better|c||conversation|
+If you ask me...|Si tu veux mon avis...|B2|4|5|If you ask me, it's a bad idea.|Si tu veux mon avis, c'est une mauvaise idée.|If you ask me|c|i|conversation,fn_opinion|
+to be honest|pour être franc|B1|5|5|To be honest, I'm not interested.|Pour être franc, ça ne m'intéresse pas.|To be honest|c||conversation,fn_opinion|
+
+@collocation
+meet expectations|répondre aux attentes|B2|3|4|The results didn't meet our expectations.|Les résultats n'ont pas répondu à nos attentes.|meet our expectations|w||pro,analysis|
+address a problem|traiter un problème|B2|3|5|We need to address this problem now.|Nous devons traiter ce problème maintenant.|address this problem|w||pro,work|
+provide feedback|faire un retour|B2|3|4|Could you provide feedback by Friday?|Tu pourrais faire un retour d'ici vendredi ?|provide feedback|w||pro,communication|
+gain experience|acquérir de l'expérience|B2|3|4|I want to gain experience abroad.|Je veux acquérir de l'expérience à l'étranger.|gain experience|w||pro,career|
+take action|agir, prendre des mesures|B2|4|4|We need to take action quickly.|Nous devons agir rapidement.|take action|w||pro,decision|
+take into account|prendre en compte|B2|4|5|We have to take the cost into account.|Nous devons prendre le coût en compte.|take the cost into account|w||pro,analysis|
+take advantage of|profiter de|B2|4|4|Take advantage of the good weather.|Profite du beau temps.|Take advantage of|c||conversation|
+make a difference|changer les choses|B2|4|4|A small gift can make a difference.|Un petit cadeau peut changer les choses.|make a difference|c||conversation|
+reach an agreement|parvenir à un accord|B2|3|4|Both sides reached an agreement.|Les deux parties sont parvenues à un accord.|reached an agreement|w||pro,business|
+set a goal|se fixer un objectif|B2|3|4|Set a clear goal for this year.|Fixe-toi un objectif clair pour cette année.|Set a clear goal|w||pro,project|
+set a deadline|fixer une échéance|B2|3|4|Let's set a deadline for this.|Fixons une échéance pour ça.|set a deadline|w||pro,project|
+run a business|diriger une entreprise|B2|3|3|She runs a small business.|Elle dirige une petite entreprise.|runs a small business|w||pro,business|
+attend a meeting|assister à une réunion|B2|3|4|I can't attend the meeting.|Je ne peux pas assister à la réunion.|attend the meeting|w||pro,meetings|notes=Faux ami : attendre se dit wait.
+miss a deadline|ne pas respecter une date limite|B2|3|4|We can't afford to miss this deadline.|Nous ne pouvons pas nous permettre de rater cette échéance.|miss this deadline|w||pro,project|
+draw a conclusion|tirer une conclusion|B2|3|3|It's too early to draw a conclusion.|Il est trop tôt pour tirer une conclusion.|draw a conclusion|w||pro,analysis|
+play a role|jouer un rôle|B2|4|4|Luck played a big role.|La chance a joué un grand rôle.|played a big role|c||analysis|
+face a challenge|faire face à un défi|B2|3|3|We're facing a big challenge.|Nous faisons face à un grand défi.|facing a big challenge|w||pro,work|
+share information|partager des informations|B2|3|3|We share information every week.|Nous partageons des informations chaque semaine.|share information|w||pro,communication|
+lead a team|diriger une équipe|B2|3|4|I've never led a team before.|Je n'ai jamais dirigé d'équipe.|led a team|w||pro,management|
+bear in mind|garder à l'esprit|B2|4|5|Bear in mind that it's a holiday.|Garde à l'esprit que c'est un jour férié.|Bear in mind|c||conversation,pro|also=keep in mind
+strongly disagree|être en total désaccord|B2|3|3|I strongly disagree with this decision.|Je suis en total désaccord avec cette décision.|strongly disagree|w||pro,fn_disagree|
+completely different|complètement différent|B1|4|4|That's a completely different story.|C'est une tout autre histoire.|completely different|c||conversation|
+widely used|très répandu|B2|3|3|This software is widely used.|Ce logiciel est très répandu.|widely used|w||pro,it|
+high quality|de grande qualité|B2|4|3|We only use high quality materials.|Nous utilisons uniquement des matériaux de grande qualité.|high quality|w||pro,business|
+in the long term|à long terme|B2|4|4|In the long term, this will save us money.|À long terme, cela nous fera économiser de l'argent.|In the long term|w||pro,project|
+in the short term|à court terme|B2|4|4|In the short term, nothing will change.|À court terme, rien ne changera.|In the short term|w||pro,project|
+
+@phrasal_verb
+point out|faire remarquer, signaler|B2|4|5|She pointed out a mistake in the report.|Elle a signalé une erreur dans le rapport.|pointed out|w||pro,communication|
+come across|tomber sur|B2|4|4|I came across an old photo.|Je suis tombé sur une vieille photo.|came across|c||conversation|forms=come, came, come
+come up with|trouver, imaginer (une idée)|B2|5|5|We need to come up with a new plan.|Nous devons trouver un nouveau plan.|come up with|w||pro,work|
+go through|examiner, traverser|B2|4|5|Let's go through the report together.|Examinons le rapport ensemble.|go through|w||pro,meetings|
+sort out|régler, arranger|B2|4|5|Don't worry, we'll sort it out.|Ne t'inquiète pas, on va régler ça.|sort it out|c|i|conversation,pro|
+back up|sauvegarder, soutenir|B2|4|4|Always back up your files.|Sauvegarde toujours tes fichiers.|back up|w||pro,it|
+look up|chercher (une information)|B1|4|4|I'll look it up online.|Je vais chercher ça sur internet.|look it up|c||learning|
+put up with|supporter, tolérer|B2|4|4|I can't put up with this noise.|Je ne peux pas tolérer ce bruit.|put up with|c||conversation,feelings|
+run into|croiser par hasard|B2|4|4|I ran into Paul at the airport.|J'ai croisé Paul à l'aéroport.|ran into|c||conversation|forms=run, ran, run
+cut down on|réduire (sa consommation de)|B2|4|4|I'm trying to cut down on sugar.|J'essaie de réduire le sucre.|cut down on|d||health|
+turn down|refuser (une offre)|B2|4|4|He turned down the job offer.|Il a refusé l'offre d'emploi.|turned down|w||career,decision|sense=refuser
+take over|reprendre, prendre le relais|B2|4|4|Can you take over while I'm away?|Tu peux prendre le relais pendant mon absence ?|take over|w||pro,work|
+
+@connector
+in other words|autrement dit|B2|5|5|In other words, we have no money left.|Autrement dit, nous n'avons plus d'argent.|In other words|c||conversation,fn_rephrase|
+as a result|par conséquent|B2|5|5|The train was late. As a result, I missed the meeting.|Le train était en retard. Par conséquent, j'ai raté la réunion.|As a result|w||pro,fn_explain|
+therefore|donc, par conséquent|B2|4|4|The results are unclear. Therefore, we need more data.|Les résultats sont flous. Nous avons donc besoin de plus de données.|Therefore|w|f|pro,writing,fn_explain|
+in addition|de plus|B2|4|4|In addition, the price includes breakfast.|De plus, le prix comprend le petit-déjeuner.|In addition|w|f|pro,writing|
+as long as|du moment que, tant que|B2|5|5|You can stay as long as you're quiet.|Tu peux rester du moment que tu ne fais pas de bruit.|as long as|c||conversation,fn_nuance|
+from my point of view|de mon point de vue|B2|4|4|From my point of view, it's a good deal.|De mon point de vue, c'est une bonne affaire.|From my point of view|c||conversation,fn_opinion|
+speaking of which|à ce propos|B2|3|4|Speaking of which, have you called her?|À ce propos, tu l'as appelée ?|Speaking of which|c||conversation,fn_topic_change|
+
+@idiom
+easier said than done|plus facile à dire qu'à faire|B2|4|4|Just relax? Easier said than done.|Se détendre ? C'est plus facile à dire qu'à faire.|Easier said than done|c||conversation,fn_nuance|
+at the end of the day|au bout du compte|B2|5|4|At the end of the day, it's your decision.|Au bout du compte, c'est ta décision.|At the end of the day|c||conversation,fn_opinion|
+get the hang of|prendre le coup de main|B2|4|4|You'll get the hang of it.|Tu vas prendre le coup de main.|get the hang of|c|i|conversation,learning|family=get
+the ball is in your court|la balle est dans ton camp|B2|3|3|I've made my offer. The ball is in your court.|J'ai fait mon offre. La balle est dans ton camp.|The ball is in your court|w||pro,decision|
+hit the nail on the head|mettre le doigt dessus|B2|3|3|You've hit the nail on the head.|Tu as mis le doigt dessus.|hit the nail on the head|c||conversation,fn_agree|

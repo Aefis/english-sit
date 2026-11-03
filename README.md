@@ -28,7 +28,7 @@ Raccourcis en révision : `Espace` ou un clic retourne la carte, `H` affiche l'i
 
 ## Ajouter un lot
 
-1. Crée `data/batches/batch-NNN-theme.json`, en suivant `src/core/schema.ts`.
+1. Écris `data/sources/lot-NNN.txt`, puis lance `python scripts/import_lot.py data/sources/lot-NNN.txt batch-NNN-theme`. Le format est décrit dans ce script.
 2. Lance `python scripts/frequency.py`, puis `npm run validate`.
 3. Corrige les erreurs. Pour une alerte légitime, ajoute la paire à `data/dedupe-allow.json` avec sa raison.
 4. Lance `npm run report` pour vérifier les distributions.
