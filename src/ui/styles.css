@@ -95,14 +95,13 @@ main { max-width: 760px; margin: 0 auto; padding: 1rem; }
 
 .actions { display: flex; gap: .5rem; flex-wrap: wrap; justify-content: center; align-items: center; }
 .actions.three > * { flex: 1 1 8rem; }
-.primary, .secondary, .danger, .button {
+.primary, .secondary, .button {
   padding: .6rem 1rem;
   border-radius: 8px;
   border: 1px solid var(--line);
   background: var(--surface);
 }
 .primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 600; }
-.danger { border-color: var(--again); color: var(--again); }
 .link { background: none; border: 0; color: var(--accent); padding: .25rem .5rem; text-decoration: underline; }
 
 .grades { display: grid; grid-template-columns: repeat(4, 1fr); gap: .5rem; margin-top: .75rem; }

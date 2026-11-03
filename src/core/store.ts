@@ -173,9 +173,4 @@ export class Store {
     });
     await this.refresh();
   }
-
-  async reset(): Promise<void> {
-    await Promise.all([this.db.cards.clear(), this.db.reviews.clear(), this.db.prefs.clear()]);
-    await this.refresh();
-  }
 }

@@ -1,5 +1,6 @@
+import { useState } from 'preact/hooks';
 import { LEVELS, TYPES } from '../core/schema';
-import type { Store } from '../core/store';
+import type { Backup, Store } from '../core/store';
 import { computeStats, type Bucket } from '../core/stats';
 import { TYPE_LABELS, useStore } from './shared';
 
@@ -24,6 +25,59 @@ function ProgressRow({ label, bucket }: { label: string; bucket: Bucket }) {
         {bucket.learning > 0 && <span class="seg learning" style={{ width: `${pct(bucket.learning)}%` }} />}
       </div>
       <span class="bar-value">{bucket.mastered + bucket.learning} / {bucket.total}</span>
+    </div>
+  );
+}
+
+function MyProgress({ store }: { store: Store }) {
+  const [message, setMessage] = useState('');
+
+  const changeNewPerDay = (event: Event) => {
+    const value = Number((event.target as HTMLInputElement).value);
+    if (Number.isInteger(value) && value >= 0) void store.saveSettings({ newPerDay: value });
+  };
+
+  const exportFile = () => {
+    const blob = new Blob([JSON.stringify(store.exportBackup())], { type: 'application/json' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = `english-sit-${new Date().toISOString().slice(0, 10)}.json`;
+    link.click();
+    URL.revokeObjectURL(link.href);
+  };
+
+  const importFile = async (event: Event) => {
+    const input = event.target as HTMLInputElement;
+    const file = input.files?.[0];
+    if (!file) return;
+    try {
+      await store.importBackup(JSON.parse(await file.text()) as Backup);
+      setMessage('Sauvegarde restaurée.');
+    } catch (error) {
+      setMessage(`Import impossible : ${error instanceof Error ? error.message : String(error)}`);
+    }
+    input.value = '';
+  };
+
+  return (
+    <div class="panel settings">
+      <h2>Ma progression</h2>
+      <label>
+        <span>Nouvelles cartes par jour</span>
+        <input type="number" min="0" max="200" value={store.settings.newPerDay} onChange={changeNewPerDay} />
+      </label>
+      <p class="muted small">
+        Ta progression reste dans ce navigateur. Exporte-la de temps en temps : c'est ta seule copie de secours, et le
+        moyen de la retrouver sur un autre appareil. Importer remplace la progression actuelle.
+      </p>
+      <div class="actions">
+        <button class="secondary" onClick={exportFile}>Exporter</button>
+        <label class="button secondary">
+          Importer
+          <input type="file" accept="application/json" hidden onChange={(e) => void importFile(e)} />
+        </label>
+      </div>
+      {message && <p role="status">{message}</p>}
     </div>
   );
 }
@@ -57,6 +111,8 @@ export function StatsView({ store }: { store: Store }) {
         {TYPES.map((type) => <ProgressRow key={type} label={TYPE_LABELS[type]} bucket={stats.byType[type]} />)}
         <ProgressRow label="Anglais pro" bucket={stats.professional} />
       </div>
+
+      <MyProgress store={store} />
     </section>
   );
 }

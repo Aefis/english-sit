@@ -3,7 +3,6 @@ import { NO_FOCUS, type Focus } from '../core/queue';
 import type { Store } from '../core/store';
 import { Browse } from './Browse';
 import { Review } from './Review';
-import { SettingsView } from './SettingsView';
 import { StatsView } from './StatsView';
 import { useStore } from './shared';
 
@@ -11,7 +10,6 @@ const TABS = [
   ['review', 'Réviser'],
   ['browse', 'Explorer'],
   ['stats', 'Statistiques'],
-  ['settings', 'Réglages'],
 ] as const;
 
 type Tab = (typeof TABS)[number][0];
@@ -34,7 +32,6 @@ export function App({ store }: { store: Store }) {
         {tab === 'review' && <Review store={store} focus={focus} onFocus={setFocus} />}
         {tab === 'browse' && <Browse store={store} />}
         {tab === 'stats' && <StatsView store={store} />}
-        {tab === 'settings' && <SettingsView store={store} />}
       </main>
     </>
   );
