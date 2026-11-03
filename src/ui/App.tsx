@@ -2,7 +2,6 @@ import { useState } from 'preact/hooks';
 import { NO_FOCUS, type Focus } from '../core/queue';
 import type { Store } from '../core/store';
 import { Browse } from './Browse';
-import { Placement } from './Placement';
 import { Review } from './Review';
 import { SettingsView } from './SettingsView';
 import { StatsView } from './StatsView';
@@ -10,7 +9,6 @@ import { useStore } from './shared';
 
 const TABS = [
   ['review', 'Réviser'],
-  ['placement', 'Test initial'],
   ['browse', 'Explorer'],
   ['stats', 'Statistiques'],
   ['settings', 'Réglages'],
@@ -34,7 +32,6 @@ export function App({ store }: { store: Store }) {
       </nav>
       <main>
         {tab === 'review' && <Review store={store} focus={focus} onFocus={setFocus} />}
-        {tab === 'placement' && <Placement store={store} onDone={() => setTab('review')} />}
         {tab === 'browse' && <Browse store={store} />}
         {tab === 'stats' && <StatsView store={store} />}
         {tab === 'settings' && <SettingsView store={store} />}

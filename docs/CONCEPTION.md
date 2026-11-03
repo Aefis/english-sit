@@ -117,7 +117,7 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 - **Ordre de la file.** Cartes en cours, puis révisions dues, puis nouveautés. Les nouveautés alternent productions débloquées et nouveaux éléments.
 - **Révision ciblée.** Une sélection par catégorie et par niveau restreint la file sans changer la planification. Les limites quotidiennes restent communes, et la sélection s'efface au rechargement pour ne pas masquer durablement des cartes dues.
 - **Cartes récalcitrantes.** Signalées à partir de 8 oublis, avec suspension possible.
-- **Test initial.** Dix cartes par niveau. « Je connais » espace la compréhension de 45 jours, « Incertain » de 4 jours, et l'inconnu reste dans le cycle normal. Au-dessus de 90 % de connus, le reste du niveau peut être présumé connu (contrôle à 21 jours). Sous 50 %, le test s'arrête.
+- **Test initial (retiré de l'interface à ta demande, logique conservée dans `src/core/placement.ts`).** Dix cartes par niveau. « Je connais » espace la compréhension de 45 jours, « Incertain » de 4 jours, et l'inconnu reste dans le cycle normal. Au-dessus de 90 % de connus, le reste du niveau peut être présumé connu (contrôle à 21 jours). Sous 50 %, le test s'arrête.
 
 **Point clé : « Je connais » ne prouve que le passif.** Un élément connu saute la compréhension mais sa carte de production reste à apprendre. C'est le cœur de ton objectif.
 
@@ -169,7 +169,6 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 ## 9. Limites connues du prototype
 
 - `ipa` est vide : mieux vaut une source fiable qu'une transcription approximative. La synthèse vocale dépend des voix installées sur l'appareil, et elle n'a pas été écoutée pendant les tests automatisés.
-- Une réponse « Je ne connais pas » au test initial n'est pas mémorisée : l'élément peut réapparaître dans un nouveau test.
 - Pas d'annulation de la dernière note.
 - Tous les éléments sont en `status: draft`, car ils n'ont pas encore de relecture humaine.
 - Le français de l'échantillon utilise le masculin à la première personne (« Je suis prêt »).
