@@ -38,7 +38,6 @@ beforeEach(() => {
     cards: new Map(),
     logsToday: [],
     suspended: new Set(),
-    settings: { newPerDay: 20, maxReviewsPerDay: 200 },
     now: NOW,
   };
 });
@@ -92,11 +91,17 @@ describe('file de révision', () => {
     expect(counts.fresh).toBe(3);
   });
 
-  it('respecte la limite quotidienne de nouvelles cartes', () => {
-    const log = { stateBefore: State.New, itemId: 'z' } as ReviewLog;
-    const { next, counts } = buildQueue({ ...input, logsToday: Array(20).fill(log) });
-    expect(next).toBeNull();
-    expect(counts.fresh).toBe(0);
+  it('ne limite pas le nombre de nouvelles cartes', () => {
+    const logs = Array(500).fill({ stateBefore: State.New, itemId: 'z' }) as ReviewLog[];
+    const { next, counts } = buildQueue({ ...input, logsToday: logs });
+    expect(next?.itemId).toBe('a');
+    expect(counts.fresh).toBe(3);
+  });
+
+  it('ne limite pas le nombre de révisions', () => {
+    const logs = Array(500).fill({ stateBefore: State.Review, itemId: 'z' }) as ReviewLog[];
+    const due = { ...graduated(input.items[0]), due: NOW - 1000 };
+    expect(buildQueue({ ...input, cards: mapOf(due), logsToday: logs }).next?.id).toBe(due.id);
   });
 
   it('place les cartes en cours, puis les révisions, avant les nouveautés', () => {
@@ -126,7 +131,7 @@ describe('file de révision', () => {
   it('alterne cartes débloquées et nouveaux éléments', () => {
     const items = [item('a'), item('b'), item('c')];
     const a = { ...graduated(items[0]), due: NOW + 1e9 };
-    const { next } = buildQueue({ ...input, items, cards: mapOf(a), settings: { newPerDay: 1, maxReviewsPerDay: 0 } });
+    const { next } = buildQueue({ ...input, items, cards: mapOf(a) });
     expect(next?.id).toBe(cardId('a', 'production'));
   });
 
@@ -166,17 +171,46 @@ describe('révision par catégorie et par niveau', () => {
     expect(ids({ category: 'idiom', level: 'A1' })).toEqual([]);
   });
 
-  it('garde la limite de nouvelles cartes commune à toutes les sélections', () => {
-    const logs = Array(20).fill({ stateBefore: State.New, itemId: 'busy' }) as ReviewLog[];
-    const focused = all.filter((i) => matchesFocus(i, { category: 'pro', level: '' }));
-    expect(buildQueue({ ...input, items: focused, logsToday: logs }).next).toBeNull();
-  });
-
   it('ne change pas la planification : une carte hors sélection reste due', () => {
     const due = { ...graduated(word), due: NOW - 1000 };
     const focused = all.filter((i) => matchesFocus(i, { category: 'pro', level: '' }));
     expect(buildQueue({ ...input, items: focused, cards: mapOf(due) }).next?.itemId).toBe('look-into');
     expect(buildQueue({ ...input, items: all, cards: mapOf(due) }).next?.id).toBe(due.id);
+  });
+});
+
+describe('révision libre', () => {
+  const items = [item('a'), item('b')];
+  const later = (i: Item, lastReview: number) => ({ ...graduated(i), due: NOW + 1e9, lastReview });
+  const log = (itemId: string) => ({ stateBefore: State.Learning, itemId }) as ReviewLog;
+
+  it('propose une carte non prévue seulement si on le demande', () => {
+    const cards = mapOf(later(items[0], NOW - 1000));
+    const base = { ...input, items: [items[0]], cards, logsToday: [log('a')] };
+    expect(buildQueue(base).next).toBeNull();
+    expect(buildQueue({ ...base, free: true }).next).not.toBeNull();
+  });
+
+  it('débloque la production le jour même', () => {
+    const cards = mapOf(later(items[0], NOW - 1000));
+    const { next } = buildQueue({ ...input, items: [items[0]], cards, logsToday: [log('a')], free: true });
+    expect(next?.kind).toBe('production');
+  });
+
+  it('reprend la carte vue il y a le plus longtemps', () => {
+    const only = [item('a', { priority: 2 }), item('b', { priority: 2 })];
+    const cards = mapOf(later(only[0], NOW - 1000), later(only[1], NOW - 9000));
+    expect(buildQueue({ ...input, items: only, cards, free: true }).next?.itemId).toBe('b');
+  });
+
+  it('garde les cartes prévues en priorité', () => {
+    const due = { ...graduated(items[0]), due: NOW - 1000 };
+    const cards = mapOf(due, later(items[1], NOW - 9000));
+    expect(buildQueue({ ...input, items, cards, free: true }).next?.id).toBe(due.id);
+  });
+
+  it('ne propose rien sur une sélection vide', () => {
+    expect(buildQueue({ ...input, items: [], free: true }).next).toBeNull();
   });
 });
 

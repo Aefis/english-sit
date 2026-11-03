@@ -115,7 +115,8 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 - **Enchaînement.** La production se débloque quand la compréhension est consolidée, et le contexte quand la production l'est.
 - **Pas d'écho.** Un seul sens de révision d'un même élément par jour, sinon la seconde carte ne teste plus la mémoire.
 - **Ordre de la file.** Cartes en cours, puis révisions dues, puis nouveautés. Les nouveautés alternent productions débloquées et nouveaux éléments.
-- **Révision ciblée.** Une sélection par catégorie et par niveau restreint la file sans changer la planification. Les limites quotidiennes restent communes, et la sélection s'efface au rechargement pour ne pas masquer durablement des cartes dues.
+- **Révision ciblée.** Une sélection par catégorie et par niveau restreint la file sans changer la planification. La sélection s'efface au rechargement pour ne pas masquer durablement des cartes dues.
+- **Aucune limite quotidienne.** Nouvelles cartes et révisions ne sont pas plafonnées, à ta demande. Une fois les cartes prévues terminées, « Continuer quand même » reprend les cartes vues il y a le plus longtemps. Une révision anticipée rapporte moins, mais FSRS en tient compte.
 - **Cartes récalcitrantes.** Signalées à partir de 8 oublis, avec suspension possible.
 - **Test initial (retiré de l'interface à ta demande, logique conservée dans `src/core/placement.ts`).** Dix cartes par niveau. « Je connais » espace la compréhension de 45 jours, « Incertain » de 4 jours, et l'inconnu reste dans le cycle normal. Au-dessus de 90 % de connus, le reste du niveau peut être présumé connu (contrôle à 21 jours). Sous 50 %, le test s'arrête.
 

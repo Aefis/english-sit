@@ -1,12 +1,12 @@
 import Dexie, { type Table } from 'dexie';
 import type { FSRS } from 'ts-fsrs';
 import {
-  buildQueue, dayKey, DEFAULT_SETTINGS, matchesFocus, NO_FOCUS, type Focus, type QueueResult, type QueueSettings,
+  buildQueue, dayKey, matchesFocus, NO_FOCUS, type Focus, type QueueResult,
 } from './queue';
 import type { Deck, Item } from './schema';
 import { applyReview, createScheduler, type CardState, type Grade, type ReviewLog } from './srs';
 
-export interface Settings extends QueueSettings {
+export interface Settings {
   retention: number;
   accent: 'en-GB' | 'en-US';
 }
@@ -32,7 +32,7 @@ export interface Backup {
   settings: Settings;
 }
 
-const DEFAULTS: Settings = { ...DEFAULT_SETTINGS, retention: 0.9, accent: 'en-GB' };
+const DEFAULTS: Settings = { retention: 0.9, accent: 'en-GB' };
 
 class Database extends Dexie {
   cards!: Table<CardState, string>;
@@ -103,16 +103,15 @@ export class Store {
     return new Set([...this.prefs.values()].filter((p) => p.suspended).map((p) => p.itemId));
   }
 
-  /** Les limites quotidiennes viennent du journal complet : elles restent communes à toutes les sélections. */
-  queue(focus: Focus = NO_FOCUS, now = Date.now()): QueueResult {
+  queue(focus: Focus = NO_FOCUS, free = false, now = Date.now()): QueueResult {
     const today = dayKey(now);
     return buildQueue({
       items: this.items.filter((item) => matchesFocus(item, focus)),
       cards: this.cards,
       logsToday: this.logs.filter((l) => dayKey(l.ts) === today),
       suspended: this.suspended,
-      settings: this.settings,
       now,
+      free,
     });
   }
 
@@ -138,13 +137,6 @@ export class Store {
     const next = { ...current, [key]: !current[key] };
     await this.db.prefs.put(next);
     this.prefs.set(itemId, next);
-    this.changed();
-  }
-
-  async saveSettings(patch: Partial<Settings>): Promise<void> {
-    this.settings = { ...this.settings, ...patch };
-    await this.db.meta.put({ key: 'settings', value: this.settings });
-    this.scheduler = createScheduler(this.settings.retention);
     this.changed();
   }
 

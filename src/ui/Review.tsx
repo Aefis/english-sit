@@ -70,38 +70,42 @@ function FocusBar({ focus, onFocus }: { focus: Focus; onFocus: (focus: Focus) =>
   );
 }
 
-function DoneMessage({ store, focus, onFocus, learning }: {
+function DoneMessage({ store, focus, onFocus, onContinue, learning }: {
   store: Store;
   focus: Focus;
   onFocus: (focus: Focus) => void;
+  onContinue: () => void;
   learning: number;
 }) {
   const focused = focus.category !== '' || focus.level !== '';
-  if (!focused) {
-    return (
-      <div class="panel done">
-        <h1>C'est tout pour aujourd'hui</h1>
-        <p>
-          {learning > 0
-            ? `${learning} carte(s) en cours reviendront plus tard dans la journée.`
-            : 'Reviens demain : tes prochaines cartes seront prêtes.'}
-        </p>
-      </div>
-    );
-  }
   const empty = !store.items.some((item) => matchesFocus(item, focus));
-  const moreElsewhere = store.queue().next !== null;
+  const moreElsewhere = focused && store.queue().next !== null;
+  const canContinue = store.queue(focus, true).next !== null;
+
+  let title = "C'est tout pour aujourd'hui";
+  let detail = learning > 0
+    ? `${learning} carte(s) en cours reviendront plus tard dans la journée.`
+    : 'Tes prochaines cartes seront prêtes demain.';
+  if (empty) {
+    title = 'Aucun élément pour cette sélection';
+    detail = 'Essaie une autre catégorie ou un autre niveau.';
+  } else if (focused) {
+    title = 'Plus de cartes prévues pour cette sélection';
+    detail = moreElsewhere
+      ? "Il reste des cartes prévues aujourd'hui dans d'autres catégories."
+      : "Tu as aussi fini toutes les autres cartes prévues aujourd'hui.";
+  }
+
   return (
     <div class="panel done">
-      <h1>{empty ? 'Aucun élément pour cette sélection' : 'Plus de cartes pour cette sélection'}</h1>
-      <p>
-        {empty
-          ? 'Essaie une autre catégorie ou un autre niveau.'
-          : moreElsewhere
-            ? "Il reste des cartes prévues aujourd'hui dans d'autres catégories."
-            : "Tu as aussi fini toutes les autres cartes d'aujourd'hui."}
-      </p>
-      {moreElsewhere && <button class="primary" onClick={() => onFocus(NO_FOCUS)}>Tout réviser</button>}
+      <h1>{title}</h1>
+      <p>{detail}</p>
+      <div class="actions">
+        {moreElsewhere && <button class="primary" onClick={() => onFocus(NO_FOCUS)}>Tout réviser</button>}
+        {canContinue && (
+          <button class={moreElsewhere ? 'secondary' : 'primary'} onClick={onContinue}>Continuer quand même</button>
+        )}
+      </div>
     </div>
   );
 }
@@ -114,12 +118,19 @@ export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; 
     return () => clearInterval(timer);
   }, []);
 
-  const { next, counts } = store.queue(focus);
+  const [free, setFree] = useState(false);
+  const { next, counts } = store.queue(focus, free);
   const item = next ? store.byId.get(next.itemId) : undefined;
 
   return (
     <section class="review">
       <FocusBar focus={focus} onFocus={onFocus} />
+      {free && (
+        <p class="free-note">
+          Révision libre : ces cartes n'étaient pas prévues aujourd'hui.
+          <button class="link" onClick={() => setFree(false)}>Arrêter</button>
+        </p>
+      )}
       <p class="counts" aria-label="Cartes restantes">
         <span>{counts.fresh} nouvelles</span>
         <span>{counts.learning} en cours</span>
@@ -128,7 +139,7 @@ export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; 
       {next && item ? (
         <Flashcard key={`${next.id}:${next.reps}`} store={store} card={next} item={item} />
       ) : (
-        <DoneMessage store={store} focus={focus} onFocus={onFocus} learning={counts.learning} />
+        <DoneMessage store={store} focus={focus} onFocus={onFocus} onContinue={() => setFree(true)} learning={counts.learning} />
       )}
     </section>
   );

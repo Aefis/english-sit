@@ -32,11 +32,6 @@ function ProgressRow({ label, bucket }: { label: string; bucket: Bucket }) {
 function MyProgress({ store }: { store: Store }) {
   const [message, setMessage] = useState('');
 
-  const changeNewPerDay = (event: Event) => {
-    const value = Number((event.target as HTMLInputElement).value);
-    if (Number.isInteger(value) && value >= 0) void store.saveSettings({ newPerDay: value });
-  };
-
   const exportFile = () => {
     const blob = new Blob([JSON.stringify(store.exportBackup())], { type: 'application/json' });
     const link = document.createElement('a');
@@ -62,10 +57,6 @@ function MyProgress({ store }: { store: Store }) {
   return (
     <div class="panel settings">
       <h2>Ma progression</h2>
-      <label>
-        <span>Nouvelles cartes par jour</span>
-        <input type="number" min="0" max="200" value={store.settings.newPerDay} onChange={changeNewPerDay} />
-      </label>
       <p class="muted small">
         Ta progression reste dans ce navigateur. Exporte-la de temps en temps : c'est ta seule copie de secours, et le
         moyen de la retrouver sur un autre appareil. Importer remplace la progression actuelle.

@@ -16,13 +16,6 @@ export function matchesFocus(item: Item, { category, level }: Focus): boolean {
   return !category || item.type === category;
 }
 
-export interface QueueSettings {
-  newPerDay: number;
-  maxReviewsPerDay: number;
-}
-
-export const DEFAULT_SETTINGS: QueueSettings = { newPerDay: 20, maxReviewsPerDay: 200 };
-
 const LEARN_AHEAD_MS = 20 * 60_000;
 const ROLLOVER_HOUR = 4;
 
@@ -38,8 +31,9 @@ export interface QueueInput {
   cards: Map<string, CardState>;
   logsToday: ReviewLog[];
   suspended: Set<string>;
-  settings: QueueSettings;
   now: number;
+  /** Révision libre : ignore le calendrier une fois les cartes prévues terminées. */
+  free?: boolean;
 }
 
 export interface QueueResult {
@@ -58,16 +52,13 @@ function isUnlocked(ref: CardRef, cards: Map<string, CardState>, refs: CardRef[]
 
 const isLearning = (c: CardState) => c.state === State.Learning || c.state === State.Relearning;
 
-export function buildQueue({ items, cards, logsToday, suspended, settings, now }: QueueInput): QueueResult {
-  const introducedToday = logsToday.filter((l) => l.stateBefore === State.New).length;
-  const reviewedToday = logsToday.filter((l) => l.stateBefore === State.Review).length;
-  const touchedToday = new Set(logsToday.map((l) => l.itemId));
-  const newBudget = Math.max(0, settings.newPerDay - introducedToday);
-  const reviewBudget = Math.max(0, settings.maxReviewsPerDay - reviewedToday);
+export function buildQueue({ items, cards, logsToday, suspended, now, free = false }: QueueInput): QueueResult {
+  const touchedToday = new Set(free ? [] : logsToday.map((l) => l.itemId));
 
   const learningNow: CardState[] = [];
   const learningSoon: CardState[] = [];
   const due: CardState[] = [];
+  const notDue: CardState[] = [];
   const unlocked: CardState[] = [];
   const fresh: CardState[] = [];
 
@@ -80,7 +71,8 @@ export function buildQueue({ items, cards, logsToday, suspended, settings, now }
         (card.due <= now ? learningNow : learningSoon).push(card);
       } else if (card && card.state === State.Review) {
         // Une seule carte d'un même élément par jour : l'autre direction serait un simple écho.
-        if (card.due <= now && !touchedToday.has(item.id)) due.push(card);
+        if (card.due > now) notDue.push(card);
+        else if (!touchedToday.has(item.id)) due.push(card);
       } else if (isUnlocked(ref, cards, refs) && !touchedToday.has(item.id)) {
         const state = card ?? newCardState(ref, now);
         (ref.kind === 'recognition' ? fresh : unlocked).push(state);
@@ -94,17 +86,21 @@ export function buildQueue({ items, cards, logsToday, suspended, settings, now }
 
   // Alterne cartes débloquées et nouveaux éléments : le passif ne prend pas le pas sur l'actif.
   const newQueue: CardState[] = [];
-  for (let i = 0; newQueue.length < newBudget && (i < unlocked.length || i < fresh.length); i++) {
+  for (let i = 0; i < Math.max(unlocked.length, fresh.length); i++) {
     if (i < unlocked.length) newQueue.push(unlocked[i]);
-    if (i < fresh.length && newQueue.length < newBudget) newQueue.push(fresh[i]);
+    if (i < fresh.length) newQueue.push(fresh[i]);
   }
 
-  const reviews = due.slice(0, reviewBudget);
   const counts = {
     learning: learningNow.length + learningSoon.length,
-    review: reviews.length,
+    review: due.length,
     fresh: newQueue.length,
   };
   const soon = learningSoon.find((c) => c.due <= now + LEARN_AHEAD_MS) ?? null;
-  return { next: learningNow[0] ?? reviews[0] ?? newQueue[0] ?? soon, counts };
+  const planned = learningNow[0] ?? due[0] ?? newQueue[0] ?? soon;
+  if (planned || !free) return { next: planned, counts };
+
+  // Carte vue il y a le plus longtemps : on tourne sur toute la sélection sans répéter la dernière.
+  const oldest = [...notDue, ...learningSoon].sort((a, b) => (a.lastReview ?? 0) - (b.lastReview ?? 0));
+  return { next: oldest[0] ?? null, counts };
 }
