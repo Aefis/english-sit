@@ -47,5 +47,26 @@
       "what-i-mean-is"
     ],
     "reason": "Le sens d'un mot, et une reformulation de sa propre pensée."
+  },
+  {
+    "ids": [
+      "wake-up",
+      "make-up"
+    ],
+    "reason": "Mots sans rapport, proches seulement par l'orthographe."
+  },
+  {
+    "ids": [
+      "tell-the-truth",
+      "to-tell-you-the-truth"
+    ],
+    "reason": "Action de dire la vérité, et connecteur d'opinion."
+  },
+  {
+    "ids": [
+      "challenging",
+      "challenge"
+    ],
+    "reason": "challenging est un adjectif courant à part entière."
   }
 ]

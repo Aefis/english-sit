@@ -1,0 +1,212 @@
+# Lot 005 : B2+ (réunions, e-mails, analyse, nuance fine)
+@word
+acknowledge|reconnaître, accuser réception de|B2+||4|He acknowledged his mistake.|Il a reconnu son erreur.|acknowledged|w|f|pro,communication|pos=v
+adapt|s'adapter|B2||4|You have to adapt to the new system.|Il faut t'adapter au nouveau système.|adapt|w||pro,work|pos=v
+adjust|ajuster, s'adapter|B2+||4|We adjusted the schedule.|Nous avons ajusté le planning.|adjusted|w||pro,project|pos=v
+assess|évaluer|B2+||4|We need to assess the risks.|Nous devons évaluer les risques.|assess|w||pro,analysis|pos=v
+clarify|clarifier|B2+||5|Could you clarify this point?|Tu pourrais clarifier ce point ?|clarify|w||pro,communication,fn_clarify|pos=v
+collaborate|collaborer|B2+||3|We collaborate with several partners.|Nous collaborons avec plusieurs partenaires.|collaborate|w||pro,work|pos=v
+commit|s'engager|B2+||4|We're committed to reducing costs.|Nous nous engageons à réduire les coûts.|committed|w||pro,business|pos=v ;; notes=commit to + nom ou verbe en -ing.
+conduct|mener, réaliser|B2+||3|We conducted a study last year.|Nous avons mené une étude l'année dernière.|conducted|w|f|pro,analysis|pos=v
+demonstrate|montrer, démontrer|B2+||3|The data demonstrates a clear trend.|Les données montrent une tendance claire.|demonstrates|w|f|pro,analysis|pos=v
+emphasize|souligner, insister sur|B2+||4|I want to emphasize this point.|Je veux insister sur ce point.|emphasize|w||pro,presentations|pos=v ;; notes=UK : emphasise. Sans « on ».
+enable|permettre|B2+||4|This tool enables us to work faster.|Cet outil nous permet de travailler plus vite.|enables|w|f|pro,it|pos=v
+engage|impliquer, mobiliser|B2+||3|We need to engage our customers.|Nous devons mobiliser nos clients.|engage|w||pro,business|pos=v
+evaluate|analyser, évaluer en détail|C1||3|We'll evaluate the results next month.|Nous analyserons les résultats le mois prochain.|evaluate|w|f|pro,analysis|pos=v
+highlight|souligner, mettre en avant|B2+||4|The report highlights three problems.|Le rapport met en avant trois problèmes.|highlights|w||pro,reporting|pos=v
+implement|mettre en œuvre|B2+||5|We implemented the new process in June.|Nous avons mis en œuvre le nouveau processus en juin.|implemented|w||pro,project|pos=v
+justify|justifier|B2+||3|How can you justify this cost?|Comment peux-tu justifier ce coût ?|justify|w||pro,argument|pos=v
+monitor|surveiller, suivre|B2+||4|We monitor the servers all day.|Nous surveillons les serveurs toute la journée.|monitor|w||pro,it|pos=v
+negotiate|négocier|B2+||4|We negotiated a better price.|Nous avons négocié un meilleur prix.|negotiated|w||pro,business|pos=v
+overcome|surmonter|B2+||4|We overcame many difficulties.|Nous avons surmonté de nombreuses difficultés.|overcame|w||pro,work|pos=v ;; forms=overcome, overcame, overcome
+outline|décrire dans les grandes lignes|B2+||3|Let me outline the plan.|Je vais présenter le plan dans les grandes lignes.|outline|w||pro,presentations|pos=v
+overlook|négliger, oublier|C1||3|We overlooked an important detail.|Nous avons négligé un détail important.|overlooked|w||pro,analysis|pos=v
+prioritize|donner la priorité à|B2+||5|We need to prioritize this task.|Nous devons donner la priorité à cette tâche.|prioritize|w||pro,project|pos=v ;; notes=UK : prioritise.
+pursue|poursuivre|C1||3|She decided to pursue a career in law.|Elle a décidé de poursuivre une carrière dans le droit.|pursue|w|f|career|pos=v
+reinforce|renforcer|C1||3|This reinforces my point.|Cela renforce mon argument.|reinforces|w||argument|pos=v
+resolve|résoudre|B2+||4|The issue has been resolved.|Le problème a été résolu.|resolved|w||pro,it|pos=v
+restrict|restreindre|B2+||3|Access to this file is restricted.|L'accès à ce fichier est restreint.|restricted|w||pro,it,rules|pos=v
+retain|conserver, garder|C1||3|It's hard to retain good staff.|C'est difficile de garder de bons employés.|retain|w|f|pro,management|pos=v
+seek|chercher, solliciter|B2+||3|You should seek legal advice.|Tu devrais demander un avis juridique.|seek|w|f|career|pos=v ;; forms=seek, sought, sought
+simplify|simplifier|B2+||4|We need to simplify the process.|Nous devons simplifier le processus.|simplify|w||pro,project|pos=v
+submit|soumettre, remettre|B2+||4|Please submit your report by Friday.|Merci de remettre ton rapport d'ici vendredi.|submit|w||pro,reporting|pos=v
+sustain|maintenir, soutenir|C1||3|We can't sustain this pace.|Nous ne pouvons pas tenir ce rythme.|sustain|w||pro,work|pos=v
+tackle|s'attaquer à|B2+||4|Let's tackle the biggest problem first.|Attaquons-nous d'abord au plus gros problème.|tackle|w||pro,work|pos=v
+upgrade|mettre à niveau|B2+||4|We need to upgrade the system.|Nous devons mettre à niveau le système.|upgrade|w||pro,it|pos=v
+acquire|acquérir|C1||3|Google acquired the company in 2014.|Google a acquis l'entreprise en 2014.|acquired|n|f|business,news|pos=v
+anticipate|anticiper, prévoir|B2+||3|We didn't anticipate this problem.|Nous n'avions pas anticipé ce problème.|anticipate|w||pro,project|pos=v
+comply|se conformer, respecter|C1||3|We must comply with the rules.|Nous devons respecter les règles.|comply|w|f|pro,rules|pos=v ;; notes=comply with.
+consult|consulter|B2+||3|You should consult a lawyer.|Tu devrais consulter un avocat.|consult|w||pro,decision|pos=v
+convey|transmettre, faire passer|C1||3|It's hard to convey this message.|C'est difficile de faire passer ce message.|convey|w||pro,communication|pos=v
+delegate|déléguer|B2+||4|You need to learn to delegate.|Tu dois apprendre à déléguer.|delegate|w||pro,management|pos=v
+foster|favoriser|C1||2|We want to foster a culture of trust.|Nous voulons favoriser une culture de confiance.|foster|w|f|pro,management|pos=v
+agenda|ordre du jour|B2||4|What's on the agenda today?|Qu'est-ce qu'il y a à l'ordre du jour ?|agenda|w||pro,meetings|pos=n ;; notes=Faux ami : un agenda se dit a diary ou a planner.
+aspect|aspect|B2+||3|It's the most important aspect of the job.|C'est l'aspect le plus important du poste.|aspect|w||analysis|pos=n
+assessment|évaluation|B2+||3|We need a full risk assessment.|Il nous faut une évaluation complète des risques.|assessment|w||pro,analysis|pos=n
+assumption|hypothèse, supposition|B2+||4|That's a dangerous assumption.|C'est une supposition dangereuse.|assumption|w||pro,analysis|pos=n
+awareness|prise de conscience, sensibilisation|B2+||3|There's a growing awareness of the problem.|On prend de plus en plus conscience du problème.|awareness|n||news|pos=n
+barrier|obstacle, barrière|B2+||3|Language can be a barrier.|La langue peut être un obstacle.|barrier|w||analysis|pos=n
+breakthrough|avancée majeure|C1||3|This is a real breakthrough.|C'est une véritable avancée.|breakthrough|n||news|pos=n
+burden|fardeau, charge|C1||3|I don't want to be a burden.|Je ne veux pas être un fardeau.|burden|c||feelings|pos=n
+capacity|capacité (volume, charge)|B2+||3|We're working at full capacity.|Nous travaillons à pleine capacité.|capacity|w||pro,management|pos=n
+compromise|compromis|B2+||5|We need to find a compromise.|Nous devons trouver un compromis.|compromise|w||pro,decision|pos=n
+consequence|conséquence|B2||4|It could have serious consequences.|Cela pourrait avoir de graves conséquences.|consequences|w||analysis|pos=n
+constraint|contrainte|C1||4|We have a lot of budget constraints.|Nous avons beaucoup de contraintes budgétaires.|constraints|w||pro,project|pos=n
+context|contexte|B2+||4|Let me give you some context.|Je vais te donner un peu de contexte.|context|w||pro,fn_explain|pos=n
+dilemma|dilemme|B2+||3|I'm facing a real dilemma.|Je fais face à un vrai dilemme.|dilemma|c||decision|pos=n
+drawback|inconvénient|B2+||4|The main drawback is the price.|Le principal inconvénient, c'est le prix.|drawback|w||pro,fn_compare|pos=n
+expertise|expertise, compétences|B2+||3|We don't have the expertise in-house.|Nous n'avons pas les compétences en interne.|expertise|w||pro,career|pos=n
+factor|facteur|B2+||4|Price is the main factor.|Le prix est le facteur principal.|factor|w||pro,analysis|pos=n
+framework|cadre|C1||3|We need a clear framework.|Il nous faut un cadre clair.|framework|w||pro,project|pos=n
+guideline|directive, consigne|B2+||3|Please follow these guidelines.|Merci de suivre ces consignes.|guidelines|w||pro,rules|pos=n
+implication|conséquence, implication|C1||3|What are the implications of this decision?|Quelles sont les conséquences de cette décision ?|implications|w||pro,analysis|pos=n
+initiative|initiative|B2+||4|She took the initiative.|Elle a pris l'initiative.|initiative|w||pro,management|pos=n
+insight|aperçu, compréhension fine|C1||4|This gives us useful insight.|Cela nous donne un éclairage utile.|insight|w||pro,analysis|pos=n
+milestone|étape clé|B2+||4|We reached an important milestone.|Nous avons franchi une étape clé.|milestone|w||pro,project|pos=n
+objective|objectif (formel)|B2||4|What's the main objective?|Quel est l'objectif principal ?|objective|w||pro,project|pos=n
+outcome|résultat, issue|B2||4|We're happy with the outcome.|Nous sommes satisfaits du résultat.|outcome|w||pro,analysis|pos=n
+overview|vue d'ensemble|B2+||4|Let me give you a quick overview.|Je vais te donner une rapide vue d'ensemble.|overview|w||pro,presentations|pos=n
+perspective|point de vue|B2+||4|Try to see it from my perspective.|Essaie de voir ça de mon point de vue.|perspective|c||fn_opinion|pos=n
+phase|phase|B2+||3|We're in the final phase.|Nous sommes dans la dernière phase.|phase|w||pro,project|pos=n
+procedure|procédure|B2||3|Please follow the usual procedure.|Merci de suivre la procédure habituelle.|procedure|w||pro,rules|pos=n
+requirement|exigence, condition requise|B2+||4|This is a legal requirement.|C'est une obligation légale.|requirement|w||pro,rules|pos=n
+revenue|chiffre d'affaires, recettes|B2+||3|Our revenue increased by ten percent.|Notre chiffre d'affaires a augmenté de dix pour cent.|revenue|w||pro,business,reporting|pos=n ;; notes=Faux ami : un revenu personnel se dit income.
+shortage|pénurie|B2+||3|There's a shortage of nurses.|Il y a une pénurie d'infirmiers.|shortage|n||news|pos=n
+summary|résumé|B2||4|Can you send me a short summary?|Tu peux m'envoyer un court résumé ?|summary|w||pro,reporting|pos=n
+threat|menace|B2+||3|It's a real threat to our business.|C'est une vraie menace pour notre activité.|threat|w||pro,risk|pos=n
+trade-off|compromis, arbitrage|C1||4|There's always a trade-off between speed and quality.|Il y a toujours un arbitrage entre vitesse et qualité.|trade-off|w||pro,decision|pos=n
+transparency|transparence|C1||3|Customers expect transparency.|Les clients attendent de la transparence.|transparency|w||pro,business|pos=n
+accurate|exact, précis|B2||4|These figures aren't accurate.|Ces chiffres ne sont pas exacts.|accurate|w||pro,analysis|pos=adj ;; notes=Ne se traduit pas par « accuré » : exact ou précis.
+adequate|suffisant, adéquat|B2+||3|We don't have adequate resources.|Nous n'avons pas de ressources suffisantes.|adequate|w|f|pro,analysis|pos=adj
+ambitious|ambitieux|B2||3|It's an ambitious project.|C'est un projet ambitieux.|ambitious|w||pro,personality|pos=adj
+appropriate|approprié|B2+||4|It wasn't an appropriate comment.|Ce n'était pas une remarque appropriée.|appropriate|w||pro,communication|pos=adj
+beneficial|bénéfique|B2+||3|Regular exercise is beneficial.|L'exercice régulier est bénéfique.|beneficial|d|f|health|pos=adj
+challenging|difficile, stimulant|B2+||4|It's a challenging role.|C'est un poste exigeant.|challenging|w||pro,career|pos=adj
+comprehensive|complet, détaillé|C1||3|We did a comprehensive review.|Nous avons fait un examen complet.|comprehensive|w|f|pro,analysis|pos=adj ;; notes=Faux ami : compréhensif se dit understanding.
+consistent|constant, cohérent|B2+||4|The results are consistent.|Les résultats sont cohérents.|consistent|w||pro,analysis|pos=adj ;; notes=Faux ami : consistant se dit substantial.
+controversial|controversé|B2+||3|It's a controversial decision.|C'est une décision controversée.|controversial|n||news,argument|pos=adj
+crucial|crucial|B2+||4|This step is crucial.|Cette étape est cruciale.|crucial|w||pro,fn_opinion|pos=adj
+demanding|exigeant|B2+||4|My boss is very demanding.|Mon chef est très exigeant.|demanding|w||work,personality|pos=adj
+significant|important, significatif|B2+||5|We've seen a significant improvement.|Nous avons constaté une amélioration importante.|significant|w||pro,analysis|pos=adj
+straightforward|simple, direct|B2+||5|The process is pretty straightforward.|Le processus est plutôt simple.|straightforward|w||pro,fn_explain|pos=adj
+substantial|considérable|C1||3|We made substantial savings.|Nous avons fait des économies considérables.|substantial|w|f|pro,reporting|pos=adj
+sufficient|suffisant|B2+||3|One hour should be sufficient.|Une heure devrait suffire.|sufficient|w|f|analysis|pos=adj
+temporary|temporaire|B2||4|It's only a temporary fix.|Ce n'est qu'une solution temporaire.|temporary|w||pro,it|pos=adj
+tricky|délicat, compliqué|B2+||5|That's a tricky question.|C'est une question délicate.|tricky|c|i|conversation|pos=adj
+vague|vague|B2+||3|His answer was very vague.|Sa réponse était très vague.|vague|c||communication|pos=adj
+vital|vital, essentiel|B2+||3|It's vital that we act now.|Il est essentiel que nous agissions maintenant.|vital|w||pro,fn_opinion|pos=adj
+worthwhile|qui en vaut la peine|C1||4|It was a worthwhile experience.|C'était une expérience enrichissante.|worthwhile|c||fn_opinion|pos=adj
+approximately|environ|B2||4|It takes approximately two hours.|Cela prend environ deux heures.|approximately|w|f|pro,writing|pos=adv
+arguably|sans doute|C1||3|He's arguably the best player in the team.|C'est sans doute le meilleur joueur de l'équipe.|arguably|c||fn_nuance|pos=adv
+essentially|essentiellement|B2+||4|It's essentially the same thing.|C'est essentiellement la même chose.|essentially|c||fn_explain|pos=adv
+gradually|progressivement|B2||4|Things are gradually improving.|Les choses s'améliorent progressivement.|gradually|w||time,analysis|pos=adv
+increasingly|de plus en plus|B2+||4|It's becoming increasingly difficult.|Cela devient de plus en plus difficile.|increasingly|w||analysis|pos=adv
+overall|dans l'ensemble|B2||5|Overall, it was a good trip.|Dans l'ensemble, c'était un bon voyage.|Overall|c||conversation,fn_opinion|pos=adv
+potentially|potentiellement|B2+||4|This could potentially save money.|Cela pourrait potentiellement faire économiser de l'argent.|potentially|w||pro,fn_nuance|pos=adv
+relatively|relativement|B2+||4|It's relatively easy.|C'est relativement facile.|relatively|c||fn_nuance|pos=adv
+roughly|à peu près|B2||5|It costs roughly a hundred euros.|Ça coûte à peu près cent euros.|roughly|c||fn_nuance|pos=adv
+ultimately|en fin de compte|B2+||4|Ultimately, it's your decision.|En fin de compte, c'est ta décision.|Ultimately|w||fn_opinion|pos=adv
+
+@chunk
+I see where you're coming from.|Je comprends ton point de vue.|B2+|4|5|I see where you're coming from, but I disagree.|Je comprends ton point de vue, mais je ne suis pas d'accord.|I see where you're coming from|c||conversation,pro,fn_disagree|sit=Tu veux montrer à un collègue que tu comprends sa position avant de le contredire.
+That's one way of looking at it.|C'est une façon de voir les choses.|B2+|3|4|That's one way of looking at it, I suppose.|C'est une façon de voir les choses, j'imagine.|That's one way of looking at it|c||conversation,fn_disagree|
+It's fair to say...|On peut dire que...|B2+|4|4|It's fair to say we made some mistakes.|On peut dire que nous avons fait des erreurs.|It's fair to say|w||pro,fn_nuance|
+It goes without saying...|Il va sans dire que...|B2+|3|3|It goes without saying that this is confidential.|Il va sans dire que c'est confidentiel.|It goes without saying|w||pro,fn_opinion|
+It's worth noting that...|Il faut noter que...|B2+|3|4|It's worth noting that prices have fallen.|Il faut noter que les prix ont baissé.|It's worth noting that|w|f|pro,presentations|
+to a certain extent|dans une certaine mesure|B2+|4|4|I agree with you to a certain extent.|Je suis d'accord avec toi dans une certaine mesure.|to a certain extent|c||conversation,fn_nuance|
+When it comes to...|Quand il s'agit de...|B2+|5|5|When it comes to food, he's very picky.|Quand il s'agit de nourriture, il est très difficile.|When it comes to|c||conversation,fn_topic_change|
+in terms of|en termes de, sur le plan de|B2+|5|5|In terms of price, it's the best option.|Sur le plan du prix, c'est la meilleure option.|In terms of|w||pro,fn_compare|
+with regard to|en ce qui concerne|B2+|4|4|With regard to your question, the answer is no.|En ce qui concerne ta question, la réponse est non.|With regard to|w|f|pro,email|
+Given that...|Étant donné que...|B2+|4|4|Given that it's late, let's stop here.|Étant donné qu'il est tard, arrêtons-nous là.|Given that|w||pro,fn_explain|
+Let's not jump to conclusions.|Ne tirons pas de conclusions hâtives.|B2+|3|4|Let's not jump to conclusions, we need more data.|Ne tirons pas de conclusions hâtives, il nous faut plus de données.|Let's not jump to conclusions|w||pro,meetings,fn_nuance|
+I wouldn't go that far.|Je n'irais pas jusque-là.|B2+|3|4|A disaster? I wouldn't go that far.|Une catastrophe ? Je n'irais pas jusque-là.|I wouldn't go that far|c||conversation,fn_disagree|
+That's beside the point.|Ce n'est pas le sujet.|B2+|3|4|It's expensive, but that's beside the point.|C'est cher, mais ce n'est pas le sujet.|that's beside the point|c||conversation,fn_disagree|
+That remains to be seen.|Ça reste à voir.|B2+|4|4|Will it work? That remains to be seen.|Est-ce que ça va marcher ? Ça reste à voir.|That remains to be seen|c||conversation,fn_nuance|
+Could you walk me through...?|Tu pourrais me détailler... ?|B2+|4|5|Could you walk me through the process?|Tu pourrais me détailler le processus ?|Could you walk me through|w||pro,fn_clarify|
+What's the status of...?|Où en est... ?|B2+|4|4|What's the status of the project?|Où en est le projet ?|What's the status of|w||pro,project|
+Just to clarify...|Juste pour clarifier...|B2+|4|5|Just to clarify, the meeting is on Tuesday?|Juste pour clarifier, la réunion est mardi ?|Just to clarify|w||pro,fn_clarify|
+Just a quick reminder...|Petit rappel...|B2+|4|4|Just a quick reminder that the office is closed tomorrow.|Petit rappel : le bureau est fermé demain.|Just a quick reminder|w||pro,email|
+I'd like to follow up on...|Je reviens vers vous au sujet de...|B2+|4|4|I'd like to follow up on my last email.|Je reviens vers vous au sujet de mon dernier e-mail.|I'd like to follow up on|w||pro,email|
+As discussed...|Comme convenu...|B2+|4|4|As discussed, I've attached the contract.|Comme convenu, j'ai joint le contrat.|As discussed|w||pro,email|
+As mentioned...|Comme indiqué...|B2+|4|3|As mentioned, the price doesn't include tax.|Comme indiqué, le prix ne comprend pas les taxes.|As mentioned|w||pro,email|
+moving forward|à l'avenir, désormais|B2+|4|4|Moving forward, we'll meet every Monday.|Désormais, nous nous réunirons chaque lundi.|Moving forward|w||pro,meetings|
+Let's wrap up.|Concluons.|B2+|4|4|We're running out of time, let's wrap up.|Nous manquons de temps, concluons.|let's wrap up|w||pro,meetings,fn_end|
+Any questions?|Des questions ?|B1|4|4|That's all from me. Any questions?|C'est tout pour moi. Des questions ?|Any questions?|w||pro,presentations|
+I'd appreciate it if...|Je vous serais reconnaissant de...|B2+|4|5|I'd appreciate it if you could reply today.|Je vous serais reconnaissant de répondre aujourd'hui.|I'd appreciate it if|w|f|pro,email,fn_request|
+It would be great if...|Ce serait super si...|B2|4|5|It would be great if you could join us.|Ce serait super si tu pouvais te joindre à nous.|It would be great if|w||pro,fn_request|
+Would you be able to...?|Est-ce que tu pourrais... ?|B2|4|5|Would you be able to send it today?|Est-ce que tu pourrais l'envoyer aujourd'hui ?|Would you be able to|w||pro,fn_request|
+I'm happy to...|Je veux bien...|B2|5|5|I'm happy to help if you need me.|Je veux bien aider si tu as besoin de moi.|I'm happy to|w||pro,communication|
+Feel free to...|N'hésite pas à...|B2|5|5|Feel free to call me anytime.|N'hésite pas à m'appeler à tout moment.|Feel free to|w||pro,email|
+Don't hesitate to...|N'hésitez pas à...|B2|4|4|Don't hesitate to contact us.|N'hésitez pas à nous contacter.|Don't hesitate to|w|f|pro,email|
+Apologies for...|Toutes mes excuses pour...|B2+|4|4|Apologies for the late reply.|Toutes mes excuses pour cette réponse tardive.|Apologies for|w||pro,email|
+Looking forward to hearing from you.|Dans l'attente de votre réponse.|B2|4|4|Thanks again. Looking forward to hearing from you.|Merci encore. Dans l'attente de votre réponse.|Looking forward to hearing from you|w|f|pro,email,fn_end|
+Kind regards|Cordialement|B1|4|4|Kind regards, Paul.|Cordialement, Paul.|Kind regards|w||pro,email,fn_end|
+The bottom line is...|Le fond du problème, c'est que...|B2+|4|4|The bottom line is, we can't afford it.|Le fond du problème, c'est que nous n'en avons pas les moyens.|The bottom line is|w|i|pro,fn_explain|
+It all comes down to...|Tout se résume à...|B2+|4|4|It all comes down to money.|Tout se résume à l'argent.|It all comes down to|c||conversation,fn_explain|
+The fact is...|Le fait est que...|B2|5|4|The fact is, nobody asked us.|Le fait est que personne ne nous a demandé.|The fact is|c||conversation,fn_explain|
+I'm afraid I disagree.|Je crains de ne pas être d'accord.|B2+|3|4|I'm afraid I disagree with that.|Je crains de ne pas être d'accord.|I'm afraid I disagree|w||pro,meetings,fn_disagree|sit=En réunion, tu exprimes poliment ton désaccord avec ton directeur.
+With all due respect...|Sauf votre respect...|C1|3|3|With all due respect, I think you're wrong.|Sauf votre respect, je pense que vous avez tort.|With all due respect|w|f|pro,fn_disagree|notes=Annonce un désaccord assez ferme.
+As I see it...|À mon sens...|B2+|4|4|As I see it, we have two options.|À mon sens, nous avons deux possibilités.|As I see it|c||conversation,fn_opinion|
+all things considered|tout bien considéré|B2+|4|4|All things considered, it went well.|Tout bien considéré, ça s'est bien passé.|All things considered|c||conversation,fn_opinion|
+I hear you.|Je te comprends.|B2+|4|4|I hear you, it's been a hard week.|Je te comprends, la semaine a été dure.|I hear you|c|i|conversation,fn_agree|
+I'd like to point out that...|J'aimerais souligner que...|B2+|3|4|I'd like to point out that the budget is limited.|J'aimerais souligner que le budget est limité.|I'd like to point out that|w||pro,meetings|
+I might be wrong, but...|Je me trompe peut-être, mais...|B2|4|5|I might be wrong, but I think it's closed.|Je me trompe peut-être, mais je crois que c'est fermé.|I might be wrong, but|c||conversation,fn_nuance|
+Let's take a step back.|Prenons un peu de recul.|B2+|4|4|Let's take a step back and look at the data.|Prenons un peu de recul et regardons les données.|Let's take a step back|w||pro,meetings|
+
+@collocation
+reach a consensus|parvenir à un consensus|B2+|3|4|We failed to reach a consensus.|Nous ne sommes pas parvenus à un consensus.|reach a consensus|w||pro,meetings|
+make a commitment|prendre un engagement|B2+|3|3|We made a commitment to our customers.|Nous avons pris un engagement envers nos clients.|made a commitment|w||pro,business|
+raise concerns|exprimer des inquiétudes|B2+|3|4|The report raises concerns about safety.|Le rapport soulève des inquiétudes sur la sécurité.|raises concerns|w||pro,reporting|
+meet requirements|satisfaire aux exigences|B2+|3|4|The product doesn't meet the requirements.|Le produit ne satisfait pas aux exigences.|meet the requirements|w||pro,project|
+conduct a survey|réaliser une enquête|B2+|3|3|We conducted a survey of our customers.|Nous avons réalisé une enquête auprès de nos clients.|conducted a survey|w||pro,analysis|
+carry out research|mener des recherches|B2+|3|3|They carried out research in ten countries.|Ils ont mené des recherches dans dix pays.|carried out research|a||academic,analysis|
+draw attention to|attirer l'attention sur|B2+|3|3|I'd like to draw your attention to this chart.|J'aimerais attirer votre attention sur ce graphique.|draw your attention to|w||pro,presentations|
+pose a risk|présenter un risque|B2+|3|3|This poses a serious risk to our data.|Cela présente un risque sérieux pour nos données.|poses a serious risk|w||pro,risk|
+set priorities|fixer des priorités|B2+|3|4|We need to set clear priorities.|Nous devons fixer des priorités claires.|set clear priorities|w||pro,management|
+set an example|montrer l'exemple|B2|3|3|Managers should set an example.|Les managers doivent montrer l'exemple.|set an example|w||pro,management|
+miss an opportunity|rater une occasion|B2|3|4|We missed a great opportunity.|Nous avons raté une super occasion.|missed a great opportunity|w||pro,career|
+gather data|recueillir des données|B2+|3|4|We're still gathering data.|Nous recueillons encore des données.|gathering data|w||pro,analysis|
+analyze data|analyser des données|B2+|4|4|She analyzes data for a bank.|Elle analyse des données pour une banque.|analyzes data|w||pro,analysis|notes=UK : analyse.
+implement a solution|mettre en œuvre une solution|B2+|3|4|We implemented a solution last month.|Nous avons mis en œuvre une solution le mois dernier.|implemented a solution|w||pro,project|
+allocate resources|allouer des ressources|C1|3|3|We need to allocate more resources to this.|Nous devons allouer davantage de ressources à cela.|allocate more resources|w||pro,management|
+exceed expectations|dépasser les attentes|B2+|3|4|The results exceeded our expectations.|Les résultats ont dépassé nos attentes.|exceeded our expectations|w||pro,reporting|
+handle a complaint|traiter une réclamation|B2+|3|3|She handled the complaint very well.|Elle a très bien traité la réclamation.|handled the complaint|w||pro,business|
+resolve a conflict|résoudre un conflit|B2+|3|3|He helped us resolve the conflict.|Il nous a aidés à résoudre le conflit.|resolve the conflict|w||pro,management|
+strike a balance|trouver le bon équilibre|C1|3|4|It's hard to strike a balance between work and family.|C'est difficile de trouver le bon équilibre entre travail et famille.|strike a balance|c||conversation,work|
+shed light on|faire la lumière sur|C1|3|3|This study sheds light on the problem.|Cette étude fait la lumière sur le problème.|sheds light on|n|f|news,analysis|
+take steps|prendre des mesures|B2+|4|4|We're taking steps to fix this.|Nous prenons des mesures pour régler ça.|taking steps|w||pro,decision|
+fully aware|pleinement conscient|B2+|3|3|I'm fully aware of the problem.|Je suis pleinement conscient du problème.|fully aware|w||pro,communication|
+highly skilled|hautement qualifié|B2+|3|3|We need highly skilled workers.|Nous avons besoin de travailleurs hautement qualifiés.|highly skilled|w||pro,career|
+closely related|étroitement lié|B2+|3|3|These two problems are closely related.|Ces deux problèmes sont étroitement liés.|closely related|w||analysis|
+vast majority|grande majorité|B2+|4|4|The vast majority of users are happy.|La grande majorité des utilisateurs sont satisfaits.|vast majority|w||pro,analysis|
+key factor|facteur clé|B2+|4|4|Trust is a key factor.|La confiance est un facteur clé.|key factor|w||pro,analysis|
+
+@phrasal_verb
+rule out|exclure, écarter|B2+|4|5|We can't rule out this option.|Nous ne pouvons pas écarter cette option.|rule out|w||pro,decision|
+carry out|effectuer, réaliser|B2|5|5|We carried out several tests.|Nous avons effectué plusieurs tests.|carried out|w||pro,project|
+draw up|établir, rédiger|B2+|3|3|We drew up a new contract.|Nous avons rédigé un nouveau contrat.|drew up|w||pro,business|forms=draw, drew, drawn
+take on|assumer, embaucher|B2+|4|4|I can't take on any more work.|Je ne peux pas prendre plus de travail.|take on|w||pro,work|sense=assumer
+put forward|proposer, avancer|B2+|3|4|She put forward an interesting idea.|Elle a proposé une idée intéressante.|put forward|w||pro,meetings|
+narrow down|réduire (un choix)|B2+|4|4|We've narrowed it down to two options.|Nous avons réduit le choix à deux possibilités.|narrowed it down|w||pro,decision|
+set aside|mettre de côté|B2+|4|4|Let's set aside an hour for this.|Réservons une heure pour ça.|set aside|w||pro,time|
+lay off|licencier|B2+|4|4|They laid off fifty people.|Ils ont licencié cinquante personnes.|laid off|w||pro,management|forms=lay, laid, laid
+call off|annuler (un événement prévu)|B2|4|4|They called off the meeting.|Ils ont annulé la réunion.|called off|w||pro,meetings|
+bring about|provoquer, entraîner|B2+|3|3|This law brought about major changes.|Cette loi a entraîné des changements majeurs.|brought about|n|f|news,analysis|
+pull off|réussir (quelque chose de difficile)|B2+|4|4|I can't believe we pulled it off!|Je n'arrive pas à croire que nous ayons réussi !|pulled it off|c|i|conversation|
+get across|faire comprendre|B2+|3|4|I couldn't get my point across.|Je n'ai pas réussi à faire comprendre mon idée.|get my point across|w||pro,communication|family=get
+
+@connector
+that said|cela dit|B2+|4|5|It's expensive. That said, it's good quality.|C'est cher. Cela dit, c'est de bonne qualité.|That said|c||conversation,fn_nuance|
+having said that|ceci étant dit|B2+|4|4|I like him. Having said that, he can be rude.|Je l'aime bien. Ceci étant dit, il peut être impoli.|Having said that|c||conversation,fn_nuance|
+nevertheless|néanmoins|B2+|4|4|It was risky. Nevertheless, we decided to try.|C'était risqué. Néanmoins, nous avons décidé d'essayer.|Nevertheless|w|f|pro,writing|
+on balance|tout compte fait|B2+|3|4|On balance, I think it was a good decision.|Tout compte fait, je pense que c'était une bonne décision.|On balance|w||pro,fn_opinion|
+furthermore|en outre|B2+|4|3|Furthermore, the costs are too high.|En outre, les coûts sont trop élevés.|Furthermore|w|f|pro,writing|
+owing to|en raison de|B2+|3|3|The flight was delayed owing to bad weather.|Le vol a été retardé en raison du mauvais temps.|owing to|t|f|travel,writing|also=due to
+provided that|à condition que|B2+|3|4|You can leave early provided that the work is done.|Tu peux partir tôt à condition que le travail soit fait.|provided that|w||pro,fn_nuance|
+
+@idiom
+go the extra mile|faire un effort supplémentaire|B2+|3|3|She always goes the extra mile for her clients.|Elle en fait toujours plus pour ses clients.|goes the extra mile|w||pro,work|
+the elephant in the room|le sujet que personne n'ose aborder|C1|3|3|Let's talk about the elephant in the room.|Parlons du sujet que personne n'ose aborder.|the elephant in the room|w||pro,meetings|
+back to square one|retour à la case départ|B2+|4|4|The client said no, so we're back to square one.|Le client a dit non, donc retour à la case départ.|back to square one|c|i|conversation,pro|
+cut to the chase|aller droit au but|B2+|3|3|Let's cut to the chase: how much is it?|Allons droit au but : combien ça coûte ?|cut to the chase|c|i|conversation,pro|
+bite off more than you can chew|avoir les yeux plus gros que le ventre|C1|3|3|I think I've bitten off more than I can chew.|Je crois que j'ai eu les yeux plus gros que le ventre.|bitten off more than I can chew|c|i|conversation|
