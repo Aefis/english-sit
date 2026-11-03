@@ -64,7 +64,9 @@ export function Review({ store }: { store: Store }) {
 }
 
 function Flashcard({ store, card, item }: { store: Store; card: CardState; item: Item }) {
-  const [revealed, setRevealed] = useState(false);
+  const [flipped, setFlipped] = useState(false);
+  // Une fois la réponse vue, on peut retourner la carte à volonté avant de noter.
+  const [seen, setSeen] = useState(false);
   const [hint, setHint] = useState(false);
   const [busy, setBusy] = useState(false);
   const shownAt = useRef(Date.now());
@@ -78,17 +80,30 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
     await store.review(card, rating, Date.now() - shownAt.current);
   };
 
+  const flip = () => {
+    setFlipped(!flipped);
+    setSeen(true);
+  };
+
+  /** Les boutons posés sur la carte ne doivent pas la retourner. */
+  const withoutFlip = (action: () => void) => (event: Event) => {
+    event.stopPropagation();
+    action();
+  };
+
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
-      if (event.ctrlKey || event.metaKey || event.altKey) return;
-      if (!revealed && (event.key === ' ' || event.key === 'Enter')) {
+      if (event.ctrlKey || event.metaKey || event.altKey || event.repeat) return;
+      if (event.key === ' ' || event.key === 'Enter') {
+        // Un bouton de la carte qui a le focus garde son action native.
+        if ((event.target as Element).closest('.flashcard button')) return;
         event.preventDefault();
-        setRevealed(true);
-      } else if (!revealed && event.key === 'h' && !isRecognition) {
+        flip();
+      } else if (!flipped && event.key === 'h' && !isRecognition) {
         setHint(true);
-      } else if (revealed && event.key === 's') {
+      } else if (flipped && event.key === 's') {
         listen();
-      } else if (revealed && ['1', '2', '3', '4'].includes(event.key)) {
+      } else if (seen && ['1', '2', '3', '4'].includes(event.key)) {
         void grade(Number(event.key) as Grade);
       }
     };
@@ -96,60 +111,78 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
     return () => window.removeEventListener('keydown', onKey);
   });
 
-  const preview = revealed ? previewDue(store.scheduler, card, Date.now()) : null;
+  const preview = seen ? previewDue(store.scheduler, card, Date.now()) : null;
 
   return (
-    <article class="panel card">
-      <header class="card-head">
-        <span class="kind">{KIND_LABELS[card.kind]}</span>
-        <Badges item={item} />
-      </header>
+    <article class="flashcard">
+      <div class={flipped ? 'flip flipped' : 'flip'} onClick={flip}>
+        <div class="flip-inner">
+          <div class="face panel" aria-hidden={flipped} inert={flipped}>
+            <header class="card-head">
+              <span class="kind">{KIND_LABELS[card.kind]}</span>
+              <Badges item={item} />
+            </header>
+            <div class="prompt">
+              {card.kind === 'recognition' && (
+                <>
+                  <p class="headword">{item.english}</p>
+                  <p class="sentence"><Highlighted item={item} /></p>
+                </>
+              )}
+              {card.kind === 'production' && <p class="sentence large">{item.example_fr}</p>}
+              {card.kind === 'context' && <p class="sentence large">{item.situation_fr}</p>}
+              {hint && <p class="hint">{clozeHint(item.example_en, item.highlight)}</p>}
+            </div>
+            {!isRecognition && !hint && (
+              <div class="actions">
+                <button class="secondary" onClick={withoutFlip(() => setHint(true))}>Indice</button>
+              </div>
+            )}
+          </div>
 
-      <div class="prompt">
-        {card.kind === 'recognition' && (
-          <>
-            <p class="headword">{item.english}</p>
-            <p class="sentence"><Highlighted item={item} /></p>
-          </>
-        )}
-        {card.kind === 'production' && <p class="sentence large">{item.example_fr}</p>}
-        {card.kind === 'context' && <p class="sentence large">{item.situation_fr}</p>}
-        {hint && !revealed && <p class="hint">{clozeHint(item.example_en, item.highlight)}</p>}
-      </div>
-
-      {revealed ? (
-        <div class="answer">
-          {isRecognition ? (
-            <>
-              <p class="headword">{item.french}</p>
-              <p class="sentence muted">{item.example_fr}</p>
-            </>
-          ) : (
-            <>
-              <p class="headword">{spokenAnswer(item)}</p>
-              <p class="sentence"><Highlighted item={item} /></p>
-              <p class="sentence muted">{item.french}</p>
-            </>
-          )}
-          <button class="link" onClick={listen}>Écouter</button>
-          <ItemDetails item={item} store={store} />
-          {card.lapses >= LEECH_LAPSES && (
-            <p class="leech">Carte récalcitrante : {card.lapses} oublis. Pense à la suspendre dans Explorer.</p>
-          )}
-          <div class="grades">
-            {GRADES.map(({ rating, label, className }, index) => (
-              <button key={rating} class={`grade ${className}`} disabled={busy} onClick={() => void grade(rating)}>
-                <span>{label}</span>
-                <small>{formatDelay(preview![rating] - Date.now())}</small>
-                <kbd>{index + 1}</kbd>
-              </button>
-            ))}
+          <div class="face face-back panel" aria-hidden={!flipped} inert={!flipped}>
+            <header class="card-head">
+              <span class="kind">Réponse</span>
+              <Badges item={item} />
+            </header>
+            <div class="prompt">
+              {isRecognition ? (
+                <>
+                  <p class="headword">{item.french}</p>
+                  <p class="sentence muted">{item.example_fr}</p>
+                </>
+              ) : (
+                <>
+                  <p class="headword">{spokenAnswer(item)}</p>
+                  <p class="sentence"><Highlighted item={item} /></p>
+                  <p class="sentence muted">{item.french}</p>
+                </>
+              )}
+              <div class="actions">
+                <button class="link" onClick={withoutFlip(listen)}>Écouter</button>
+              </div>
+            </div>
+            <ItemDetails item={item} store={store} />
+            {card.lapses >= LEECH_LAPSES && (
+              <p class="leech">Carte récalcitrante : {card.lapses} oublis. Pense à la suspendre dans Explorer.</p>
+            )}
           </div>
         </div>
-      ) : (
-        <div class="actions">
-          {!isRecognition && !hint && <button class="secondary" onClick={() => setHint(true)}>Indice</button>}
-          <button class="primary" onClick={() => setRevealed(true)}>Voir la réponse</button>
+      </div>
+
+      <div class="actions flip-actions">
+        <button class={seen ? 'secondary' : 'primary'} onClick={flip}>Retourner la carte</button>
+      </div>
+
+      {preview && (
+        <div class="grades">
+          {GRADES.map(({ rating, label, className }, index) => (
+            <button key={rating} class={`grade ${className}`} disabled={busy} onClick={() => void grade(rating)}>
+              <span>{label}</span>
+              <small>{formatDelay(preview[rating] - Date.now())}</small>
+              <kbd>{index + 1}</kbd>
+            </button>
+          ))}
         </div>
       )}
     </article>
