@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
 import { clozeHint, spokenAnswer, type CardKind } from '../core/cards';
-import type { Item } from '../core/schema';
+import { matchesFocus, NO_FOCUS, type Focus } from '../core/queue';
+import { LEVELS, type Item } from '../core/schema';
 import type { Store } from '../core/store';
 import { LEECH_LAPSES, previewDue, Rating, type CardState, type Grade } from '../core/srs';
 import { Badges, Highlighted, ItemDetails, speak, useStore } from './shared';
@@ -18,6 +19,17 @@ const GRADES: { rating: Grade; label: string; className: string }[] = [
   { rating: Rating.Easy, label: 'Easy', className: 'easy' },
 ];
 
+const CATEGORIES: [Focus['category'], string][] = [
+  ['', 'Toutes'],
+  ['word', 'Mots'],
+  ['chunk', 'Expressions'],
+  ['collocation', 'Collocations'],
+  ['phrasal_verb', 'Phrasal verbs'],
+  ['idiom', 'Idiomes'],
+  ['connector', 'Connecteurs'],
+  ['pro', 'Anglais pro'],
+];
+
 function formatDelay(ms: number): string {
   const minutes = Math.max(1, Math.round(ms / 60_000));
   if (minutes < 60) return `${minutes} min`;
@@ -29,7 +41,72 @@ function formatDelay(ms: number): string {
   return months < 12 ? `${months} mois` : `${(days / 365).toFixed(1)} an(s)`;
 }
 
-export function Review({ store }: { store: Store }) {
+function FocusBar({ focus, onFocus }: { focus: Focus; onFocus: (focus: Focus) => void }) {
+  // Rendre le focus à la page pour qu'Espace retourne la carte juste après le choix.
+  const pick = (patch: Partial<Focus>) => (event: Event) => {
+    (event.target as HTMLSelectElement).blur();
+    onFocus({ ...focus, ...patch });
+  };
+  const value = (event: Event) => (event.target as HTMLSelectElement).value;
+  return (
+    <div class="focus-bar">
+      <label>
+        <span>Catégorie</span>
+        <select
+          value={focus.category}
+          onChange={(e) => pick({ category: value(e) as Focus['category'] })(e)}
+        >
+          {CATEGORIES.map(([id, label]) => <option key={id} value={id}>{label}</option>)}
+        </select>
+      </label>
+      <label>
+        <span>Niveau</span>
+        <select value={focus.level} onChange={(e) => pick({ level: value(e) as Focus['level'] })(e)}>
+          <option value="">Tous</option>
+          {LEVELS.map((level) => <option key={level} value={level}>{level}</option>)}
+        </select>
+      </label>
+    </div>
+  );
+}
+
+function DoneMessage({ store, focus, onFocus, learning }: {
+  store: Store;
+  focus: Focus;
+  onFocus: (focus: Focus) => void;
+  learning: number;
+}) {
+  const focused = focus.category !== '' || focus.level !== '';
+  if (!focused) {
+    return (
+      <div class="panel done">
+        <h1>C'est tout pour aujourd'hui</h1>
+        <p>
+          {learning > 0
+            ? `${learning} carte(s) en cours reviendront plus tard dans la journée.`
+            : 'Reviens demain : tes prochaines cartes seront prêtes.'}
+        </p>
+      </div>
+    );
+  }
+  const empty = !store.items.some((item) => matchesFocus(item, focus));
+  const moreElsewhere = store.queue().next !== null;
+  return (
+    <div class="panel done">
+      <h1>{empty ? 'Aucun élément pour cette sélection' : 'Plus de cartes pour cette sélection'}</h1>
+      <p>
+        {empty
+          ? 'Essaie une autre catégorie ou un autre niveau.'
+          : moreElsewhere
+            ? "Il reste des cartes prévues aujourd'hui dans d'autres catégories."
+            : "Tu as aussi fini toutes les autres cartes d'aujourd'hui."}
+      </p>
+      {moreElsewhere && <button class="primary" onClick={() => onFocus(NO_FOCUS)}>Tout réviser</button>}
+    </div>
+  );
+}
+
+export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; onFocus: (focus: Focus) => void }) {
   useStore(store);
   const [, setTick] = useState(0);
   useEffect(() => {
@@ -37,11 +114,12 @@ export function Review({ store }: { store: Store }) {
     return () => clearInterval(timer);
   }, []);
 
-  const { next, counts } = store.queue();
+  const { next, counts } = store.queue(focus);
   const item = next ? store.byId.get(next.itemId) : undefined;
 
   return (
     <section class="review">
+      <FocusBar focus={focus} onFocus={onFocus} />
       <p class="counts" aria-label="Cartes restantes">
         <span>{counts.fresh} nouvelles</span>
         <span>{counts.learning} en cours</span>
@@ -50,14 +128,7 @@ export function Review({ store }: { store: Store }) {
       {next && item ? (
         <Flashcard key={`${next.id}:${next.reps}`} store={store} card={next} item={item} />
       ) : (
-        <div class="panel done">
-          <h1>C'est tout pour aujourd'hui</h1>
-          <p>
-            {counts.learning > 0
-              ? `${counts.learning} carte(s) en cours reviendront plus tard dans la journée.`
-              : 'Reviens demain : tes prochaines cartes seront prêtes.'}
-          </p>
-        </div>
+        <DoneMessage store={store} focus={focus} onFocus={onFocus} learning={counts.learning} />
       )}
     </section>
   );
@@ -96,7 +167,7 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
       if (event.ctrlKey || event.metaKey || event.altKey || event.repeat) return;
       if (event.key === ' ' || event.key === 'Enter') {
         // Un bouton de la carte qui a le focus garde son action native.
-        if ((event.target as Element).closest('.flashcard button')) return;
+        if ((event.target as Element).closest('.flashcard button, .focus-bar select, .done button')) return;
         event.preventDefault();
         flip();
       } else if (!flipped && event.key === 'h' && !isRecognition) {

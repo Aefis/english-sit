@@ -2,7 +2,7 @@ import { beforeEach, describe, expect, it } from 'vitest';
 import { cardId, cardsForItem } from '../src/core/cards';
 import { filterItems, NO_FILTERS } from '../src/core/filter';
 import { levelVerdict, placementCard, presumeRest, sampleLevel } from '../src/core/placement';
-import { buildQueue, dayKey, type QueueInput } from '../src/core/queue';
+import { buildQueue, dayKey, matchesFocus, NO_FOCUS, type QueueInput } from '../src/core/queue';
 import type { Item, Level } from '../src/core/schema';
 import {
   applyReview, createScheduler, DAY_MS, newCardState, previewDue, Rating, retrievability, seedCard, State,
@@ -144,6 +144,39 @@ describe('file de révision', () => {
   it('bascule la journée à 4 h', () => {
     expect(dayKey(new Date(2026, 10, 4, 3).getTime())).toBe('2026-11-03');
     expect(dayKey(new Date(2026, 10, 4, 5).getTime())).toBe('2026-11-04');
+  });
+});
+
+describe('révision par catégorie et par niveau', () => {
+  const verb = item('look-into', { type: 'phrasal_verb', level: 'B2', tags: ['pro'] });
+  const word = item('busy', { type: 'word', level: 'A1', tags: ['daily_life'] });
+  const proWord = item('deadline', { type: 'word', level: 'B2', tags: ['pro'] });
+  const all = [word, verb, proWord];
+  const ids = (focus: Parameters<typeof matchesFocus>[1]) => all.filter((i) => matchesFocus(i, focus)).map((i) => i.id);
+
+  it('laisse tout passer sans sélection', () => {
+    expect(ids(NO_FOCUS)).toHaveLength(3);
+  });
+
+  it('filtre par type, niveau, tag pro et combinaison', () => {
+    expect(ids({ category: 'phrasal_verb', level: '' })).toEqual(['look-into']);
+    expect(ids({ category: '', level: 'B2' })).toEqual(['look-into', 'deadline']);
+    expect(ids({ category: 'pro', level: '' })).toEqual(['look-into', 'deadline']);
+    expect(ids({ category: 'word', level: 'B2' })).toEqual(['deadline']);
+    expect(ids({ category: 'idiom', level: 'A1' })).toEqual([]);
+  });
+
+  it('garde la limite de nouvelles cartes commune à toutes les sélections', () => {
+    const logs = Array(20).fill({ stateBefore: State.New, itemId: 'busy' }) as ReviewLog[];
+    const focused = all.filter((i) => matchesFocus(i, { category: 'pro', level: '' }));
+    expect(buildQueue({ ...input, items: focused, logsToday: logs }).next).toBeNull();
+  });
+
+  it('ne change pas la planification : une carte hors sélection reste due', () => {
+    const due = { ...graduated(word), due: NOW - 1000 };
+    const focused = all.filter((i) => matchesFocus(i, { category: 'pro', level: '' }));
+    expect(buildQueue({ ...input, items: focused, cards: mapOf(due) }).next?.itemId).toBe('look-into');
+    expect(buildQueue({ ...input, items: all, cards: mapOf(due) }).next?.id).toBe(due.id);
   });
 });
 

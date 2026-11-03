@@ -1,6 +1,20 @@
 import { cardsForItem, type CardRef } from './cards';
-import type { Item } from './schema';
+import type { Item, ItemType, Level } from './schema';
 import { newCardState, State, type CardState, type ReviewLog } from './srs';
+
+/** Sélection de révision. « pro » est un tag transversal, pas un type. */
+export interface Focus {
+  category: ItemType | 'pro' | '';
+  level: Level | '';
+}
+
+export const NO_FOCUS: Focus = { category: '', level: '' };
+
+export function matchesFocus(item: Item, { category, level }: Focus): boolean {
+  if (level && item.level !== level) return false;
+  if (category === 'pro') return item.tags.includes('pro');
+  return !category || item.type === category;
+}
 
 export interface QueueSettings {
   newPerDay: number;

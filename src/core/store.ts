@@ -1,6 +1,8 @@
 import Dexie, { type Table } from 'dexie';
 import type { FSRS } from 'ts-fsrs';
-import { buildQueue, dayKey, DEFAULT_SETTINGS, type QueueResult, type QueueSettings } from './queue';
+import {
+  buildQueue, dayKey, DEFAULT_SETTINGS, matchesFocus, NO_FOCUS, type Focus, type QueueResult, type QueueSettings,
+} from './queue';
 import type { Deck, Item } from './schema';
 import { applyReview, createScheduler, type CardState, type Grade, type ReviewLog } from './srs';
 
@@ -101,10 +103,11 @@ export class Store {
     return new Set([...this.prefs.values()].filter((p) => p.suspended).map((p) => p.itemId));
   }
 
-  queue(now = Date.now()): QueueResult {
+  /** Les limites quotidiennes viennent du journal complet : elles restent communes à toutes les sélections. */
+  queue(focus: Focus = NO_FOCUS, now = Date.now()): QueueResult {
     const today = dayKey(now);
     return buildQueue({
-      items: this.items,
+      items: this.items.filter((item) => matchesFocus(item, focus)),
       cards: this.cards,
       logsToday: this.logs.filter((l) => dayKey(l.ts) === today),
       suspended: this.suspended,
