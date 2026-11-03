@@ -64,7 +64,7 @@ Calculés au build : `order` (rang d'apprentissage), `zipf`, `frequency_source` 
 | Type | Recto | Verso | Créée si |
 |---|---|---|---|
 | `recognition` | Anglais + exemple | Français | Toujours |
-| `production` | Exemple français, indice à la demande (`I w__ a____ t_ leave.`) | Anglais | `priority` ≥ 3 |
+| `production` | Exemple français, indice à la demande (`I w__ a____ t_ leave.`) | Anglais | Toujours |
 | `context` | Situation en français | Anglais | `situation_fr` renseigné |
 
 ### Progression, par carte
@@ -112,8 +112,7 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 ## 6. Répétition espacée
 
 - **Algorithme.** FSRS-6, rétention visée de 90 %, réglable. Étapes d'apprentissage de 1 et 10 minutes, journée qui bascule à 4 h.
-- **Enchaînement.** La production se débloque quand la compréhension est consolidée, et le contexte quand la production l'est.
-- **Pas d'écho.** Un seul sens de révision d'un même élément par jour, sinon la seconde carte ne teste plus la mémoire.
+- **Sens de révision.** Menu Les deux, EN → FR ou FR → EN. En mode Les deux, la production attend que la compréhension soit consolidée, et le contexte que la production le soit. FR → EN lève le premier blocage.
 - **Ordre de la file.** Cartes en cours, puis révisions dues, puis nouveautés. Les nouveautés alternent productions débloquées et nouveaux éléments.
 - **Révision ciblée.** Une sélection par catégorie et par niveau restreint la file sans changer la planification. La sélection s'efface au rechargement pour ne pas masquer durablement des cartes dues.
 - **Aucune limite quotidienne.** Nouvelles cartes et révisions ne sont pas plafonnées, à ta demande. Une fois les cartes prévues terminées, « Continuer quand même » reprend les cartes vues il y a le plus longtemps. Une révision anticipée rapporte moins, mais FSRS en tient compte.
@@ -128,7 +127,7 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 
 **Importantes**
 
-1. **La charge de travail n'est pas chiffrée, et c'est le plus gros risque.** 10 000 éléments donnent environ 20 000 cartes (2,07 par élément dans le prototype). Simulation FSRS sur 2 ans, avec 90 % de réussite, sans test initial :
+1. **La charge de travail n'est pas chiffrée, et c'est le plus gros risque.** 10 000 éléments donnent environ 20 000 cartes (2,09 par élément dans le prototype). Simulation FSRS sur 2 ans, avec 90 % de réussite, sans test initial :
 
    | Nouvelles cartes/jour | Durée pour 20 000 cartes | Cartes/jour à 6 mois | à 12 mois | à 24 mois |
    |---|---|---|---|---|
@@ -158,7 +157,7 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 
 | Proposition | État |
 |---|---|
-| Suivi par carte, déblocage progressif, un seul sens par jour | Fait |
+| Suivi par carte, déblocage progressif, choix du sens de révision | Fait |
 | `highlight`, indice, `also_accept`, identifiants stables | Fait |
 | Synthèse vocale du navigateur, et `audio` prioritaire s'il existe | Fait |
 | Export et import de la progression | Fait |

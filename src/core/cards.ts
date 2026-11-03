@@ -11,12 +11,8 @@ export interface CardRef {
 
 export const cardId = (itemId: string, kind: CardKind) => `${itemId}::${kind}`;
 
-/** Priorité minimale pour mériter une carte de production. */
-export const PRODUCTION_MIN_PRIORITY = 3;
-
-export function cardsForItem(item: Pick<Item, 'id' | 'priority' | 'situation_fr'>): CardRef[] {
-  const kinds: CardKind[] = ['recognition'];
-  if (item.priority >= PRODUCTION_MIN_PRIORITY) kinds.push('production');
+export function cardsForItem(item: Pick<Item, 'id' | 'situation_fr'>): CardRef[] {
+  const kinds: CardKind[] = ['recognition', 'production'];
   if (item.situation_fr) kinds.push('context');
   return kinds.map((kind) => ({ id: cardId(item.id, kind), itemId: item.id, kind }));
 }

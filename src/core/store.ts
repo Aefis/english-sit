@@ -1,7 +1,7 @@
 import Dexie, { type Table } from 'dexie';
 import type { FSRS } from 'ts-fsrs';
 import {
-  buildQueue, dayKey, matchesFocus, NO_FOCUS, type Focus, type QueueResult,
+  buildQueue, matchesFocus, NO_FOCUS, type Focus, type QueueResult,
 } from './queue';
 import type { Deck, Item } from './schema';
 import { applyReview, createScheduler, type CardState, type Grade, type ReviewLog } from './srs';
@@ -104,13 +104,12 @@ export class Store {
   }
 
   queue(focus: Focus = NO_FOCUS, free = false, now = Date.now()): QueueResult {
-    const today = dayKey(now);
     return buildQueue({
       items: this.items.filter((item) => matchesFocus(item, focus)),
       cards: this.cards,
-      logsToday: this.logs.filter((l) => dayKey(l.ts) === today),
       suspended: this.suspended,
       now,
+      direction: focus.direction,
       free,
     });
   }

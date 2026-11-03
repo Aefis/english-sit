@@ -36,7 +36,6 @@ beforeEach(() => {
   input = {
     items: [item('a', { order: 1 }), item('b', { order: 2 }), item('c', { order: 3 })],
     cards: new Map(),
-    logsToday: [],
     suspended: new Set(),
     now: NOW,
   };
@@ -91,17 +90,9 @@ describe('file de révision', () => {
     expect(counts.fresh).toBe(3);
   });
 
-  it('ne limite pas le nombre de nouvelles cartes', () => {
-    const logs = Array(500).fill({ stateBefore: State.New, itemId: 'z' }) as ReviewLog[];
-    const { next, counts } = buildQueue({ ...input, logsToday: logs });
-    expect(next?.itemId).toBe('a');
-    expect(counts.fresh).toBe(3);
-  });
-
-  it('ne limite pas le nombre de révisions', () => {
-    const logs = Array(500).fill({ stateBefore: State.Review, itemId: 'z' }) as ReviewLog[];
-    const due = { ...graduated(input.items[0]), due: NOW - 1000 };
-    expect(buildQueue({ ...input, cards: mapOf(due), logsToday: logs }).next?.id).toBe(due.id);
+  it('propose toutes les nouveautés sans limite', () => {
+    const items = Array.from({ length: 300 }, (_, n) => item(`w${n}`));
+    expect(buildQueue({ ...input, items }).counts.fresh).toBe(300);
   });
 
   it('place les cartes en cours, puis les révisions, avant les nouveautés', () => {
@@ -121,18 +112,25 @@ describe('file de révision', () => {
     expect(next?.kind).toBe('production');
   });
 
-  it('ne montre pas deux directions du même élément le même jour', () => {
+  it('propose la production le jour même, dès la compréhension consolidée', () => {
     const items = [item('a')];
     const done = { ...graduated(items[0]), due: NOW + 1e9 };
-    const log = { stateBefore: State.Learning, itemId: 'a' } as ReviewLog;
-    expect(buildQueue({ ...input, items, cards: mapOf(done), logsToday: [log] }).next).toBeNull();
+    expect(buildQueue({ ...input, items, cards: mapOf(done) }).next?.kind).toBe('production');
   });
 
-  it('alterne cartes débloquées et nouveaux éléments', () => {
-    const items = [item('a'), item('b'), item('c')];
-    const a = { ...graduated(items[0]), due: NOW + 1e9 };
-    const { next } = buildQueue({ ...input, items, cards: mapOf(a) });
-    expect(next?.id).toBe(cardId('a', 'production'));
+  it('alterne vraiment les deux sens sur toute une session', () => {
+    const items = Array.from({ length: 12 }, (_, n) => item(`w${n}`));
+    const cards = new Map<string, CardState>();
+    const kinds: string[] = [];
+    for (let n = 0; n < 16; n++) {
+      const { next } = buildQueue({ ...input, items, cards });
+      kinds.push(next!.kind);
+      const { card } = applyReview(scheduler, next!, Rating.Easy, NOW);
+      cards.set(card.id, card);
+    }
+    const production = kinds.filter((k) => k === 'production').length;
+    expect(production).toBe(8);
+    expect(kinds.slice(0, 4)).toEqual(['recognition', 'production', 'recognition', 'production']);
   });
 
   it('ignore les éléments suspendus', () => {
@@ -179,33 +177,60 @@ describe('révision par catégorie et par niveau', () => {
   });
 });
 
+describe('sens de révision', () => {
+  const situated = item('a', { situation_fr: 'Tu...' });
+
+  it('EN → FR ne propose que la compréhension', () => {
+    const done = { ...graduated(situated), due: NOW + 1e9 };
+    const { next, counts } = buildQueue({ ...input, items: [situated], cards: mapOf(done), direction: 'en-fr' });
+    expect(next).toBeNull();
+    expect(counts.fresh).toBe(0);
+  });
+
+  it('FR → EN propose tout de suite la production d\'un élément jamais vu', () => {
+    const { next, counts } = buildQueue({ ...input, direction: 'fr-en' });
+    expect(next?.id).toBe(cardId('a', 'production'));
+    expect(counts.fresh).toBe(3);
+  });
+
+  it('FR → EN ignore les cartes de compréhension dues', () => {
+    const due = { ...graduated(input.items[0]), due: NOW - 1000 };
+    expect(buildQueue({ ...input, cards: mapOf(due), direction: 'fr-en' }).next?.kind).toBe('production');
+  });
+
+  it('FR → EN garde la carte de situation après la production', () => {
+    const production = { ...graduated(situated, 1), due: NOW + 1e9 };
+    const { next } = buildQueue({ ...input, items: [situated], cards: mapOf(production), direction: 'fr-en' });
+    expect(next?.kind).toBe('context');
+  });
+
+  it('applique le sens à la révision libre', () => {
+    const recognition = { ...graduated(input.items[0]), due: NOW + 1e9 };
+    const items = [input.items[0]];
+    const { next } = buildQueue({ ...input, items, cards: mapOf(recognition), direction: 'en-fr', free: true });
+    expect(next?.kind).toBe('recognition');
+  });
+});
+
 describe('révision libre', () => {
   const items = [item('a'), item('b')];
-  const later = (i: Item, lastReview: number) => ({ ...graduated(i), due: NOW + 1e9, lastReview });
-  const log = (itemId: string) => ({ stateBefore: State.Learning, itemId }) as ReviewLog;
+  const later = (i: Item, n: number, lastReview: number) => ({ ...graduated(i, n), due: NOW + 1e9, lastReview });
+  const bothDone = (i: Item, lastReview: number) => [later(i, 0, lastReview), later(i, 1, lastReview - 1)];
 
   it('propose une carte non prévue seulement si on le demande', () => {
-    const cards = mapOf(later(items[0], NOW - 1000));
-    const base = { ...input, items: [items[0]], cards, logsToday: [log('a')] };
+    const base = { ...input, items: [items[0]], cards: mapOf(...bothDone(items[0], NOW - 1000)) };
     expect(buildQueue(base).next).toBeNull();
     expect(buildQueue({ ...base, free: true }).next).not.toBeNull();
   });
 
-  it('débloque la production le jour même', () => {
-    const cards = mapOf(later(items[0], NOW - 1000));
-    const { next } = buildQueue({ ...input, items: [items[0]], cards, logsToday: [log('a')], free: true });
-    expect(next?.kind).toBe('production');
-  });
-
   it('reprend la carte vue il y a le plus longtemps', () => {
-    const only = [item('a', { priority: 2 }), item('b', { priority: 2 })];
-    const cards = mapOf(later(only[0], NOW - 1000), later(only[1], NOW - 9000));
-    expect(buildQueue({ ...input, items: only, cards, free: true }).next?.itemId).toBe('b');
+    const cards = mapOf(...bothDone(items[0], NOW - 1000), ...bothDone(items[1], NOW - 9000));
+    expect(buildQueue({ ...input, items, cards, free: true }).next?.itemId).toBe('b');
   });
 
   it('garde les cartes prévues en priorité', () => {
     const due = { ...graduated(items[0]), due: NOW - 1000 };
-    const cards = mapOf(due, later(items[1], NOW - 9000));
+    const cards = mapOf(due, ...bothDone(items[1], NOW - 9000));
     expect(buildQueue({ ...input, items, cards, free: true }).next?.id).toBe(due.id);
   });
 

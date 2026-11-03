@@ -1,16 +1,20 @@
-import { cardsForItem, type CardRef } from './cards';
+import { cardsForItem, type CardKind, type CardRef } from './cards';
 import type { Item, ItemType, Level } from './schema';
-import { newCardState, State, type CardState, type ReviewLog } from './srs';
+import { newCardState, State, type CardState } from './srs';
 
 /** Sélection de révision. « pro » est un tag transversal, pas un type. */
 export interface Focus {
   category: ItemType | 'pro' | '';
   level: Level | '';
+  direction: Direction;
 }
 
-export const NO_FOCUS: Focus = { category: '', level: '' };
+/** Sens de révision : '' mélange les deux. */
+export type Direction = '' | 'en-fr' | 'fr-en';
 
-export function matchesFocus(item: Item, { category, level }: Focus): boolean {
+export const NO_FOCUS: Focus = { category: '', level: '', direction: '' };
+
+export function matchesFocus(item: Item, { category, level }: Pick<Focus, 'category' | 'level'>): boolean {
   if (level && item.level !== level) return false;
   if (category === 'pro') return item.tags.includes('pro');
   return !category || item.type === category;
@@ -29,9 +33,9 @@ export function dayKey(ts: number): string {
 export interface QueueInput {
   items: Item[];
   cards: Map<string, CardState>;
-  logsToday: ReviewLog[];
   suspended: Set<string>;
   now: number;
+  direction?: Direction;
   /** Révision libre : ignore le calendrier une fois les cartes prévues terminées. */
   free?: boolean;
 }
@@ -41,20 +45,24 @@ export interface QueueResult {
   counts: { learning: number; review: number; fresh: number };
 }
 
-/** Une carte de production/contexte se débloque quand la précédente est consolidée. */
-function isUnlocked(ref: CardRef, cards: Map<string, CardState>, refs: CardRef[]): boolean {
-  if (ref.kind === 'recognition') return true;
-  const previous = ref.kind === 'production' ? 'recognition' : 'production';
-  const parent = refs.find((r) => r.kind === previous);
-  if (!parent) return true;
-  return cards.get(parent.id)?.state === State.Review;
+function inDirection(kind: CardKind, direction: Direction): boolean {
+  if (direction === 'en-fr') return kind === 'recognition';
+  return direction === '' || kind !== 'recognition';
+}
+
+/**
+ * Sans sens imposé, la production attend que la compréhension soit consolidée, pour ne pas
+ * interroger sur un élément jamais vu. Choisir FR → EN lève ce blocage.
+ */
+function isUnlocked(ref: CardRef, cards: Map<string, CardState>, direction: Direction): boolean {
+  if (ref.kind === 'recognition' || (ref.kind === 'production' && direction)) return true;
+  const parent = ref.kind === 'production' ? 'recognition' : 'production';
+  return cards.get(ref.id.replace(ref.kind, parent))?.state === State.Review;
 }
 
 const isLearning = (c: CardState) => c.state === State.Learning || c.state === State.Relearning;
 
-export function buildQueue({ items, cards, logsToday, suspended, now, free = false }: QueueInput): QueueResult {
-  const touchedToday = new Set(free ? [] : logsToday.map((l) => l.itemId));
-
+export function buildQueue({ items, cards, suspended, now, direction = '', free = false }: QueueInput): QueueResult {
   const learningNow: CardState[] = [];
   const learningSoon: CardState[] = [];
   const due: CardState[] = [];
@@ -64,16 +72,14 @@ export function buildQueue({ items, cards, logsToday, suspended, now, free = fal
 
   for (const item of items) {
     if (suspended.has(item.id)) continue;
-    const refs = cardsForItem(item);
-    for (const ref of refs) {
+    for (const ref of cardsForItem(item)) {
+      if (!inDirection(ref.kind, direction)) continue;
       const card = cards.get(ref.id);
       if (card && isLearning(card)) {
         (card.due <= now ? learningNow : learningSoon).push(card);
       } else if (card && card.state === State.Review) {
-        // Une seule carte d'un même élément par jour : l'autre direction serait un simple écho.
-        if (card.due > now) notDue.push(card);
-        else if (!touchedToday.has(item.id)) due.push(card);
-      } else if (isUnlocked(ref, cards, refs) && !touchedToday.has(item.id)) {
+        (card.due <= now ? due : notDue).push(card);
+      } else if (isUnlocked(ref, cards, direction)) {
         const state = card ?? newCardState(ref, now);
         (ref.kind === 'recognition' ? fresh : unlocked).push(state);
       }
@@ -84,20 +90,17 @@ export function buildQueue({ items, cards, logsToday, suspended, now, free = fal
   learningSoon.sort((a, b) => a.due - b.due);
   due.sort((a, b) => a.due - b.due);
 
-  // Alterne cartes débloquées et nouveaux éléments : le passif ne prend pas le pas sur l'actif.
-  const newQueue: CardState[] = [];
-  for (let i = 0; i < Math.max(unlocked.length, fresh.length); i++) {
-    if (i < unlocked.length) newQueue.push(unlocked[i]);
-    if (i < fresh.length) newQueue.push(fresh[i]);
-  }
+  // La file est recalculée après chaque carte : l'alternance dépend donc du nombre de cartes commencées.
+  const preferUnlocked = fresh.length === 0 || cards.size % 2 === 1;
+  const nextNew = (preferUnlocked ? unlocked[0] : fresh[0]) ?? fresh[0] ?? null;
 
   const counts = {
     learning: learningNow.length + learningSoon.length,
     review: due.length,
-    fresh: newQueue.length,
+    fresh: fresh.length + unlocked.length,
   };
   const soon = learningSoon.find((c) => c.due <= now + LEARN_AHEAD_MS) ?? null;
-  const planned = learningNow[0] ?? due[0] ?? newQueue[0] ?? soon;
+  const planned = learningNow[0] ?? due[0] ?? nextNew ?? soon;
   if (planned || !free) return { next: planned, counts };
 
   // Carte vue il y a le plus longtemps : on tourne sur toute la sélection sans répéter la dernière.

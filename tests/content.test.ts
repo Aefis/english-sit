@@ -99,12 +99,10 @@ describe('ordre et cartes', () => {
     expect([6, 5, 4.5, 4, 3].map(zipfToFrequency)).toEqual([5, 4, 3, 2, 1]);
   });
 
-  it('génère les cartes selon la priorité et la situation', () => {
-    const kinds = (priority: number, situation_fr: string | null) =>
-      cardsForItem({ id: 'x', priority, situation_fr }).map((c) => c.kind);
-    expect(kinds(2, null)).toEqual(['recognition']);
-    expect(kinds(5, null)).toEqual(['recognition', 'production']);
-    expect(kinds(5, 'Tu...')).toEqual(['recognition', 'production', 'context']);
+  it('génère les deux sens pour tous, et le contexte si une situation existe', () => {
+    const kinds = (situation_fr: string | null) => cardsForItem({ id: 'x', situation_fr }).map((c) => c.kind);
+    expect(kinds(null)).toEqual(['recognition', 'production']);
+    expect(kinds('Tu...')).toEqual(['recognition', 'production', 'context']);
   });
 
   it('masque la cible dans l\'indice', () => {

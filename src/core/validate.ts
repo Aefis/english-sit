@@ -79,9 +79,6 @@ export function validateItem(item: RawItem): Issue[] {
   if (item.variant && item.variant !== 'both' && !item.counterpart) {
     add('error', 'variant', 'variant UK/US : counterpart requis');
   }
-  if (item.situation_fr && item.priority < 3) {
-    add('warning', 'situation', 'carte contextuelle sur un élément sans carte de production');
-  }
   return issues;
 }
 

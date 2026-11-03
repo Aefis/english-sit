@@ -7,8 +7,8 @@ import { LEECH_LAPSES, previewDue, Rating, type CardState, type Grade } from '..
 import { Badges, Highlighted, ItemDetails, speak, useStore } from './shared';
 
 const KIND_LABELS: Record<CardKind, string> = {
-  recognition: 'Compréhension',
-  production: 'Production : dis-le à voix haute',
+  recognition: 'Anglais → français',
+  production: 'Français → anglais : dis-le à voix haute',
   context: 'Situation : que dis-tu ?',
 };
 
@@ -66,6 +66,14 @@ function FocusBar({ focus, onFocus }: { focus: Focus; onFocus: (focus: Focus) =>
           {LEVELS.map((level) => <option key={level} value={level}>{level}</option>)}
         </select>
       </label>
+      <label>
+        <span>Sens</span>
+        <select value={focus.direction} onChange={(e) => pick({ direction: value(e) as Focus['direction'] })(e)}>
+          <option value="">Les deux</option>
+          <option value="en-fr">EN → FR</option>
+          <option value="fr-en">FR → EN</option>
+        </select>
+      </label>
     </div>
   );
 }
@@ -77,7 +85,7 @@ function DoneMessage({ store, focus, onFocus, onContinue, learning }: {
   onContinue: () => void;
   learning: number;
 }) {
-  const focused = focus.category !== '' || focus.level !== '';
+  const focused = focus.category !== '' || focus.level !== '' || focus.direction !== '';
   const empty = !store.items.some((item) => matchesFocus(item, focus));
   const moreElsewhere = focused && store.queue().next !== null;
   const canContinue = store.queue(focus, true).next !== null;
@@ -92,7 +100,7 @@ function DoneMessage({ store, focus, onFocus, onContinue, learning }: {
   } else if (focused) {
     title = 'Plus de cartes prévues pour cette sélection';
     detail = moreElsewhere
-      ? "Il reste des cartes prévues aujourd'hui dans d'autres catégories."
+      ? "Il reste des cartes prévues aujourd'hui en dehors de cette sélection."
       : "Tu as aussi fini toutes les autres cartes prévues aujourd'hui.";
   }
 
