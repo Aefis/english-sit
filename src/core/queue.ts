@@ -92,7 +92,13 @@ export function buildQueue({ items, cards, suspended, now, direction = '', free 
 
   // La file est recalculée après chaque carte : l'alternance dépend donc du nombre de cartes commencées.
   const preferUnlocked = fresh.length === 0 || cards.size % 2 === 1;
-  const nextNew = (preferUnlocked ? unlocked[0] : fresh[0]) ?? fresh[0] ?? null;
+  // Jamais la carte inverse juste après : sa réponse vient d'être affichée.
+  const last = [...cards.values()].reduce<CardState | null>(
+    (latest, c) => ((c.lastReview ?? 0) > (latest?.lastReview ?? 0) ? c : latest),
+    null,
+  );
+  const spaced = unlocked.find((c) => c.itemId !== last?.itemId);
+  const nextNew = (preferUnlocked ? spaced : fresh[0]) ?? fresh[0] ?? spaced ?? unlocked[0] ?? null;
 
   const counts = {
     learning: learningNow.length + learningSoon.length,

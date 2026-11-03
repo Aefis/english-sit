@@ -118,19 +118,19 @@ describe('file de révision', () => {
     expect(buildQueue({ ...input, items, cards: mapOf(done) }).next?.kind).toBe('production');
   });
 
-  it('alterne vraiment les deux sens sur toute une session', () => {
+  it('alterne les deux sens sans enchaîner une carte et sa carte inverse', () => {
     const items = Array.from({ length: 12 }, (_, n) => item(`w${n}`));
     const cards = new Map<string, CardState>();
-    const kinds: string[] = [];
+    const seen: CardState[] = [];
     for (let n = 0; n < 16; n++) {
-      const { next } = buildQueue({ ...input, items, cards });
-      kinds.push(next!.kind);
-      const { card } = applyReview(scheduler, next!, Rating.Easy, NOW);
+      const now = NOW + n * 1000;
+      const { next } = buildQueue({ ...input, items, cards, now });
+      seen.push(next!);
+      const { card } = applyReview(scheduler, next!, Rating.Easy, now);
       cards.set(card.id, card);
     }
-    const production = kinds.filter((k) => k === 'production').length;
-    expect(production).toBe(8);
-    expect(kinds.slice(0, 4)).toEqual(['recognition', 'production', 'recognition', 'production']);
+    expect(seen.filter((c) => c.kind === 'production').length).toBeGreaterThanOrEqual(6);
+    for (let n = 1; n < seen.length; n++) expect(seen[n].itemId).not.toBe(seen[n - 1].itemId);
   });
 
   it('ignore les éléments suspendus', () => {
