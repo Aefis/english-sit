@@ -2,5 +2,9 @@
   {
     "ids": ["its-not-a-big-deal", "a-big-deal"],
     "reason": "Sens opposés : « ce n'est pas grave » contre « c'est important » (cahier des charges §4)."
+  },
+  {
+    "ids": ["what-do-you-mean", "what-does-mean"],
+    "reason": "Usages différents : demander à quelqu'un de préciser sa pensée, ou demander le sens d'un mot."
   }
 ]
