@@ -719,5 +719,159 @@
       "short"
     ],
     "reason": "Vêtement."
+  },
+  {
+    "ids": [
+      "does-that-make-sense",
+      "make-sense-of"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "it-doesnt-make-sense",
+      "make-sense-of"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "go-about",
+      "go-on-about"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "work-out",
+      "fork-out"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-out",
+      "get-out-of"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "put-out",
+      "cut-out"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "back-out",
+      "black-out"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "wear-out",
+      "hear-out"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-up",
+      "get-up-to"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "look-up",
+      "hook-up"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "heat-up",
+      "head-up"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-through",
+      "get-through-to"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-away",
+      "get-away-with"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-down",
+      "get-down-to"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "all-over",
+      "fall-over"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "get-along-with",
+      "go-along-with"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "going-back-to",
+      "go-back-on"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "go-back",
+      "go-back-on"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "bring-in",
+      "bring-on"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "go-around",
+      "go-round"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "call-in",
+      "call-on"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
+  },
+  {
+    "ids": [
+      "call-off",
+      "fall-off"
+    ],
+    "reason": "Phrasal verbs ou expressions distincts, relus."
   }
 ]

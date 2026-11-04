@@ -1,0 +1,156 @@
+# Lot 030 : B1-B2 (phrasal verbs de A à H, idiomes courants, collocations de la vie courante)
+@phrasal_verb
+ask around|se renseigner autour de soi|B1|4|3|I'll ask around at work.|Je vais me renseigner au travail.|ask around|c||communication|
+back away|reculer|B1|4|2|He backed away from the dog.|Il a reculé devant le chien.|backed away|c||basics|
+bank on|compter sur (espérer)|B2|4|4|Don't bank on it.|N'y compte pas trop.|bank on|c|i|fn_nuance|
+beef up|muscler, étoffer|B2|4|3|We need to beef up security.|Nous devons renforcer la sécurité.|beef up|w|i|pro,project|
+black out|s'évanouir, couper le courant|B2|3|2|The whole city blacked out.|Toute la ville a été privée de courant.|blacked out|n||basics|
+blow over|passer, se calmer|B2|4|3|Don't worry, it'll blow over.|Ne t'inquiète pas, ça va se calmer.|blow over|c||feelings|
+bog down|enliser|B2|4|3|We got bogged down in details.|Nous nous sommes enlisés dans les détails.|bogged down|w||pro,project|
+bottle up|refouler (émotions)|B2|4|3|Don't bottle up your feelings.|Ne refoule pas tes sentiments.|bottle up|c||feelings|
+branch out|se diversifier|B2|4|4|We're branching out into new markets.|Nous nous diversifions vers de nouveaux marchés.|branching out|w||pro,business|
+break through|percer, franchir|B2|4|3|Sun broke through the clouds.|Le soleil a percé les nuages.|broke through|d||weather|
+breeze through|réussir facilement|B2|3|2|She breezed through the exam.|Elle a réussi l'examen les doigts dans le nez.|breezed through|c|i|learning|
+bring down|faire baisser, renverser|B1|5|4|We need to bring down costs.|Nous devons faire baisser les coûts.|bring down|w||pro,business|
+bring on|provoquer|B2|4|3|Stress can bring on a headache.|Le stress peut provoquer un mal de tête.|bring on|d||health|
+bring out|sortir, faire ressortir|B1|5|4|They're bringing out a new phone.|Ils sortent un nouveau téléphone.|bringing out|d||technology|
+brush off|repousser, ignorer|B2|4|3|She brushed off my question.|Elle a écarté ma question.|brushed off|c||communication|
+bump into|tomber sur (quelqu'un)|B1|5|5|I bumped into Sara at the station.|Je suis tombé sur Sara à la gare.|bumped into|c||relationships|
+burn out|s'épuiser, faire un burn-out|B2|5|4|He burned out after two years.|Il a fait un burn-out au bout de deux ans.|burned out|w||pro,health|
+burst into|se mettre soudain à|B1|4|3|She burst into tears.|Elle a fondu en larmes.|burst into|c||feelings|
+butt in|intervenir, couper la parole|B2|3|3|Sorry to butt in.|Désolé d'intervenir.|butt in|c|i|fn_interrupt|
+buy into|adhérer à (une idée)|B2|4|3|I don't buy into that idea.|Je n'adhère pas à cette idée.|buy into|c|i|fn_disagree|
+call on|faire appel à, rendre visite|B2|4|3|I call on all of you to help.|Je vous demande à tous d'aider.|call on|w|f|pro,fn_request|
+cave in|céder, s'effondrer|B2|3|2|He finally caved in to the pressure.|Il a fini par céder à la pression.|caved in|c||decision|
+chase up|relancer|B2|5|5|I'll chase up the invoice.|Je vais relancer pour la facture.|chase up|w||pro,email|
+check up on|vérifier, prendre des nouvelles de|B1|4|3|I'm just checking up on you.|Je viens juste prendre de tes nouvelles.|checking up on|c||relationships|
+chicken out|se dégonfler|B2|3|2|He chickened out at the last minute.|Il s'est dégonflé à la dernière minute.|chickened out|c|i|feelings|
+chill out|se détendre|B1|5|3|Chill out, it's only a game.|Détends-toi, ce n'est qu'un jeu.|Chill out|c|i|feelings|
+clear out|vider, faire le tri|B1|4|3|I cleared out the garage.|J'ai vidé le garage.|cleared out|d||housing|
+clock in|pointer (arrivée)|B2|3|2|I clock in at nine.|Je pointe à neuf heures.|clock in|w||work|
+cloud over|se couvrir|B2|3|2|It's starting to cloud over.|Ça commence à se couvrir.|cloud over|d||weather|
+come about|arriver, survenir|B2|4|3|How did this come about?|Comment est-ce arrivé ?|come about|c||basics|
+come apart|se défaire|B1|3|2|My shoe is coming apart.|Ma chaussure se défait.|coming apart|d||basics|
+come forward|se manifester|B2|4|3|Several witnesses came forward.|Plusieurs témoins se sont manifestés.|came forward|n||rules|
+come through|arriver, réussir|B2|4|3|The money finally came through.|L'argent est enfin arrivé.|came through|c||basics|
+cool off|se rafraîchir, se calmer|B1|4|3|Let's take a swim to cool off.|Allons nous baigner pour nous rafraîchir.|cool off|d||weather|
+count on|avoir confiance en, compter sur|B1|5|5|You can count on her.|Tu peux compter sur elle.|count on|c||relationships|
+cover up|dissimuler|B2|4|3|They tried to cover up the mistake.|Ils ont essayé de dissimuler l'erreur.|cover up|n||communication|
+crop up|surgir|B2|5|4|Problems keep cropping up.|Les problèmes n'arrêtent pas de surgir.|cropping up|w|i|pro,project|
+cross out|barrer, rayer|A2|4|3|Cross out the wrong answer.|Barre la mauvaise réponse.|Cross out|d||writing|
+cut out|supprimer, découper|B1|5|4|I've cut out sugar.|J'ai supprimé le sucre.|cut out|d||health|
+die down|s'apaiser|B2|4|3|The wind died down at night.|Le vent s'est calmé pendant la nuit.|died down|d||weather|
+die out|s'éteindre, disparaître|B1|4|3|This tradition is dying out.|Cette tradition est en train de disparaître.|dying out|n||basics|
+dig up|déterrer|B1|3|2|They dug up some old emails.|Ils ont déterré de vieux e-mails.|dug up|c||basics|
+doze off|s'assoupir|B2|4|3|I dozed off on the train.|Je me suis assoupi dans le train.|dozed off|d||daily_routine|
+drag on|s'éterniser|B2|4|4|The meeting dragged on for hours.|La réunion s'est éternisée pendant des heures.|dragged on|w||pro,meetings|
+dream up|imaginer, inventer|B2|3|2|Who dreamed up this plan?|Qui a inventé ce plan ?|dreamed up|c||basics|
+drop by|faire un saut|B1|5|5|Drop by whenever you like.|Passe quand tu veux.|Drop by|c||relationships|
+drop in|passer à l'improviste|B1|5|4|We dropped in on my aunt.|Nous sommes passés voir ma tante.|dropped in|c||relationships|
+dry up|sécher, se tarir|B1|3|2|The river dried up last summer.|Le fleuve s'est asséché l'été dernier.|dried up|n||nature|
+even out|s'équilibrer|B2|3|3|It'll even out over time.|Ça s'équilibrera avec le temps.|even out|c||basics|
+face up to|faire face à|B2|5|4|You have to face up to your problems.|Tu dois faire face à tes problèmes.|face up to|c||decision|
+fade away|s'estomper|B2|3|2|The sound faded away.|Le son s'est estompé.|faded away|c||basics|
+fall for|tomber amoureux de, se faire avoir par|B1|5|4|I can't believe you fell for that.|Je n'arrive pas à croire que tu sois tombé dans le panneau.|fell for|c|i|relationships|
+fall off|tomber de, diminuer|A2|4|3|He fell off his bike.|Il est tombé de son vélo.|fell off|d||basics|
+fall over|tomber (par terre)|A2|4|3|She tripped and fell over.|Elle a trébuché et elle est tombée.|fell over|d||basics|
+fend off|repousser, parer|B2+|3|2|He fended off several questions.|Il a esquivé plusieurs questions.|fended off|n||communication|
+firm up|finaliser, confirmer|B2|4|4|Let's firm up the dates.|Finalisons les dates.|firm up|w||pro,project|
+fix up|arranger, retaper|B1|4|3|We're fixing up an old house.|Nous retapons une vieille maison.|fixing up|d||housing|
+flag up|signaler|B2+|5|4|I just wanted to flag up a problem.|Je voulais juste signaler un problème.|flag up|w||pro,communication|
+flare up|s'embraser, resurgir|B2|3|2|My back pain has flared up again.|Mon mal de dos a resurgi.|flared up|d||health|
+fork out|débourser|B2|3|2|We had to fork out two hundred euros.|Nous avons dû débourser deux cents euros.|fork out|c|i|money|
+free up|libérer|B2|5|4|This will free up some time.|Cela va libérer un peu de temps.|free up|w||pro,time|
+gear up|se mettre en ordre de marche|B2|4|3|We're gearing up for the launch.|Nous nous préparons pour le lancement.|gearing up|w||pro,project|
+get at|vouloir dire, atteindre|B1|5|4|What are you getting at?|Où veux-tu en venir ?|getting at|c||fn_clarify|
+get away with|s'en tirer avec|B1|5|5|He always gets away with it.|Il s'en tire toujours.|gets away with|c||basics|
+get down to|se mettre sérieusement à|B1|5|4|Let's get down to work.|Mettons-nous au travail.|get down to|w||work|
+get out of|échapper à, éviter de|B1|5|4|I can't get out of the meeting.|Je ne peux pas éviter cette réunion.|get out of|c||basics|
+get round to|trouver le temps de|B1|5|5|I never got round to calling her.|Je n'ai jamais trouvé le temps de l'appeler.|got round to|c||time|
+get through to|joindre, faire comprendre|B1|5|4|I couldn't get through to him.|Je n'ai pas réussi à le joindre.|get through to|c||phone|
+get to know|apprendre à connaître|A2|5|5|I'd like to get to know you better.|J'aimerais apprendre à mieux te connaître.|get to know|c||relationships|
+get up to|faire (quelque chose)|B1|4|3|What did you get up to at the weekend?|Tu as fait quoi ce week-end ?|get up to|c|i|small_talk|
+give out|distribuer, lâcher|B1|4|3|They gave out free samples.|Ils ont distribué des échantillons gratuits.|gave out|d||basics|
+go about|s'y prendre, aborder|B2|5|4|How should we go about this?|Comment s'y prendre ?|go about|w||pro,project|
+go after|poursuivre, viser|B1|4|3|We're going after new clients.|Nous visons de nouveaux clients.|going after|w||business|
+go against|aller à l'encontre de|B2|4|3|It goes against company policy.|Cela va à l'encontre de la politique de l'entreprise.|goes against|w||rules|
+go along with|suivre, accepter|B1|5|4|I'll go along with your idea.|Je me range à ton idée.|go along with|c||fn_agree|
+go back on|revenir sur (parole)|B2|4|4|He went back on his promise.|Il est revenu sur sa promesse.|went back on|c||relationships|
+go in for|aimer, s'inscrire à|B2|3|2|I don't really go in for sport.|Je ne suis pas très sport.|go in for|c||leisure|
+go into|entrer dans les détails, se lancer dans|B1|5|4|I won't go into details.|Je ne vais pas entrer dans les détails.|go into|c||communication|
+go on about|ne pas arrêter de parler de|B2|4|3|He kept going on about his car.|Il n'arrêtait pas de parler de sa voiture.|going on about|c|i|communication|
+go round|faire le tour, suffire pour tous|B1|4|3|There isn't enough cake to go round.|Il n'y a pas assez de gâteau pour tout le monde.|go round|c||basics|
+go under|faire faillite, couler|B2|4|3|The company went under last year.|L'entreprise a fait faillite l'année dernière.|went under|n||business|
+grow apart|s'éloigner, se détacher|B2|3|2|We grew apart at university.|Nous nous sommes éloignés à la fac.|grew apart|c||relationships|
+grow on|finir par plaire|B2|4|3|The city is growing on me.|La ville commence à me plaire.|growing on me|c|i|feelings|
+hand back|rendre (un devoir, un objet)|A2|4|2|The teacher handed back our tests.|Le professeur nous a rendu nos contrôles.|handed back|d||learning|
+hang onto|conserver précieusement|B1|4|3|Hang onto your ticket.|Garde ton billet.|Hang onto|t|i|basics|
+head for|prendre la direction de|B1|5|3|We're heading for the coast.|Nous nous dirigeons vers la côte.|heading for|t||directions|
+head up|diriger|B2|5|4|She heads up the sales team.|Elle dirige l'équipe commerciale.|heads up|w||pro,management|
+hear from|avoir des nouvelles de|A2|5|5|Have you heard from Tom?|Tu as eu des nouvelles de Tom ?|heard from|c||relationships|
+hear out|écouter jusqu'au bout|B2|4|3|Please hear me out.|S'il te plaît, écoute-moi jusqu'au bout.|hear me out|c||communication|
+help out|aider, donner un coup de main|A2|5|5|Can you help me out?|Tu peux me donner un coup de main ?|help me out|c||fn_request|
+hit back|riposter|B2|3|2|The minister hit back at critics.|Le ministre a riposté aux critiques.|hit back|n||communication|
+hold down|garder (un emploi)|B2|3|3|He can't hold down a job.|Il n'arrive pas à garder un emploi.|hold down|c||career|
+hold out|tenir bon, tendre|B2|3|2|We held out for a better offer.|Nous avons tenu bon pour obtenir une meilleure offre.|held out|w||business|
+hook up|connecter, brancher|B1|3|2|Hook up the speakers to the TV.|Branche les enceintes à la télé.|Hook up|d||technology|
+@idiom
+A dime a dozen.|Il y en a à la pelle.|B2|3|2|Good ideas are a dime a dozen.|Les bonnes idées, il y en a à la pelle.|a dime a dozen|c|i|fn_opinion|
+A far cry from.|Très différent de.|B2|4|3|This is a far cry from what we agreed.|C'est très loin de ce dont nous avons convenu.|a far cry from|c||fn_compare|
+A leap of faith.|Un acte de foi.|B2|3|3|Starting a business is a leap of faith.|Créer une entreprise, c'est un acte de foi.|a leap of faith|c||decision|
+A piece of the action.|Une part du gâteau.|B2|3|2|Everyone wants a piece of the action.|Tout le monde veut sa part du gâteau.|a piece of the action|w|i|business|
+Above board.|Régulier, dans les règles.|B2|3|3|Everything was above board.|Tout était dans les règles.|above board|w||pro,rules|
+Against all odds.|Contre toute attente.|B2|4|3|Against all odds, we won.|Contre toute attente, nous avons gagné.|Against all odds|c||fn_narrate|
+All ears.|Tout ouïe.|B1|4|3|Go on, I'm all ears.|Vas-y, je suis tout ouïe.|all ears|c|i|communication|
+An uphill battle.|Une bataille difficile.|B2|4|3|Getting funding is an uphill battle.|Obtenir des fonds est une bataille difficile.|an uphill battle|w||pro,project|
+As clear as mud.|Pas clair du tout.|B2|3|2|His instructions were as clear as mud.|Ses instructions n'étaient pas claires du tout.|as clear as mud|c|i|communication|
+As good as gold.|Sage comme une image.|B1|2|2|The kids were as good as gold.|Les enfants ont été sages comme des images.|as good as gold|c||family|
+At a crossroads.|À la croisée des chemins.|B2|3|3|My career is at a crossroads.|Ma carrière est à la croisée des chemins.|at a crossroads|c||decision|
+At the drop of a hat.|Sans hésiter, sur-le-champ.|B2|3|2|She'd leave at the drop of a hat.|Elle partirait sans hésiter.|at the drop of a hat|c|i|decision|
+Back on track.|De nouveau sur les rails.|B1|5|4|We're back on track.|Nous sommes de nouveau sur les rails.|back on track|w||pro,project|
+Beyond the pale.|Inacceptable.|C1|2|2|His behaviour was beyond the pale.|Son comportement était inacceptable.|beyond the pale|c|f|fn_disagree|
+Bend over backwards.|Se mettre en quatre.|B2|4|3|They bent over backwards to help us.|Ils se sont mis en quatre pour nous aider.|bent over backwards|c||relationships|
+Bite your tongue.|Se mordre la langue.|B2|3|3|I had to bite my tongue.|J'ai dû me mordre la langue.|bite my tongue|c||communication|
+Born yesterday.|Né de la dernière pluie.|B2|3|2|I wasn't born yesterday.|Je ne suis pas né de la dernière pluie.|born yesterday|c|i|fn_react|
+Break the bank.|Coûter une fortune.|B2|4|3|A weekend away won't break the bank.|Un week-end ne va pas te ruiner.|break the bank|c||money|
+Bring home the bacon.|Gagner sa croûte.|B2|2|2|Who brings home the bacon?|Qui fait bouillir la marmite ?|brings home the bacon|c|i|money|
+Burn your bridges.|Couper les ponts.|B2|4|3|Don't burn your bridges when you leave.|Ne coupe pas les ponts quand tu pars.|burn your bridges|w||career|
+By the skin of your teeth.|De justesse.|B2|3|3|We escaped by the skin of our teeth.|Nous nous en sommes sortis de justesse.|by the skin of our teeth|c|i|fn_narrate|
+Call a spade a spade.|Appeler un chat un chat.|B2|4|3|Let's call a spade a spade.|Appelons un chat un chat.|call a spade a spade|c||communication|
+@collocation
+tell a white lie|faire un pieux mensonge|B1|3|2|I told a white lie to avoid hurting her.|J'ai fait un pieux mensonge pour ne pas la blesser.|told a white lie|c||relationships|
+stay in touch|rester en contact (variante)|A2|5|3|Let's stay in touch.|Restons en contact.|stay in touch|c||relationships|
+make a fuss|faire des histoires|B1|4|3|Don't make a fuss about it.|N'en fais pas toute une histoire.|make a fuss|c||feelings|
+make a scene|faire une scène|B1|4|3|She made a scene in the restaurant.|Elle a fait une scène au restaurant.|made a scene|c||feelings|
+make a mess|mettre le désordre|A2|5|3|The kids made a mess in the kitchen.|Les enfants ont mis le désordre dans la cuisine.|made a mess|d||housing|
+make a wish|faire un vœu|A2|4|2|Blow out the candles and make a wish.|Souffle les bougies et fais un vœu.|make a wish|c||leisure|
+make a toast|porter un toast|B1|4|3|I'd like to make a toast.|J'aimerais porter un toast.|make a toast|c||leisure|
+make peace|faire la paix|B1|4|3|It's time to make peace with your brother.|Il est temps de faire la paix avec ton frère.|make peace|c||relationships|
+make room|faire de la place|B1|5|3|Can you make room for me?|Tu peux me faire de la place ?|make room|c||basics|
+make sense of|comprendre, donner du sens à|B2|5|4|I can't make sense of these figures.|Je n'arrive pas à comprendre ces chiffres.|make sense of|w||analysis|
+make time|trouver le temps|B1|5|4|You should make time for your family.|Tu devrais trouver du temps pour ta famille.|make time|c||time|
+make use of|utiliser, tirer parti de|B1|5|4|Make use of your time abroad.|Profite de ton séjour à l'étranger.|Make use of|c||basics|
+make fun of|se moquer de|A2|5|5|Don't make fun of him.|Ne te moque pas de lui.|make fun of|c||relationships|
+take a joke|comprendre la plaisanterie|B1|4|3|Can't you take a joke?|Tu ne sais pas rire ?|take a joke|c||relationships|
+take a deep breath|respirer profondément|A2|5|4|Take a deep breath and relax.|Respire profondément et détends-toi.|Take a deep breath|d||health|
+take a sip|boire une gorgée|B1|3|2|She took a sip of wine.|Elle a bu une gorgée de vin.|took a sip|d||food|
+take a bite|prendre une bouchée|B1|3|2|He took a bite of the sandwich.|Il a pris une bouchée de sandwich.|took a bite|d||food|
+take a shortcut|prendre un raccourci|B1|4|3|Let's take a shortcut through the park.|Prenons un raccourci par le parc.|take a shortcut|t||transport|
+take a detour|faire un détour|B1|4|2|We took a detour to avoid the traffic.|Nous avons fait un détour pour éviter la circulation.|took a detour|t||transport|
+take a guess|deviner, tenter|B1|4|3|Take a guess!|Devine !|Take a guess|c||basics|
+take a hint|comprendre à demi-mot|B2|3|2|He can't take a hint.|Il ne comprend pas à demi-mot.|take a hint|c||communication|
+@connector
+speaking of|en parlant de|B1|5|5|Speaking of food, I'm hungry.|En parlant de nourriture, j'ai faim.|Speaking of|c||fn_topic_change|
+on that note|sur ce|B2|4|4|On that note, let's finish.|Sur ce, terminons.|On that note|w||pro,fn_end|
+from now on|à partir de maintenant|A2|5|5|From now on, I'll be more careful.|À partir de maintenant, je ferai plus attention.|From now on|c||time|
+from then on|à partir de ce moment-là|B1|4|3|From then on, everything changed.|À partir de ce moment-là, tout a changé.|From then on|c||fn_narrate|
+@chunk
+I'm counting on you.|Je compte sur toi.|B1|5|5|It's important. I'm counting on you.|C'est important. Je compte sur toi.|I'm counting on you|c||relationships|
+Hear me out.|Écoute-moi d'abord.|B2|5|4|Before you say no, hear me out.|Avant de dire non, écoute-moi d'abord.|hear me out|c||fn_interrupt|
+You've got to be kidding.|Tu plaisantes, là.|B1|5|3|Two hours late? You've got to be kidding.|Deux heures de retard ? Tu plaisantes, là.|You've got to be kidding|c|i|fn_react|
+I couldn't care less.|Je m'en moque complètement.|B2|5|4|He's leaving? I couldn't care less.|Il part ? Je m'en moque complètement.|I couldn't care less|c|i|fn_react|
+I can't thank you enough.|Je ne vous remercierai jamais assez.|B1|5|4|You saved me. I can't thank you enough.|Tu m'as sauvé. Je ne te remercierai jamais assez.|I can't thank you enough|c||fn_react|
+I owe you one.|Je te revaudrai ça.|B1|5|5|Thanks for the lift, I owe you one.|Merci de m'avoir déposé, je te revaudrai ça.|I owe you one|c|i|fn_react|
+It's the least I could do.|C'est la moindre des choses.|B1|5|4|Thank you! It's the least I could do.|Merci ! C'est la moindre des choses.|It's the least I could do|c||fn_react|
+You shouldn't have.|Il ne fallait pas.|B1|5|4|Flowers for me? You shouldn't have.|Des fleurs pour moi ? Il ne fallait pas.|You shouldn't have|c||fn_react|
+@word
