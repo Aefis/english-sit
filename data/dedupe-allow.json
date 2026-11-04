@@ -432,5 +432,19 @@
       "move-on"
     ],
     "reason": "Emménager, et passer à autre chose."
+  },
+  {
+    "ids": [
+      "put-up-with",
+      "put-up"
+    ],
+    "reason": "Supporter, et héberger."
+  },
+  {
+    "ids": [
+      "rights",
+      "right"
+    ],
+    "reason": "Pluriel à sens propre : les droits."
   }
 ]

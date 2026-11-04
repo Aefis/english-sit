@@ -1,0 +1,225 @@
+# Lot 019 : A1-B2 (pays, nationalités, société, administration, nature)
+@word
+state|État, état|B1||5|The state pays for education here.|L'État finance l'éducation ici.|state|n||politics|pos=n
+national|national|A2||5|It's a national holiday.|C'est un jour férié national.|national|c||news|pos=adj
+international|international|A2||5|She works for an international company.|Elle travaille dans une entreprise internationale.|international|w||pro,business|pos=adj
+social|social|A2||5|I'm not on social media.|Je ne suis pas sur les réseaux sociaux.|social|c||media|pos=adj
+series|série|A2||4|I'm watching a new series.|Je regarde une nouvelle série.|series|d||leisure|pos=n
+development|développement|B1||5|We're in the development phase.|Nous sommes en phase de développement.|development|w||pro,project|pos=n
+further|plus loin, supplémentaire|B1||5|For further information, call this number.|Pour plus d'informations, appelez ce numéro.|further|w|f|pro,email|pos=adj
+former|ancien, ex-|B1||5|He's a former colleague.|C'est un ancien collègue.|former|w||pro,career|pos=adj
+board|conseil d'administration, tableau|B1||5|The board meets next week.|Le conseil d'administration se réunit la semaine prochaine.|board|w||pro,management|pos=n
+force|force, forcer|B1||4|Nobody forced you to come.|Personne ne t'a forcé à venir.|forced|c||basics|pos=v
+rights|droits|B1||5|You have rights as a tenant.|Tu as des droits en tant que locataire.|rights|d||rules|pos=n
+league|ligue, championnat|B1||3|They won the league last year.|Ils ont gagné le championnat l'année dernière.|league|d||leisure|pos=n
+federal|fédéral|B1||3|It's a federal law.|C'est une loi fédérale.|federal|n||politics|pos=adj
+related|lié, apparenté|B1||5|Are the two problems related?|Les deux problèmes sont-ils liés ?|related|c||analysis|pos=adj
+European|européen|A2||4|She's a European citizen.|C'est une citoyenne européenne.|European|n||countries|pos=adj
+American|américain|A1||4|Her husband is American.|Son mari est américain.|American|c||countries|pos=adj
+British|britannique|A1||4|It's a British company.|C'est une entreprise britannique.|British|c||countries|pos=adj
+German|allemand|A1||4|She speaks fluent German.|Elle parle couramment allemand.|German|c||countries|pos=n
+Spanish|espagnol|A1||4|I'm learning Spanish too.|J'apprends aussi l'espagnol.|Spanish|c||countries|pos=n
+Italian|italien|A1||4|We went to an Italian restaurant.|Nous sommes allés dans un restaurant italien.|Italian|c||countries|pos=adj
+Chinese|chinois|A1||3|Would you like Chinese food tonight?|Tu veux manger chinois ce soir ?|Chinese|c||countries|pos=adj
+Japanese|japonais|A1||3|I love Japanese food.|J'adore la cuisine japonaise.|Japanese|c||countries|pos=adj
+Russian|russe|A1||3|Her grandmother is Russian.|Sa grand-mère est russe.|Russian|c||countries|pos=adj
+Indian|indien|A1||3|There's a great Indian restaurant nearby.|Il y a un excellent restaurant indien à côté.|Indian|c||countries|pos=adj
+Irish|irlandais|A2||3|He has an Irish passport.|Il a un passeport irlandais.|Irish|c||countries|pos=adj
+Dutch|néerlandais|A2||3|My boss is Dutch.|Mon chef est néerlandais.|Dutch|c||countries|pos=adj
+Greek|grec|A2||3|We ate Greek salad every day.|Nous avons mangé de la salade grecque tous les jours.|Greek|c||countries|pos=adj
+England|Angleterre|A1||4|I lived in England for two years.|J'ai vécu deux ans en Angleterre.|England|c||countries|pos=n
+Scotland|Écosse|A1||3|We toured Scotland by car.|Nous avons visité l'Écosse en voiture.|Scotland|t||countries|pos=n
+Ireland|Irlande|A1||3|Her family is from Ireland.|Sa famille vient d'Irlande.|Ireland|c||countries|pos=n
+Britain|Grande-Bretagne|A1||3|Prices are higher in Britain.|Les prix sont plus élevés en Grande-Bretagne.|Britain|c||countries|pos=n
+France|France|A1||4|I was born in France.|Je suis né en France.|France|c||countries|pos=n
+Germany|Allemagne|A1||4|The company is based in Germany.|L'entreprise est basée en Allemagne.|Germany|c||countries|pos=n
+Spain|Espagne|A1||4|We spent July in Spain.|Nous avons passé juillet en Espagne.|Spain|t||countries|pos=n
+Italy|Italie|A1||4|I'd love to visit Italy.|J'aimerais beaucoup visiter l'Italie.|Italy|t||countries|pos=n
+China|Chine|A1||3|It's made in China.|C'est fabriqué en Chine.|China|c||countries|pos=n
+Japan|Japon|A1||3|I'm going to Japan in April.|Je vais au Japon en avril.|Japan|t||countries|pos=n
+Russia|Russie|A1||3|Russia is a huge country.|La Russie est un pays immense.|Russia|c||countries|pos=n
+India|Inde|A1||3|She grew up in India.|Elle a grandi en Inde.|India|c||countries|pos=n
+Canada|Canada|A1||3|Canada has two official languages.|Le Canada a deux langues officielles.|Canada|c||countries|pos=n
+Australia|Australie|A1||3|It's summer in Australia now.|C'est l'été en Australie en ce moment.|Australia|c||countries|pos=n
+America|Amérique|A1||3|She moved to America last year.|Elle est partie en Amérique l'année dernière.|America|c||countries|pos=n
+Europe|Europe|A1||3|We travelled around Europe by train.|Nous avons fait le tour de l'Europe en train.|Europe|t||countries|pos=n
+Africa|Afrique|A1||3|He worked in Africa for ten years.|Il a travaillé en Afrique pendant dix ans.|Africa|c||countries|pos=n
+Asia|Asie|A1||3|Our main market is Asia.|Notre principal marché, c'est l'Asie.|Asia|w||countries|pos=n
+London|Londres|A1||3|I work in London.|Je travaille à Londres.|London|c||countries|pos=n
+sake|intérêt, bien|B2||4|Do it for your own sake.|Fais-le pour ton propre bien.|sake|c||basics|pos=n
+string|corde, ficelle|B1||3|Tie it with a piece of string.|Attache-le avec un bout de ficelle.|string|d||basics|pos=n
+spiritual|spirituel|B2||2|It was a spiritual experience.|Ce fut une expérience spirituelle.|spiritual|c||feelings|pos=adj
+abroad|à l'étranger|A2||5|She's studying abroad.|Elle fait ses études à l'étranger.|abroad|t||travel|pos=adv
+associate|associer, collègue|B2||3|I associate this smell with my childhood.|J'associe cette odeur à mon enfance.|associate|c||basics|pos=v
+bench|banc|A2||2|We sat on a bench in the park.|Nous nous sommes assis sur un banc dans le parc.|bench|d||places|pos=n
+broadcast|diffuser, émission|B2||3|The match will be broadcast live.|Le match sera diffusé en direct.|broadcast|n||media|pos=v
+bye|au revoir, salut|A1||5|Bye, see you tomorrow!|Salut, à demain !|Bye|c|i|small_talk|pos=adv
+consumer|consommateur|B1||4|Consumers are spending less.|Les consommateurs dépensent moins.|Consumers|w||pro,business|pos=n
+critic|critique (personne)|B1||3|The film got great reviews from critics.|Le film a eu d'excellentes critiques.|critics|d||leisure|pos=n
+disaster|catastrophe|B1||4|The party was a complete disaster.|La fête a été une vraie catastrophe.|disaster|c||basics|pos=n
+entrance|entrée|A2||4|I'll meet you at the main entrance.|Je te retrouve à l'entrée principale.|entrance|d||places|pos=n
+equally|également, tout aussi|B1||4|Both options are equally good.|Les deux options sont tout aussi bonnes.|equally|c||fn_compare|pos=adv
+fitness|forme physique|B1||3|She's a fitness instructor.|Elle est coach sportif.|fitness|d||health|pos=n
+friendship|amitié|A2||3|Their friendship goes back years.|Leur amitié remonte à des années.|friendship|c||relationships|pos=n
+idiot|idiot|A2||3|Don't be such an idiot.|Ne fais pas l'idiot.|idiot|c|i|description|pos=n
+intense|intense|B1||3|The heat was intense.|La chaleur était intense.|intense|c||description|pos=adj
+lawyer|avocat|A2||4|You should talk to a lawyer.|Tu devrais parler à un avocat.|lawyer|c||rules,career|pos=n
+lifetime|vie entière|B1||3|It's the chance of a lifetime.|C'est la chance d'une vie.|lifetime|c||time|pos=n
+liquid|liquide|B1||3|You can't take liquids on the plane.|Tu ne peux pas emporter de liquides dans l'avion.|liquids|t||travel|pos=n
+makeup|maquillage|A2||3|She doesn't wear makeup.|Elle ne se maquille pas.|makeup|d||clothes|pos=n
+medal|médaille|B1||2|He won a gold medal.|Il a remporté une médaille d'or.|medal|n||leisure|pos=n
+mortgage|prêt immobilier|B1||4|We've just paid off our mortgage.|Nous venons de rembourser notre prêt immobilier.|mortgage|d||money,housing|pos=n
+narrative|récit, narration|B2||3|The government is changing the narrative.|Le gouvernement change de récit.|narrative|n||media|pos=n
+narrow|étroit|A2||4|The streets are very narrow.|Les rues sont très étroites.|narrow|t||description|pos=adj
+occasionally|de temps en temps, parfois|B1||4|I occasionally work at weekends.|Il m'arrive de travailler le week-end.|occasionally|c||time|pos=adv
+pan|casserole, poêle|A2||3|Heat some oil in a pan.|Fais chauffer de l'huile dans une poêle.|pan|d||food|pos=n
+physics|physique (science)|A2||3|He teaches physics.|Il enseigne la physique.|physics|d||learning|pos=n
+reduction|réduction|B1||4|There's been a reduction in costs.|Il y a eu une réduction des coûts.|reduction|w||pro,analysis|pos=n
+researcher|chercheur|B1||3|Researchers found a new link.|Des chercheurs ont trouvé un nouveau lien.|Researchers|a||academic|pos=n
+shell|coquillage, coquille|A2||2|She collects shells on the beach.|Elle ramasse des coquillages sur la plage.|shells|t||nature|pos=n
+silly|bête, ridicule|A2||4|That's a silly idea.|C'est une idée bête.|silly|c|i|description|pos=adj
+subsequent|ultérieur, suivant|B2||4|Subsequent tests confirmed the result.|Des tests ultérieurs ont confirmé le résultat.|Subsequent|w|f|pro,analysis|pos=adj
+translation|traduction|A2||4|Is there an English translation?|Il y a une traduction anglaise ?|translation|c||learning|pos=n
+visible|visible|B1||3|The damage isn't visible.|Les dégâts ne sont pas visibles.|visible|c||description|pos=adj
+angle|angle|B1||3|Let's look at it from another angle.|Regardons ça sous un autre angle.|angle|c||analysis|pos=n
+efficiency|efficacité|B2||5|We need to improve efficiency.|Nous devons améliorer l'efficacité.|efficiency|w||pro,management|pos=n
+enterprise|entreprise (grande)|B2||3|We sell software to large enterprises.|Nous vendons des logiciels à de grandes entreprises.|enterprises|w|f|pro,business|pos=n
+experiment|expérience (test)|B1||4|We did a small experiment.|Nous avons fait une petite expérience.|experiment|a||academic|pos=n
+findings|résultats, conclusions|B2||5|Here are the main findings of the study.|Voici les principaux résultats de l'étude.|findings|w||pro,reporting|pos=n
+forum|forum|B1||3|I asked on an online forum.|J'ai demandé sur un forum en ligne.|forum|d||technology|pos=n
+grass|herbe|A2||3|Don't walk on the grass.|Ne marche pas sur la pelouse.|grass|d||nature|pos=n
+hence|d'où, donc|B2||4|It's cheap, hence its success.|C'est bon marché, d'où son succès.|hence|w|f|fn_explain|pos=adv
+incredibly|incroyablement|B1||4|She's incredibly talented.|Elle est incroyablement douée.|incredibly|c||fn_nuance|pos=adv
+journalist|journaliste|A2||3|She's a journalist for the BBC.|Elle est journaliste à la BBC.|journalist|c||career|pos=n
+occasion|occasion (événement)|B1||4|It's for a special occasion.|C'est pour une occasion spéciale.|occasion|c||false_friend|pos=n ;; notes=Faux ami partiel : une bonne occasion = opportunity.
+pace|rythme|B1||5|We need to work at a faster pace.|Nous devons travailler à un rythme plus rapide.|pace|w||pro,work|pos=n
+passenger|passager|A2||4|All passengers must show ID.|Tous les passagers doivent présenter une pièce d'identité.|passengers|t||travel|pos=n
+pen|stylo|A1||4|Can I borrow your pen?|Je peux emprunter ton stylo ?|pen|c||basics|pos=n
+possession|possession|B2||3|She lost all her possessions in the fire.|Elle a perdu tous ses biens dans l'incendie.|possessions|n||basics|pos=n
+rapid|rapide (changement)|B1||4|There's been rapid growth.|Il y a eu une croissance rapide.|rapid|w||pro,analysis|pos=adj
+resident|résident, habitant|B1||3|Parking is for residents only.|Le stationnement est réservé aux résidents.|residents|d||places|pos=n
+spin|tourner, faire tourner|B1||2|The wheel started to spin.|La roue s'est mise à tourner.|spin|d||basics|pos=v
+suitable|adapté, qui convient|B1||5|It's not suitable for children.|Ce n'est pas adapté aux enfants.|suitable|c||description|pos=adj
+valid|valable, valide|B1||5|Your ticket is valid for a year.|Ton billet est valable un an.|valid|t||rules|pos=adj
+whilst|tandis que (UK, soutenu)|B2||3|Whilst I agree, I have some doubts.|Bien que je sois d'accord, j'ai quelques doutes.|Whilst|w|f|grammar|pos=conj
+agriculture|agriculture|B1||3|The region lives from agriculture.|La région vit de l'agriculture.|agriculture|n||news|pos=n
+alleged|présumé|B2||3|He denied the alleged offence.|Il a nié l'infraction présumée.|alleged|n|f|rules|pos=adj
+collect|collectionner, recueillir|A2||4|We collect data from every shop.|Nous recueillons des données dans chaque magasin.|collect|w||analysis|pos=v
+currency|monnaie, devise|B1||4|What's the local currency?|Quelle est la monnaie locale ?|currency|t||money|pos=n
+emotion|émotion|B1||4|He never shows any emotion.|Il ne montre jamais aucune émotion.|emotion|c||feelings|pos=n
+exhibition|expo, exposition d'art|A2||4|We went to an art exhibition.|Nous sommes allés à une exposition d'art.|exhibition|d||leisure|pos=n
+fraud|fraude|B2||3|He was arrested for fraud.|Il a été arrêté pour fraude.|fraud|n||rules|pos=n
+funeral|enterrement|B1||3|The funeral is on Friday.|L'enterrement a lieu vendredi.|funeral|c||family|pos=n
+genuine|authentique, sincère|B2||5|It's a genuine leather bag.|C'est un sac en cuir véritable.|genuine|d||description|pos=adj
+honey|miel|A2||3|I put honey in my tea.|Je mets du miel dans mon thé.|honey|d||food|pos=n
+honour|honneur|B1||3|It's an honour to be here.|C'est un honneur d'être ici.|honour|c|f|feelings|pos=n ;; variant=UK ;; counterpart=honor
+hook|crochet|B1||2|Hang your coat on the hook.|Accroche ton manteau au crochet.|hook|d||housing|pos=n
+instruction|instruction, consigne|A2||4|Read the instructions first.|Lis d'abord les instructions.|instructions|d||basics|pos=n
+legacy|héritage, ancien (système)|B2||4|We still run a legacy system.|Nous utilisons encore un ancien système.|legacy|w||pro,it|pos=n
+log|journal, bûche|B1||3|Check the error log.|Regarde le journal d'erreurs.|log|w||pro,it|pos=n
+merely|simplement, seulement|B2||4|I was merely trying to help.|J'essayais seulement d'aider.|merely|c|f|fn_nuance|pos=adv
+publishing|le secteur de l'édition|B2||3|She works in publishing.|Elle travaille dans l'édition.|publishing|w||career|pos=n
+ratio|ratio, proportion|B2||3|The ratio of staff to clients is low.|Le ratio personnel-clients est faible.|ratio|w||pro,analysis|pos=n
+resort|station de vacances|B1||3|We stayed at a ski resort.|Nous avons séjourné dans une station de ski.|resort|t||travel|pos=n
+reverse|inverser, marche arrière|B1||3|Can you reverse the car into the garage?|Tu peux rentrer la voiture en marche arrière dans le garage ?|reverse|t||transport|pos=v
+routine|routine|A2||4|I need to change my routine.|Je dois changer ma routine.|routine|d||daily_routine|pos=n
+scary|effrayant|A2||4|That film was really scary.|Ce film était vraiment effrayant.|scary|c||feelings|pos=adj
+settle|s'installer, régler|B1||4|They settled in Canada.|Ils se sont installés au Canada.|settled|c||housing|pos=v
+spell|épeler|A1||5|How do you spell your name?|Comment épelles-tu ton nom ?|spell|c||learning|pos=v
+survival|survie|B1||3|It's a matter of survival.|C'est une question de survie.|survival|c||basics|pos=n
+tongue|langue (corps)|A2||3|I burned my tongue.|Je me suis brûlé la langue.|tongue|d||body|pos=n
+wave|vague, faire signe|A2||3|The waves are big today.|Les vagues sont grosses aujourd'hui.|waves|t||nature|pos=n
+@chunk
+What nationality are you?|Quelle est ta nationalité ?|A1|4|3|What nationality are you? I'm French.|Quelle est ta nationalité ? Je suis français.|What nationality are you?|c||small_talk|
+Which part of ... are you from?|De quelle région de ... viens-tu ?|A2|4|3|Which part of France are you from?|De quelle région de France viens-tu ?|Which part of France are you from?|c||small_talk|
+Have you ever been to...?|Es-tu déjà allé à... ?|A2|5|5|Have you ever been to New York?|Es-tu déjà allé à New York ?|Have you ever been to|c||small_talk|
+I've been to...|Je suis allé à...|A2|5|4|I've been to Rome twice.|Je suis allé deux fois à Rome.|I've been to|c||travel|
+I've always wanted to...|J'ai toujours voulu...|A2|5|4|I've always wanted to learn the piano.|J'ai toujours voulu apprendre le piano.|I've always wanted to|c||feelings|
+It's my first time here.|C'est la première fois que je viens ici.|A2|5|5|It's my first time here. Any tips?|C'est la première fois que je viens ici. Des conseils ?|It's my first time here|t||travel|
+I'm here on business.|Je suis ici pour affaires.|A2|5|4|I'm here on business for two days.|Je suis ici pour affaires pendant deux jours.|I'm here on business|t||pro,travel|
+I'm here on holiday.|Je suis ici en vacances.|A2|5|4|I'm here on holiday with my family.|Je suis ici en vacances avec ma famille.|I'm here on holiday|t||travel|
+I'm staying at...|Je loge à...|A2|5|4|I'm staying at a hotel near the station.|Je loge dans un hôtel près de la gare.|I'm staying at|t||travel|
+Could I see your passport?|Puis-je voir votre passeport ?|A2|4|4|Good morning. Could I see your passport, please?|Bonjour. Puis-je voir votre passeport, s'il vous plaît ?|Could I see your passport|t||travel|
+Anything to declare?|Quelque chose à déclarer ?|B1|4|3|Good afternoon. Anything to declare?|Bonjour. Quelque chose à déclarer ?|Anything to declare?|t||travel|
+What's the purpose of your visit?|Quel est le but de votre visite ?|B1|4|3|What's the purpose of your visit to Canada?|Quel est le but de votre visite au Canada ?|What's the purpose of your visit|t|f|travel|
+Where can I get...?|Où est-ce que je peux trouver... ?|A2|5|5|Where can I get a SIM card?|Où est-ce que je peux trouver une carte SIM ?|Where can I get|t||travel|
+What time do you close?|À quelle heure fermez-vous ?|A2|5|4|What time do you close on Sundays?|À quelle heure fermez-vous le dimanche ?|What time do you close|d||shopping|
+Is there a discount for...?|Y a-t-il une réduction pour... ?|A2|4|4|Is there a discount for students?|Y a-t-il une réduction pour les étudiants ?|Is there a discount for|d||shopping|
+Could we have the menu, please?|Pourrions-nous avoir la carte ?|A2|5|5|Excuse me, could we have the menu, please?|Excusez-moi, pourrions-nous avoir la carte ?|could we have the menu, please|d||food|
+Is service included?|Le service est-il compris ?|A2|4|3|Excuse me, is service included?|Excusez-moi, le service est-il compris ?|is service included?|d||food|
+This isn't what I ordered.|Ce n'est pas ce que j'ai commandé.|A2|5|5|Excuse me, this isn't what I ordered.|Excusez-moi, ce n'est pas ce que j'ai commandé.|this isn't what I ordered|d||food|
+There's a mistake in the bill.|Il y a une erreur dans l'addition.|A2|4|4|Sorry, I think there's a mistake in the bill.|Pardon, je crois qu'il y a une erreur dans l'addition.|there's a mistake in the bill|d||food,money|
+I'd like to make a complaint.|Je voudrais déposer une réclamation.|B1|5|5|I'd like to make a complaint about the room.|Je voudrais déposer une réclamation concernant la chambre.|I'd like to make a complaint|t|f|shopping|
+I'd like a refund.|Je voudrais un remboursement.|B1|5|5|It doesn't work. I'd like a refund.|Ça ne marche pas. Je voudrais un remboursement.|I'd like a refund|d||shopping|
+Could I speak to the manager?|Pourrais-je parler au responsable ?|B1|5|4|This is unacceptable. Could I speak to the manager?|C'est inacceptable. Pourrais-je parler au responsable ?|Could I speak to the manager?|d||shopping|
+It doesn't fit.|Ce n'est pas la bonne taille.|A2|4|3|I'd like to change this. It doesn't fit.|Je voudrais l'échanger. Ce n'est pas la bonne taille.|It doesn't fit|d||shopping|
+It's out of stock.|C'est en rupture de stock.|B1|4|3|Sorry, it's out of stock at the moment.|Désolé, c'est en rupture de stock pour le moment.|it's out of stock|d||shopping|
+It's on sale.|C'est en solde.|A2|4|3|This jacket is on sale this week.|Cette veste est en solde cette semaine.|on sale|d||shopping|
+That's a bargain.|C'est une bonne affaire.|B1|5|4|Ten euros? That's a bargain.|Dix euros ? C'est une bonne affaire.|That's a bargain|d||shopping|
+That's a rip-off.|C'est de l'arnaque.|B1|5|4|Twenty euros for a sandwich? That's a rip-off.|Vingt euros pour un sandwich ? C'est de l'arnaque.|That's a rip-off|c|i|money|
+I can't afford it.|Je n'ai pas les moyens.|B1|5|5|I'd love it, but I can't afford it.|J'adorerais, mais je n'ai pas les moyens.|I can't afford it|c||money|
+It costs a fortune.|Ça coûte une fortune.|B1|5|4|Living in London costs a fortune.|Vivre à Londres coûte une fortune.|costs a fortune|c||money|
+It's worth every penny.|Ça vaut largement le prix.|B1|4|3|It's expensive, but it's worth every penny.|C'est cher, mais ça vaut largement le prix.|it's worth every penny|c||money|
+Do you have change for...?|Vous avez la monnaie de... ?|A2|4|3|Do you have change for a twenty?|Vous avez la monnaie de vingt ?|Do you have change for|d||money|
+Where's the nearest...?|Où est le... le plus proche ?|A2|5|5|Where's the nearest metro station?|Où est la station de métro la plus proche ?|Where's the nearest|t||travel|
+Could you take a photo of us?|Vous pourriez nous prendre en photo ?|A2|5|4|Excuse me, could you take a photo of us?|Excusez-moi, vous pourriez nous prendre en photo ?|could you take a photo of us|t||travel|
+Is it OK to...?|Est-ce permis de... ?|A2|4|3|Is it OK to park here?|On peut se garer ici ?|Is it OK to|t||rules|
+What platform does it leave from?|De quel quai part-il ?|A2|4|4|The Lyon train? What platform does it leave from?|Le train pour Lyon ? De quel quai part-il ?|What platform does it leave from?|t||transport|
+Is this the right train for...?|C'est bien le train pour... ?|A2|5|4|Excuse me, is this the right train for Leeds?|Excusez-moi, c'est bien le train pour Leeds ?|is this the right train for|t||transport|
+My flight has been cancelled.|Mon vol a été annulé.|A2|5|5|My flight has been cancelled. What can I do?|Mon vol a été annulé. Que puis-je faire ?|My flight has been cancelled|t||travel|
+My luggage is missing.|Mes bagages ont disparu.|A2|4|4|My luggage is missing. Who should I talk to?|Mes bagages ont disparu. À qui dois-je m'adresser ?|My luggage is missing|t||travel|
+I've missed my connection.|J'ai raté ma correspondance.|B1|4|4|The flight was late and I've missed my connection.|Le vol était en retard et j'ai raté ma correspondance.|I've missed my connection|t||travel|
+There's no signal here.|Il n'y a pas de réseau ici.|A2|5|4|I can't call, there's no signal here.|Je ne peux pas appeler, il n'y a pas de réseau ici.|there's no signal here|c||technology|
+What's the Wi-Fi password?|Quel est le mot de passe du wifi ?|A2|5|5|Excuse me, what's the Wi-Fi password?|Excusez-moi, quel est le mot de passe du wifi ?|what's the Wi-Fi password?|c||technology|
+My battery's dead.|Je n'ai plus de batterie.|A2|5|4|Sorry I didn't call, my battery's dead.|Désolé de ne pas avoir appelé, je n'ai plus de batterie.|my battery's dead|c||technology|
+@collocation
+tell someone off|gronder quelqu'un|B1|4|3|My boss told me off for being late.|Mon chef m'a réprimandé pour mon retard.|told me off|c||relationships|
+break a promise|ne pas tenir une promesse|B1|5|4|He broke his promise.|Il n'a pas tenu sa promesse.|broke his promise|c||relationships|
+break a record|battre un record|B1|4|3|She broke the world record.|Elle a battu le record du monde.|broke the world record|n||leisure|
+break your leg|se casser la jambe|A2|4|3|He broke his leg skiing.|Il s'est cassé la jambe au ski.|broke his leg|d||health|
+break the news|annoncer la nouvelle|B1|4|3|Who's going to break the news to her?|Qui va lui annoncer la nouvelle ?|break the news|c||communication|
+keep a diary|tenir un journal|A2|3|2|I kept a diary when I was young.|J'ai tenu un journal quand j'étais jeune.|kept a diary|d||writing|
+keep your word|tenir parole|B1|5|4|He always keeps his word.|Il tient toujours parole.|keeps his word|c||relationships|
+keep an open mind|garder l'esprit ouvert|B1|5|4|Try to keep an open mind.|Essaie de garder l'esprit ouvert.|keep an open mind|c||fn_suggest|
+keep track of|suivre, garder la trace de|B1|5|5|It's hard to keep track of all the changes.|C'est difficile de suivre tous les changements.|keep track of|w||pro,project|
+lose interest|perdre tout intérêt|B1|4|3|He lost interest after a week.|Il s'en est désintéressé au bout d'une semaine.|lost interest|c||feelings|
+lose patience|perdre patience|B1|4|3|She's starting to lose patience.|Elle commence à perdre patience.|lose patience|c||feelings|
+lose control|perdre le contrôle|B1|5|3|He lost control of the car.|Il a perdu le contrôle de la voiture.|lost control|n||safety|
+lose your way|se perdre (en chemin)|A2|4|2|We lost our way in the old town.|Nous nous sommes perdus dans la vieille ville.|lost our way|t||travel|
+lose confidence|perdre confiance|B1|4|3|Investors are losing confidence.|Les investisseurs perdent confiance.|losing confidence|w||pro,business|
+gain confidence|gagner en assurance|B1|5|4|She's gained confidence since last year.|Elle a gagné en assurance depuis l'année dernière.|gained confidence|c||feelings|
+gain weight|prendre du poids|B1|5|4|I've gained weight this winter.|J'ai pris du poids cet hiver.|gained weight|d||health|
+hold a conversation|tenir une conversation|B1|5|4|I can hold a conversation in Spanish.|Je peux tenir une conversation en espagnol.|hold a conversation|c||learning|
+hold your breath|retenir son souffle|B1|4|3|Don't hold your breath, it may take a while.|N'y compte pas trop, ça risque de prendre du temps.|hold your breath|c|i|fn_react|
+hold an election|organiser une élection|B1|4|2|They'll hold an election in May.|Une élection aura lieu en mai.|hold an election|n||politics|
+reach a decision|prendre une décision (au terme d'une discussion)|B1|5|4|The board has reached a decision.|Le conseil a pris une décision.|reached a decision|w||pro,decision|
+reach a compromise|parvenir à un compromis|B2|5|4|We managed to reach a compromise.|Nous avons réussi à parvenir à un compromis.|reach a compromise|w||pro,decision|
+reach a target|atteindre une cible|B1|5|3|We reached our sales target in June.|Nous avons atteint notre cible de ventes en juin.|reached our sales target|w||pro,business|
+save energy|économiser l'énergie|A2|4|3|Turn off the lights to save energy.|Éteins les lumières pour économiser l'énergie.|save energy|d||nature|
+save a life|sauver une vie|A2|4|3|That doctor saved my life.|Ce médecin m'a sauvé la vie.|saved my life|c||health|
+set the table|mettre la table (US)|A2|4|2|Can you set the table for four?|Tu peux mettre la table pour quatre ?|set the table|d||housing,uk_us|id=set-the-table
+set an alarm|mettre un réveil|A2|5|4|I set an alarm for six.|J'ai mis un réveil à six heures.|set an alarm|d||daily_routine|
+@phrasal_verb
+pull out|se retirer, sortir|B1|5|4|The investor pulled out of the deal.|L'investisseur s'est retiré de l'accord.|pulled out|w||pro,business|
+pull up|s'arrêter (voiture)|B1|4|3|A taxi pulled up outside.|Un taxi s'est arrêté devant.|pulled up|t||transport|
+pull through|s'en sortir|B1|4|3|The doctors think she'll pull through.|Les médecins pensent qu'elle s'en sortira.|pull through|d||health|
+push back|repousser|B1|5|5|We've pushed back the launch to May.|Nous avons repoussé le lancement à mai.|pushed back|w||pro,project|
+put in|installer, consacrer|B1|5|4|She put in a lot of work.|Elle a consacré beaucoup de travail.|put in|w||work|
+put out|éteindre (feu)|B1|4|3|The firefighters put out the fire.|Les pompiers ont éteint l'incendie.|put out|n||safety|
+put together|assembler, préparer|B1|5|5|I'll put together a proposal.|Je vais préparer une proposition.|put together|w||pro,project|
+put up|héberger, afficher|B1|4|3|We can put you up for the night.|Nous pouvons t'héberger pour la nuit.|put you up|c||housing|
+read out|lire à voix haute|A2|4|3|Could you read out the first line?|Tu peux lire la première ligne à voix haute ?|read out|c||learning|
+rip off|arnaquer|B1|4|3|That taxi driver ripped us off.|Ce chauffeur de taxi nous a arnaqués.|ripped us off|c|i|money|
+run down|épuiser, dénigrer|B2|4|3|I feel a bit run down.|Je me sens un peu à plat.|run down|c||health|
+@connector
+as for|quant à|B1|5|5|As for the budget, it's approved.|Quant au budget, il est approuvé.|As for|w||pro,fn_topic_change|
+regarding|concernant|B1|5|5|I'm calling regarding your invoice.|J'appelle concernant votre facture.|regarding|w||pro,email|
+concerning|au sujet de|B2|5|4|I have a question concerning the contract.|J'ai une question au sujet du contrat.|concerning|w|f|pro,email|
+in the case of|dans le cas de|B1|5|3|In the case of an emergency, call this number.|En cas d'urgence, appelez ce numéro.|In the case of|w|f|fn_explain|
+until now|jusqu'à présent|B1|5|4|Until now, nobody has complained.|Jusqu'à présent, personne ne s'est plaint.|Until now|c||time|
+@idiom
+Have your head in the clouds.|Avoir la tête dans les nuages.|B1|3|3|He always has his head in the clouds.|Il a toujours la tête dans les nuages.|has his head in the clouds|c||personality|
+Know something inside out.|Connaître quelque chose sur le bout des doigts.|B2|4|3|She knows the product inside out.|Elle connaît le produit sur le bout des doigts.|knows the product inside out|w||pro,learning|
+A pain in the neck.|Une plaie, quelqu'un de pénible.|B1|4|3|This paperwork is a pain in the neck.|Cette paperasse, c'est une plaie.|a pain in the neck|c|i|fn_react|
+A storm in a teacup.|Une tempête dans un verre d'eau.|B2|3|2|It's just a storm in a teacup.|C'est juste une tempête dans un verre d'eau.|a storm in a teacup|c||fn_opinion|
+Cross that bridge when you come to it.|Chaque chose en son temps.|B2|4|3|We'll cross that bridge when we come to it.|Chaque chose en son temps, on verra le moment venu.|cross that bridge when we come to it|c||decision|
