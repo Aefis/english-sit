@@ -1,0 +1,179 @@
+# Lot 036 : B2+-C1 (mots soutenus E-R, travail, analyse, presse)
+@word
+embark|se lancer, embarquer|B2+||3|We're embarking on a new project.|Nous nous lançons dans un nouveau projet.|embarking|w|f|pro,project|pos=v
+emulate|imiter, chercher à égaler|C1||2|Others try to emulate her success.|D'autres essaient d'égaler son succès.|emulate|w|f|business|pos=v
+encompass|englober|C1||3|The role encompasses sales and marketing.|Le poste englobe la vente et le marketing.|encompasses|w|f|pro,career|pos=v
+endeavour|s'efforcer, effort|C1||3|We endeavour to reply within two days.|Nous nous efforçons de répondre sous deux jours.|endeavour|w|f|pro,email|pos=v
+entrenched|ancré, enraciné|C1||3|These habits are deeply entrenched.|Ces habitudes sont profondément ancrées.|entrenched|n|f|analysis|pos=adj
+envisage|envisager|B2+||4|I don't envisage any problems.|Je n'envisage aucun problème.|envisage|w|f|pro,project|pos=v
+equate|assimiler, équivaloir|C1||3|Don't equate price with quality.|N'assimile pas le prix à la qualité.|equate|c|f|analysis|pos=v
+eradicate|faire disparaître, éradiquer|C1||3|We want to eradicate the disease.|Nous voulons éradiquer la maladie.|eradicate|n|f|health|pos=v
+evade|éviter, échapper à|B2+||3|He evaded the question.|Il a éludé la question.|evaded|n|f|communication|pos=v
+evoke|évoquer|B2+||3|The song evokes my childhood.|La chanson évoque mon enfance.|evokes|c|f|feelings|pos=v
+exemplify|illustrer|C1||2|This case exemplifies the problem.|Ce cas illustre le problème.|exemplifies|a|f|analysis|pos=v
+exert|exercer|B2+||3|They exert a strong influence.|Ils exercent une forte influence.|exert|w|f|analysis|pos=v
+exhaustive|exhaustif|B2+||3|This isn't an exhaustive list.|Cette liste n'est pas exhaustive.|exhaustive|w||pro,analysis|pos=adj
+extrapolate|extrapoler|C1||2|You can't extrapolate from one case.|On ne peut pas extrapoler à partir d'un seul cas.|extrapolate|a|f|analysis|pos=v
+fabricate|fabriquer, inventer|C1||2|He fabricated the results.|Il a inventé les résultats.|fabricated|n|f|analysis|pos=v
+facet|facette|C1||2|We looked at every facet of the problem.|Nous avons examiné chaque facette du problème.|facet|a|f|analysis|pos=n
+fallacy|erreur, idée fausse|C1||3|That's a common fallacy.|C'est une idée fausse courante.|fallacy|a|f|argument|pos=n
+feasibility|faisabilité|B2+||5|We're doing a feasibility study.|Nous réalisons une étude de faisabilité.|feasibility|w||pro,project|pos=n
+fluctuate|fluctuer|B2+||4|Prices fluctuate a lot.|Les prix fluctuent beaucoup.|fluctuate|w||pro,analysis|pos=v
+forfeit|perdre, renoncer à|C1||2|You'll forfeit your deposit.|Tu perdras ta caution.|forfeit|w|f|rules|pos=v
+formidable|redoutable|B2+||3|She's a formidable opponent.|C'est une adversaire redoutable.|formidable|c||description,false_friend|pos=adj ;; notes=Faux ami : « redoutable », pas « super ».
+forthcoming|imminent, à paraître|B2+||4|Details of the forthcoming event are below.|Les détails du prochain événement se trouvent ci-dessous.|forthcoming|w|f|pro,email|pos=adj
+fruitful|fructueux|B2+||4|It was a fruitful discussion.|Ce fut une discussion fructueuse.|fruitful|w|f|pro,meetings|pos=adj
+galvanize|galvaniser|C1||2|Her speech galvanized the team.|Son discours a galvanisé l'équipe.|galvanized|w|f|management|pos=v
+garner|recueillir, obtenir|C1||2|The film garnered great reviews.|Le film a recueilli d'excellentes critiques.|garnered|n|f|media|pos=v
+hallmark|marque, caractéristique|C1||3|Attention to detail is the hallmark of her work.|Le souci du détail est la marque de son travail.|hallmark|w|f|description|pos=n
+hasten|hâter, accélérer|C1||2|I hasten to add that it's not my fault.|Je m'empresse d'ajouter que ce n'est pas ma faute.|hasten|c|f|time|pos=v
+heighten|accroître|B2+||3|This has heightened tensions.|Cela a accru les tensions.|heightened|n|f|analysis|pos=v
+holistic|global, holistique|B2+||4|We take a holistic approach.|Nous adoptons une approche globale.|holistic|w||pro,analysis|pos=adj
+hypothetical|hypothétique|B2+||3|It's a purely hypothetical question.|C'est une question purement hypothétique.|hypothetical|c||fn_nuance|pos=adj
+illuminate|éclairer|B2+||2|The study illuminates the issue.|L'étude éclaire le problème.|illuminates|a|f|analysis|pos=v
+imbalance|déséquilibre|B2+||3|There's an imbalance in the team.|Il y a un déséquilibre dans l'équipe.|imbalance|w||analysis|pos=n
+immerse|plonger, immerger|B2+||3|I immersed myself in the language.|Je me suis plongé dans la langue.|immersed|c||learning|pos=v
+impair|nuire à, altérer|C1||3|Lack of sleep impairs your judgment.|Le manque de sommeil altère le jugement.|impairs|d|f|health|pos=v
+impeccable|impeccable|B2+||3|Her English is impeccable.|Son anglais est impeccable.|impeccable|c||description|pos=adj
+impetus|élan, impulsion|C1||3|This gave new impetus to the project.|Cela a donné un nouvel élan au projet.|impetus|w|f|pro,project|pos=n
+impractical|peu pratique|B2||3|It's an impractical solution.|C'est une solution peu pratique.|impractical|w||description|pos=adj
+improvise|improviser|B2||3|We'll have to improvise.|Il va falloir improviser.|improvise|c||basics|pos=v
+inadvertently|par inadvertance|C1||3|I inadvertently sent the wrong file.|J'ai envoyé le mauvais fichier par inadvertance.|inadvertently|w|f|pro,email|pos=adv
+incessant|incessant|C1||2|The noise was incessant.|Le bruit était incessant.|incessant|c|f|description|pos=adj
+incidence|fréquence, incidence|C1||3|The incidence of the disease is rising.|La fréquence de la maladie augmente.|incidence|a|f|analysis|pos=n
+inception|création, début|C1||2|She's been here since its inception.|Elle est là depuis sa création.|inception|w|f|business|pos=n
+incompatible|incompatible|B2||3|The two systems are incompatible.|Les deux systèmes sont incompatibles.|incompatible|w||it|pos=adj
+incorporate|intégrer|B2+||5|We've incorporated your comments.|Nous avons intégré vos commentaires.|incorporated|w||pro,project|pos=v
+indefinitely|indéfiniment|B2||3|The project is on hold indefinitely.|Le projet est suspendu indéfiniment.|indefinitely|w||time|pos=adv
+indicative|révélateur|C1||3|This is indicative of a wider problem.|C'est révélateur d'un problème plus large.|indicative|a|f|analysis|pos=adj
+induce|provoquer, induire|C1||2|The drug may induce sleep.|Le médicament peut provoquer le sommeil.|induce|d|f|health|pos=v
+indulge|se faire plaisir|B2+||3|I indulged in a big dessert.|Je me suis fait plaisir avec un gros dessert.|indulged|c||food|pos=v
+infer|inférer, conclure|B2+||3|What can we infer from the data?|Que pouvons-nous déduire des données ?|infer|a|f|analysis|pos=v
+inflict|infliger|B2+||2|The storm inflicted heavy damage.|La tempête a infligé de lourds dégâts.|inflicted|n|f|basics|pos=v
+influx|afflux|C1||3|We've seen an influx of tourists.|Nous avons vu un afflux de touristes.|influx|n|f|analysis|pos=n
+infringe|porter atteinte à|C1||3|This may infringe copyright.|Cela peut enfreindre les droits d'auteur.|infringe|w|f|pro,rules|pos=v
+ingenious|ingénieux|B2+||3|What an ingenious idea!|Quelle idée ingénieuse !|ingenious|c||description|pos=adj
+inhibit|freiner, inhiber|C1||3|High costs inhibit growth.|Les coûts élevés freinent la croissance.|inhibit|w|f|pro,analysis|pos=v
+insightful|perspicace, éclairant|B2+||5|Thanks for your insightful comments.|Merci pour vos commentaires éclairants.|insightful|w||pro,communication|pos=adj
+instigate|lancer, être à l'origine de|C1||2|She instigated the review.|Elle est à l'origine de cet examen.|instigated|w|f|management|pos=v
+instrumental|déterminant|C1||4|She was instrumental in closing the deal.|Elle a joué un rôle déterminant dans la conclusion de l'accord.|instrumental|w|f|pro,career|pos=adj
+intangible|immatériel|C1||3|Trust is an intangible asset.|La confiance est un actif immatériel.|intangible|w|f|pro,business|pos=adj
+intensify|intensifier|B2+||4|Competition has intensified.|La concurrence s'est intensifiée.|intensified|n||pro,analysis|pos=v
+intervene|s'interposer, intervenir|B2||4|The government had to intervene.|Le gouvernement a dû intervenir.|intervene|n||politics|pos=v
+intimidate|intimider|B2||3|Don't let him intimidate you.|Ne te laisse pas intimider par lui.|intimidate|c||relationships|pos=v
+intuitive|intuitif|B2+||4|The app is very intuitive.|L'appli est très intuitive.|intuitive|w||pro,technology|pos=adj
+irrational|irrationnel|B2||3|It's an irrational fear.|C'est une peur irrationnelle.|irrational|c||feelings|pos=adj
+irreversible|irréversible|B2+||3|The damage is irreversible.|Les dégâts sont irréversibles.|irreversible|n||analysis|pos=adj
+jargon|jargon|B2||3|Please avoid jargon.|Merci d'éviter le jargon.|jargon|w||pro,writing|pos=n
+juggle|jongler|B2||4|I'm juggling work and family.|Je jongle entre le travail et la famille.|juggling|c||feelings|pos=v
+latent|latent|C1||2|She has latent talent.|Elle a un talent latent.|latent|a|f|analysis|pos=adj
+lax|laxiste|C1||2|Security here is lax.|La sécurité est laxiste ici.|lax|w||rules|pos=adj
+lenient|indulgent, clément|B2+||3|The judge was lenient.|Le juge a été clément.|lenient|n||rules|pos=adj
+lingering|tenace|B2+||2|I have lingering doubts.|J'ai des doutes persistants.|lingering|c||feelings|pos=adj
+loophole|faille (légale)|B2+||4|They found a tax loophole.|Ils ont trouvé une faille fiscale.|loophole|n||rules|pos=n
+ludicrous|grotesque, absurde|C1||3|That's a ludicrous idea.|C'est une idée grotesque.|ludicrous|c||fn_disagree|pos=adj
+malfunction|dysfonctionnement|B2+||3|There was a technical malfunction.|Il y a eu un dysfonctionnement technique.|malfunction|w||it|pos=n
+mediocre|médiocre|B2||3|The food was mediocre.|La cuisine était médiocre.|mediocre|c||fn_opinion|pos=adj
+mentor|mentor|B2||4|She's been a great mentor to me.|Elle a été un excellent mentor pour moi.|mentor|w||pro,career|pos=n
+mindful|attentif, conscient|B2+||4|Be mindful of the time.|Fais attention à l'heure.|mindful|w||fn_nuance|pos=adj
+misconception|idée fausse|B2+||4|It's a common misconception.|C'est une idée fausse courante.|misconception|c||analysis|pos=n
+misguided|malavisé|B2+||3|It was a misguided decision.|C'était une décision malavisée.|misguided|w||fn_opinion|pos=adj
+mishap|incident, mésaventure|B2+||2|We arrived without mishap.|Nous sommes arrivés sans encombre.|mishap|t||travel|pos=n
+mislead|induire en erreur|B2||4|The ad is designed to mislead.|La publicité est conçue pour induire en erreur.|mislead|n||communication|pos=v ;; forms=misled
+modest|modeste|B1||4|She's very modest.|Elle est très modeste.|modest|c||personality|pos=adj
+navigate|naviguer, s'orienter|B2||4|It's hard to navigate the system.|Il est difficile de s'y retrouver dans le système.|navigate|w||technology|pos=v
+negate|annuler, réduire à néant|C1||2|This negates the benefits.|Cela annule les avantages.|negates|a|f|analysis|pos=v
+negligence|négligence|B2+||3|The accident was caused by negligence.|L'accident a été causé par la négligence.|negligence|n||rules|pos=n
+notorious|tristement célèbre|B2+||3|The area is notorious for crime.|Le quartier est tristement célèbre pour sa criminalité.|notorious|n||description,false_friend|pos=adj ;; notes=Faux ami : a un sens négatif.
+noteworthy|remarquable|C1||3|It's noteworthy that sales rose.|Il est à noter que les ventes ont augmenté.|noteworthy|a|f|analysis|pos=adj
+nurture|nourrir, cultiver|B2+||4|We nurture young talent.|Nous cultivons les jeunes talents.|nurture|w||pro,management|pos=v
+objectively|objectivement|B2||3|Objectively, it's the better option.|Objectivement, c'est la meilleure option.|Objectively|c||fn_opinion|pos=adv
+oblivious|inconscient, qui ne remarque pas|C1||3|He was oblivious to the danger.|Il n'avait pas conscience du danger.|oblivious|c||description|pos=adj
+obstruct|bloquer, entraver|B2+||2|A truck obstructed the road.|Un camion bloquait la route.|obstructed|t|f|transport|pos=v
+onerous|lourd, pénible|C1||2|The rules are onerous for small firms.|Les règles sont lourdes pour les petites entreprises.|onerous|w|f|pro,rules|pos=adj
+opaque|opaque|C1||2|The process is opaque.|Le processus est opaque.|opaque|w|f|description|pos=adj
+ostensibly|soi-disant|C1||2|He left, ostensibly to rest.|Il est parti, en apparence pour se reposer.|ostensibly|n|f|fn_nuance|pos=adv
+outperform|surpasser|B2+||4|We outperformed our competitors.|Nous avons surpassé nos concurrents.|outperformed|w||pro,business|pos=v
+outweigh|l'emporter sur|B2+||5|The benefits outweigh the risks.|Les avantages l'emportent sur les risques.|outweigh|w||pro,analysis|pos=v
+overarching|global, principal|C1||3|Our overarching goal is growth.|Notre objectif global, c'est la croissance.|overarching|w|f|pro,project|pos=adj
+override|outrepasser, primer sur|B2+||3|Safety overrides all other concerns.|La sécurité prime sur tout le reste.|overrides|w||rules|pos=v
+overshadow|éclipser|B2+||3|The scandal overshadowed the event.|Le scandale a éclipsé l'événement.|overshadowed|n||media|pos=v
+overstate|exagérer|B2+||3|I can't overstate how important it is.|Je n'exagère pas en disant que c'est très important.|overstate|c|f|fn_nuance|pos=v
+overturn|renverser, annuler|B2+||3|The court overturned the decision.|Le tribunal a annulé la décision.|overturned|n||rules|pos=v
+palpable|palpable|C1||2|The tension was palpable.|La tension était palpable.|palpable|c|f|description|pos=adj
+paradigm|paradigme|C1||2|It's a paradigm shift.|C'est un changement de paradigme.|paradigm|a|f|analysis|pos=n
+perceptive|perspicace|B2+||3|She's a very perceptive woman.|C'est une femme très perspicace.|perceptive|c||personality|pos=adj
+perpetuate|perpétuer|C1||3|This perpetuates the problem.|Cela perpétue le problème.|perpetuates|a|f|analysis|pos=v
+persevere|persévérer|B2+||3|You have to persevere.|Il faut persévérer.|persevere|c||personality|pos=v
+persist|persister|B2+||4|If the problem persists, call us.|Si le problème persiste, appelez-nous.|persists|w|f|pro,it|pos=v
+pervasive|envahissant, diffus|C1||3|Fear was pervasive.|La peur était omniprésente.|pervasive|n|f|analysis|pos=adj
+pinpoint|localiser précisément|B2+||5|We can't pinpoint the cause.|Nous n'arrivons pas à localiser la cause précisément.|pinpoint|w||pro,analysis|pos=v
+pioneering|pionnier|B2+||3|It's pioneering research.|C'est une recherche pionnière.|pioneering|a||academic|pos=adj
+pitfall|écueil, piège|B2+||4|Here are the common pitfalls.|Voici les écueils courants.|pitfalls|w||pro,risk|pos=n
+plight|situation difficile|C1||2|The film shows the plight of refugees.|Le film montre le sort des réfugiés.|plight|n|f|news|pos=n
+poised|prêt à, sur le point de|C1||3|The firm is poised for growth.|L'entreprise est prête à croître.|poised|w|f|pro,business|pos=adj
+potent|très efficace, puissant (produit)|B2+||2|It's a potent drug.|C'est un médicament puissant.|potent|d|f|health|pos=adj
+precarious|précaire|C1||3|Her position is precarious.|Sa position est précaire.|precarious|n|f|risk|pos=adj
+precede|précéder|B2+||3|A speech preceded the dinner.|Un discours a précédé le dîner.|preceded|c|f|time|pos=v
+predicament|situation difficile, embarras|C1||3|I'm in a real predicament.|Je suis dans une vraie situation difficile.|predicament|c|f|feelings|pos=n
+premature|prématuré|B2||4|It's premature to draw conclusions.|Il est prématuré de tirer des conclusions.|premature|w||time|pos=adj
+preoccupied|préoccupé|B2+||3|She seems preoccupied.|Elle a l'air préoccupée.|preoccupied|c||feelings|pos=adj
+prescribe|prescrire|B2||3|The doctor prescribed antibiotics.|Le médecin a prescrit des antibiotiques.|prescribed|d||health|pos=v
+presume|présumer|B2+||4|I presume you've read the report.|Je présume que tu as lu le rapport.|presume|w|f|fn_nuance|pos=v
+proceed|continuer, procéder|B2||5|Please proceed to gate five.|Veuillez vous rendre à la porte cinq.|proceed|t|f|travel|pos=v
+procrastinate|procrastiner|B2+||4|Stop procrastinating and start.|Arrête de procrastiner et commence.|procrastinating|c||time|pos=v
+proficiency|compétence, maîtrise|B2+||4|You need proficiency in English.|Il te faut une bonne maîtrise de l'anglais.|proficiency|w||pro,career|pos=n
+prohibit|interdire|B2||4|Smoking is prohibited.|Il est interdit de fumer.|prohibited|d|f|rules|pos=v
+proliferate|proliférer|C1||2|Fake accounts have proliferated.|Les faux comptes ont proliféré.|proliferated|n|f|analysis|pos=v
+prone|sujet à, enclin|B2+||4|He's prone to headaches.|Il est sujet aux maux de tête.|prone|d||health|pos=adj
+propel|propulser|B2+||2|The film propelled her to fame.|Le film l'a propulsée vers la célébrité.|propelled|n||media|pos=v
+provoke|susciter, provoquer|B2||4|The law provoked strong reactions.|La loi a provoqué de vives réactions.|provoked|n||basics|pos=v
+quantify|quantifier|B2+||4|It's hard to quantify the impact.|Il est difficile de quantifier l'impact.|quantify|w||pro,analysis|pos=v
+rampant|endémique, galopant|C1||3|Inflation is rampant.|L'inflation est galopante.|rampant|n|f|analysis|pos=adj
+ramification|ramification|C1||2|We haven't considered the ramifications.|Nous n'avons pas envisagé les conséquences.|ramifications|w|f|pro,analysis|pos=n
+reaffirm|réaffirmer|B2+||3|We reaffirm our commitment.|Nous réaffirmons notre engagement.|reaffirm|w|f|pro,communication|pos=v
+reassess|réévaluer|B2+||4|We need to reassess our priorities.|Nous devons réévaluer nos priorités.|reassess|w||pro,decision|pos=v
+reckless|imprudent, téméraire|B2||4|That was reckless driving.|C'était une conduite imprudente.|reckless|n||description|pos=adj
+reckon|penser, estimer|B1||5|I reckon it'll rain.|Je pense qu'il va pleuvoir.|reckon|c|i|fn_opinion|pos=v
+redundancy|licenciement économique|B2+||4|There were fifty redundancies.|Il y a eu cinquante licenciements.|redundancies|w||pro,career|pos=n
+refute|réfuter|C1||3|We can refute that claim.|Nous pouvons réfuter cette affirmation.|refute|a|f|argument|pos=v
+reinstate|réintégrer, rétablir|C1||2|He was reinstated in his post.|Il a été réintégré dans son poste.|reinstated|w|f|career|pos=v
+relentless|implacable, incessant|B2+||3|The pressure was relentless.|La pression était implacable.|relentless|c||description|pos=adj
+relinquish|renoncer à|C1||2|He relinquished control of the firm.|Il a renoncé au contrôle de l'entreprise.|relinquished|w|f|business|pos=v
+reluctance|réticence|B2+||4|I understand your reluctance.|Je comprends ta réticence.|reluctance|c||feelings|pos=n
+remit|périmètre, mission|C1||3|That's outside my remit.|Ça sort de mon périmètre.|remit|w||pro,work|pos=n
+reprimand|réprimander|B2+||2|He was reprimanded by his boss.|Il a été réprimandé par son chef.|reprimanded|w|f|work|pos=v
+reputable|de bonne réputation|B2+||3|Use a reputable company.|Fais appel à une entreprise de bonne réputation.|reputable|w||description|pos=adj
+rescind|annuler, révoquer|C1||2|The offer was rescinded.|L'offre a été annulée.|rescinded|w|f|rules|pos=v
+resent|en vouloir à|B2||3|She resents her sister.|Elle en veut à sa sœur.|resents|c||feelings|pos=v
+resentment|ressentiment|B2+||3|There's a lot of resentment.|Il y a beaucoup de ressentiment.|resentment|c||feelings|pos=n
+reside|résider|B2+||2|He resides in Geneva.|Il réside à Genève.|resides|w|f|housing|pos=v
+resonate|trouver un écho|B2+||4|Her message really resonated.|Son message a vraiment trouvé un écho.|resonated|w||pro,communication|pos=v
+restrain|retenir, contenir|B2+||2|He couldn't restrain his anger.|Il n'a pas pu contenir sa colère.|restrain|c|f|feelings|pos=v
+resurgence|résurgence, renouveau|C1||2|There's been a resurgence of interest.|Il y a eu un regain d'intérêt.|resurgence|n|f|analysis|pos=n
+retaliate|user de représailles|B2+||2|They retaliated with new tariffs.|Ils ont riposté par de nouveaux droits de douane.|retaliated|n||news|pos=v
+retract|retirer, se rétracter|C1||2|The paper retracted the story.|Le journal a retiré l'article.|retracted|n|f|media|pos=v
+revert|revenir, reprendre|B2+||4|I'll revert to you shortly.|Je reviens vers vous rapidement.|revert|w|f|pro,email|pos=v
+revise|réviser, revoir|B1||5|We've revised the budget.|Nous avons revu le budget.|revised|w||pro,project|pos=v
+revoke|révoquer, retirer|C1||2|They revoked his licence.|Ils lui ont retiré son permis.|revoked|n|f|rules|pos=v
+rife|omniprésent (négatif)|C1||2|The industry is rife with rumours.|Le secteur est plein de rumeurs.|rife|n|f|analysis|pos=adj
+@connector
+as such|en tant que tel|B2+|4|3|It's not a rule as such.|Ce n'est pas une règle en tant que telle.|as such|w||fn_nuance|
+if at all|si tant est que|C1|3|2|He rarely, if at all, calls.|Il appelle rarement, si tant est qu'il appelle.|if at all|c|f|fn_nuance|
+in and of itself|en soi|C1|3|2|It's not a problem in and of itself.|Ce n'est pas un problème en soi.|in and of itself|a|f|fn_nuance|
+in itself|en soi (courant)|B2|4|3|That's not bad in itself.|Ce n'est pas mauvais en soi.|in itself|c||fn_nuance|
+to a lesser extent|dans une moindre mesure|B2+|5|4|It affects Spain and, to a lesser extent, Italy.|Cela touche l'Espagne et, dans une moindre mesure, l'Italie.|to a lesser extent|w||pro,fn_nuance|
+to a greater extent|dans une plus large mesure|B2+|3|2|It depends to a greater extent on price.|Cela dépend dans une plus large mesure du prix.|to a greater extent|w||fn_nuance|
+to this day|encore aujourd'hui|B2|4|3|To this day, I don't know why.|Encore aujourd'hui, je ne sais pas pourquoi.|To this day|c||fn_narrate|
+@idiom
+A foregone conclusion.|Une conclusion courue d'avance.|C1|3|3|The result was a foregone conclusion.|Le résultat était couru d'avance.|a foregone conclusion|n|f|analysis|
+A moot point.|Une question discutable.|C1|2|2|It's now a moot point.|C'est désormais une question sans intérêt.|a moot point|w|f|argument|
+At arm's length.|À distance, à bonne distance.|B2+|3|2|Keep your rivals at arm's length.|Garde tes concurrents à bonne distance.|at arm's length|w||relationships|
+Bear the brunt of.|Subir le plus gros de.|C1|4|3|Small firms bear the brunt of the crisis.|Les petites entreprises subissent le plus gros de la crise.|bear the brunt of|n||analysis|
+Come to a head.|Atteindre un point critique.|B2+|3|3|The dispute came to a head.|Le litige a atteint un point critique.|came to a head|n||analysis|
+Err on the side of caution.|Pécher par excès de prudence.|C1|4|3|Let's err on the side of caution.|Péchons par excès de prudence.|err on the side of caution|w||pro,risk|
+Have a vested interest.|Avoir un intérêt personnel.|C1|3|3|He has a vested interest in the deal.|Il a un intérêt personnel dans l'accord.|has a vested interest|w|f|pro,business|
+Lose sight of.|Perdre de vue.|B2|5|4|Don't lose sight of the goal.|Ne perds pas de vue l'objectif.|lose sight of|w||pro,project|
+Pay lip service.|Soutenir en paroles seulement.|C1|3|3|They only pay lip service to diversity.|Ils ne soutiennent la diversité qu'en paroles.|pay lip service|w||pro,management|
+Stand the test of time.|Résister à l'épreuve du temps.|B2+|4|3|Her ideas have stood the test of time.|Ses idées ont résisté à l'épreuve du temps.|stood the test of time|c||fn_opinion|
+The devil is in the detail.|Le diable se cache dans les détails.|B2+|4|3|The plan looks good, but the devil is in the detail.|Le plan a l'air bon, mais le diable se cache dans les détails.|the devil is in the detail|w||pro,analysis|

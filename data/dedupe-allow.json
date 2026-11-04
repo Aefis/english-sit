@@ -1153,5 +1153,19 @@
       "allege"
     ],
     "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "such-as",
+      "as-such"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "misleading",
+      "mislead"
+    ],
+    "reason": "Adjectif à part entière."
   }
 ]
