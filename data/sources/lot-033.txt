@@ -1,0 +1,212 @@
+# Lot 033 : B1-C1 (mots utiles restants, adjectifs de jugement, verbes de l'écrit)
+@word
+absorb|absorber|B2||3|It takes time to absorb all this.|Il faut du temps pour assimiler tout ça.|absorb|c||learning|pos=v
+accompany|accompagner|B1||4|I'll accompany you to the station.|Je t'accompagne à la gare.|accompany|c|f|basics|pos=v
+assurance|assurance, garantie|B2||3|He gave me his assurance.|Il m'a donné sa garantie.|assurance|w|f|pro,communication|pos=n
+boycott|boycotter|B2||2|They called for a boycott.|Ils ont appelé au boycott.|boycott|n||politics|pos=n
+carpenter|menuisier|B1||2|My uncle is a carpenter.|Mon oncle est menuisier.|carpenter|c||career|pos=n
+competitor|concurrent|B1||5|Our competitors have lowered their prices.|Nos concurrents ont baissé leurs prix.|competitors|w||pro,business|pos=n
+cuisine|cuisine (style)|B1||3|I love Thai cuisine.|J'adore la cuisine thaïlandaise.|cuisine|d||food|pos=n
+enjoyment|plaisir|B1||2|Reading gives me great enjoyment.|La lecture me procure beaucoup de plaisir.|enjoyment|c||feelings|pos=n
+exhaust|épuiser, échappement|B2||3|The long walk exhausted me.|La longue marche m'a épuisé.|exhausted|c||feelings|pos=v
+flee|fuir|B2||3|Thousands fled the fighting.|Des milliers de personnes ont fui les combats.|fled|n||news|pos=v ;; forms=fled
+glimpse|aperçu, entrevoir|B2||3|I caught a glimpse of her.|Je l'ai aperçue un instant.|glimpse|c||basics|pos=n
+homemade|fait maison|A2||3|This is homemade jam.|C'est de la confiture maison.|homemade|d||food|pos=adj
+inferior|inférieur|B2||3|It's an inferior product.|C'est un produit de qualité inférieure.|inferior|w||description|pos=adj
+injustice|injustice|B2||2|It's a terrible injustice.|C'est une terrible injustice.|injustice|n||news|pos=n
+interpret|interpréter|B2||4|How do you interpret these figures?|Comment interprètes-tu ces chiffres ?|interpret|w||pro,analysis|pos=v
+masterpiece|chef-d'œuvre|B1||3|This film is a masterpiece.|Ce film est un chef-d'œuvre.|masterpiece|d||leisure|pos=n
+memo|note interne|B1||3|Did you read the memo?|Tu as lu la note ?|memo|w||pro,writing|pos=n
+obesity|obésité|B1||2|Obesity is a growing problem.|L'obésité est un problème croissant.|Obesity|d||health|pos=n
+reliance|dépendance|B2+||3|We need to reduce our reliance on oil.|Nous devons réduire notre dépendance au pétrole.|reliance|n||analysis|pos=n
+retention|fidélisation, rétention|B2+||4|Staff retention is a problem.|La fidélisation du personnel est un problème.|retention|w||pro,management|pos=n
+ribbon|ruban|A2||2|She tied it with a red ribbon.|Elle l'a attaché avec un ruban rouge.|ribbon|d||basics|pos=n
+roommate|colocataire|A2||3|My roommate is from Spain.|Mon colocataire vient d'Espagne.|roommate|d||housing|pos=n
+rotten|pourri|B1||3|These apples are rotten.|Ces pommes sont pourries.|rotten|d||food|pos=adj
+spoil|gâcher, gâter|B1||4|Don't spoil the ending!|Ne gâche pas la fin !|spoil|c||basics|pos=v
+suburb|banlieue|B1||4|They live in the suburbs.|Ils vivent en banlieue.|suburbs|d||places|pos=n
+sympathetic|compréhensif|B2||4|My boss was very sympathetic.|Mon chef a été très compréhensif.|sympathetic|c||false_friend|pos=adj ;; notes=Faux ami : sympa = nice, friendly.
+temper|caractère, humeur|B1||4|He has a bad temper.|Il a mauvais caractère.|temper|c||personality|pos=n
+undergo|subir|B2+||3|She underwent surgery.|Elle a subi une opération.|underwent|d|f|health|pos=v ;; forms=underwent, undergone
+colourful|coloré|A2||3|It's a very colourful town.|C'est une ville très colorée.|colourful|t||description|pos=adj
+confront|faire face à, confronter|B2||4|We have to confront the problem.|Nous devons faire face au problème.|confront|w||pro,work|pos=v
+epidemic|épidémie|B2||2|It's turned into an epidemic.|C'est devenu une épidémie.|epidemic|n||health|pos=n
+evolve|évoluer|B2||5|The market is evolving fast.|Le marché évolue vite.|evolving|w||pro,analysis|pos=v
+explode|exploser|B1||3|A bomb exploded in the city.|Une bombe a explosé dans la ville.|exploded|n||news|pos=v
+glue|colle, coller|A2||2|You'll need some glue.|Il te faudra de la colle.|glue|d||basics|pos=n
+inheritance|héritage|B2||3|He spent his inheritance on a house.|Il a dépensé son héritage dans une maison.|inheritance|c||money|pos=n
+ironic|ironique|B2||3|It's ironic that he got lost.|C'est ironique qu'il se soit perdu.|ironic|c||communication|pos=adj
+minimize|réduire au minimum|B2||5|We want to minimize the risk.|Nous voulons réduire le risque au minimum.|minimize|w||pro,risk|pos=v ;; also=minimise
+peel|éplucher, peler|A2||3|Peel the apples first.|Épluche d'abord les pommes.|Peel|d||food|pos=v
+picnic|pique-nique|A1||3|Let's have a picnic.|Faisons un pique-nique.|picnic|d||leisure|pos=n
+psychologist|psychologue|B1||3|She's a child psychologist.|Elle est psychologue pour enfants.|psychologist|c||career|pos=n
+royalty|royauté, droits d'auteur|B2||2|He earns royalties on each book.|Il touche des droits d'auteur sur chaque livre.|royalties|w||money|pos=n
+sausage|saucisse|A1||2|We had sausages for dinner.|Nous avons mangé des saucisses au dîner.|sausages|d||food|pos=n
+seize|saisir|B2||3|You need to seize this opportunity.|Tu dois saisir cette occasion.|seize|c||decision|pos=v
+skeleton|squelette|B1||1|There's a skeleton in the museum.|Il y a un squelette au musée.|skeleton|t||body|pos=n
+spicy|relevé, épicé|A2||4|I love spicy food.|J'adore la nourriture épicée.|spicy|d||food|pos=adj
+sticky|collant|A2||3|My hands are sticky.|J'ai les mains collantes.|sticky|d||description|pos=adj
+tutorial|tutoriel|B1||3|I watched a tutorial online.|J'ai regardé un tutoriel en ligne.|tutorial|d||technology|pos=n
+unpleasant|désagréable|B1||4|It was an unpleasant surprise.|Ce fut une surprise désagréable.|unpleasant|c||description|pos=adj
+vacant|vacant, libre|B2||3|The post is still vacant.|Le poste est toujours vacant.|vacant|w||career|pos=adj
+warmth|chaleur (affection, température)|B1||3|I felt the warmth of the sun.|J'ai senti la chaleur du soleil.|warmth|c||feelings|pos=n
+cooperate|coopérer|B1||4|We need to cooperate.|Nous devons coopérer.|cooperate|w||work|pos=v
+distribute|diffuser, distribuer (commerce)|B1||4|We distribute our products in Europe.|Nous distribuons nos produits en Europe.|distribute|w||pro,business|pos=v
+encouragement|encouragement|B1||3|Thanks for your encouragement.|Merci pour tes encouragements.|encouragement|c||feelings|pos=n
+gamble|parier, jouer|B1||3|It's a big gamble.|C'est un gros pari.|gamble|c||risk|pos=n
+hesitate|hésiter|B1||5|Don't hesitate to ask.|N'hésite pas à demander.|hesitate|c||fn_hesitate|pos=v
+hopeful|plein d'espoir|B1||4|I'm hopeful about the future.|J'ai bon espoir pour l'avenir.|hopeful|c||feelings|pos=adj
+hygiene|hygiène|B1||2|Good hygiene prevents illness.|Une bonne hygiène prévient les maladies.|hygiene|d||health|pos=n
+imaginary|imaginaire|B1||2|She has an imaginary friend.|Elle a un ami imaginaire.|imaginary|c||description|pos=adj
+modify|apporter des modifications à|B1||4|We've modified the design.|Nous avons modifié le design.|modified|w||pro,project|pos=v
+neglect|négliger|B2||3|Don't neglect your health.|Ne néglige pas ta santé.|neglect|c||basics|pos=v
+prejudice|préjugé|B2||3|We must fight prejudice.|Nous devons combattre les préjugés.|prejudice|n||news|pos=n
+probable|probable|B1||3|It's a probable cause.|C'est une cause probable.|probable|w||fn_nuance|pos=adj
+projection|prévision, projection|B2||4|Our sales projections look good.|Nos prévisions de ventes sont bonnes.|projections|w||pro,analysis|pos=n
+shrimp|crevette|A2||2|I'm allergic to shrimp.|Je suis allergique aux crevettes.|shrimp|d||food|pos=n
+spokesman|porte-parole|B2||3|A spokesman denied the story.|Un porte-parole a démenti l'histoire.|spokesman|n||media|pos=n
+subjective|subjectif|B2||3|That's very subjective.|C'est très subjectif.|subjective|c||fn_nuance|pos=adj
+surround|entourer|B1||3|The house is surrounded by trees.|La maison est entourée d'arbres.|surrounded|d||places|pos=v
+trillion|billion (mille milliards)|B2||2|The debt is over a trillion dollars.|La dette dépasse mille milliards de dollars.|trillion|n||numbers,false_friend|pos=det
+vendor|vendeur, fournisseur|B2||3|We're talking to several vendors.|Nous discutons avec plusieurs fournisseurs.|vendors|w||pro,business|pos=n
+allergic|allergique|A2||4|I'm allergic to cats.|Je suis allergique aux chats.|allergic|d||health|pos=adj
+backpack|sac à dos|A2||3|I put my laptop in my backpack.|J'ai mis mon ordinateur dans mon sac à dos.|backpack|t||travel|pos=n
+balcony|balcon|A2||3|We had breakfast on the balcony.|Nous avons pris le petit déjeuner sur le balcon.|balcony|t||housing|pos=n
+collaborative|collaboratif|B2||4|It's a very collaborative team.|C'est une équipe très collaborative.|collaborative|w||pro,management|pos=adj
+compensate|compenser, indemniser|B2||4|They'll compensate you for the delay.|Ils t'indemniseront pour le retard.|compensate|w||pro,rules|pos=v
+constructive|constructif|B2||5|Thanks for your constructive feedback.|Merci pour vos retours constructifs.|constructive|w||pro,communication|pos=adj
+definite|certain, précis|B1||4|We need a definite answer.|Il nous faut une réponse précise.|definite|w||fn_clarify|pos=adj
+distraction|distraction|B2||3|Phones are a big distraction.|Les téléphones sont une grande source de distraction.|distraction|w||work|pos=n
+ecosystem|écosystème|B2||3|We're building an ecosystem of partners.|Nous construisons un écosystème de partenaires.|ecosystem|w||pro,business|pos=n
+exclude|exclure|B2||4|Prices exclude tax.|Les prix s'entendent hors taxes.|exclude|d||money|pos=v
+faint|s'évanouir, faible|B1||3|She fainted in the heat.|Elle s'est évanouie à cause de la chaleur.|fainted|d||health|pos=v
+invalid|non valable|B1||4|This ticket is invalid.|Ce billet n'est pas valable.|invalid|t||rules|pos=adj
+participant|participant|B1||3|There were fifty participants.|Il y avait cinquante participants.|participants|w||meetings|pos=n
+queue|file d'attente|A2||5|There's a long queue.|Il y a une longue file d'attente.|queue|d||shopping,uk_us|pos=n
+sailor|marin|A2||2|He was a sailor for ten years.|Il a été marin pendant dix ans.|sailor|c||career|pos=n
+specify|préciser, spécifier|B2||4|Please specify your size.|Veuillez préciser votre taille.|specify|w|f|pro,writing|pos=v
+vegetarian|végétarien|A2||4|Do you have a vegetarian menu?|Vous avez un menu végétarien ?|vegetarian|d||food|pos=adj
+whiskey|whisky|A2||2|He ordered a whiskey.|Il a commandé un whisky.|whiskey|d||food|pos=n
+chop|hacher|A2||3|Chop the parsley finely.|Hache finement le persil.|Chop|d||food|pos=v
+credible|crédible|B2+||4|That's not a credible story.|Ce n'est pas une histoire crédible.|credible|c||analysis|pos=adj
+delightful|ravissant, charmant|B1||3|What a delightful surprise!|Quelle charmante surprise !|delightful|c||description|pos=adj
+embarrassment|embarras|B2||3|He turned red with embarrassment.|Il a rougi d'embarras.|embarrassment|c||feelings|pos=n
+herb|herbe aromatique|A2||2|Add some fresh herbs.|Ajoute quelques herbes fraîches.|herbs|d||food|pos=n
+insufficient|en quantité insuffisante|B2+||3|There's insufficient evidence.|Les preuves sont insuffisantes.|insufficient|w|f|analysis|pos=adj
+objection|objection|B2||4|Are there any objections?|Y a-t-il des objections ?|objections|w||pro,meetings|pos=n
+relieve|soulager|B2||4|This will relieve the pain.|Cela soulagera la douleur.|relieve|d||health|pos=v
+remarkably|remarquablement|B2||3|She's remarkably calm.|Elle est remarquablement calme.|remarkably|c||fn_nuance|pos=adv
+seminar|séminaire|B1||4|I'm giving a seminar next week.|J'anime un séminaire la semaine prochaine.|seminar|w||pro,learning|pos=n
+simplicity|simplicité|B2||3|I love the simplicity of the design.|J'adore la simplicité du design.|simplicity|c||description|pos=n
+sustainability|durabilité|B2||4|We take sustainability seriously.|Nous prenons la durabilité au sérieux.|sustainability|w||pro,analysis|pos=n
+textbook|manuel scolaire|A2||3|Open your textbook at page ten.|Ouvrez votre manuel à la page dix.|textbook|d||learning|pos=n
+calculation|calcul|B1||3|I think your calculation is wrong.|Je crois que ton calcul est faux.|calculation|w||numbers|pos=n
+cancellation|annulation|B1||4|There's a fee for cancellation.|Il y a des frais d'annulation.|cancellation|t||travel|pos=n
+diploma|diplôme|A2||3|She has a diploma in nursing.|Elle a un diplôme d'infirmière.|diploma|d||learning|pos=n
+insect|insecte|A2||2|There are a lot of insects here.|Il y a beaucoup d'insectes ici.|insects|t||animals|pos=n
+mentality|mentalité|B2||3|It's a question of mentality.|C'est une question de mentalité.|mentality|c||personality|pos=n
+newsletter|bulletin d'information|B1||3|Sign up for our newsletter.|Inscris-toi à notre newsletter.|newsletter|w||pro,business|pos=n
+payroll|paie, masse salariale|B2||3|She works in payroll.|Elle travaille au service paie.|payroll|w||pro,money|pos=n
+predictable|prévisible|B2||4|The film was very predictable.|Le film était très prévisible.|predictable|c||description|pos=adj
+restriction|restriction|B2||4|There are restrictions on what you can bring.|Il y a des restrictions sur ce que tu peux apporter.|restrictions|t||rules|pos=n
+stubborn|têtu|B1||4|He's as stubborn as a mule.|Il est têtu comme une mule.|stubborn|c||personality|pos=adj
+username|nom d'utilisateur|A2||3|Enter your username.|Saisis ton nom d'utilisateur.|username|d||technology|pos=n
+violate|enfreindre|B2+||3|This violates the rules.|Cela enfreint les règles.|violates|w|f|pro,rules|pos=v
+vivid|vif, éclatant|B2||3|I have a vivid memory of that day.|J'ai un souvenir très vif de ce jour-là.|vivid|c||description|pos=adj
+arrogant|arrogant|B1||4|He's a bit arrogant.|Il est un peu arrogant.|arrogant|c||personality|pos=adj
+baggage|bagages (US)|A2||3|Where's the baggage claim?|Où est le retrait des bagages ?|baggage|t||travel|pos=n
+comfortably|confortablement|B1||3|We can all fit comfortably.|Nous pouvons tous tenir confortablement.|comfortably|c||basics|pos=adv
+ingredient|ingrédient|A2||4|What are the ingredients?|Quels sont les ingrédients ?|ingredients|d||food|pos=n
+jealousy|jalousie|B1||2|It was pure jealousy.|C'était de la pure jalousie.|jealousy|c||feelings|pos=n
+notebook|carnet|A1||3|I wrote it in my notebook.|Je l'ai écrit dans mon carnet.|notebook|d||basics|pos=n
+overweight|en surpoids|B1||2|He's a bit overweight.|Il est un peu en surpoids.|overweight|d||health|pos=adj
+rainy|pluvieux|A1||3|It's a rainy day.|C'est un jour de pluie.|rainy|d||weather|pos=adj
+renovation|rénovation|B1||3|The hotel is closed for renovation.|L'hôtel est fermé pour rénovation.|renovation|t||housing|pos=n
+salty|salé|A2||2|The soup is too salty.|La soupe est trop salée.|salty|d||food|pos=adj
+understandable|compréhensible|B1||4|It's completely understandable.|C'est tout à fait compréhensible.|understandable|c||fn_react|pos=adj
+violin|violon|A2||2|She plays the violin.|Elle joue du violon.|violin|d||leisure|pos=n
+whisper|chuchoter|B1||3|Why are you whispering?|Pourquoi tu chuchotes ?|whispering|c||communication|pos=v
+asthma|asthme|B1||2|My son has asthma.|Mon fils a de l'asthme.|asthma|d||health|pos=n
+childish|puéril|B1||3|Stop being so childish.|Arrête d'être si puéril.|childish|c||personality|pos=adj
+firstly|premièrement|B1||4|Firstly, thank you all for coming.|Premièrement, merci à tous d'être venus.|Firstly|w||fn_start|pos=adv
+secondly|deuxièmement|B1||4|Secondly, we need a new budget.|Deuxièmement, il nous faut un nouveau budget.|Secondly|w||fn_explain|pos=adv
+thirdly|troisièmement|B1||3|Thirdly, let's look at the risks.|Troisièmement, examinons les risques.|Thirdly|w||fn_explain|pos=adv
+lastly|enfin, pour terminer|B1||4|Lastly, I'd like to thank Anna.|Enfin, je voudrais remercier Anna.|Lastly|w||fn_end|pos=adv
+metaphor|métaphore|B2||2|It's only a metaphor.|Ce n'est qu'une métaphore.|metaphor|c||communication|pos=n
+popcorn|pop-corn|A2||2|Let's buy some popcorn.|Achetons du pop-corn.|popcorn|d||food|pos=n
+regain|retrouver, regagner|B2||3|We need to regain their trust.|Nous devons regagner leur confiance.|regain|w||pro,business|pos=v
+renew|renouveler|B1||4|I need to renew my licence.|Je dois renouveler mon permis.|renew|d||admin|pos=v
+resemble|ressembler à|B1||3|She resembles her mother.|Elle ressemble à sa mère.|resembles|c||family|pos=v
+termination|résiliation, licenciement|B2+||3|He received a letter of termination.|Il a reçu une lettre de licenciement.|termination|w|f|pro,rules|pos=n
+unpaid|impayé, non rémunéré|B1||4|It's an unpaid internship.|C'est un stage non rémunéré.|unpaid|w||career|pos=adj
+unsuccessful|sans succès|B1||3|Your application was unsuccessful.|Votre candidature n'a pas été retenue.|unsuccessful|w||career|pos=adj
+warranty|garantie (produit)|B1||4|It's still under warranty.|C'est encore sous garantie.|warranty|d||shopping|pos=n
+@collocation
+increasingly difficult|de plus en plus difficile|B2|5|4|It's increasingly difficult to find staff.|Il est de plus en plus difficile de trouver du personnel.|increasingly difficult|w||pro,analysis|
+increasingly important|de plus en plus important|B2|5|4|Data is increasingly important.|Les données sont de plus en plus importantes.|increasingly important|w||pro,analysis|
+virtually impossible|quasiment impossible|B2|5|4|It's virtually impossible to get a table.|Il est quasiment impossible d'avoir une table.|virtually impossible|c||fn_nuance|
+utterly ridiculous|complètement ridicule|B2+|3|2|That's utterly ridiculous.|C'est complètement ridicule.|utterly ridiculous|c||fn_disagree|
+perfectly clear|parfaitement clair|B1|5|3|Let me make this perfectly clear.|Que ce soit parfaitement clair.|perfectly clear|c||fn_clarify|
+painfully slow|d'une lenteur exaspérante|B2|3|3|The process is painfully slow.|Le processus est d'une lenteur exaspérante.|painfully slow|c||description|
+deeply disappointed|profondément déçu|B2|4|3|I'm deeply disappointed.|Je suis profondément déçu.|deeply disappointed|c||feelings|
+extremely grateful|extrêmement reconnaissant|B2|4|3|I'm extremely grateful for your help.|Je suis extrêmement reconnaissant de votre aide.|extremely grateful|w|f|pro,email|
+strongly advise|conseiller vivement|B2|5|4|I strongly advise you to read this.|Je te conseille vivement de lire ceci.|strongly advise|w||pro,fn_suggest|
+strongly believe|croire fermement|B2|5|3|I strongly believe in this project.|Je crois fermement en ce projet.|strongly believe|w||fn_opinion|
+firmly believe|être fermement convaincu|B2|4|3|I firmly believe we can do it.|Je suis fermement convaincu que nous pouvons le faire.|firmly believe|w||fn_opinion|
+greatly appreciate|apprécier énormément|B2|5|4|I greatly appreciate your help.|J'apprécie énormément votre aide.|greatly appreciate|w|f|pro,email|
+sincerely apologise|présenter ses sincères excuses|B2|4|3|I sincerely apologise for the error.|Je vous présente mes sincères excuses pour cette erreur.|sincerely apologise|w|f|pro,email|
+fully understand|comprendre parfaitement|B1|5|3|I fully understand your concern.|Je comprends parfaitement votre préoccupation.|fully understand|w||pro,fn_react|
+clearly state|indiquer clairement|B2|4|3|The contract clearly states the price.|Le contrat indique clairement le prix.|clearly states|w||pro,rules|
+briefly mention|mentionner brièvement|B2|4|3|I'd like to briefly mention the budget.|J'aimerais mentionner brièvement le budget.|briefly mention|w||pro,presentations|
+carefully consider|examiner attentivement|B2|4|3|We'll carefully consider your proposal.|Nous examinerons attentivement votre proposition.|carefully consider|w||pro,decision|
+quickly realise|se rendre vite compte|B1|3|2|I quickly realised my mistake.|Je me suis vite rendu compte de mon erreur.|quickly realised|c||fn_narrate|
+rapidly growing|en pleine croissance|B2|5|4|It's a rapidly growing market.|C'est un marché en pleine croissance.|rapidly growing|w||pro,analysis|
+widely known|largement connu|B2|4|3|It's a widely known fact.|C'est un fait largement connu.|widely known|c||analysis|
+badly damaged|gravement endommagé|B1|4|3|The car was badly damaged.|La voiture a été gravement endommagée.|badly damaged|n||basics|
+seriously injured|grièvement blessé|B1|4|3|Two people were seriously injured.|Deux personnes ont été grièvement blessées.|seriously injured|n||news|
+slightly better|légèrement mieux|B1|5|3|I feel slightly better today.|Je me sens légèrement mieux aujourd'hui.|slightly better|c||fn_nuance|
+much better|beaucoup mieux|A1|5|3|This one is much better.|Celui-ci est beaucoup mieux.|much better|c||fn_compare|
+far better|bien meilleur|B1|5|3|It's far better than the old one.|C'est bien meilleur que l'ancien.|far better|c||fn_compare|
+@connector
+broadly speaking|globalement, en gros|B2|5|4|Broadly speaking, I agree.|Globalement, je suis d'accord.|Broadly speaking|c||fn_nuance|
+generally speaking|d'une manière générale|B1|5|5|Generally speaking, people like it.|D'une manière générale, les gens aiment ça.|Generally speaking|c||fn_nuance|
+strictly speaking|à proprement parler|B2|5|4|Strictly speaking, it's not legal.|À proprement parler, ce n'est pas légal.|Strictly speaking|c||fn_nuance|
+roughly speaking|à peu de chose près|B2|4|3|Roughly speaking, it costs a million.|À peu de chose près, ça coûte un million.|Roughly speaking|c||fn_nuance|
+in all honesty|en toute honnêteté|B2|5|4|In all honesty, I'm not sure.|En toute honnêteté, je n'en suis pas sûr.|In all honesty|c||fn_opinion|
+in all likelihood|selon toute probabilité|B2+|4|4|In all likelihood, it'll be delayed.|Selon toute probabilité, ce sera retardé.|In all likelihood|w||fn_nuance|
+in essence|au fond|B2+|5|4|In essence, it's a simple idea.|Essentiellement, c'est une idée simple.|In essence|w||pro,fn_explain|
+in practice|en pratique|B2|5|5|In practice, it rarely works.|En pratique, ça marche rarement.|In practice|c||fn_nuance|
+in theory|en théorie|B1|5|5|In theory, it's possible.|En théorie, c'est possible.|In theory|c||fn_nuance|
+in reality|en réalité|B1|5|5|In reality, it took two years.|En réalité, cela a pris deux ans.|In reality|c||fn_nuance|
+in principle|en principe|B2|5|4|In principle, I agree.|En principe, je suis d'accord.|In principle|c||fn_nuance|
+in retrospect|rétrospectivement|B2+|4|4|In retrospect, it was a mistake.|Rétrospectivement, c'était une erreur.|In retrospect|c||fn_narrate|
+in summary|en résumé|B1|5|5|In summary, the project was a success.|En résumé, le projet a été un succès.|In summary|w||pro,fn_end|
+in brief|en bref (soutenu)|B2|4|3|In brief, we need more time.|En bref, il nous faut plus de temps.|In brief|w|f|fn_end|
+to conclude|pour conclure|B1|5|5|To conclude, I'd like to thank you.|Pour conclure, je voudrais vous remercier.|To conclude|w||pro,fn_end|
+to summarise|pour résumer (soutenu)|B2|5|4|To summarise, we have three options.|Pour résumer, nous avons trois options.|To summarise|w||pro,fn_end|
+to illustrate|pour illustrer|B2|4|3|To illustrate, let me give an example.|Pour illustrer, laissez-moi donner un exemple.|To illustrate|w||pro,fn_explain|
+to some degree|dans une certaine mesure (variante)|B2|4|3|To some degree, that's true.|Dans une certaine mesure, c'est vrai.|To some degree|c||fn_nuance|
+@idiom
+In the long haul.|Sur le long terme.|B2|2|2|We're in it for the long haul.|Nous sommes là pour durer.|for the long haul|w|i|pro,project|
+In the nick of time.|In extremis.|B2|3|3|We arrived in the nick of time.|Nous sommes arrivés in extremis.|in the nick of time|c|i|time|
+Jump the gun.|Agir trop vite.|B2|3|3|Let's not jump the gun.|N'agissons pas trop vite.|jump the gun|c|i|decision|
+Keep your chin up.|Garde le moral.|B1|3|3|Keep your chin up, it'll get better.|Garde le moral, ça ira mieux.|Keep your chin up|c|i|feelings|
+Keep your head above water.|Garder la tête hors de l'eau.|B2|3|3|We're just keeping our heads above water.|Nous gardons tout juste la tête hors de l'eau.|keeping our heads above water|w|i|money|
+Kill two birds with one stone.|Faire d'une pierre deux coups.|B1|5|4|Let's kill two birds with one stone.|Faisons d'une pierre deux coups.|kill two birds with one stone|c||fn_suggest|
+Lead someone on.|Mener quelqu'un en bateau.|B2|2|2|Don't lead him on.|Ne le mène pas en bateau.|lead him on|c|i|relationships|
+Let sleeping dogs lie.|Ne réveille pas le chat qui dort.|B2|3|3|Don't mention it. Let sleeping dogs lie.|N'en parle pas. Ne réveille pas le chat qui dort.|Let sleeping dogs lie|c||fn_suggest|
+Let off steam.|Se défouler.|B2|4|3|I go running to let off steam.|Je vais courir pour me défouler.|let off steam|c|i|feelings|
+Lose your touch.|Perdre la main.|B2|3|2|I think I've lost my touch.|Je crois que j'ai perdu la main.|lost my touch|c|i|work|
+Make a mountain out of a molehill.|Faire une montagne de rien.|B2|4|3|You're making a mountain out of a molehill.|Tu fais une montagne de rien.|making a mountain out of a molehill|c||fn_opinion|
+Miss the boat.|Rater le coche.|B2|4|3|We've missed the boat on this deal.|Nous avons raté le coche pour cet accord.|missed the boat|c|i|decision|
+Off the record.|Officieusement.|B2|4|3|Off the record, I agree with you.|Officieusement, je suis d'accord avec toi.|Off the record|w||communication|
+Off the top of my head.|Comme ça, sans réfléchir.|B2|5|4|Off the top of my head, I'd say fifty.|Comme ça, sans réfléchir, je dirais cinquante.|Off the top of my head|c|i|fn_hesitate|
+On the ball.|Vif, réactif.|B2|4|3|She's really on the ball.|Elle est très réactive.|on the ball|w|i|work|
+On thin ice.|Sur un terrain glissant.|B2|3|3|You're on thin ice with the boss.|Tu es sur un terrain glissant avec le chef.|on thin ice|c|i|risk|
+Once bitten, twice shy.|Chat échaudé craint l'eau froide.|B2|3|2|He won't invest again. Once bitten, twice shy.|Il n'investira plus. Chat échaudé craint l'eau froide.|Once bitten, twice shy|c||fn_nuance|
+Out of the question.|Hors de question.|B1|5|4|Working on Sunday is out of the question.|Travailler le dimanche est hors de question.|out of the question|c||fn_disagree|
+Out of the woods.|Tiré d'affaire.|B2|3|2|We're not out of the woods yet.|Nous ne sommes pas encore tirés d'affaire.|out of the woods|c|i|risk|
+Over my dead body.|Il faudra me passer sur le corps.|B2|3|2|You're selling the house? Over my dead body.|Tu vends la maison ? Il faudra me passer sur le corps.|Over my dead body|c|i|fn_disagree|
+Pass the buck.|Se renvoyer la balle.|B2|3|3|Stop passing the buck.|Arrêtez de vous renvoyer la balle.|passing the buck|w|i|management|
+Pay through the nose.|Payer le prix fort.|B2|3|3|We paid through the nose for this.|Nous avons payé le prix fort pour ça.|paid through the nose|c|i|money|
+Pick someone's brain.|Demander l'avis d'un expert.|B2|4|4|Can I pick your brain about this?|Je peux te demander ton avis là-dessus ?|pick your brain|w|i|pro,fn_request|

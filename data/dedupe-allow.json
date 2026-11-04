@@ -1090,5 +1090,26 @@
       "show-around"
     ],
     "reason": "Phrasal verbs distincts, relus."
+  },
+  {
+    "ids": [
+      "diploma",
+      "graduate"
+    ],
+    "reason": "Faux doublon : diplôme et diplômé."
+  },
+  {
+    "ids": [
+      "salty",
+      "dirty"
+    ],
+    "reason": "Faux doublon : salé et sale."
+  },
+  {
+    "ids": [
+      "lose-touch",
+      "lose-your-touch"
+    ],
+    "reason": "Sens différents."
   }
 ]
