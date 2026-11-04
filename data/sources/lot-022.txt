@@ -1,0 +1,214 @@
+# Lot 022 : B2-B2+ (négociation, recrutement, service client, risques, analyse)
+@word
+advocate|défenseur, préconiser|B2+||4|She advocates a shorter working week.|Elle préconise une semaine de travail plus courte.|advocates|w|f|pro,argument|pos=v
+backup|sauvegarde, renfort|B1||5|Do you have a backup of this file?|Tu as une sauvegarde de ce fichier ?|backup|w||pro,it|pos=n
+bitter|amer|B1||4|The coffee is a bit bitter.|Le café est un peu amer.|bitter|d||food|pos=adj
+clever|intelligent, astucieux|A2||5|That's a clever idea.|C'est une idée astucieuse.|clever|c||personality|pos=adj
+clinic|clinique, cabinet médical|B1||3|She works at a dental clinic.|Elle travaille dans un cabinet dentaire.|clinic|d||health|pos=n
+continuous|continu|B1||3|We need continuous improvement.|Il nous faut une amélioration continue.|continuous|w||pro,project|pos=adj
+creator|créateur|B1||3|He's the creator of the show.|C'est le créateur de la série.|creator|d||media|pos=n
+criteria|critères|B2||5|What are your criteria?|Quels sont tes critères ?|criteria|w||pro,decision|pos=n
+detective|détective|A2||2|I love detective stories.|J'adore les romans policiers.|detective|d||leisure|pos=n
+disability|handicap|B1||3|The building is accessible for people with disabilities.|Le bâtiment est accessible aux personnes handicapées.|disabilities|d||health|pos=n
+dish|plat|A2||5|This is my favourite dish.|C'est mon plat préféré.|dish|d||food|pos=n
+evaluation|évaluation (de performance)|B2||4|We have an annual evaluation.|Nous avons une évaluation annuelle.|evaluation|w||pro,management|pos=n
+excess|excès|B2||3|You'll pay for excess baggage.|Tu paieras pour l'excédent de bagages.|excess|t||travel|pos=adj
+fence|clôture|A2||3|The dog jumped over the fence.|Le chien a sauté par-dessus la clôture.|fence|d||housing|pos=n
+identical|identique|B1||4|The two reports are identical.|Les deux rapports sont identiques.|identical|c||fn_compare|pos=adj
+nail|ongle, clou|A2||3|I broke a nail.|Je me suis cassé un ongle.|nail|d||body|pos=n
+negotiation|négociation|B2||5|The negotiations are still going on.|Les négociations se poursuivent.|negotiations|w||pro,business|pos=n
+nonsense|bêtises, absurdités|B1||4|That's complete nonsense.|C'est complètement absurde.|nonsense|c||fn_disagree|pos=n
+operational|opérationnel|B2||4|The system is now fully operational.|Le système est maintenant pleinement opérationnel.|operational|w||pro,it|pos=adj
+repeatedly|à plusieurs reprises|B2||4|I've repeatedly asked for help.|J'ai demandé de l'aide à plusieurs reprises.|repeatedly|c||time|pos=adv
+sink|évier, couler|A2||3|The sink is full of dishes.|L'évier est plein de vaisselle.|sink|d||housing|pos=n
+skip|sauter, éviter|B1||5|Let's skip this part.|Sautons cette partie.|skip|c||basics|pos=v
+snap|casser net, claquer|B2||2|The branch snapped under his weight.|La branche a cassé net sous son poids.|snapped|d||basics|pos=v
+swim|nager|A1||5|Can you swim?|Tu sais nager ?|swim|d||leisure|pos=v ;; forms=swam, swum
+transaction|transaction|B2||4|Your transaction was declined.|Votre transaction a été refusée.|transaction|d||money|pos=n
+transformation|transformation|B2||4|We're going through a digital transformation.|Nous vivons une transformation numérique.|transformation|w||pro,technology|pos=n
+veteran|ancien combattant, vétéran|B2||2|He's a war veteran.|C'est un ancien combattant.|veteran|n||news|pos=n
+vulnerable|vulnérable|B2||5|Older people are more vulnerable.|Les personnes âgées sont plus vulnérables.|vulnerable|c||risk|pos=adj
+wealthy|riche, fortuné|B2||4|They're a wealthy family.|C'est une famille fortunée.|wealthy|c||money|pos=adj
+attract|attirer|B1||5|We need to attract new customers.|Nous devons attirer de nouveaux clients.|attract|w||pro,business|pos=v
+bug|bug, insecte|A2||4|There's a bug in the code.|Il y a un bug dans le code.|bug|w||pro,it|pos=n
+cave|grotte|A2||2|We explored a cave.|Nous avons exploré une grotte.|cave|t||nature|pos=n
+chronic|chronique|B2||3|He has chronic back pain.|Il a des douleurs chroniques au dos.|chronic|d||health|pos=adj
+communicate|communiquer|B1||5|We need to communicate better.|Nous devons mieux communiquer.|communicate|w||pro,communication|pos=v
+depend|dépendre|A2||5|It all depends on the price.|Tout dépend du prix.|depends|c||basics|pos=v
+diagnosis|diagnostic|B2||3|The doctor confirmed the diagnosis.|Le médecin a confirmé le diagnostic.|diagnosis|d||health|pos=n
+dose|dose|B1||2|Take one dose before bed.|Prends une dose avant de te coucher.|dose|d||health|pos=n
+flip|retourner|B1||3|Flip the pancake over.|Retourne la crêpe.|Flip|d||food|pos=v
+generous|généreux|B1||4|That's very generous of you.|C'est très généreux de ta part.|generous|c||personality|pos=adj
+loyal|fidèle, loyal|B1||4|We have very loyal customers.|Nous avons des clients très fidèles.|loyal|w||pro,business|pos=adj
+occupation|profession|B1||3|Please state your occupation.|Veuillez indiquer votre profession.|occupation|w|f|admin|pos=n
+patch|correctif, parcelle|B2||3|Install the security patch today.|Installe le correctif de sécurité aujourd'hui.|patch|w||pro,it|pos=n
+patience|patience|B1||4|It takes a lot of patience.|Cela demande beaucoup de patience.|patience|c||personality|pos=n
+pollution|pollution|A2||4|Air pollution is a serious problem.|La pollution de l'air est un grave problème.|pollution|n||nature|pos=n
+precisely|précisément|B1||4|That's precisely what I mean.|C'est précisément ce que je veux dire.|precisely|c||fn_agree|pos=adv
+privilege|privilège|B2||3|It's a privilege to work with you.|C'est un privilège de travailler avec vous.|privilege|c|f|fn_react|pos=n
+resist|résister|B1||4|I couldn't resist.|Je n'ai pas pu résister.|resist|c||basics|pos=v
+solely|uniquement|B2||4|We focus solely on quality.|Nous nous concentrons uniquement sur la qualité.|solely|w|f|pro,fn_nuance|pos=adv
+tourist|touriste|A1||4|The town is full of tourists.|La ville est pleine de touristes.|tourists|t||travel|pos=n
+transit|transit|B2||3|My bag was lost in transit.|Mon sac a été perdu pendant le transport.|transit|t||travel|pos=n
+wireless|sans fil|A2||3|I bought wireless headphones.|J'ai acheté un casque sans fil.|wireless|d||technology|pos=adj
+wrap|emballer|A2||3|Can you wrap it as a gift?|Vous pouvez l'emballer pour un cadeau ?|wrap|d||shopping|pos=v
+yoga|yoga|A2||2|I do yoga at home.|Je fais du yoga chez moi.|yoga|d||leisure|pos=n
+airline|compagnie aérienne|A2||4|Which airline are you flying with?|Tu voles avec quelle compagnie ?|airline|t||travel|pos=n
+anytime|n'importe quand|A2||4|Call me anytime.|Appelle-moi quand tu veux.|anytime|c||time|pos=adv
+bacteria|bactéries|B1||2|Wash your hands to kill bacteria.|Lave-toi les mains pour éliminer les bactéries.|bacteria|d||health|pos=n
+bulk|majeure partie, en gros|B2||4|The bulk of our sales are online.|La majeure partie de nos ventes se fait en ligne.|bulk|w||pro,analysis|pos=n
+cargo|cargaison|B2||2|The ship carries cargo to Asia.|Le navire transporte des marchandises vers l'Asie.|cargo|n||business|pos=n
+coin|pièce (monnaie)|A2||3|I've only got coins.|Je n'ai que des pièces.|coins|d||money|pos=n
+confusion|confusion|B1||4|There's been some confusion about the dates.|Il y a eu une confusion sur les dates.|confusion|c||communication|pos=n
+destiny|destinée|B2||2|He believes in destiny.|Il croit à la destinée.|destiny|c||basics|pos=n
+distant|lointain|B1||3|He's a distant relative.|C'est un parent éloigné.|distant|c||family|pos=adj
+emphasis|accent, insistance|B2||5|We put a lot of emphasis on safety.|Nous mettons l'accent sur la sécurité.|emphasis|w||pro,analysis|pos=n
+ethics|éthique|B2||3|It's a question of business ethics.|C'est une question d'éthique professionnelle.|ethics|w||pro,management|pos=n
+excitement|enthousiasme, excitation|B1||3|The kids couldn't hide their excitement.|Les enfants ne pouvaient pas cacher leur enthousiasme.|excitement|c||feelings|pos=n
+humor|humour (US)|A2||3|She has a dark sense of humor.|Elle a un humour noir.|humor|c||personality,uk_us|pos=n ;; variant=US ;; counterpart=humour
+nerve|nerf, culot|B2||4|What a nerve!|Quel culot !|nerve|c|i|fn_react|pos=n
+nightmare|cauchemar|B1||5|The journey was a nightmare.|Le trajet a été un cauchemar.|nightmare|c||fn_react|pos=n
+overnight|du jour au lendemain, de nuit|B1||4|It won't happen overnight.|Ça ne se fera pas du jour au lendemain.|overnight|c||time|pos=adv
+partially|partiellement|B2||3|The road is partially closed.|La route est partiellement fermée.|partially|t||fn_nuance|pos=adv
+pie|tourte, tarte|A2||3|I made an apple pie.|J'ai fait une tarte aux pommes.|pie|d||food|pos=n
+poster|affiche|A2||3|There's a poster on the wall.|Il y a une affiche au mur.|poster|d||media|pos=n
+preserve|préserver|B2||4|We need to preserve the old town.|Nous devons préserver la vieille ville.|preserve|n||nature|pos=v
+qualify|se qualifier, avoir droit|B2||4|You may qualify for a discount.|Tu as peut-être droit à une réduction.|qualify|w||rules|pos=v
+respective|respectif|B2||3|They went back to their respective countries.|Ils sont rentrés dans leurs pays respectifs.|respective|c|f|basics|pos=adj
+route|itinéraire|A2||5|What's the best route to the airport?|Quel est le meilleur itinéraire pour l'aéroport ?|route|t||travel|pos=n
+scenario|scénario, cas de figure|B2||5|In the worst-case scenario, we lose a week.|Dans le pire des cas, nous perdons une semaine.|scenario|w||pro,risk|pos=n
+sheep|mouton|A1||2|There are sheep in the field.|Il y a des moutons dans le champ.|sheep|t||animals|pos=n
+sustainable|durable, soutenable|B2||5|We need a sustainable solution.|Il nous faut une solution durable.|sustainable|w||pro,analysis|pos=adj
+taxi|taxi|A1||5|Let's call a taxi.|Appelons un taxi.|taxi|t||transport|pos=n
+tobacco|tabac|B1||2|Tobacco is very expensive here.|Le tabac est très cher ici.|tobacco|d||health|pos=n
+trace|trace, retrouver|B2||3|They traced the call.|Ils ont retrouvé l'origine de l'appel.|traced|n||basics|pos=v
+uncomfortable|mal à l'aise, inconfortable|B1||5|I feel uncomfortable talking about it.|Je suis mal à l'aise pour en parler.|uncomfortable|c||feelings|pos=adj
+weakness|faiblesse|B1||5|What's your main weakness?|Quel est ton principal point faible ?|weakness|w||pro,career|pos=n
+widespread|répandu, généralisé|B2||5|It's a widespread problem.|C'est un problème répandu.|widespread|n||analysis|pos=adj
+accessible|accessible|B2||4|The office isn't accessible by car.|Le bureau n'est pas accessible en voiture.|accessible|t||description|pos=adj
+advisory|consultatif, de conseil|B2||3|She's on the advisory board.|Elle fait partie du comité consultatif.|advisory|w|f|pro,management|pos=adj
+animation|animation|B1||2|It's a short animation.|C'est un court film d'animation.|animation|d||media|pos=n
+assignment|mission, devoir|B1||4|It's my first assignment for the company.|C'est ma première mission pour l'entreprise.|assignment|w||pro,work|pos=n
+bare|nu, minimal|B2||4|We have the bare minimum of staff.|Nous avons le strict minimum de personnel.|bare|c||description|pos=adj
+basement|sous-sol|A2||3|The gym is in the basement.|La salle de sport est au sous-sol.|basement|d||housing|pos=n
+bias|parti pris|B2+||5|The study shows a clear bias.|L'étude montre un parti pris évident.|bias|w||pro,analysis|pos=n
+carpet|moquette, tapis|A2||3|We've got a new carpet.|Nous avons une nouvelle moquette.|carpet|d||housing|pos=n
+cherry|cerise|A2||2|These cherries are so sweet.|Ces cerises sont si sucrées.|cherries|d||food|pos=n
+chill|se détendre, frissons|B1||4|Let's just chill tonight.|Détendons-nous ce soir.|chill|c|i|leisure|pos=v
+clue|indice|B1||5|I haven't got a clue.|Je n'en ai pas la moindre idée.|clue|c|i|fn_react|pos=n
+collapse|s'effondrer|B1||4|The bridge collapsed in the storm.|Le pont s'est effondré pendant la tempête.|collapsed|n||basics|pos=v
+conscious|attentif, conscient de|B2||4|I'm conscious of the time.|Je suis conscient de l'heure.|conscious|c||feelings|pos=adj
+consecutive|consécutif|B2||4|Sales fell for the third consecutive month.|Les ventes ont baissé pour le troisième mois consécutif.|consecutive|w||pro,analysis|pos=adj
+costume|costume, déguisement|A2||3|The kids love their costumes.|Les enfants adorent leurs déguisements.|costumes|d||clothes|pos=n
+endless|sans fin|B1||4|The meeting seemed endless.|La réunion semblait interminable.|endless|c||description|pos=adj
+examine|examiner|B1||4|The doctor examined my knee.|Le médecin a examiné mon genou.|examined|d||health|pos=v
+identification|pièce d'identité|B1||4|Do you have any identification?|Vous avez une pièce d'identité ?|identification|t||admin|pos=n
+metro|métro|A1||4|The metro closes at midnight.|Le métro ferme à minuit.|metro|t||transport|pos=n
+mixture|mélange|B1||3|It's a mixture of old and new.|C'est un mélange d'ancien et de nouveau.|mixture|c||basics|pos=n
+patent|brevet|B2||3|We've filed a patent.|Nous avons déposé un brevet.|patent|w||pro,business|pos=n
+perception|perception|B2+||4|Public perception has changed.|La perception du public a changé.|perception|n||analysis|pos=n
+physician|médecin (US)|B2||2|Consult your physician first.|Consulte d'abord ton médecin.|physician|d|f|health|pos=n
+pupil|élève (école)|B1||3|She has thirty pupils in her class.|Elle a trente élèves dans sa classe.|pupils|d||learning|pos=n
+restore|restaurer, rétablir|B2||4|We've restored the service.|Nous avons rétabli le service.|restored|w||pro,it|pos=v
+rival|rival, concurrent|B1||4|Our main rival has lowered its prices.|Notre principal concurrent a baissé ses prix.|rival|w||pro,business|pos=n
+sadly|hélas|B1||5|Sadly, we can't help you.|Malheureusement, nous ne pouvons pas t'aider.|Sadly|c||fn_react|pos=adv
+significance|importance, signification|B2+||4|It has no real significance.|Cela n'a pas vraiment d'importance.|significance|w|f|analysis|pos=n
+soap|savon|A1||3|Wash your hands with soap.|Lave-toi les mains avec du savon.|soap|d||daily_routine|pos=n
+structural|structurel|B2+||3|There are structural problems with the economy.|Il y a des problèmes structurels dans l'économie.|structural|n|f|analysis|pos=adj
+tropical|tropical|B1||2|It's a tropical storm.|C'est une tempête tropicale.|tropical|n||weather|pos=adj
+unnecessary|inutile, superflu|B1||4|Avoid unnecessary costs.|Évite les coûts superflus.|unnecessary|w||pro,fn_nuance|pos=adj
+@chunk
+Tell me about yourself.|Parlez-moi de vous.|B1|5|5|So, tell me about yourself.|Alors, parlez-moi de vous.|tell me about yourself|w||pro,career|
+What are your strengths?|Quels sont vos points forts ?|B1|5|5|What are your strengths and weaknesses?|Quels sont vos points forts et vos points faibles ?|What are your strengths|w||pro,career|
+Why do you want this job?|Pourquoi voulez-vous ce poste ?|B1|5|5|Why do you want this job?|Pourquoi voulez-vous ce poste ?|Why do you want this job?|w||pro,career|
+Where do you see yourself in five years?|Où vous voyez-vous dans cinq ans ?|B1|5|4|Where do you see yourself in five years?|Où vous voyez-vous dans cinq ans ?|Where do you see yourself in five years?|w||pro,career|
+What's the salary range?|Quelle est la fourchette de salaire ?|B2|5|5|Could you tell me what's the salary range?|Pouvez-vous m'indiquer la fourchette de salaire ?|what's the salary range?|w||pro,career|
+I have five years' experience in...|J'ai cinq ans d'expérience dans...|B1|5|5|I have five years' experience in marketing.|J'ai cinq ans d'expérience dans le marketing.|I have five years' experience in|w||pro,career|
+I'm a quick learner.|J'apprends vite.|B1|5|4|I'm a quick learner and I work hard.|J'apprends vite et je travaille dur.|I'm a quick learner|w||pro,career|
+I work well under pressure.|Je travaille bien sous pression.|B1|5|5|I work well under pressure and meet deadlines.|Je travaille bien sous pression et je respecte les délais.|I work well under pressure|w||pro,career|
+I enjoy working in a team.|J'aime travailler en équipe.|B1|5|4|I enjoy working in a team, but I can work alone.|J'aime travailler en équipe, mais je peux travailler seul.|I enjoy working in a team|w||pro,career|
+I was responsible for...|J'étais responsable de...|B1|5|5|I was responsible for a team of six.|J'étais responsable d'une équipe de six personnes.|I was responsible for|w||pro,career|
+I'm available to start in...|Je suis disponible à partir de...|B1|5|4|I'm available to start in September.|Je suis disponible à partir de septembre.|I'm available to start in|w||pro,career|
+What would be the next steps?|Quelles seraient les prochaines étapes ?|B1|5|5|Thank you. What would be the next steps?|Merci. Quelles seraient les prochaines étapes ?|What would be the next steps?|w||pro,career|
+We'd like to offer you the job.|Nous aimerions vous proposer le poste.|B1|5|4|Good news: we'd like to offer you the job.|Bonne nouvelle : nous aimerions vous proposer le poste.|we'd like to offer you the job|w||pro,career|
+Our best offer is...|Notre meilleure offre est...|B2|5|5|Our best offer is ten percent off.|Notre meilleure offre est une remise de dix pour cent.|Our best offer is|w||pro,business|
+We can offer you...|Nous pouvons vous proposer...|B1|5|4|We can offer you a discount on the next order.|Nous pouvons vous proposer une remise sur la prochaine commande.|We can offer you|w||pro,business|
+We're prepared to...|Nous sommes prêts à...|B2|5|5|We're prepared to lower the price.|Nous sommes prêts à baisser le prix.|We're prepared to|w||pro,business|
+That's our final offer.|C'est notre dernière offre.|B2|5|4|That's our final offer, take it or leave it.|C'est notre dernière offre, c'est à prendre ou à laisser.|That's our final offer|w||pro,business|
+Take it or leave it.|C'est à prendre ou à laisser.|B1|5|4|It's ten euros, take it or leave it.|C'est dix euros, à prendre ou à laisser.|take it or leave it|c||fn_disagree|
+What if we met halfway?|Et si on coupait la poire en deux ?|B2|5|5|You want fifty, I offer thirty. What if we met halfway?|Tu veux cinquante, j'en propose trente. Et si on coupait la poire en deux ?|What if we met halfway?|w||pro,business|
+We have a deal.|Marché conclu.|B1|5|5|Thirty units at that price? We have a deal.|Trente unités à ce prix ? Marché conclu.|We have a deal|w||pro,business|
+It's a deal.|C'est d'accord.|B1|5|4|You cook, I wash up. It's a deal.|Tu cuisines, je fais la vaisselle. C'est d'accord.|It's a deal|c|i|fn_agree|
+That's outside our budget.|C'est hors de notre budget.|B1|5|5|I'm afraid that's outside our budget.|Je crains que ce ne soit hors de notre budget.|that's outside our budget|w||pro,money|
+We'll need to think it over.|Il faudra que nous y réfléchissions.|B1|5|4|It's a big step. We'll need to think it over.|C'est une grosse décision. Il faudra que nous y réfléchissions.|We'll need to think it over|w||pro,decision|
+How can I help you today?|Comment puis-je vous aider aujourd'hui ?|B1|5|5|Thanks for calling. How can I help you today?|Merci d'avoir appelé. Comment puis-je vous aider aujourd'hui ?|How can I help you today?|w||pro,phone|
+Could I take your name?|Puis-je avoir votre nom ?|B1|5|4|Could I take your name, please?|Puis-je avoir votre nom, s'il vous plaît ?|Could I take your name|w||pro,phone|
+I'm sorry for the inconvenience.|Je suis désolé pour le désagrément.|B1|5|5|I'm sorry for the inconvenience this has caused.|Je suis désolé pour le désagrément occasionné.|I'm sorry for the inconvenience|w||pro,phone|
+I understand your frustration.|Je comprends votre frustration.|B2|5|5|I understand your frustration, let me help.|Je comprends votre frustration, je vais vous aider.|I understand your frustration|w||pro,phone|
+Let me look into that for you.|Je vais vérifier pour vous.|B1|5|5|Let me look into that for you right away.|Je vais vérifier pour vous tout de suite.|Let me look into that for you|w||pro,phone|
+Is there anything else I can help you with?|Puis-je vous aider pour autre chose ?|B1|5|5|Is there anything else I can help you with today?|Puis-je vous aider pour autre chose aujourd'hui ?|Is there anything else I can help you with|w||pro,phone|
+What seems to be the problem?|Quel semble être le problème ?|B1|5|4|Good morning. What seems to be the problem?|Bonjour. Quel semble être le problème ?|What seems to be the problem?|w||pro,phone|
+Have you tried restarting it?|Avez-vous essayé de redémarrer ?|B1|5|4|Your laptop's frozen? Have you tried restarting it?|Votre ordinateur est figé ? Avez-vous essayé de redémarrer ?|Have you tried restarting it?|w||pro,it|
+The system is down.|Le système est en panne.|B1|5|5|We can't take orders, the system is down.|Nous ne pouvons pas prendre de commandes, le système est en panne.|the system is down|w||pro,it|
+It's a known issue.|C'est un problème connu.|B2|5|4|Don't worry, it's a known issue.|Ne t'inquiète pas, c'est un problème connu.|it's a known issue|w||pro,it|
+We're working on a fix.|Nous travaillons à une solution.|B2|5|4|We're working on a fix and will update you soon.|Nous travaillons à une solution et vous tiendrons informé.|We're working on a fix|w||pro,it|
+It should be up and running by...|Ça devrait être opérationnel d'ici...|B2|5|4|It should be up and running by noon.|Ça devrait être opérationnel d'ici midi.|up and running|w||pro,it|
+What's the worst that could happen?|Qu'est-ce qui pourrait arriver de pire ?|B1|5|4|Just ask her. What's the worst that could happen?|Demande-lui. Qu'est-ce qui pourrait arriver de pire ?|What's the worst that could happen?|c||fn_suggest|
+What's the risk?|Quel est le risque ?|B1|5|4|If we wait, what's the risk?|Si nous attendons, quel est le risque ?|what's the risk?|w||pro,risk|
+There's a risk that...|Il y a un risque que...|B1|5|5|There's a risk that we'll lose the client.|Il y a un risque que nous perdions le client.|There's a risk that|w||pro,risk|
+We can't rule out...|Nous ne pouvons pas exclure...|B2|5|5|We can't rule out further delays.|Nous ne pouvons pas exclure d'autres retards.|We can't rule out|w||pro,risk|
+In the worst case...|Dans le pire des cas...|B1|5|4|In the worst case, we'll start again.|Dans le pire des cas, nous recommencerons.|In the worst case|w||pro,risk|
+In the best case...|Dans le meilleur des cas...|B1|5|3|In the best case, it'll be ready in May.|Dans le meilleur des cas, ce sera prêt en mai.|In the best case|w||pro,risk|
+On the plus side...|Côté positif...|B2|5|4|On the plus side, the costs are low.|Côté positif, les coûts sont faibles.|On the plus side|c||fn_nuance|
+On the downside...|L'inconvénient, c'est que...|B2|5|4|On the downside, it takes longer.|L'inconvénient, c'est que ça prend plus de temps.|On the downside|c||fn_nuance|
+The pros and cons|Le pour et le contre|B1|5|5|Let's weigh up the pros and cons.|Pesons le pour et le contre.|the pros and cons|c||fn_compare|
+@collocation
+negotiate a deal|négocier un accord|B2|5|5|We negotiated a deal with the supplier.|Nous avons négocié un accord avec le fournisseur.|negotiated a deal|w||pro,business|
+close a deal|conclure une affaire|B2|5|5|We closed the deal on Friday.|Nous avons conclu l'affaire vendredi.|closed the deal|w||pro,business|
+secure a contract|décrocher un contrat|B2|5|4|We've secured a contract with a big client.|Nous avons décroché un contrat avec un gros client.|secured a contract|w||pro,business|
+renew a contract|renouveler un contrat|B2|5|4|They didn't renew her contract.|Ils n'ont pas renouvelé son contrat.|renew her contract|w||pro,business|
+terminate a contract|résilier un contrat|B2+|4|4|They terminated the contract early.|Ils ont résilié le contrat de façon anticipée.|terminated the contract|w|f|pro,rules|
+submit an application|soumettre une candidature|B2|5|4|You must submit your application by June.|Tu dois soumettre ta candidature d'ici juin.|submit your application|w||pro,career|
+submit a proposal|soumettre une proposition|B2|5|4|We submitted a proposal last week.|Nous avons soumis une proposition la semaine dernière.|submitted a proposal|w||pro,business|
+launch a product|lancer un produit|B1|5|5|We're launching a new product in May.|Nous lançons un nouveau produit en mai.|launching a new product|w||pro,business|
+launch a campaign|lancer une campagne|B1|5|4|We've launched a new campaign.|Nous avons lancé une nouvelle campagne.|launched a new campaign|w||pro,business|
+increase sales|augmenter les ventes|B1|5|4|This will help us increase sales.|Cela nous aidera à augmenter les ventes.|increase sales|w||pro,business|
+boost productivity|améliorer la productivité|B2|5|4|Short breaks can boost productivity.|De courtes pauses peuvent améliorer la productivité.|boost productivity|w||pro,management|
+reduce costs|diminuer les coûts|B1|5|4|We've managed to reduce costs by ten percent.|Nous avons réussi à diminuer les coûts de dix pour cent.|reduce costs|w||pro,business|
+manage expectations|gérer les attentes|B2+|5|5|We need to manage the client's expectations.|Nous devons gérer les attentes du client.|manage the client's expectations|w||pro,management|
+manage a budget|gérer un budget|B1|5|4|She manages a budget of two million.|Elle gère un budget de deux millions.|manages a budget|w||pro,money|
+stay within budget|respecter le budget|B2|5|4|We have to stay within budget.|Nous devons respecter le budget.|stay within budget|w||pro,money|
+go over budget|dépasser le budget|B2|5|4|The project went over budget.|Le projet a dépassé le budget.|went over budget|w||pro,money|
+identify a risk|identifier un risque|B2|5|4|We've identified a major risk.|Nous avons identifié un risque majeur.|identified a major risk|w||pro,risk|
+mitigate a risk|atténuer un risque|B2+|5|5|How can we mitigate this risk?|Comment atténuer ce risque ?|mitigate this risk|w|f|pro,risk|
+assess a risk|évaluer un risque|B2|5|4|We assess every risk before we start.|Nous évaluons chaque risque avant de commencer.|assess every risk|w||pro,risk|
+monitor progress|suivre l'avancement|B2|5|5|We monitor progress every week.|Nous suivons l'avancement chaque semaine.|monitor progress|w||pro,project|
+review a document|relire un document|B1|5|4|Could you review this document?|Tu pourrais relire ce document ?|review this document|w||pro,work|
+approve a budget|approuver un budget|B2|5|3|The board approved the budget.|Le conseil a approuvé le budget.|approved the budget|w||pro,money|
+miss a target|manquer un objectif|B2|4|3|We missed our target by five percent.|Nous avons manqué notre objectif de cinq pour cent.|missed our target|w||pro,business|
+set a budget|fixer un budget|B1|5|3|Let's set a budget for the event.|Fixons un budget pour l'événement.|set a budget|w||pro,money|
+weigh up the options|peser les options|B2|5|4|I'm weighing up my options.|Je pèse mes options.|weighing up my options|c||decision|
+@phrasal_verb
+weigh up|peser (le pour et le contre)|B2|5|3|We need to weigh up the risks.|Nous devons peser les risques.|weigh up|w||pro,decision|
+back out|se désister|B2|5|4|They backed out of the deal.|Ils se sont désistés de l'accord.|backed out|w||pro,business|
+buy out|racheter|B2|4|3|A bigger firm bought them out.|Une plus grosse entreprise les a rachetés.|bought them out|w||pro,business|
+cash in on|tirer profit de|B2+|4|3|Brands are cashing in on the trend.|Les marques profitent de la tendance.|cashing in on|w|i|pro,business|
+close down|fermer définitivement|B1|5|4|The shop closed down last year.|Le magasin a fermé définitivement l'an dernier.|closed down|n||business|
+drive up|faire grimper|B2|4|4|Demand has driven up prices.|La demande a fait grimper les prix.|driven up|w||pro,analysis|
+iron out|aplanir, régler|B2+|5|5|We still need to iron out a few details.|Il nous reste à régler quelques détails.|iron out|w||pro,project|
+phase out|supprimer progressivement|B2+|5|4|We're phasing out the old system.|Nous supprimons progressivement l'ancien système.|phasing out|w||pro,project|
+roll out|déployer|B2|5|5|We'll roll out the new version in June.|Nous déploierons la nouvelle version en juin.|roll out|w||pro,it|
+scale up|monter en puissance|B2+|5|4|We need to scale up production.|Nous devons monter en puissance sur la production.|scale up|w||pro,business|
+sign off on|approuver|B2+|5|4|My manager has to sign off on this.|Mon responsable doit approuver ça.|sign off on|w||pro,management|
+@connector
+in return|en retour|B1|5|4|We help them and they help us in return.|Nous les aidons et ils nous aident en retour.|in return|w||pro,fn_explain|
+in exchange for|en échange de|B1|5|4|We got a discount in exchange for a longer contract.|Nous avons eu une remise en échange d'un contrat plus long.|in exchange for|w||pro,business|
+on condition that|sous condition que|B2|5|4|We accept on condition that you pay in advance.|Nous acceptons à condition que vous payiez d'avance.|on condition that|w||pro,fn_nuance|
+subject to|sous réserve de|B2+|5|5|The offer is subject to approval.|L'offre est sous réserve d'approbation.|subject to|w|f|pro,rules|
+prior to|avant (soutenu)|B2|5|4|Please arrive prior to the meeting.|Veuillez arriver avant la réunion.|prior to|w|f|pro,time|
+with a view to|en vue de|B2+|4|4|We met with a view to reaching a deal.|Nous nous sommes rencontrés en vue de conclure un accord.|with a view to|w|f|pro,fn_explain|
+in line with|conformément à|B2|5|5|Results are in line with expectations.|Les résultats sont conformes aux attentes.|in line with|w||pro,analysis|
+@idiom
+Get something off the ground.|Lancer quelque chose.|B2|4|4|We need funding to get this off the ground.|Il nous faut des fonds pour lancer ça.|get this off the ground|w||pro,project|
+A ballpark figure.|Un chiffre approximatif.|B2|5|5|Can you give me a ballpark figure?|Tu peux me donner un chiffre approximatif ?|a ballpark figure|w|i|pro,analysis|
+Low-hanging fruit.|Les gains faciles.|B2+|4|4|Let's start with the low-hanging fruit.|Commençons par les gains faciles.|the low-hanging fruit|w|i|pro,project|

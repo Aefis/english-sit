@@ -192,7 +192,7 @@ dwell on|s'attarder sur, ressasser|B2+|4|3|Don't dwell on your mistakes.|Ne ress
 factor in|intégrer dans le calcul|B2+|5|5|Have you factored in the extra cost?|As-tu pris en compte le coût supplémentaire ?|factored in|w||pro,analysis|
 @connector
 nonetheless|pourtant, malgré cela|B2+|5|4|It was risky; nonetheless, we went ahead.|C'était risqué ; néanmoins, nous avons continué.|nonetheless|w|f|pro,fn_nuance|
-moreover|en outre|B2|5|5|Moreover, the data is out of date.|De plus, les données sont périmées.|Moreover|w|f|pro,fn_explain|
+moreover|de surcroît|B2|5|5|Moreover, the data is out of date.|De plus, les données sont périmées.|Moreover|w|f|pro,fn_explain|
 thereby|de ce fait|C1|4|3|He signed the deal, thereby ending the dispute.|Il a signé l'accord, mettant de ce fait fin au litige.|thereby|a|f|fn_explain|
 notwithstanding|nonobstant|C1|3|2|Notwithstanding the delay, the project succeeded.|Nonobstant le retard, le projet a réussi.|Notwithstanding|a|f|fn_nuance|
 insofar as|dans la mesure où|C1|4|3|It helps insofar as it reduces costs.|C'est utile dans la mesure où cela réduit les coûts.|insofar as|a|f|fn_nuance|

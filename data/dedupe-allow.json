@@ -460,5 +460,61 @@
       "tear"
     ],
     "reason": "Larmes, et déchirer."
+  },
+  {
+    "ids": [
+      "do-you-mind-if",
+      "if-you-dont-mind"
+    ],
+    "reason": "Question, et formule de politesse."
+  },
+  {
+    "ids": [
+      "im-afraid-not",
+      "im-afraid-so"
+    ],
+    "reason": "Réponses opposées."
+  },
+  {
+    "ids": [
+      "let-down",
+      "get-down"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "go-without",
+      "do-without"
+    ],
+    "reason": "Variantes usuelles."
+  },
+  {
+    "ids": [
+      "related",
+      "relate"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "rating",
+      "rate"
+    ],
+    "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "whats-the-rush",
+      "whats-the-risk"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "swimming",
+      "swim"
+    ],
+    "reason": "Nom de sport à part entière."
   }
 ]
