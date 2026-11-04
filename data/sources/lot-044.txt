@@ -1,0 +1,79 @@
+# Lot 044 : A2-C1 (connecteurs manquants : temps, cause, conséquence, condition, restriction, reformulation, adverbes de phrase)
+@connector
+back then|à l'époque|B1|5|4|Back then, we didn't have smartphones.|À l'époque, nous n'avions pas de smartphones.|Back then|c||fn_narrate|
+at the time|sur le moment|B1|5|4|I didn't understand it at the time.|Je ne l'ai pas compris sur le moment.|at the time|c||fn_narrate|
+in those days|en ce temps-là|B1|4|3|In those days, people wrote letters.|En ce temps-là, les gens écrivaient des lettres.|In those days|c||fn_narrate|
+these days|de nos jours|A2|5|5|Everything is so expensive these days.|Tout est tellement cher de nos jours.|these days|c||time|
+since then|depuis|B1|5|5|We met in 2015 and we've been friends since then.|Nous nous sommes rencontrés en 2015 et nous sommes amis depuis.|since then|c||fn_narrate|
+ever since|depuis ce jour-là|B1|5|4|She moved to Rome in May and has lived there ever since.|Elle s'est installée à Rome en mai et elle y vit depuis ce jour-là.|ever since|c||fn_narrate|
+by then|d'ici là|B1|5|4|Call me at six, I'll be home by then.|Appelle-moi à six heures, je serai rentré d'ici là.|by then|c||time|
+until then|jusque-là|A2|5|4|The shop opens at ten, so wait until then.|Le magasin ouvre à dix heures, alors attends jusque-là.|until then|c||time|
+by now|à l'heure qu'il est|B1|4|4|He should be home by now.|Il devrait être rentré à l'heure qu'il est.|by now|c||time|
+for now|pour l'instant|A2|5|5|That's all for now, thank you.|C'est tout pour l'instant, merci.|for now|c||time|
+up to now|jusqu'à présent|B1|4|4|Up to now, we've had no problems.|Jusqu'à présent, nous n'avons eu aucun problème.|Up to now|w||time|
+as yet|jusqu'ici|B2+|3|3|We have received no reply as yet.|Nous n'avons reçu aucune réponse jusqu'ici.|as yet|w|f|time|
+before long|d'ici peu|B1|4|4|You'll be speaking English before long.|Tu parleras anglais d'ici peu.|before long|c||time|
+all along|depuis le début|B1|4|4|I knew it all along.|Je le savais depuis le début.|all along|c||fn_narrate|
+from time to time|de temps en temps|A2|5|5|We see each other from time to time.|Nous nous voyons de temps en temps.|from time to time|c||time|
+once again|une fois de plus|A2|5|4|Once again, he was late.|Une fois de plus, il était en retard.|Once again|c||fn_narrate|
+yet again|encore une fois|B2|4|3|The train was cancelled yet again.|Le train a encore une fois été annulé.|yet again|c||fn_narrate|
+as of|à compter de|B2|4|4|As of Monday, the office will be closed.|À compter de lundi, le bureau sera fermé.|As of|w|f|time,pro|
+no sooner ... than|à peine ... que|B2+|3|3|No sooner had I sat down than the phone rang.|À peine m'étais-je assis que le téléphone a sonné.|No sooner|c|f|fn_narrate|
+not until|pas avant|B1|4|4|The results? Not until May.|Les résultats ? Pas avant mai.|Not until|c||time|
+seeing as|vu que|B2|4|4|Seeing as you're here, you can help me.|Vu que tu es là, tu peux m'aider.|Seeing as|c|i|fn_explain|
+which is why|c'est la raison pour laquelle|B1|5|5|He was ill, which is why he didn't come.|Il était malade, c'est la raison pour laquelle il n'est pas venu.|which is why|c||fn_explain|
+which means|ce qui veut dire|B1|5|5|The bank is closed, which means we can't pay today.|La banque est fermée, ce qui veut dire qu'on ne peut pas payer aujourd'hui.|which means|c||fn_explain|
+that's because|c'est parce que|A2|5|5|That's because you didn't read the instructions.|C'est parce que tu n'as pas lu les instructions.|That's because|c||fn_explain|
+so much so that|à tel point que|B2|3|3|He was tired, so much so that he fell asleep at work.|Il était fatigué, à tel point qu'il s'est endormi au travail.|so much so that|c||fn_explain|
+to the point where|au point que|B2|4|3|It got worse, to the point where I had to leave.|Ça a empiré, au point que j'ai dû partir.|to the point where|c||fn_explain|
+in such a way that|de telle sorte que|B2|3|3|Write it in such a way that anyone can understand.|Écris-le de telle sorte que n'importe qui puisse comprendre.|in such a way that|a||fn_explain|
+as a result of|à la suite de|B1|5|4|He lost his job as a result of the merger.|Il a perdu son emploi à la suite de la fusion.|as a result of|w||fn_explain|
+for fear of|de peur de|B2|3|3|She said nothing for fear of upsetting him.|Elle n'a rien dit de peur de le contrarier.|for fear of|c||fn_explain|
+only if|seulement si|A2|5|4|I'll go only if you come with me.|J'irai seulement si tu viens avec moi.|only if|c||fn_explain|
+even when|même quand|A2|5|4|She smiles even when she's tired.|Elle sourit même quand elle est fatiguée.|even when|c||fn_nuance|
+even then|même là|B2|3|3|I explained it twice, and even then he didn't understand.|Je l'ai expliqué deux fois, et même là, il n'a pas compris.|even then|c||fn_nuance|
+whether or not|que ... ou non|B1|5|4|I'm going, whether or not you agree.|J'y vais, que tu sois d'accord ou non.|whether or not|c||fn_nuance|
+supposing|à supposer que|B2|4|3|Supposing it rains, what do we do?|À supposer qu'il pleuve, que fait-on ?|Supposing|c||fn_nuance|
+in the event that|dans le cas où|B2|4|3|In the event that you can't come, please call us.|Dans le cas où vous ne pourriez pas venir, merci de nous appeler.|In the event that|w|f|fn_nuance|
+if need be|si besoin|B2|4|4|We can work on Saturday if need be.|Nous pouvons travailler samedi si besoin.|if need be|w||fn_nuance,pro|
+if in doubt|en cas de doute|B1|4|4|If in doubt, ask your manager.|En cas de doute, demande à ton responsable.|If in doubt|w||fn_nuance|
+failing that|à défaut|B2+|3|3|Call me or, failing that, send me a message.|Appelle-moi ou, à défaut, envoie-moi un message.|failing that|w||fn_nuance|
+alternatively|ou bien|B1|5|4|You can call us or, alternatively, send an email.|Vous pouvez nous appeler ou bien envoyer un e-mail.|alternatively|w||fn_suggest,pro|
+and yet|et pourtant|B1|5|5|He's rich, and yet he isn't happy.|Il est riche, et pourtant il n'est pas heureux.|and yet|c||fn_nuance|
+but then|mais d'un autre côté|B2|4|3|It's expensive, but then it is very good.|C'est cher, mais d'un autre côté, c'est très bon.|but then|c||fn_nuance|
+despite the fact that|bien que|B2|4|4|He came to work despite the fact that he was ill.|Il est venu travailler bien qu'il soit malade.|despite the fact that|w|f|fn_nuance|
+regardless of|indépendamment de|B2|5|4|Everyone is welcome, regardless of age.|Tout le monde est bienvenu, indépendamment de l'âge.|regardless of|w||fn_nuance|
+irrespective of|sans tenir compte de|B2+|3|3|The fee is the same irrespective of the distance.|Le tarif est le même sans tenir compte de la distance.|irrespective of|w|f|fn_nuance|
+apart from that|à part ça|A2|5|5|I've got a cold, but apart from that I'm fine.|J'ai un rhume, mais à part ça, je vais bien.|apart from that|c||fn_nuance|
+aside from|mis à part|B2|4|4|Aside from the price, I like it.|Mis à part le prix, ça me plaît.|Aside from|c||fn_nuance|
+other than|en dehors de|B1|5|4|Other than Sam, nobody knows.|En dehors de Sam, personne n'est au courant.|Other than|c||fn_nuance|
+except that|sauf que|B1|5|4|It's a good idea, except that we have no money.|C'est une bonne idée, sauf que nous n'avons pas d'argent.|except that|c||fn_nuance|
+for a start|déjà|B1|4|4|I can't come: for a start, I have no car.|Je ne peux pas venir : déjà, je n'ai pas de voiture.|for a start|c||fn_explain|
+for one thing|d'une part|B2|4|3|I won't go. For one thing, it's too far.|Je n'irai pas. D'une part, c'est trop loin.|For one thing|c||fn_explain|
+more importantly|plus important encore|B1|5|5|It's cheap and, more importantly, it works.|C'est bon marché et, plus important encore, ça marche.|more importantly|w||fn_explain,pro|
+most importantly|surtout|B1|5|4|Most importantly, stay calm.|Surtout, reste calme.|Most importantly|c||fn_explain|
+along with|ainsi que|B1|5|4|Send your CV along with a cover letter.|Envoie ton CV ainsi qu'une lettre de motivation.|along with|w||fn_explain|
+on top of|en plus de|B1|5|4|On top of her job, she studies at night.|En plus de son travail, elle étudie le soir.|On top of|c||fn_explain|
+or rather|ou plutôt|B1|4|4|He's my boss, or rather my former boss.|C'est mon patron, ou plutôt mon ancien patron.|or rather|c||fn_rephrase|
+or so|à peu près|B1|5|4|It takes an hour or so.|Ça prend à peu près une heure.|or so|c||fn_nuance|
+and the like|et autres|B2|3|3|We sell pens, notebooks and the like.|Nous vendons des stylos, des carnets et autres.|and the like|c||fn_nuance|
+namely|à savoir|B2|5|4|Two countries, namely France and Spain, voted no.|Deux pays, à savoir la France et l'Espagne, ont voté non.|namely|w|f|fn_clarify|
+interestingly|fait intéressant|B2|4|3|Interestingly, the results were the same.|Fait intéressant, les résultats étaient les mêmes.|Interestingly|a||fn_narrate|
+hopefully|avec un peu de chance|B1|5|5|Hopefully, it'll be finished by Friday.|Avec un peu de chance, ce sera fini vendredi.|Hopefully|c||fn_nuance|
+admittedly|certes|B2|4|4|Admittedly, it's not perfect, but it works.|Certes, ce n'est pas parfait, mais ça marche.|Admittedly|c||fn_nuance|
+by and large|globalement|B2+|4|3|By and large, the staff are happy.|Globalement, le personnel est content.|By and large|c||fn_end|
+in a way|d'une certaine manière|B1|5|4|In a way, I understand him.|D'une certaine manière, je le comprends.|In a way|c||fn_nuance|
+in a sense|en un sens|B2|4|3|In a sense, we were lucky.|En un sens, nous avons eu de la chance.|In a sense|c||fn_nuance|
+at heart|au fond|B2|4|3|He's a kind man at heart.|Au fond, c'est un homme gentil.|at heart|c||fn_nuance|
+deep down|au fond de soi|B2|4|4|Deep down, I knew she was right.|Au fond de moi, je savais qu'elle avait raison.|Deep down|c||feelings|
+when all is said and done|tout bien considéré|B2+|3|3|When all is said and done, it was worth it.|Tout bien considéré, ça en valait la peine.|When all is said and done|c||fn_end|
+on the face of it|en apparence|B2+|4|3|On the face of it, it looks like a good deal.|En apparence, ça semble être une bonne affaire.|On the face of it|c||fn_nuance|
+as to|quant à|B2|4|3|As to the price, we'll talk about it later.|Quant au prix, nous en parlerons plus tard.|As to|w|f|fn_topic_change|
+as regards|en ce qui concerne|B2|4|4|As regards your request, I'll reply on Monday.|En ce qui concerne votre demande, je répondrai lundi.|As regards|w|f|fn_topic_change,email|
+with reference to|en référence à|B2|4|4|With reference to your letter, we can confirm the date.|En référence à votre lettre, nous pouvons confirmer la date.|With reference to|w|f|email,pro|
+in relation to|par rapport à|B2|5|4|Sales are low in relation to last year.|Les ventes sont faibles par rapport à l'année dernière.|in relation to|w|f|fn_compare|
+in response to|en réponse à|B2|5|4|In response to your email, here are the figures.|En réponse à votre e-mail, voici les chiffres.|In response to|w|f|email,pro|
+in comparison with|en comparaison de|B2|4|3|Prices are low in comparison with Paris.|Les prix sont bas en comparaison de Paris.|in comparison with|a||fn_compare|
+in accordance with|conformément à|B2+|5|4|We acted in accordance with the rules.|Nous avons agi conformément aux règles.|in accordance with|w|f|rules,pro|
+by means of|au moyen de|B2|4|3|They communicate by means of signs.|Ils communiquent au moyen de signes.|by means of|a|f|fn_explain|
+in place of|à la place de|B2|4|3|Use oil in place of butter.|Utilise de l'huile à la place du beurre.|in place of|c||fn_suggest|

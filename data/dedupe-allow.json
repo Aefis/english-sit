@@ -1405,5 +1405,355 @@
       "wear-a-seat-belt"
     ],
     "reason": "Geste et obligation."
+  },
+  {
+    "ids": [
+      "look-into",
+      "ill-look-into-it"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "get-back-to-someone",
+      "ill-get-back-to-you-on-that"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "get-back",
+      "ill-get-back-to-you-on-that"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "get-through",
+      "youll-get-through-this"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "get-through-to",
+      "youll-get-through-this"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "job-description",
+      "its-not-in-my-job-description"
+    ],
+    "reason": "Nom et réplique figée."
+  },
+  {
+    "ids": [
+      "i-cant-afford-it",
+      "i-cant-afford-to"
+    ],
+    "reason": "Objet et verbe, constructions différentes."
+  },
+  {
+    "ids": [
+      "fail-an-exam",
+      "i-failed-my-exam"
+    ],
+    "reason": "Collocation et réplique figée."
+  },
+  {
+    "ids": [
+      "up-to-now",
+      "until-now"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "from-time-to-time",
+      "once-in-a-while"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "yet-again",
+      "once-more"
+    ],
+    "reason": "Nuance d'agacement."
+  },
+  {
+    "ids": [
+      "along-with",
+      "as-well-as"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "on-top-of",
+      "in-addition-to"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "at-heart",
+      "at-the-back"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "when-all-is-said-and-done",
+      "all-things-considered"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "as-to",
+      "as-for"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "as-regards",
+      "with-regard-to"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "in-relation-to",
+      "compared-to"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "in-accordance-with",
+      "in-line-with"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "as-a-result",
+      "as-a-result-of"
+    ],
+    "reason": "Constructions différentes."
+  },
+  {
+    "ids": [
+      "as-i-see-it",
+      "seeing-as"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "if-only",
+      "only-if"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "apart-from",
+      "apart-from-that"
+    ],
+    "reason": "Constructions différentes."
+  },
+  {
+    "ids": [
+      "even-when",
+      "even-then"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "more-importantly",
+      "most-importantly"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "for-a-start",
+      "already"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "or-so",
+      "roughly"
+    ],
+    "reason": "Constructions différentes."
+  },
+  {
+    "ids": [
+      "by-and-large",
+      "on-the-whole"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "on-the-face-of-it",
+      "seemingly"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "give-priority-to",
+      "prioritize"
+    ],
+    "reason": "Collocation et verbe."
+  },
+  {
+    "ids": [
+      "give-it-a-try",
+      "try"
+    ],
+    "reason": "Tournure et verbe."
+  },
+  {
+    "ids": [
+      "have-a-hard-time",
+      "have-trouble"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "keep-in-mind",
+      "bear-in-mind"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "cause-damage",
+      "do-damage"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "put-an-end-to",
+      "terminate"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "put-on-weight",
+      "gain-weight"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "gain-ground",
+      "gain-traction"
+    ],
+    "reason": "Sens proches, usages différents."
+  },
+  {
+    "ids": [
+      "make-a-point-of",
+      "make-a-point"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "take-your-time",
+      "take-the-time-to"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "waste-time",
+      "a-waste-of-time"
+    ],
+    "reason": "Verbe et nom."
+  },
+  {
+    "ids": [
+      "run-a-risk",
+      "run-the-risk-of"
+    ],
+    "reason": "Constructions différentes."
+  },
+  {
+    "ids": [
+      "youd-be-better-off",
+      "youd-better"
+    ],
+    "reason": "Conseil et mise en garde."
+  },
+  {
+    "ids": [
+      "no-worries",
+      "thats-ok"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "dont-worry-about-it",
+      "not-to-worry"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "can-you-send-me",
+      "can-you-lend-me"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "tell-me-about-yourself",
+      "tell-me-about-it"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "make-sure",
+      "make-sure-you"
+    ],
+    "reason": "Verbe et tournure de conseil."
+  },
+  {
+    "ids": [
+      "take-back",
+      "i-take-it-back"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "pick-up",
+      "ill-pick-you-up-at"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "would-you-like-to",
+      "would-you-like-me-to"
+    ],
+    "reason": "Invitation et proposition."
   }
 ]

@@ -1,0 +1,95 @@
+# Lot 046 : A2-B2 (expressions par fonction : conseiller, demander, proposer, inviter, remercier, s'excuser, réagir, faire répéter, se plaindre, négocier)
+@chunk
+You'd be better off...|Tu ferais mieux de...|B1|5|5|You'd be better off taking the train.|Tu ferais mieux de prendre le train.|You'd be better off|c||fn_suggest|
+Have you considered...?|As-tu envisagé de... ?|B1|5|4|Have you considered working abroad?|As-tu envisagé de travailler à l'étranger ?|Have you considered|c||fn_suggest|
+It might be worth...|Ça vaudrait peut-être le coup de...|B1|5|5|It might be worth calling them first.|Ça vaudrait peut-être le coup de les appeler d'abord.|It might be worth|c||fn_suggest|
+Why don't you...?|Pourquoi tu ne... pas ?|A2|5|5|Why don't you ask her?|Pourquoi tu ne lui demandes pas ?|Why don't you|c||fn_suggest|
+My advice would be to...|Mon conseil serait de...|B1|4|4|My advice would be to wait a few days.|Mon conseil serait d'attendre quelques jours.|My advice would be to|c||fn_suggest|
+The best thing to do is...|Le mieux, c'est de...|B1|5|5|The best thing to do is to call the bank.|Le mieux, c'est d'appeler la banque.|The best thing to do is|c||fn_suggest|
+Whatever you do, don't...|Surtout, ne... pas|B1|4|4|Whatever you do, don't tell Sam.|Surtout, ne le dis pas à Sam.|Whatever you do, don't|c||fn_suggest|
+Make sure you...|Veille à...|A2|5|5|Make sure you lock the door.|Veille à fermer la porte à clé.|Make sure you|c||fn_suggest|
+Remember to...|Pense à...|A2|5|5|Remember to bring your passport.|Pense à apporter ton passeport.|Remember to|c||fn_suggest|
+Try not to...|Essaie de ne pas...|A2|5|4|Try not to worry too much.|Essaie de ne pas trop t'inquiéter.|Try not to|c||fn_suggest|
+It's better to...|Il vaut mieux...|A2|5|5|It's better to book in advance.|Il vaut mieux réserver à l'avance.|It's better to|c||fn_suggest|
+Can I borrow...?|Je peux emprunter... ?|A2|5|5|Can I borrow your pen for a second?|Je peux emprunter ton stylo une seconde ?|Can I borrow|c||fn_request|
+Can you lend me...?|Tu peux me prêter... ?|A2|5|5|Can you lend me twenty euros?|Tu peux me prêter vingt euros ?|Can you lend me|c||fn_request|
+Can I ask you a favour?|Je peux te demander un service ?|B1|5|5|Can I ask you a favour? It won't take long.|Je peux te demander un service ? Ça ne prendra pas longtemps.|Can I ask you a favour|c||fn_request|
+Is it all right if I...?|Ça va si je... ?|A2|5|4|Is it all right if I open the window?|Ça va si j'ouvre la fenêtre ?|Is it all right if I|c||fn_request|
+Do you think you could...?|Tu crois que tu pourrais... ?|B1|5|4|Do you think you could help me on Saturday?|Tu crois que tu pourrais m'aider samedi ?|Do you think you could|c||fn_request|
+Could you help me with...?|Tu pourrais m'aider à... ?|A2|5|5|Could you help me with this form?|Tu pourrais m'aider à remplir ce formulaire ?|Could you help me with|c||fn_request|
+Shall I...?|Veux-tu que je... ?|A2|5|5|Shall I open the door for you?|Veux-tu que je t'ouvre la porte ?|Shall I|c||fn_suggest|
+Would you like me to...?|Voulez-vous que je... ?|A2|5|5|Would you like me to call a taxi?|Voulez-vous que j'appelle un taxi ?|Would you like me to|c||fn_suggest|
+I'll get this.|Je t'invite.|B1|5|4|No, put your wallet away, I'll get this.|Non, range ton portefeuille, je t'invite.|I'll get this|c|i|food,money|
+Can I get you a drink?|Je te sers quelque chose à boire ?|A2|5|4|Come in! Can I get you a drink?|Entre ! Je te sers quelque chose à boire ?|Can I get you a drink|c||small_talk|
+Do you need a lift?|Tu as besoin que je te dépose ?|A2|5|4|Do you need a lift to the station?|Tu as besoin que je te dépose à la gare ?|Do you need a lift|c||transport|
+Do you fancy...?|Ça te dit de... ?|B1|5|5|Do you fancy going for a walk?|Ça te dit d'aller marcher ?|Do you fancy|c|i|fn_suggest|
+Fancy a coffee?|Un café, ça te dit ?|B1|4|4|Fancy a coffee before the meeting?|Un café avant la réunion, ça te dit ?|Fancy a coffee|c|i|fn_suggest|
+Would you like to join us?|Tu veux te joindre à nous ?|A2|5|5|We're going for lunch. Would you like to join us?|Nous allons déjeuner. Tu veux te joindre à nous ?|Would you like to join us|c||fn_suggest|
+Maybe next time.|Une prochaine fois, peut-être.|A2|5|5|Sorry, I can't tonight. Maybe next time.|Désolé, je ne peux pas ce soir. Une prochaine fois, peut-être.|Maybe next time|c||fn_end|
+What time shall we meet?|On se retrouve à quelle heure ?|A2|5|5|What time shall we meet tomorrow?|On se retrouve à quelle heure demain ?|What time shall we meet|c||fn_suggest|
+Where shall we meet?|On se retrouve où ?|A2|5|5|Where shall we meet, at the station?|On se retrouve où, à la gare ?|Where shall we meet|c||fn_suggest|
+I'll pick you up at...|Je passe te prendre à...|A2|5|5|I'll pick you up at six tomorrow.|Je passe te prendre à six heures demain.|I'll pick you up at|c||transport|
+See you then.|À tout à l'heure, alors.|A2|5|4|Six o'clock? OK, see you then.|Six heures ? D'accord, à tout à l'heure, alors.|see you then|c||fn_end|
+I'll be there in ten minutes.|J'y suis dans dix minutes.|A2|5|5|Don't leave, I'll be there in ten minutes.|Ne pars pas, j'y suis dans dix minutes.|I'll be there in ten minutes|c||time|
+I'm nearly there.|J'arrive presque.|A2|5|4|I'm nearly there, just parking the car.|J'arrive presque, je gare juste la voiture.|I'm nearly there|c||time|
+I'm outside.|Je suis dehors.|A2|4|4|I'm outside, can you open the door?|Je suis dehors, tu peux ouvrir la porte ?|I'm outside|c||places|
+Sorry, something's come up.|Désolé, j'ai un empêchement.|B1|5|5|Sorry, something's come up, I can't come tonight.|Désolé, j'ai un empêchement, je ne peux pas venir ce soir.|something's come up|c||fn_end|
+Can we make it another day?|On peut faire ça un autre jour ?|B1|5|4|I'm busy on Friday. Can we make it another day?|Je suis pris vendredi. On peut faire ça un autre jour ?|Can we make it another day|c||fn_suggest|
+Thanks for letting me know.|Merci de m'avoir prévenu.|B1|5|5|Thanks for letting me know about the delay.|Merci de m'avoir prévenu pour le retard.|Thanks for letting me know|c||fn_react|
+Thanks for your time.|Merci pour votre temps.|B1|5|4|Thanks for your time, it was very useful.|Merci pour votre temps, c'était très utile.|Thanks for your time|w||fn_end,pro|
+That's really helpful.|Ça m'aide vraiment.|B1|5|5|Thanks, that's really helpful.|Merci, ça m'aide vraiment.|that's really helpful|c||fn_react|
+You're a lifesaver.|Tu me sauves la vie.|B1|4|4|You brought my keys? You're a lifesaver!|Tu as apporté mes clés ? Tu me sauves la vie !|You're a lifesaver|c|i|fn_react|
+No worries.|Pas de souci.|A2|5|5|Sorry I'm late. No worries, we've just started.|Désolé d'être en retard. Pas de souci, on vient de commencer.|No worries|c|i|fn_react|
+Any time.|Quand tu veux.|A2|5|4|Thanks for the help! Any time.|Merci pour ton aide ! Quand tu veux.|Any time|c||fn_react|
+Glad I could help.|Content d'avoir pu aider.|B1|4|4|Thanks again. Glad I could help.|Merci encore. Content d'avoir pu aider.|Glad I could help|c||fn_react|
+I didn't realise.|Je ne m'en étais pas rendu compte.|B1|5|5|I'm so sorry, I didn't realise.|Je suis vraiment désolé, je ne m'en étais pas rendu compte.|I didn't realise|c||fn_react|
+I take it back.|Je retire ce que j'ai dit.|B1|4|4|OK, you're right, I take it back.|D'accord, tu as raison, je retire ce que j'ai dit.|I take it back|c||relationships|
+I shouldn't have said that.|Je n'aurais pas dû dire ça.|B1|5|5|I'm sorry, I shouldn't have said that.|Je suis désolé, je n'aurais pas dû dire ça.|I shouldn't have said that|c||relationships|
+I didn't do it on purpose.|Je ne l'ai pas fait exprès.|B1|5|5|Sorry, I didn't do it on purpose.|Pardon, je ne l'ai pas fait exprès.|I didn't do it on purpose|c||relationships|
+Forget it.|Laisse tomber.|A2|5|5|Forget it, it's not important.|Laisse tomber, ce n'est pas important.|Forget it|c|i|fn_end|
+Don't worry about it.|Ne t'en fais pas.|A2|5|5|You broke a glass? Don't worry about it.|Tu as cassé un verre ? Ne t'en fais pas.|Don't worry about it|c||fn_react|
+Lucky you!|Quelle chance tu as !|A2|5|4|You're going to Japan? Lucky you!|Tu pars au Japon ? Quelle chance tu as !|Lucky you|c|i|fn_react|
+Poor you!|Mon pauvre !|A2|4|3|You've been ill all week? Poor you!|Tu as été malade toute la semaine ? Mon pauvre !|Poor you|c|i|fn_react|
+Thank goodness.|Dieu merci.|B1|5|4|Thank goodness you're here.|Dieu merci, tu es là.|Thank goodness|c||fn_react|
+Oh dear.|Oh là là.|A2|5|4|Oh dear, I've forgotten my wallet.|Oh là là, j'ai oublié mon portefeuille.|Oh dear|c||fn_react|
+What a coincidence!|Quelle coïncidence !|A2|4|3|You live here too? What a coincidence!|Tu habites ici aussi ? Quelle coïncidence !|What a coincidence|c||fn_react|
+It's a small world.|Le monde est petit.|B1|4|4|You know Anna? It's a small world.|Tu connais Anna ? Le monde est petit.|It's a small world|c||fn_react|
+You've made my day.|Tu as illuminé ma journée.|B1|4|3|Thanks for the flowers, you've made my day.|Merci pour les fleurs, tu as illuminé ma journée.|you've made my day|c||fn_react|
+Congratulations on...|Félicitations pour...|A2|5|5|Congratulations on your new job!|Félicitations pour ton nouveau travail !|Congratulations on|c||fn_react|
+Well deserved.|C'est bien mérité.|B1|4|4|You got the promotion? Well deserved!|Tu as eu la promotion ? C'est bien mérité !|Well deserved|c||fn_react|
+You deserve it.|Tu le mérites.|A2|5|4|Take a holiday, you deserve it.|Prends des vacances, tu le mérites.|you deserve it|c||fn_react|
+Nice one!|Bien joué !|B1|4|4|You fixed it? Nice one!|Tu l'as réparé ? Bien joué !|Nice one|c|i|fn_react|
+I knew it!|Je le savais !|A2|5|4|They're getting married? I knew it!|Ils se marient ? Je le savais !|I knew it|c||fn_react|
+Sounds like fun.|Ça a l'air sympa.|A2|5|5|A picnic by the lake? Sounds like fun.|Un pique-nique au bord du lac ? Ça a l'air sympa.|Sounds like fun|c||fn_react|
+That sounds awful.|Ça a l'air horrible.|A2|4|4|You waited six hours? That sounds awful.|Tu as attendu six heures ? Ça a l'air horrible.|That sounds awful|c||fn_react|
+That's so annoying.|C'est tellement agaçant.|A2|5|4|They cancelled again? That's so annoying.|Ils ont encore annulé ? C'est tellement agaçant.|That's so annoying|c||fn_react|
+That's ridiculous.|C'est ridicule.|A2|5|4|Ten euros for a coffee? That's ridiculous.|Dix euros pour un café ? C'est ridicule.|That's ridiculous|c||fn_react|
+That's crazy.|C'est dingue.|A2|5|4|He ran fifty kilometres? That's crazy.|Il a couru cinquante kilomètres ? C'est dingue.|That's crazy|c|i|fn_react|
+Tell me about it.|À qui le dis-tu.|B1|5|5|This weather is awful. Tell me about it.|Ce temps est horrible. À qui le dis-tu.|Tell me about it|c|i|fn_agree|sense=réaction ironique d'accord
+You bet.|Et comment.|B1|4|3|Are you coming? You bet!|Tu viens ? Et comment !|You bet|c|i|fn_agree|
+So what?|Et alors ?|A2|5|4|So what? It's not your problem.|Et alors ? Ce n'est pas ton problème.|So what|c|i|fn_react|
+Who knows?|Qui sait ?|A2|5|4|Will it work? Who knows?|Est-ce que ça va marcher ? Qui sait ?|Who knows|c||fn_react|
+Let me guess.|Laisse-moi deviner.|B1|4|4|Let me guess, you forgot your keys.|Laisse-moi deviner, tu as oublié tes clés.|Let me guess|c||fn_react|
+Where were we?|On en était où ?|B1|5|5|Sorry about that. Where were we?|Désolé pour ça. On en était où ?|Where were we|c||fn_topic_change|
+What's the word?|C'est quoi le mot ?|A2|5|5|It's a kind of, what's the word, a tool.|C'est une sorte de, c'est quoi le mot, un outil.|what's the word|c||fn_hesitate|
+Sorry, what did you say?|Pardon, tu as dit quoi ?|A2|5|5|Sorry, what did you say? It's noisy in here.|Pardon, tu as dit quoi ? Il y a du bruit ici.|Sorry, what did you say|c||fn_clarify|
+I didn't hear you.|Je ne t'ai pas entendu.|A2|5|4|Sorry, I didn't hear you.|Désolé, je ne t'ai pas entendu.|I didn't hear you|c||fn_clarify|
+Could you write it down?|Vous pourriez l'écrire ?|A2|5|5|Could you write it down for me, please?|Vous pourriez me l'écrire, s'il vous plaît ?|Could you write it down|c||fn_clarify|
+Could you spell that?|Vous pourriez l'épeler ?|A2|5|5|Could you spell that, please?|Vous pourriez l'épeler, s'il vous plaît ?|Could you spell that|c||fn_clarify|
+What do you call this in English?|Comment on appelle ça en anglais ?|A2|5|5|Sorry, what do you call this in English?|Pardon, comment on appelle ça en anglais ?|what do you call this in English|c||fn_clarify|
+I'm not sure how to say it.|Je ne sais pas trop comment le dire.|B1|5|5|I'm not sure how to say it in English.|Je ne sais pas trop comment le dire en anglais.|I'm not sure how to say it|c||fn_hesitate|
+Did I say that right?|Je l'ai bien dit ?|A2|4|4|Did I say that right? It's a difficult word.|Je l'ai bien dit ? C'est un mot difficile.|Did I say that right|c||fn_clarify|
+My English isn't very good.|Mon anglais n'est pas très bon.|A2|5|5|Sorry, my English isn't very good.|Désolé, mon anglais n'est pas très bon.|my English isn't very good|c||basics|
+I'm trying to improve my English.|J'essaie d'améliorer mon anglais.|A2|5|4|I'm trying to improve my English for work.|J'essaie d'améliorer mon anglais pour le travail.|I'm trying to improve my English|c||learning|
+This is unacceptable.|C'est inacceptable.|B1|5|4|We've been waiting for two hours, this is unacceptable.|Nous attendons depuis deux heures, c'est inacceptable.|this is unacceptable|d|f|fn_disagree|
+I'm not happy with...|Je ne suis pas satisfait de...|B1|5|5|I'm not happy with the service.|Je ne suis pas satisfait du service.|I'm not happy with|d||shopping|
+I want my money back.|Je veux être remboursé.|A2|5|4|This doesn't work, I want my money back.|Ça ne marche pas, je veux être remboursé.|I want my money back|d||shopping|
+I've been waiting for an hour.|J'attends depuis une heure.|A2|5|5|Excuse me, I've been waiting for an hour.|Excusez-moi, j'attends depuis une heure.|I've been waiting for an hour|d||fn_disagree|
+It still doesn't work.|Ça ne marche toujours pas.|A2|5|5|I restarted it, but it still doesn't work.|Je l'ai redémarré, mais ça ne marche toujours pas.|it still doesn't work|d||technology|
+This is the third time.|C'est la troisième fois.|A2|4|4|This is the third time I've called you.|C'est la troisième fois que je vous appelle.|This is the third time|d||fn_disagree|
+What are you going to do about it?|Qu'allez-vous faire pour y remédier ?|B1|4|4|What are you going to do about it?|Qu'allez-vous faire pour y remédier ?|going to do about it|d||fn_disagree|
+What's your best price?|C'est quoi votre meilleur prix ?|B1|4|4|I'll take three. What's your best price?|J'en prends trois. C'est quoi votre meilleur prix ?|What's your best price|w||business,pro|
+Can you do any better?|Vous pouvez faire mieux ?|B1|4|4|It's a bit high. Can you do any better?|C'est un peu élevé. Vous pouvez faire mieux ?|Can you do any better|w||business,pro|
+Is that negotiable?|C'est négociable ?|B1|5|5|Is that negotiable, or is it the final price?|C'est négociable, ou c'est le prix définitif ?|Is that negotiable|w||business,pro|
+That's as low as I can go.|Je ne peux pas descendre plus bas.|B2|4|4|Sorry, that's as low as I can go.|Désolé, je ne peux pas descendre plus bas.|that's as low as I can go|w||business,pro|
+Let's put it in writing.|Mettons-le par écrit.|B1|5|5|Good, let's put it in writing.|Bien, mettons-le par écrit.|let's put it in writing|w||business,pro|

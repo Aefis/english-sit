@@ -1,0 +1,113 @@
+# Lot 045 : B1-C1 (collocations à forte utilité : adjectif + nom, adverbe + adjectif, verbe + nom pour argumenter et travailler)
+@collocation
+a strong argument|un argument solide|B2|5|4|That's a strong argument for changing the law.|C'est un argument solide pour changer la loi.|a strong argument|w||argument|
+a rough idea|une idée approximative|B1|5|5|Can you give me a rough idea of the cost?|Tu peux me donner une idée approximative du coût ?|a rough idea|c||fn_explain|
+a vague idea|une vague idée|B1|4|3|I only have a vague idea of what he does.|Je n'ai qu'une vague idée de ce qu'il fait.|a vague idea|c||fn_explain|
+a fair price|un prix correct|B1|5|4|I think that's a fair price.|Je trouve que c'est un prix correct.|a fair price|d||money|
+a vivid memory|un souvenir très net|B2|4|3|I still have a vivid memory of her smile.|J'ai encore un souvenir très net de son sourire.|a vivid memory|c||fn_narrate|
+a bold move|une décision audacieuse|B2|4|3|Leaving his job was a bold move.|Quitter son emploi était une décision audacieuse.|a bold move|w||decision|
+a smart move|une décision judicieuse|B1|4|4|Booking early was a smart move.|Réserver tôt était une décision judicieuse.|a smart move|c|i|decision|
+a common mistake|une erreur fréquente|B1|5|5|It's a common mistake among beginners.|C'est une erreur fréquente chez les débutants.|a common mistake|c||learning|
+a costly mistake|une erreur coûteuse|B2|4|4|Not checking the contract was a costly mistake.|Ne pas vérifier le contrat a été une erreur coûteuse.|a costly mistake|w||risk|
+an honest mistake|une erreur de bonne foi|B2|4|3|Don't be angry, it was an honest mistake.|Ne te fâche pas, c'était une erreur de bonne foi.|an honest mistake|c||relationships|
+a growing concern|une préoccupation croissante|B2|4|4|Air quality is a growing concern.|La qualité de l'air est une préoccupation croissante.|a growing concern|n||analysis|
+a sensitive issue|un sujet sensible|B2|4|4|Salaries are a sensitive issue here.|Les salaires sont un sujet sensible ici.|a sensitive issue|w||communication|
+a controversial topic|un sujet controversé|B2|4|3|Immigration is a controversial topic.|L'immigration est un sujet controversé.|a controversial topic|n||news|
+a heavy workload|une lourde charge de travail|B2|5|4|She has a heavy workload this month.|Elle a une lourde charge de travail ce mois-ci.|a heavy workload|w||work,pro|
+a busy schedule|un emploi du temps chargé|B1|5|5|I know you have a busy schedule.|Je sais que tu as un emploi du temps chargé.|a busy schedule|w||work,pro|
+a quick fix|une solution rapide|B2|4|4|There's no quick fix for this problem.|Il n'y a pas de solution rapide à ce problème.|quick fix|w||project,pro|
+a hard worker|un gros travailleur|B1|5|4|She's a hard worker, you can trust her.|C'est une grosse travailleuse, tu peux lui faire confiance.|a hard worker|w||career|
+a heavy smoker|un gros fumeur|B1|4|3|My father was a heavy smoker.|Mon père était un gros fumeur.|a heavy smoker|d||health|
+a light sleeper|quelqu'un qui a le sommeil léger|B1|4|3|I'm a light sleeper, any noise wakes me up.|J'ai le sommeil léger, le moindre bruit me réveille.|a light sleeper|d||health|
+a strong candidate|un candidat solide|B2|4|4|She's a strong candidate for the job.|C'est une candidate solide pour le poste.|a strong candidate|w||career,pro|
+a good listener|quelqu'un qui sait écouter|B1|4|4|He's a really good listener.|Il sait vraiment écouter.|good listener|c||personality|
+a fresh start|un nouveau départ|B1|5|5|We moved to Spain for a fresh start.|Nous nous sommes installés en Espagne pour prendre un nouveau départ.|a fresh start|c||decision|
+a steady income|un revenu stable|B2|4|4|Freelancers don't always have a steady income.|Les indépendants n'ont pas toujours un revenu stable.|a steady income|d||money|
+economic growth|croissance économique|B1|5|4|Economic growth slowed last year.|La croissance économique a ralenti l'année dernière.|Economic growth|n||money|
+steady growth|une croissance régulière|B2|4|3|The company has seen steady growth.|L'entreprise a connu une croissance régulière.|steady growth|w||reporting,pro|
+a huge success|un énorme succès|A2|5|4|The party was a huge success.|La fête a été un énorme succès.|a huge success|c||fn_react|
+a complete failure|un échec total|B1|4|3|The first test was a complete failure.|Le premier essai a été un échec total.|a complete failure|c||fn_react|
+a waste of time|une perte de temps|A2|5|5|That meeting was a complete waste of time.|Cette réunion a été une perte de temps totale.|waste of time|c||fn_react|
+a waste of money|du gaspillage d'argent|A2|5|4|Buying that car was a waste of money.|Acheter cette voiture, c'était jeter l'argent par les fenêtres.|a waste of money|c||money|
+a sense of humour|le sens de l'humour|A2|5|5|He has a great sense of humour.|Il a un grand sens de l'humour.|sense of humour|c||personality|
+a sense of direction|le sens de l'orientation|B1|4|3|I have no sense of direction.|Je n'ai aucun sens de l'orientation.|sense of direction|c||directions|
+a sense of belonging|un sentiment d'appartenance|B2|4|3|The team has a real sense of belonging.|L'équipe a un vrai sentiment d'appartenance.|sense of belonging|w||feelings|
+a lack of time|un manque de temps|B1|5|4|I gave up because of a lack of time.|J'ai abandonné par manque de temps.|a lack of time|c||time|
+a wealth of experience|une grande expérience|B2+|4|3|She brings a wealth of experience to the team.|Elle apporte une grande expérience à l'équipe.|a wealth of experience|w|f|career,pro|
+a large number of|un grand nombre de|B1|5|4|A large number of people came.|Un grand nombre de personnes sont venues.|A large number of|a||analysis|
+a growing number of|un nombre croissant de|B2|5|4|A growing number of people work from home.|Un nombre croissant de personnes travaillent à domicile.|A growing number of|a||analysis|
+a small minority|une petite minorité|B2|4|3|Only a small minority voted against it.|Seule une petite minorité a voté contre.|a small minority|n||analysis|
+highly recommended|vivement recommandé|B1|5|4|This restaurant comes highly recommended.|Ce restaurant est vivement recommandé.|highly recommended|c||fn_opinion|
+highly competitive|très concurrentiel|B2|5|3|It's a highly competitive market.|C'est un marché très concurrentiel.|highly competitive|w||business,pro|
+heavily dependent on|fortement dépendant de|B2|4|3|The region is heavily dependent on tourism.|La région est fortement dépendante du tourisme.|heavily dependent on|n||analysis|
+strongly opposed to|fermement opposé à|B2|4|3|The union is strongly opposed to the plan.|Le syndicat est fermement opposé au projet.|strongly opposed to|n||fn_disagree|
+strictly forbidden|strictement interdit|B1|4|3|Smoking is strictly forbidden on board.|Il est strictement interdit de fumer à bord.|strictly forbidden|t|f|rules|
+desperately need|avoir absolument besoin de|B1|4|4|I desperately need a holiday.|J'ai absolument besoin de vacances.|desperately need|c||feelings|
+happily married|heureux en ménage|B1|4|3|They've been happily married for years.|Ils sont heureux en ménage depuis des années.|happily married|c||relationships|
+easily accessible|facilement accessible|B1|4|3|The beach is easily accessible by bus.|La plage est facilement accessible en bus.|easily accessible|t||travel|
+readily available|facilement disponible|B2|4|3|The data is readily available online.|Les données sont facilement disponibles en ligne.|readily available|w||analysis|
+poorly designed|mal conçu|B2|4|3|The website is poorly designed.|Le site web est mal conçu.|poorly designed|w||technology|
+well worth|qui vaut vraiment|B1|5|4|The museum is well worth a visit.|Le musée vaut vraiment le détour.|well worth|t||fn_opinion|
+well aware|parfaitement conscient|B1|5|4|I'm well aware of the risks.|Je suis parfaitement conscient des risques.|well aware|w||risk|
+reasonably priced|à un prix raisonnable|B1|4|4|The food is good and reasonably priced.|La nourriture est bonne et à un prix raisonnable.|reasonably priced|d||money|
+terribly sorry|vraiment désolé|B1|4|4|I'm terribly sorry, it was my fault.|Je suis vraiment désolé, c'était ma faute.|terribly sorry|c||fn_react|
+far too|beaucoup trop|B1|5|5|It's far too expensive.|C'est beaucoup trop cher.|far too|c||basics|
+by far|de loin|B1|5|5|It's by far the best film this year.|C'est de loin le meilleur film de l'année.|by far|c||fn_compare|
+settle a dispute|régler un litige|B2|4|3|They settled the dispute out of court.|Ils ont réglé le litige à l'amiable.|settled the dispute|w||rules,pro|
+make a point|défendre un argument|B2|5|4|You made a good point in the meeting.|Tu as défendu un bon argument pendant la réunion.|made a good point|w||argument|
+prove a point|prouver qu'on a raison|B2|4|3|He only did it to prove a point.|Il l'a fait juste pour prouver qu'il avait raison.|prove a point|c||argument|
+bend the rules|assouplir les règles|B2|4|3|Could you bend the rules just this once?|Tu pourrais assouplir les règles juste pour cette fois ?|bend the rules|w||rules|
+take a different approach|adopter une autre approche|B2|5|4|Let's take a different approach.|Adoptons une autre approche.|take a different approach|w||project,pro|
+take a closer look|regarder de plus près|B1|5|5|Let's take a closer look at the figures.|Regardons les chiffres de plus près.|take a closer look|w||analysis,pro|
+take a while|prendre un certain temps|A2|5|5|It may take a while to load.|Le chargement peut prendre un certain temps.|take a while|c||time|
+take the time to|prendre le temps de|B1|5|4|Thank you for taking the time to reply.|Merci d'avoir pris le temps de répondre.|taking the time to|w||email,pro|
+take credit for|s'attribuer le mérite de|B2|4|4|He took credit for my work.|Il s'est attribué le mérite de mon travail.|took credit for|w||work|
+take the blame|endosser la responsabilité|B2|4|4|I took the blame for the delay.|J'ai endossé la responsabilité du retard.|took the blame|w||work|
+take offence|se vexer|B2|4|4|I hope you don't take offence.|J'espère que tu ne te vexes pas.|take offence|c||relationships|
+take pride in|être fier de|B2|4|3|She takes pride in her work.|Elle est fière de son travail.|takes pride in|w||feelings|
+take place|avoir lieu|B1|5|5|The meeting will take place on Monday.|La réunion aura lieu lundi.|take place|w||basics,pro|
+take shape|prendre forme|B2|4|3|The project is starting to take shape.|Le projet commence à prendre forme.|take shape|w||project,pro|
+take charge|prendre les choses en main|B2|4|4|When she arrived, she took charge.|Quand elle est arrivée, elle a pris les choses en main.|took charge|w||management|
+give priority to|donner la priorité à|B2|5|4|We should give priority to safety.|Nous devrions donner la priorité à la sécurité.|give priority to|w||decision,pro|
+give rise to|donner lieu à|B2+|4|3|The decision gave rise to protests.|La décision a donné lieu à des manifestations.|gave rise to|a|f|analysis|
+give someone a chance|donner sa chance à quelqu'un|A2|5|5|Give me a chance to explain.|Donne-moi une chance de m'expliquer.|Give me a chance|c||relationships|
+give it a try|essayer|A2|5|5|I've never done it, but I'll give it a try.|Je ne l'ai jamais fait, mais je vais essayer.|give it a try|c||fn_suggest|
+give it some thought|y réfléchir|B1|4|4|I'll give it some thought and call you.|Je vais y réfléchir et je t'appelle.|give it some thought|c||decision|
+have an impact on|avoir un impact sur|B1|5|4|The strike had an impact on sales.|La grève a eu un impact sur les ventes.|had an impact on|w||analysis,pro|
+have access to|avoir accès à|B1|5|5|Do you have access to the shared folder?|Tu as accès au dossier partagé ?|have access to|w||it,pro|
+have no choice|ne pas avoir le choix|A2|5|5|We had no choice but to leave.|Nous n'avons pas eu d'autre choix que de partir.|had no choice|c||decision|
+have a lot in common|avoir beaucoup de points communs|B1|5|4|We have a lot in common.|Nous avons beaucoup de points communs.|have a lot in common|c||relationships|
+have a hard time|avoir du mal|B1|5|4|I had a hard time finding a flat.|J'ai eu du mal à trouver un appartement.|had a hard time|c||feelings|
+keep it simple|faire simple|B1|5|4|Let's keep it simple.|Faisons simple.|keep it simple|w||project,pro|
+keep in mind|garder à l'esprit|B1|5|5|Keep in mind that the shops close early.|Garde à l'esprit que les magasins ferment tôt.|Keep in mind|c||fn_explain|
+make a start|s'y mettre|B1|4|4|We should make a start on the report.|Nous devrions nous mettre au rapport.|make a start|w||work|
+make arrangements|prendre des dispositions|B1|4|4|I'll make arrangements for your visit.|Je vais prendre des dispositions pour votre visite.|make arrangements|w|f|work,pro|
+make a note of|prendre note de|B1|5|4|I'll make a note of that.|Je vais en prendre note.|make a note of|w||meetings,pro|
+make it clear|faire clairement comprendre|B1|5|5|She made it clear that she wasn't happy.|Elle a fait clairement comprendre qu'elle n'était pas contente.|made it clear|w||communication|
+cause damage|causer des dégâts|B1|5|4|The fire caused serious damage.|L'incendie a causé de graves dégâts.|caused serious damage|n||weather|
+cause concern|susciter l'inquiétude|B2|4|3|The new figures are causing concern.|Les nouveaux chiffres suscitent l'inquiétude.|causing concern|n|f|analysis|
+cause trouble|créer des problèmes|B1|4|3|He's always causing trouble at school.|Il crée toujours des problèmes à l'école.|causing trouble|c||family|
+do more harm than good|faire plus de mal que de bien|B2|4|4|This law will do more harm than good.|Cette loi fera plus de mal que de bien.|do more harm than good|n||fn_opinion|
+run into problems|rencontrer des problèmes|B1|5|4|We ran into problems with the supplier.|Nous avons rencontré des problèmes avec le fournisseur.|ran into problems|w||project,pro|
+run the risk of|courir le risque de|B2|4|4|You run the risk of losing everything.|Tu cours le risque de tout perdre.|run the risk of|w||risk|
+publish a study|publier une étude|B2|4|3|The university published a study on sleep.|L'université a publié une étude sur le sommeil.|published a study|a||academic|
+draw a comparison|établir une comparaison|B2|4|3|It's hard to draw a comparison between the two.|Il est difficile d'établir une comparaison entre les deux.|draw a comparison|a||fn_compare|
+reject a proposal|rejeter une proposition|B2|5|4|The board rejected the proposal.|Le conseil a rejeté la proposition.|rejected the proposal|w||decision,pro|
+accept an offer|accepter une offre|A2|5|4|I've accepted their offer.|J'ai accepté leur offre.|accepted their offer|w||career|
+turn down an offer|décliner une offre|B1|5|5|She turned down the job offer.|Elle a décliné l'offre d'emploi.|turned down the job offer|w||career,pro|
+offer support|apporter son soutien|B1|4|4|We offered our support to the family.|Nous avons apporté notre soutien à la famille.|offered our support|c||relationships|
+show interest|montrer de l'intérêt|B1|4|4|Several clients have shown interest.|Plusieurs clients ont montré de l'intérêt.|shown interest|w||business,pro|
+show signs of|montrer des signes de|B2|5|3|The economy is showing signs of recovery.|L'économie montre des signes de reprise.|showing signs of|n||analysis|
+pay tribute to|rendre hommage à|B2|4|3|The president paid tribute to the victims.|Le président a rendu hommage aux victimes.|paid tribute to|n|f|news|
+put pressure on|faire pression sur|B1|5|5|Don't put pressure on him.|Ne lui mets pas la pression.|put pressure on|w||work|
+put an end to|mettre fin à|B1|5|4|We must put an end to this.|Nous devons mettre fin à cela.|put an end to|n||decision|
+put at risk|mettre en danger|B1|5|4|This could put jobs at risk.|Cela pourrait mettre des emplois en danger.|put jobs at risk|n||risk|
+put into practice|mettre en pratique|B1|5|5|It's time to put these ideas into practice.|Il est temps de mettre ces idées en pratique.|put these ideas into practice|w||learning,pro|
+put forward a proposal|avancer une proposition|B2|4|4|She put forward a proposal at the meeting.|Elle a avancé une proposition à la réunion.|put forward a proposal|w||meetings,pro|
+put on weight|prendre du poids|A2|5|5|I've put on weight this winter.|J'ai pris du poids cet hiver.|put on weight|d||health|
+cover the cost|couvrir le coût|B1|5|4|The insurance will cover the cost.|L'assurance couvrira le coût.|cover the cost|d||money|
+improve performance|améliorer les performances|B2|5|4|The new tool improved performance.|Le nouvel outil a amélioré les performances.|improved performance|w||analysis,pro|
+attract customers|attirer des clients|B1|5|4|We need to attract more customers.|Nous devons attirer plus de clients.|attract more customers|w||business,pro|
+enter a market|entrer sur un marché|B2|4|4|We're planning to enter the Asian market.|Nous prévoyons d'entrer sur le marché asiatique.|enter the Asian market|w||business,pro|
+gain ground|gagner du terrain|B2|4|3|The idea is gaining ground in Europe.|L'idée gagne du terrain en Europe.|gaining ground|n||analysis|
+lose ground|perdre du terrain|B2|4|3|The party is losing ground in the polls.|Le parti perd du terrain dans les sondages.|losing ground|n||analysis|

@@ -1,0 +1,102 @@
+# Lot 043 : A2-B2 (phrases toutes faites par thème : magasins, cuisine, maison, voisins, météo, études, sport, enfants, émotions, voyage, bureau)
+@chunk
+Do you have this in a smaller size?|Vous l'avez dans une taille plus petite ?|A2|5|5|Excuse me, do you have this in a smaller size?|Excusez-moi, vous l'avez dans une taille plus petite ?|do you have this in a smaller size|d||shopping,clothes|
+What size are you?|Quelle taille faites-vous ?|A2|5|4|What size are you? A medium?|Quelle taille faites-vous ? Du M ?|What size are you|d||shopping,clothes|
+It's a bit tight.|C'est un peu serré.|A2|4|4|I like the jacket, but it's a bit tight.|J'aime bien la veste, mais c'est un peu serré.|it's a bit tight|d||shopping,clothes|
+It suits you.|Ça te va bien.|A2|5|5|That colour really suits you.|Cette couleur te va vraiment bien.|suits you|d||shopping,clothes|
+I'm just browsing.|Je regarde seulement.|B1|4|3|No thanks, I'm just browsing.|Non merci, je regarde seulement.|I'm just browsing|d||shopping|
+Can I return this?|Je peux rapporter ça ?|A2|4|4|Can I return this if it doesn't fit?|Je peux rapporter ça si ça ne va pas ?|Can I return this|d||shopping|
+Do you have the receipt?|Vous avez le ticket de caisse ?|A2|4|4|Do you have the receipt with you?|Vous avez le ticket de caisse sur vous ?|Do you have the receipt|d||shopping|
+Is this on sale?|C'est en promotion ?|A2|4|3|Is this on sale, or is it the full price?|C'est en promotion, ou c'est le prix normal ?|Is this on sale|d||shopping|
+It's a bit out of my price range.|C'est un peu au-dessus de mon budget.|B1|3|3|It's lovely, but it's a bit out of my price range.|C'est très joli, mais c'est un peu au-dessus de mon budget.|a bit out of my price range|d||shopping,money|
+Where can I find...?|Où puis-je trouver... ?|A2|4|4|Excuse me, where can I find the milk?|Excusez-moi, où est-ce que je peux trouver le lait ?|where can I find|d||shopping|
+My order hasn't arrived.|Ma commande n'est pas arrivée.|B1|4|4|My order hasn't arrived and it's been two weeks.|Ma commande n'est pas arrivée et ça fait deux semaines.|My order hasn't arrived|d||shopping|
+It arrived damaged.|C'est arrivé abîmé.|B1|4|3|The lamp arrived damaged.|La lampe est arrivée abîmée.|arrived damaged|d||shopping|
+Dinner's ready!|À table !|A2|5|5|Dinner's ready! Wash your hands.|À table ! Lave-toi les mains.|Dinner's ready|d||food,family|
+It needs more salt.|Ça manque de sel.|A2|4|4|It's good, but it needs more salt.|C'est bon, mais ça manque de sel.|it needs more salt|d||food|
+It's gone off.|Ce n'est plus bon.|B1|4|4|Don't drink that milk, it's gone off.|Ne bois pas ce lait, il n'est plus bon.|it's gone off|d||food|
+What shall we have for dinner?|On se fait quoi pour le dîner ?|A2|5|5|What shall we have for dinner? I'm hungry.|On se fait quoi pour le dîner ? J'ai faim.|What shall we have for dinner|d||food,family|
+I'm not very hungry.|Je n'ai pas très faim.|A2|5|4|I'm not very hungry, I'll just have a salad.|Je n'ai pas très faim, je vais juste prendre une salade.|I'm not very hungry|d||food|
+I've eaten too much.|J'ai trop mangé.|A2|4|3|I've eaten too much, I can't move.|J'ai trop mangé, je ne peux plus bouger.|I've eaten too much|d||food|
+Could I have the recipe?|Je pourrais avoir la recette ?|A2|4|3|This is delicious! Could I have the recipe?|C'est délicieux ! Je pourrais avoir la recette ?|Could I have the recipe|d||food|
+It's my turn to cook.|C'est à moi de cuisiner.|A2|4|3|Sit down, it's my turn to cook.|Assieds-toi, c'est à moi de cuisiner.|my turn to cook|d||food,family|
+The sink is blocked.|L'évier est bouché.|B1|4|3|The sink is blocked again.|L'évier est encore bouché.|sink is blocked|d||housing|
+The lift is out of order.|L'ascenseur est en panne.|B1|4|4|The lift is out of order, so take the stairs.|L'ascenseur est en panne, alors prends l'escalier.|lift is out of order|d||housing|
+I've locked myself out.|Je me suis enfermé dehors.|B1|4|4|I've locked myself out, have you got a key?|Je me suis enfermé dehors, tu as une clé ?|I've locked myself out|d||housing|
+Sorry about the noise.|Désolé pour le bruit.|A2|4|4|Sorry about the noise last night.|Désolé pour le bruit hier soir.|Sorry about the noise|d||housing|
+Could you keep the noise down?|Vous pourriez faire moins de bruit ?|B1|4|4|Could you keep the noise down, please? It's late.|Vous pourriez faire moins de bruit, s'il vous plaît ? Il est tard.|keep the noise down|d||housing|
+We've just moved in.|Nous venons d'emménager.|A2|4|4|Hi, we've just moved in next door.|Bonjour, nous venons d'emménager à côté.|we've just moved in|d||housing,small_talk|
+It's stopped raining.|Il a arrêté de pleuvoir.|A2|4|4|It's stopped raining, let's go out.|Il a arrêté de pleuvoir, sortons.|It's stopped raining|d||weather|
+It looks like rain.|On dirait qu'il va pleuvoir.|B1|4|4|Take an umbrella, it looks like rain.|Prends un parapluie, on dirait qu'il va pleuvoir.|it looks like rain|d||weather|
+It's supposed to be nice tomorrow.|Il paraît qu'il va faire beau demain.|B1|4|4|It's supposed to be nice tomorrow, let's go to the beach.|Il paraît qu'il va faire beau demain, allons à la plage.|It's supposed to be nice tomorrow|d||weather|
+We got caught in the rain.|On s'est fait surprendre par la pluie.|B1|4|3|We got caught in the rain on the way back.|On s'est fait surprendre par la pluie au retour.|got caught in the rain|d||weather|
+It's so humid today.|Il fait tellement lourd aujourd'hui.|B1|3|3|It's so humid today, I can't breathe.|Il fait tellement lourd aujourd'hui que je n'arrive pas à respirer.|It's so humid today|d||weather|
+What's the forecast for tomorrow?|Quelles sont les prévisions pour demain ?|B1|4|4|What's the forecast for tomorrow? Rain again?|Quelles sont les prévisions pour demain ? Encore de la pluie ?|What's the forecast for tomorrow|d||weather|
+I failed my exam.|J'ai raté mon examen.|A2|4|4|I failed my exam, but I can take it again.|J'ai raté mon examen, mais je peux le repasser.|I failed my exam|a||learning|
+I passed!|J'ai réussi !|A2|4|4|I passed! I can't believe it!|J'ai réussi ! Je n'en reviens pas !|I passed|a||learning|
+I'm doing a master's in...|Je fais un master de...|B1|4|4|I'm doing a master's in economics.|Je fais un master d'économie.|I'm doing a master's in|a||learning|
+I studied ... at university.|J'ai étudié ... à l'université.|A2|5|4|I studied law at university.|J'ai étudié le droit à l'université.|at university|a||learning|
+What did you get?|Tu as eu combien ?|A2|4|3|What did you get in the maths test?|Tu as eu combien au contrôle de maths ?|What did you get|a|i|learning|
+I'm out of shape.|Je ne suis pas en forme.|B1|4|4|I'm out of shape, I can't run any more.|Je ne suis pas en forme, je n'arrive plus à courir.|I'm out of shape|d||leisure,health|
+Who won?|Qui a gagné ?|A2|5|4|Who won last night?|Qui a gagné hier soir ?|Who won|d||leisure|
+Which team do you support?|Tu supportes quelle équipe ?|A2|4|4|So, which team do you support here?|Alors, tu supportes quelle équipe ici ?|which team do you support|d||leisure,small_talk|
+What do you do in your free time?|Que fais-tu pendant ton temps libre ?|A2|5|5|And what do you do in your free time?|Et que fais-tu pendant ton temps libre ?|what do you do in your free time|d||leisure,small_talk|
+Have you seen anything good lately?|Tu as vu quelque chose de bien récemment ?|B1|4|4|Have you seen anything good lately? I need a new series.|Tu as vu quelque chose de bien récemment ? Il me faut une nouvelle série.|Have you seen anything good lately|d||leisure,small_talk|
+Don't tell me what happens!|Ne me dis pas ce qui se passe !|A2|3|3|I haven't finished it, don't tell me what happens!|Je ne l'ai pas fini, ne me dis pas ce qui se passe !|don't tell me what happens|d||leisure|
+Be good!|Sois sage !|A2|4|3|Be good at Grandma's!|Sois sage chez Mamie !|Be good|d||family|
+Stop it!|Arrête !|A2|5|5|Stop it, you're hurting me!|Arrête, tu me fais mal !|Stop it|c||family|
+Leave me alone.|Laisse-moi tranquille.|A2|5|5|Leave me alone, I'm working.|Laisse-moi tranquille, je travaille.|Leave me alone|c||feelings|
+How old is your son?|Quel âge a ton fils ?|A2|4|3|How old is your son now?|Quel âge a ton fils maintenant ?|How old is your son|c||family,small_talk|
+She takes after her mother.|Elle tient de sa mère.|B1|4|4|She takes after her mother, she's very calm.|Elle tient de sa mère, elle est très calme.|She takes after her mother|c||family|
+He looks just like his father.|Il ressemble beaucoup à son père.|A2|4|4|He looks just like his father, doesn't he?|Il ressemble beaucoup à son père, non ?|He looks just like his father|c||family|
+I can't take it any more.|Je n'en peux plus.|B1|5|5|I can't take it any more, I'm going to quit.|Je n'en peux plus, je vais démissionner.|I can't take it any more|c||feelings|
+I'm really stressed out.|Je suis vraiment stressé.|B1|5|4|I'm really stressed out about the move.|Je suis vraiment stressé par le déménagement.|I'm really stressed out|c|i|feelings|
+I'm feeling a bit down.|Je n'ai pas trop le moral.|B1|5|5|I'm feeling a bit down today.|Je n'ai pas trop le moral aujourd'hui.|I'm feeling a bit down|c||feelings|
+You seem upset.|Tu as l'air contrarié.|B1|4|4|You seem upset, what's wrong?|Tu as l'air contrarié, qu'est-ce qui ne va pas ?|You seem upset|c||feelings|
+It's not the end of the world.|Ce n'est pas la fin du monde.|B1|5|5|You failed, but it's not the end of the world.|Tu as échoué, mais ce n'est pas la fin du monde.|it's not the end of the world|c||feelings|
+I know it's hard.|Je sais que c'est dur.|A2|5|4|I know it's hard, but you'll get through it.|Je sais que c'est dur, mais tu vas t'en sortir.|I know it's hard|c||feelings|
+You'll get through this.|Tu vas t'en sortir.|B1|4|5|You're strong, you'll get through this.|Tu es fort, tu vas t'en sortir.|you'll get through this|c||feelings|
+I'm so relieved.|Je suis tellement soulagé.|B1|4|4|I'm so relieved it's over.|Je suis tellement soulagé que ce soit fini.|I'm so relieved|c||feelings|
+I didn't see that coming.|Je ne m'y attendais pas.|B1|5|4|He resigned? I didn't see that coming.|Il a démissionné ? Je ne m'y attendais pas.|I didn't see that coming|c||fn_react|
+I'm so embarrassed.|Je suis tellement gêné.|B1|4|4|I called her by the wrong name, I'm so embarrassed.|Je me suis trompé de prénom, je suis tellement gêné.|I'm so embarrassed|c||feelings|
+It's been on my mind.|Ça me trotte dans la tête.|B1|4|4|It's been on my mind all week.|Ça me trotte dans la tête depuis toute la semaine.|It's been on my mind|c||feelings|
+I need a break.|J'ai besoin d'une pause.|A2|5|5|I need a break, let's stop for ten minutes.|J'ai besoin d'une pause, arrêtons-nous dix minutes.|I need a break|c||feelings,work|
+We broke up.|Nous nous sommes séparés.|B1|5|5|We broke up last year.|Nous nous sommes séparés l'année dernière.|We broke up|c||relationships|
+We've been together for three years.|Nous sommes ensemble depuis trois ans.|B1|5|4|We've been together for three years, and we're very happy.|Nous sommes ensemble depuis trois ans et nous sommes très heureux.|We've been together for three years|c||relationships|
+Are you seeing anyone?|Tu vois quelqu'un ?|B1|4|4|So, are you seeing anyone at the moment?|Alors, tu vois quelqu'un en ce moment ?|are you seeing anyone|c||relationships|
+I really like her.|Elle me plaît beaucoup.|A2|5|4|I really like her, but I'm too shy to say it.|Elle me plaît beaucoup, mais je suis trop timide pour le dire.|I really like her|c||relationships|
+Where's the check-in desk?|Où est le comptoir d'enregistrement ?|A2|4|4|Excuse me, where's the check-in desk for Madrid?|Excusez-moi, où est le comptoir d'enregistrement pour Madrid ?|where's the check-in desk|t||travel|
+Which gate is it?|C'est quelle porte ?|A2|4|4|Which gate is it for the Rome flight?|C'est quelle porte pour le vol de Rome ?|Which gate is it|t||travel|
+The flight is delayed.|Le vol est retardé.|A2|5|5|The flight is delayed by two hours.|Le vol a deux heures de retard.|The flight is delayed|t||travel|
+Could I change my seat?|Je pourrais changer de place ?|A2|4|4|Could I change my seat? I'd like to sit with my wife.|Je pourrais changer de place ? J'aimerais m'asseoir avec ma femme.|Could I change my seat|t||travel|
+I have nothing to declare.|Je n'ai rien à déclarer.|A2|4|3|No, I have nothing to declare.|Non, je n'ai rien à déclarer.|I have nothing to declare|t||travel|
+I'm travelling for work.|Je voyage pour le travail.|A2|4|3|I'm travelling for work this time.|Je voyage pour le travail cette fois.|I'm travelling for work|t||travel,pro|
+How much is the excess baggage?|Combien coûte l'excédent de bagages ?|B1|3|3|How much is the excess baggage?|Combien coûte l'excédent de bagages ?|excess baggage|t||travel|
+Could I leave my luggage here?|Je pourrais laisser mes bagages ici ?|A2|4|4|Could I leave my luggage here until five?|Je pourrais laisser mes bagages ici jusqu'à cinq heures ?|Could I leave my luggage here|t||travel|
+Is there a lift?|Y a-t-il un ascenseur ?|A2|4|3|Is there a lift in this hotel?|Y a-t-il un ascenseur dans cet hôtel ?|Is there a lift|t||travel|
+The room is too noisy.|La chambre est trop bruyante.|A2|4|4|The room is too noisy, could I change?|La chambre est trop bruyante, je pourrais en changer ?|The room is too noisy|t||travel|
+We're here for a week.|Nous sommes ici pour une semaine.|A2|4|4|We're here for a week, then we go to Rome.|Nous sommes ici pour une semaine, ensuite nous allons à Rome.|We're here for a week|t||travel|
+What's worth seeing around here?|Qu'est-ce qu'il y a à voir par ici ?|B1|4|4|What's worth seeing around here?|Qu'est-ce qu'il y a à voir par ici ?|What's worth seeing around here|t||travel|
+Is it safe to walk at night?|C'est sûr de marcher la nuit ?|B1|4|4|Is it safe to walk at night around here?|C'est sûr de marcher la nuit par ici ?|Is it safe to walk at night|t||travel,safety|
+I'm on annual leave next week.|Je suis en congé la semaine prochaine.|B1|4|4|I'm on annual leave next week, so ask Tom.|Je suis en congé la semaine prochaine, alors demande à Tom.|I'm on annual leave next week|w||work,pro|
+I'll be out of the office until Monday.|Je serai absent du bureau jusqu'à lundi.|B1|5|5|I'll be out of the office until Monday.|Je serai absent du bureau jusqu'à lundi.|out of the office until Monday|w||email,pro|
+Can it wait until tomorrow?|Ça peut attendre demain ?|B1|5|5|Can it wait until tomorrow? I'm leaving now.|Ça peut attendre demain ? Je pars maintenant.|Can it wait until tomorrow|w||work,pro|
+I'll get back to you on that.|Je reviens vers toi là-dessus.|B1|5|5|I don't know yet, I'll get back to you on that.|Je ne sais pas encore, je reviens vers toi là-dessus.|I'll get back to you on that|w||meetings,pro|
+I'll look into it.|Je vais regarder ça.|B1|5|5|I'll look into it this afternoon.|Je vais regarder ça cet après-midi.|I'll look into it|w||work,pro|
+It's not in my job description.|Ça ne fait pas partie de mes fonctions.|B1|3|3|Sorry, it's not in my job description.|Désolé, ça ne fait pas partie de mes fonctions.|not in my job description|w||work,pro|
+Who should I talk to about this?|À qui dois-je en parler ?|B1|5|5|Who should I talk to about this?|À qui dois-je en parler ?|Who should I talk to about this|w||work,pro|
+Do you need anything from me?|Tu as besoin de quelque chose de ma part ?|B1|5|5|Do you need anything from me before Friday?|Tu as besoin de quelque chose de ma part avant vendredi ?|Do you need anything from me|w||work,pro|
+Let's schedule a follow-up.|Prévoyons un point de suivi.|B1|5|4|Let's schedule a follow-up next week.|Prévoyons un point de suivi la semaine prochaine.|Let's schedule a follow-up|w||meetings,pro|
+I've got back-to-back meetings.|J'ai des réunions à la chaîne.|B2|4|4|I've got back-to-back meetings all day.|J'ai des réunions à la chaîne toute la journée.|I've got back-to-back meetings|w|i|meetings,pro|
+I'm working on it.|J'y travaille.|A2|5|5|Don't worry, I'm working on it.|Ne t'inquiète pas, j'y travaille.|I'm working on it|w||work,pro|
+It'll be ready by Friday.|Ce sera prêt pour vendredi.|A2|5|5|Don't worry, it'll be ready by Friday.|Ne t'inquiète pas, ce sera prêt pour vendredi.|It'll be ready by Friday|w||work,pro|
+Sorry, I got held up.|Désolé, j'ai été retenu.|B1|5|4|Sorry, I got held up in traffic.|Désolé, j'ai été retenu dans les embouteillages.|I got held up|w||work,pro|
+Does anyone want a coffee?|Quelqu'un veut un café ?|A2|4|3|I'm going to the kitchen. Does anyone want a coffee?|Je vais à la cuisine. Quelqu'un veut un café ?|Does anyone want a coffee|w||work|
+Is this a good time to talk?|C'est un bon moment pour parler ?|A2|5|5|Is this a good time to talk, or are you busy?|C'est un bon moment pour parler, ou tu es occupé ?|Is this a good time to talk|w||work,pro|
+Did you see the news?|Tu as vu les infos ?|A2|5|4|Did you see the news this morning?|Tu as vu les infos ce matin ?|Did you see the news|c||news|
+I don't follow politics.|Je ne suis pas la politique.|B1|4|3|Sorry, I don't really follow politics.|Désolé, je ne suis pas vraiment la politique.|follow politics|c||politics|
+Who did you vote for?|Pour qui as-tu voté ?|A2|4|3|Who did you vote for, if I may ask?|Pour qui as-tu voté, si je peux me permettre ?|Who did you vote for|c||politics|
+Prices keep going up.|Les prix n'arrêtent pas d'augmenter.|B1|5|4|Prices keep going up, but salaries don't.|Les prix n'arrêtent pas d'augmenter, mais pas les salaires.|Prices keep going up|c||money,news|
+I can't afford to.|Je n'en ai pas les moyens.|B1|5|5|I'd love to go, but I can't afford to.|J'adorerais y aller, mais je n'en ai pas les moyens.|I can't afford to|c||money|
+I've been burgled.|J'ai été cambriolé.|B1|4|4|I've been burgled, can you send someone?|J'ai été cambriolé, vous pouvez envoyer quelqu'un ?|I've been burgled|d||safety|
+My bag has been stolen.|On m'a volé mon sac.|A2|5|5|My bag has been stolen at the station.|On m'a volé mon sac à la gare.|My bag has been stolen|d||safety|
