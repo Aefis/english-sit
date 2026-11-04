@@ -174,7 +174,7 @@ strictly speaking|à proprement parler|B2|5|4|Strictly speaking, it's not legal.
 roughly speaking|à peu de chose près|B2|4|3|Roughly speaking, it costs a million.|À peu de chose près, ça coûte un million.|Roughly speaking|c||fn_nuance|
 in all honesty|en toute honnêteté|B2|5|4|In all honesty, I'm not sure.|En toute honnêteté, je n'en suis pas sûr.|In all honesty|c||fn_opinion|
 in all likelihood|selon toute probabilité|B2+|4|4|In all likelihood, it'll be delayed.|Selon toute probabilité, ce sera retardé.|In all likelihood|w||fn_nuance|
-in essence|au fond|B2+|5|4|In essence, it's a simple idea.|Essentiellement, c'est une idée simple.|In essence|w||pro,fn_explain|
+in essence|dans le fond|B2+|5|4|In essence, it's a simple idea.|Essentiellement, c'est une idée simple.|In essence|w||pro,fn_explain|
 in practice|en pratique|B2|5|5|In practice, it rarely works.|En pratique, ça marche rarement.|In practice|c||fn_nuance|
 in theory|en théorie|B1|5|5|In theory, it's possible.|En théorie, c'est possible.|In theory|c||fn_nuance|
 in reality|en réalité|B1|5|5|In reality, it took two years.|En réalité, cela a pris deux ans.|In reality|c||fn_nuance|

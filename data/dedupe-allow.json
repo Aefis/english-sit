@@ -1111,5 +1111,47 @@
       "lose-your-touch"
     ],
     "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "i-see-what-you-mean",
+      "if-you-see-what-i-mean"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "let-me-put-it-another-way",
+      "let-me-put-it-this-way"
+    ],
+    "reason": "Formules voisines, usages distincts."
+  },
+  {
+    "ids": [
+      "that-makes-sense",
+      "am-i-making-sense"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "by-no-means",
+      "its-by-no-means-certain-that"
+    ],
+    "reason": "Réponse, et amorce."
+  },
+  {
+    "ids": [
+      "you-look-great",
+      "that-looks-great-on-you"
+    ],
+    "reason": "Compliment général, et vêtement."
+  },
+  {
+    "ids": [
+      "alleged",
+      "allege"
+    ],
+    "reason": "Adjectif à part entière."
   }
 ]

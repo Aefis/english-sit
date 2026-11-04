@@ -1,0 +1,134 @@
+# Lot 034 : B1-C1 (présentations, retours, réseautage, urgences, réconfort, compliments, invitations)
+@chunk
+Good morning, everyone.|Bonjour à tous.|A2|5|5|Good morning, everyone, and thanks for coming.|Bonjour à tous et merci d'être venus.|Good morning, everyone|w||pro,presentations|
+Today I'm going to talk about...|Aujourd'hui, je vais vous parler de...|B1|5|5|Today I'm going to talk about our new strategy.|Aujourd'hui, je vais vous parler de notre nouvelle stratégie.|Today I'm going to talk about|w||pro,presentations|
+My presentation is in three parts.|Ma présentation comporte trois parties.|B1|5|4|My presentation is in three parts.|Ma présentation comporte trois parties.|My presentation is in three parts|w||pro,presentations|
+Let's turn to...|Passons maintenant à...|B2|5|4|Let's turn to the next slide.|Passons maintenant à la diapositive suivante.|Let's turn to|w||pro,presentations|
+As this slide shows...|Comme le montre cette diapositive...|B1|5|4|As this slide shows, costs have doubled.|Comme le montre cette diapositive, les coûts ont doublé.|As this slide shows|w||pro,presentations|
+This brings us to...|Cela nous amène à...|B2|5|4|This brings us to the main question.|Cela nous amène à la question principale.|This brings us to|w||pro,presentations|
+Thank you for your attention.|Merci de votre attention.|B1|5|5|That's all. Thank you for your attention.|C'est tout. Merci de votre attention.|Thank you for your attention|w||pro,presentations|
+I'd be happy to answer any questions.|Je répondrai volontiers à vos questions.|B1|5|5|I'd be happy to answer any questions now.|Je répondrai volontiers à vos questions maintenant.|I'd be happy to answer any questions|w||pro,presentations|
+That's a very good question.|C'est une très bonne question.|B1|5|3|That's a very good question, thank you.|C'est une très bonne question, merci.|That's a very good question|w||pro,presentations|
+I don't have the figures to hand.|Je n'ai pas les chiffres sous la main.|B2|5|4|Sorry, I don't have the figures to hand.|Désolé, je n'ai pas les chiffres sous la main.|I don't have the figures to hand|w||pro,presentations|
+Can everyone hear me at the back?|Tout le monde m'entend au fond ?|B1|4|3|Can everyone hear me at the back?|Tout le monde m'entend au fond ?|Can everyone hear me at the back?|w||pro,presentations|
+You did a great job on this.|Tu as fait un excellent travail là-dessus.|B1|5|5|You did a great job on this report.|Tu as fait un excellent travail sur ce rapport.|You did a great job on this|w||pro,management|
+I really appreciate your hard work.|J'apprécie vraiment ton travail.|B1|5|5|I really appreciate your hard work this year.|J'apprécie vraiment ton travail cette année.|I really appreciate your hard work|w||pro,management|
+There's one thing you could improve.|Il y a une chose que tu pourrais améliorer.|B1|5|4|It's good, but there's one thing you could improve.|C'est bien, mais il y a une chose que tu pourrais améliorer.|there's one thing you could improve|w||pro,management|
+Next time, try to...|La prochaine fois, essaie de...|B1|5|5|Next time, try to send it earlier.|La prochaine fois, essaie de l'envoyer plus tôt.|Next time, try to|w||pro,management|
+Can I give you some feedback?|Je peux te faire un retour ?|B1|5|5|Can I give you some feedback on your talk?|Je peux te faire un retour sur ton exposé ?|Can I give you some feedback|w||pro,management|
+How do you think it went?|Comment ça s'est passé, selon toi ?|B1|5|4|How do you think it went with the client?|Comment ça s'est passé avec le client, selon toi ?|How do you think it went|w||pro,management|
+What could we do differently?|Que pourrions-nous faire différemment ?|B1|5|5|What could we do differently next time?|Que pourrions-nous faire différemment la prochaine fois ?|What could we do differently|w||pro,management|
+What's holding you back?|Qu'est-ce qui te freine ?|B2|4|4|You'd be great at it. What's holding you back?|Tu serais très bon. Qu'est-ce qui te freine ?|What's holding you back?|w||pro,management|
+How can I support you?|Comment puis-je t'aider ?|B1|5|5|How can I support you on this project?|Comment puis-je t'aider sur ce projet ?|How can I support you|w||pro,management|
+What do you do exactly?|Tu fais quoi exactement ?|A2|5|3|So what do you do exactly at the bank?|Tu fais quoi exactement à la banque ?|what do you do exactly|c||small_talk|
+How do you know...?|Comment connais-tu... ?|A2|5|4|How do you know Sarah?|Comment connais-tu Sarah ?|How do you know|c||small_talk|
+Have we met before?|Nous sommes-nous déjà rencontrés ?|A2|5|4|Excuse me, have we met before?|Excusez-moi, nous sommes-nous déjà rencontrés ?|have we met before?|c||small_talk|
+It's a pleasure to meet you.|C'est un plaisir de vous rencontrer.|B1|5|5|It's a pleasure to meet you, Ms Lee.|C'est un plaisir de vous rencontrer, Madame Lee.|It's a pleasure to meet you|w|f|pro,small_talk|
+I've heard a lot about you.|J'ai beaucoup entendu parler de vous.|B1|5|4|Finally! I've heard a lot about you.|Enfin ! J'ai beaucoup entendu parler de vous.|I've heard a lot about you|c||small_talk|
+Let me introduce you to...|Laissez-moi vous présenter...|B1|5|5|Let me introduce you to our director.|Laissez-moi vous présenter notre directeur.|Let me introduce you to|w||pro,small_talk|
+Are you here for the conference?|Vous êtes ici pour le congrès ?|B1|4|3|Are you here for the conference too?|Vous êtes ici pour le congrès, vous aussi ?|Are you here for the conference|w||pro,small_talk|
+What brought you into this field?|Qu'est-ce qui vous a amené à ce métier ?|B2|4|3|What brought you into this field?|Qu'est-ce qui vous a amené à ce métier ?|What brought you into this field?|w||pro,small_talk|
+Let's connect on LinkedIn.|Connectons-nous sur LinkedIn.|B1|4|3|Great talking to you. Let's connect on LinkedIn.|Ravi d'avoir discuté. Connectons-nous sur LinkedIn.|Let's connect on LinkedIn|w||pro,small_talk|
+Do you have a card?|Vous avez une carte ?|B1|4|2|Do you have a card I could take?|Vous avez une carte que je pourrais prendre ?|Do you have a card|w||pro,small_talk|
+It's been great talking to you.|C'était un plaisir de discuter avec toi.|B1|5|4|It's been great talking to you. See you around.|C'était un plaisir de discuter avec toi. À bientôt.|It's been great talking to you|c||fn_end|
+Sorry, I didn't get your name.|Désolé, je n'ai pas retenu votre nom.|A2|5|4|Sorry, I didn't get your name.|Désolé, je n'ai pas retenu votre nom.|I didn't get your name|c||small_talk|
+Call the fire brigade!|Appelez les pompiers !|A2|4|4|There's smoke everywhere. Call the fire brigade!|Il y a de la fumée partout. Appelez les pompiers !|Call the fire brigade!|c||safety|
+There's been an accident.|Il y a eu un accident.|A2|5|5|Help, there's been an accident.|Au secours, il y a eu un accident.|There's been an accident|c||safety|
+Is anyone hurt?|Y a-t-il des blessés ?|A2|5|4|Stop the car. Is anyone hurt?|Arrête la voiture. Y a-t-il des blessés ?|Is anyone hurt?|c||safety|
+Someone stole my wallet.|On m'a volé mon portefeuille.|A2|5|4|Excuse me, someone stole my wallet.|Excusez-moi, on m'a volé mon portefeuille.|Someone stole my wallet|c||safety|
+I'd like to report a theft.|Je voudrais signaler un vol.|B1|5|4|I'd like to report a theft, please.|Je voudrais signaler un vol, s'il vous plaît.|I'd like to report a theft|c||safety|
+I need a doctor.|J'ai besoin d'un médecin.|A1|5|4|Please help me, I need a doctor.|Aidez-moi, j'ai besoin d'un médecin.|I need a doctor|c||health|
+It's an emergency.|C'est une urgence.|A2|5|5|Please hurry, it's an emergency.|Dépêchez-vous, c'est une urgence.|it's an emergency|c||safety|
+Stay calm.|Reste calme.|A2|5|3|Stay calm, the ambulance is coming.|Reste calme, l'ambulance arrive.|Stay calm|c||safety|
+Are you OK? Can you stand up?|Ça va ? Tu peux te lever ?|A2|3|2|You fell! Are you OK? Can you stand up?|Tu es tombé ! Ça va ? Tu peux te lever ?|Are you OK? Can you stand up?|c||safety|
+I'm so sorry for what happened.|Je suis vraiment désolé de ce qui s'est passé.|B1|5|4|I'm so sorry for what happened yesterday.|Je suis vraiment désolé de ce qui s'est passé hier.|I'm so sorry for what happened|c||fn_react|
+I didn't mean to hurt you.|Je ne voulais pas te blesser.|B1|5|4|I didn't mean to hurt you, I promise.|Je ne voulais pas te blesser, c'est promis.|I didn't mean to hurt you|c||relationships|
+It won't happen again.|Ça n'arrivera plus.|B1|5|5|I'm sorry. It won't happen again.|Je suis désolé. Ça n'arrivera plus.|It won't happen again|c||fn_react|
+How can I make it up to you?|Comment puis-je me faire pardonner ?|B1|5|4|I was wrong. How can I make it up to you?|J'ai eu tort. Comment puis-je me faire pardonner ?|How can I make it up to you?|c||relationships|
+Please forgive me.|Pardonne-moi, s'il te plaît.|B1|5|3|I made a mistake. Please forgive me.|J'ai fait une erreur. Pardonne-moi, s'il te plaît.|Please forgive me|c||relationships|
+Everything will be fine.|Tout va bien se passer.|A2|5|4|Don't worry, everything will be fine.|Ne t'inquiète pas, tout va bien se passer.|everything will be fine|c||fn_react|
+It'll be OK.|Ça va aller.|A2|5|4|It'll be OK, I promise.|Ça va aller, je te le promets.|It'll be OK|c||fn_react|
+Things will get better.|Ça ira mieux.|A2|5|3|I know it's hard, but things will get better.|Je sais que c'est dur, mais ça ira mieux.|things will get better|c||fn_react|
+I know how you feel.|Je sais ce que tu ressens.|A2|5|4|I lost my job too. I know how you feel.|J'ai aussi perdu mon travail. Je sais ce que tu ressens.|I know how you feel|c||fn_react|
+Do you want to talk about it?|Tu veux en parler ?|A2|5|4|You look upset. Do you want to talk about it?|Tu as l'air contrarié. Tu veux en parler ?|Do you want to talk about it?|c||relationships|
+Take as long as you need.|Prends tout le temps qu'il te faut.|B1|4|3|There's no rush. Take as long as you need.|Rien ne presse. Prends tout le temps qu'il te faut.|Take as long as you need|c||fn_react|
+Look on the bright side.|Vois le bon côté des choses.|B1|5|4|Look on the bright side, you're healthy.|Vois le bon côté des choses, tu es en bonne santé.|Look on the bright side|c||fn_suggest|
+That looks great on you.|Ça te va très bien.|A2|5|5|That jacket looks great on you.|Cette veste te va très bien.|looks great on you|c||relationships|
+I love your hair.|J'adore tes cheveux.|A2|5|3|I love your hair. Have you changed it?|J'adore tes cheveux. Tu as changé ?|I love your hair|c||small_talk|
+You have a lovely home.|Tu as une très belle maison.|A2|5|4|Thanks for inviting us. You have a lovely home.|Merci de nous avoir invités. Tu as une très belle maison.|You have a lovely home|c||small_talk|
+You're so talented.|Tu es tellement doué.|A2|5|3|Did you paint this? You're so talented.|Tu as peint ça ? Tu es tellement doué.|You're so talented|c||fn_react|
+You speak very good French.|Tu parles très bien français.|A2|3|2|Wow, you speak very good French.|Waouh, tu parles très bien français.|You speak very good French|c||small_talk|
+Your English is really good.|Ton anglais est vraiment bon.|A2|5|3|Your English is really good. Where did you learn it?|Ton anglais est vraiment bon. Où l'as-tu appris ?|Your English is really good|c||learning|
+That's very kind of you to say.|C'est très gentil de dire ça.|B1|5|3|Thanks, that's very kind of you to say.|Merci, c'est très gentil de dire ça.|that's very kind of you to say|c||fn_react|
+Are you free for dinner?|Tu es libre pour dîner ?|A2|5|3|Are you free for dinner on Friday?|Tu es libre pour dîner vendredi ?|Are you free for dinner|c||leisure|
+Would you like to come over?|Tu veux passer à la maison ?|A2|5|3|We're cooking. Would you like to come over?|Nous cuisinons. Tu veux passer à la maison ?|Would you like to come over?|c||leisure|
+We'd love to have you over.|Nous aimerions beaucoup vous recevoir.|B1|5|4|We'd love to have you over for dinner.|Nous aimerions beaucoup vous recevoir à dîner.|We'd love to have you over|c||leisure|
+Let's get together sometime.|On devrait se voir un de ces jours.|B1|5|4|It's been ages. Let's get together sometime.|Ça fait longtemps. On devrait se voir un de ces jours.|Let's get together sometime|c||leisure|
+Let's do this again soon.|Il faut qu'on remette ça bientôt.|B1|5|4|That was fun. Let's do this again soon.|C'était sympa. Il faut qu'on remette ça bientôt.|Let's do this again soon|c||fn_end|
+Can I bring anything?|Je peux apporter quelque chose ?|A2|5|5|Thanks for inviting me. Can I bring anything?|Merci de m'avoir invité. Je peux apporter quelque chose ?|Can I bring anything?|c||small_talk|
+Just bring yourself.|Viens juste, c'est tout.|B1|4|3|Can I bring something? Just bring yourself!|Je peux apporter quelque chose ? Viens simplement !|Just bring yourself|c|i|small_talk|
+Thanks for having me.|Merci de m'avoir reçu.|B1|5|4|Thanks for having me, it was lovely.|Merci de m'avoir reçu, c'était très agréable.|Thanks for having me|c||small_talk|
+Thanks for inviting me.|Merci de m'avoir invité.|A2|5|4|Thanks for inviting me to your party.|Merci de m'avoir invité à ta fête.|Thanks for inviting me|c||small_talk|
+Maybe another time.|Une autre fois, peut-être.|A2|5|4|I can't tonight. Maybe another time.|Je ne peux pas ce soir. Une autre fois, peut-être.|Maybe another time|c||fn_disagree|
+I've got other plans.|J'ai déjà quelque chose de prévu.|A2|5|4|Sorry, I've got other plans on Friday.|Désolé, j'ai déjà quelque chose de prévu vendredi.|I've got other plans|c||fn_disagree|
+Count me in.|Je suis partant.|B1|5|5|A trip to Rome? Count me in.|Un voyage à Rome ? Je suis partant.|Count me in|c|i|fn_agree|
+Count me out.|Sans moi.|B1|5|4|A five-hour hike? Count me out.|Une randonnée de cinq heures ? Sans moi.|Count me out|c|i|fn_disagree|
+I'm up for it.|Je suis partant (variante).|B1|5|3|Karaoke tonight? I'm up for it.|Karaoké ce soir ? Je suis partant.|I'm up for it|c|i|fn_agree|
+Sounds like a plan.|Ça marche, c'est un bon plan.|B1|5|5|Pizza at eight? Sounds like a plan.|Pizza à vingt heures ? Ça marche.|Sounds like a plan|c|i|fn_agree|
+What do you feel like doing?|Tu as envie de faire quoi ?|B1|5|4|It's Saturday. What do you feel like doing?|C'est samedi. Tu as envie de faire quoi ?|What do you feel like doing?|c||leisure|
+I feel like going out.|J'ai envie de sortir.|B1|5|4|It's so nice, I feel like going out.|Il fait si beau, j'ai envie de sortir.|I feel like going out|c||leisure|
+I could do with a coffee.|Un café me ferait du bien.|B1|5|4|I'm so tired. I could do with a coffee.|Je suis si fatigué. Un café me ferait du bien.|I could do with a coffee|c|i|food|
+Let's call it a day.|Arrêtons-nous là pour aujourd'hui.|B1|4|2|We've done enough. Let's call it a day.|Nous en avons fait assez. Arrêtons-nous là pour aujourd'hui.|Let's call it a day|w||pro,fn_end|id=lets-call-it-a-day-chunk ;; sense=phrase complète
+@collocation
+give a talk|faire un exposé|B1|5|4|She gave a talk on climate change.|Elle a fait un exposé sur le changement climatique.|gave a talk|w||pro,presentations|
+give a demo|faire une démo|B1|5|4|Can you give us a demo?|Tu peux nous faire une démo ?|give us a demo|w||pro,business|
+give an update|faire un point|B1|5|5|I'll give you an update tomorrow.|Je te ferai un point demain.|give you an update|w||pro,project|
+give credit|reconnaître le mérite|B2|4|3|Give credit to the team.|Reconnais le mérite de l'équipe.|Give credit|w||pro,management|
+give a warning|donner un avertissement|B1|4|3|The police gave him a warning.|La police lui a donné un avertissement.|gave him a warning|d||rules|
+hold a conference|tenir une conférence|B1|4|3|We hold a conference every year.|Nous tenons une conférence chaque année.|hold a conference|w||pro,meetings|
+hold a press conference|tenir une conférence de presse|B2|4|3|The minister held a press conference.|Le ministre a tenu une conférence de presse.|held a press conference|n||media|
+attend a conference|assister à une conférence|B1|5|3|I'm attending a conference in Madrid.|J'assiste à une conférence à Madrid.|attending a conference|w||pro,meetings|
+attend a wedding|assister à un mariage|B1|4|2|We attended a wedding in Italy.|Nous avons assisté à un mariage en Italie.|attended a wedding|c||family|
+organise an event|organiser un événement|A2|5|4|We're organising an event in May.|Nous organisons un événement en mai.|organising an event|w||pro,meetings|
+organise a meeting|organiser une réunion|A2|5|3|I'll organise a meeting with the team.|J'organiserai une réunion avec l'équipe.|organise a meeting|w||pro,meetings|
+keep a record|garder une trace|B1|5|4|Keep a record of all your expenses.|Garde une trace de toutes tes dépenses.|Keep a record|w||pro,admin|
+keep a low profile|rester discret|B2|4|3|I'm keeping a low profile at work.|Je reste discret au travail.|keeping a low profile|c||relationships|
+keep a close eye on|surveiller de près|B2|5|4|We're keeping a close eye on costs.|Nous surveillons les coûts de près.|keeping a close eye on|w||pro,project|
+keep up the good work|continuer comme ça|B1|5|4|Keep up the good work!|Continue comme ça !|Keep up the good work|w||pro,management|
+keep to a schedule|respecter un planning|B1|4|3|We need to keep to the schedule.|Nous devons respecter le planning.|keep to the schedule|w||pro,project|
+come up with a solution|trouver une solution (idée)|B1|5|4|We came up with a solution.|Nous avons trouvé une solution.|came up with a solution|w||pro,work|
+come into force|entrer en vigueur|B2|4|4|The law comes into force in June.|La loi entre en vigueur en juin.|comes into force|n||rules|
+come to terms with|accepter, se faire à|B2|5|4|He hasn't come to terms with it yet.|Il ne l'a pas encore accepté.|come to terms with|c||feelings|
+come to mind|venir à l'esprit|B1|5|4|Nothing comes to mind.|Rien ne me vient à l'esprit.|comes to mind|c||fn_hesitate|
+come to an end|prendre fin|B1|5|4|All good things come to an end.|Toutes les bonnes choses ont une fin.|come to an end|c||time|
+come first|passer avant tout|B1|5|3|My family comes first.|Ma famille passe avant tout.|comes first|c||basics|
+@connector
+in the first instance|dans un premier temps|C1|4|4|In the first instance, contact your manager.|Dans un premier temps, contactez votre responsable.|In the first instance|w|f|pro,fn_start|
+as a first step|dans un premier temps (variante)|B2|4|3|As a first step, let's review the data.|Pour commencer, examinons les données.|As a first step|w||pro,project|
+as a last resort|en dernier recours|B2|5|4|As a last resort, we can cancel.|En dernier recours, nous pouvons annuler.|As a last resort|w||pro,decision|
+on the off chance|à tout hasard|B2+|4|3|I called on the off chance you were free.|J'ai appelé à tout hasard, au cas où tu serais libre.|on the off chance|c||fn_nuance|
+all things being equal|toutes choses égales par ailleurs|C1|3|3|All things being equal, we'll grow.|Toutes choses égales par ailleurs, nous allons croître.|All things being equal|w|f|pro,analysis|
+by extension|par extension|C1|3|2|It affects the staff and, by extension, the clients.|Cela touche le personnel et, par extension, les clients.|by extension|a|f|fn_explain|
+at the expense of|aux dépens de|B2+|5|4|They cut costs at the expense of quality.|Ils ont réduit les coûts aux dépens de la qualité.|at the expense of|w||pro,fn_nuance|
+for the sake of|pour le bien de, par souci de|B2|5|4|Let's agree, for the sake of simplicity.|Mettons-nous d'accord, par souci de simplicité.|for the sake of|c||fn_explain|
+in favour of|en faveur de|B1|5|4|Most people are in favour of the change.|La plupart des gens sont en faveur du changement.|in favour of|c||fn_opinion|
+in the interests of|dans l'intérêt de|B2+|4|3|In the interests of safety, please stay seated.|Dans l'intérêt de la sécurité, veuillez rester assis.|In the interests of|w|f|fn_explain|
+@idiom
+Play devil's advocate.|Se faire l'avocat du diable.|B2|4|3|I'm just playing devil's advocate.|Je me fais juste l'avocat du diable.|playing devil's advocate|c||argument|
+Play it safe.|Jouer la sécurité.|B1|5|4|Let's play it safe and leave early.|Jouons la sécurité et partons tôt.|play it safe|c||decision|
+Pull strings.|Faire jouer ses relations.|B2|3|3|He pulled strings to get the job.|Il a fait jouer ses relations pour obtenir le poste.|pulled strings|w|i|career|
+Pull yourself together.|Ressaisis-toi.|B2|4|3|Come on, pull yourself together.|Allez, ressaisis-toi.|pull yourself together|c|i|feelings|
+Put all your cards on the table.|Jouer cartes sur table.|B2|4|3|Let's put all our cards on the table.|Jouons cartes sur table.|put all our cards on the table|w||pro,communication|
+Rock the boat.|Faire des vagues.|B2|4|3|Don't rock the boat.|Ne fais pas de vagues.|rock the boat|w|i|relationships|
+Run out of steam.|S'essouffler.|B2|4|3|The project ran out of steam.|Le projet s'est essoufflé.|ran out of steam|w|i|project|
+Shoot yourself in the foot.|Se tirer une balle dans le pied.|B2|4|3|You're shooting yourself in the foot.|Tu te tires une balle dans le pied.|shooting yourself in the foot|c|i|decision|
+Sit tight.|Attendre sans bouger.|B2|4|3|Sit tight, I'll be right back.|Reste là, je reviens tout de suite.|Sit tight|c|i|fn_interrupt|
+Smell a rat.|Flairer quelque chose de louche.|B2|3|2|I smell a rat.|Je flaire quelque chose de louche.|smell a rat|c|i|fn_nuance|
+Stab someone in the back.|Poignarder quelqu'un dans le dos.|B2|3|3|He stabbed me in the back.|Il m'a poignardé dans le dos.|stabbed me in the back|c||relationships|
+Steal the show.|Voler la vedette.|B2|3|3|Her speech stole the show.|Son discours a volé la vedette.|stole the show|c||leisure|
+Stick to your guns.|Ne pas en démordre.|B2|4|3|She stuck to her guns.|Elle n'en a pas démordu.|stuck to her guns|c||decision|
+Take a rain check.|Remettre ça à une autre fois.|B2|4|3|Can I take a rain check on dinner?|On peut remettre le dîner à plus tard ?|take a rain check|c|i|fn_disagree|
+Take the bull by the horns.|Prendre le taureau par les cornes.|B2|4|3|It's time to take the bull by the horns.|Il est temps de prendre le taureau par les cornes.|take the bull by the horns|c||decision|
+The name of the game.|Ce qui compte vraiment.|B2|3|2|Speed is the name of the game.|La rapidité, c'est ce qui compte.|the name of the game|w|i|work|
+The real deal.|Du vrai de vrai.|B2|3|2|This restaurant is the real deal.|Ce restaurant, c'est du vrai de vrai.|the real deal|c|i|description|
+Throw someone under the bus.|Sacrifier quelqu'un.|B2|3|3|He threw his colleague under the bus.|Il a sacrifié son collègue.|threw his colleague under the bus|w|i|relationships|

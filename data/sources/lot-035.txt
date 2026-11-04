@@ -1,0 +1,184 @@
+# Lot 035 : C1 (verbes et adjectifs soutenus A-D)
+@word
+abide|respecter, se conformer|C1||3|You must abide by the rules.|Tu dois respecter les règles.|abide|w|f|pro,rules|pos=v
+abolish|abolir|B2+||3|They abolished the tax.|Ils ont aboli la taxe.|abolished|n|f|politics|pos=v
+abrupt|brusque|B2+||3|The meeting came to an abrupt end.|La réunion s'est terminée brusquement.|abrupt|c||description|pos=adj
+abstract|abstrait|B2||3|It's a very abstract idea.|C'est une idée très abstraite.|abstract|a||analysis|pos=adj
+abundant|abondant|B2+||2|Water is abundant here.|L'eau est abondante ici.|abundant|n|f|description|pos=adj
+accelerate|accélérer (processus)|B2+||4|We need to accelerate the rollout.|Nous devons accélérer le déploiement.|accelerate|w||pro,project|pos=v
+accumulate|s'accumuler, amasser|B2+||3|Dust accumulates quickly here.|La poussière s'accumule vite ici.|accumulates|d||basics|pos=v
+adamant|catégorique|C1||3|She was adamant that she was right.|Elle était catégorique : elle avait raison.|adamant|c||fn_opinion|pos=adj
+adept|habile|C1||3|He's adept at handling clients.|Il est habile avec les clients.|adept|w|f|pro,career|pos=adj
+adhere|adhérer, respecter|C1||3|All staff must adhere to the policy.|Tout le personnel doit respecter cette politique.|adhere|w|f|pro,rules|pos=v
+adjourn|ajourner, suspendre|C1||3|The meeting was adjourned until Monday.|La réunion a été ajournée à lundi.|adjourned|w|f|pro,meetings|pos=v
+adverse|défavorable, négatif|B2+||4|There were no adverse effects.|Il n'y a pas eu d'effets indésirables.|adverse|w|f|pro,risk|pos=adj
+advent|arrivée, avènement|C1||2|The advent of the internet changed everything.|L'arrivée d'internet a tout changé.|advent|a|f|technology|pos=n
+affluent|aisé, riche|C1||3|It's an affluent neighbourhood.|C'est un quartier aisé.|affluent|n|f|money|pos=adj
+aftermath|conséquences, lendemain|B2+||4|In the aftermath of the storm, many left.|Au lendemain de la tempête, beaucoup sont partis.|aftermath|n||analysis|pos=n
+aggravate|aggraver, agacer|B2+||3|This will only aggravate the problem.|Cela ne fera qu'aggraver le problème.|aggravate|w|f|analysis|pos=v
+agile|agile|B2+||4|We need to be more agile.|Nous devons être plus agiles.|agile|w||pro,management|pos=adj
+alienate|s'aliéner|C1||3|The new policy alienated many customers.|La nouvelle politique a éloigné de nombreux clients.|alienated|w|f|pro,business|pos=v
+allege|prétendre, alléguer|C1||3|They allege that he lied.|Ils prétendent qu'il a menti.|allege|n|f|rules|pos=v
+alleviate|soulager, atténuer|C1||4|The drug helps alleviate the pain.|Ce médicament aide à soulager la douleur.|alleviate|d|f|health|pos=v
+allocate|allouer, attribuer|B2+||5|We've allocated more time for testing.|Nous avons alloué plus de temps aux tests.|allocated|w||pro,project|pos=v
+allude|faire allusion|C1||3|She alluded to the problem.|Elle a fait allusion au problème.|alluded|c|f|communication|pos=v
+amend|modifier, amender|B2+||4|We've amended the contract.|Nous avons modifié le contrat.|amended|w|f|pro,rules|pos=v
+ample|ample, largement suffisant|C1||3|There's ample time to prepare.|Il y a largement le temps de se préparer.|ample|c|f|description|pos=adj
+amplify|amplifier|B2+||3|Social media amplifies the message.|Les réseaux sociaux amplifient le message.|amplifies|n||media|pos=v
+anomaly|anomalie|C1||3|We found an anomaly in the data.|Nous avons trouvé une anomalie dans les données.|anomaly|w||pro,analysis|pos=n
+apprehensive|inquiet, appréhensif|C1||3|I'm a bit apprehensive about the meeting.|J'appréhende un peu la réunion.|apprehensive|c|f|feelings|pos=adj
+arbitrary|arbitraire|B2+||3|It seems like an arbitrary decision.|Cela ressemble à une décision arbitraire.|arbitrary|w||analysis|pos=adj
+arduous|ardu, pénible|C1||2|It was an arduous journey.|Ce fut un voyage pénible.|arduous|c|f|description|pos=adj
+ascertain|établir, vérifier|C1||3|We need to ascertain the facts.|Nous devons établir les faits.|ascertain|w|f|pro,analysis|pos=v
+aspire|aspirer|B2+||3|She aspires to be a manager.|Elle aspire à devenir manager.|aspires|w|f|career|pos=v
+astute|perspicace, astucieux|C1||3|That's an astute observation.|C'est une observation perspicace.|astute|c|f|personality|pos=adj
+attain|atteindre|C1||3|We've attained our goal.|Nous avons atteint notre objectif.|attained|w|f|project|pos=v
+augment|augmenter (soutenu)|C1||2|She augments her income by teaching.|Elle complète ses revenus en enseignant.|augments|w|f|money|pos=v
+austerity|austérité|C1||3|The country faces years of austerity.|Le pays fait face à des années d'austérité.|austerity|n|f|money|pos=n
+authoritative|qui fait autorité|C1||3|It's an authoritative source.|C'est une source qui fait autorité.|authoritative|a|f|analysis|pos=adj
+avert|éviter, prévenir|C1||3|We narrowly averted a crisis.|Nous avons évité une crise de justesse.|averted|w|f|pro,risk|pos=v
+backlash|réaction hostile|B2+||4|The decision provoked a backlash.|La décision a provoqué une réaction hostile.|backlash|n||news|pos=n
+baseless|sans fondement|C1||3|These claims are baseless.|Ces affirmations sont sans fondement.|baseless|n|f|argument|pos=adj
+benign|bénin|C1||2|The tumour was benign.|La tumeur était bénigne.|benign|d|f|health|pos=adj
+bolster|renforcer, soutenir|C1||4|The results bolstered our confidence.|Les résultats ont renforcé notre confiance.|bolstered|w|f|pro,business|pos=v
+breach|violation, brèche|B2+||5|This is a breach of contract.|C'est une violation du contrat.|breach|w||pro,rules|pos=n
+brisk|vif, rapide|C1||2|We went for a brisk walk.|Nous avons fait une marche rapide.|brisk|c||description|pos=adj
+bypass|contourner|B2+||4|You can bypass the city on the ring road.|Tu peux contourner la ville par le périphérique.|bypass|t||transport|pos=v
+capitalize|tirer profit|B2+||4|We need to capitalize on this success.|Nous devons tirer profit de ce succès.|capitalize|w||pro,business|pos=v
+cautious|prudent, circonspect|B2||5|Investors remain cautious.|Les investisseurs restent prudents.|cautious|w||pro,risk|pos=adj
+cease|cesser|B2+||3|The company ceased trading in June.|L'entreprise a cessé son activité en juin.|ceased|w|f|business|pos=v
+circumvent|contourner (règle)|C1||3|They found a way to circumvent the rules.|Ils ont trouvé un moyen de contourner les règles.|circumvent|w|f|pro,rules|pos=v
+clarity|clarté|B2+||5|We need more clarity on the budget.|Il nous faut plus de clarté sur le budget.|clarity|w||pro,communication|pos=n
+coerce|contraindre|C1||2|He was coerced into signing.|Il a été contraint de signer.|coerced|n|f|rules|pos=v
+cohesive|soudé, cohérent|C1||3|We're a cohesive team.|Nous sommes une équipe soudée.|cohesive|w|f|pro,management|pos=adj
+commend|féliciter, recommander|C1||3|I commend you for your work.|Je vous félicite pour votre travail.|commend|w|f|pro,management|pos=v
+commensurate|proportionnel|C1||3|Pay is commensurate with experience.|Le salaire est proportionnel à l'expérience.|commensurate|w|f|pro,career|pos=adj
+compile|compiler, rassembler|B2+||4|I'm compiling a list of clients.|Je dresse une liste de clients.|compiling|w||pro,reporting|pos=v
+complement|compléter|B2+||4|Their skills complement each other.|Leurs compétences se complètent.|complement|w||pro,management|pos=v
+complementary|complémentaire|B2+||3|We have complementary skills.|Nous avons des compétences complémentaires.|complementary|w||pro,management|pos=adj
+compliance|conformité|B2+||5|She works in compliance.|Elle travaille dans la conformité.|compliance|w|f|pro,rules|pos=n
+comprise|comprendre, se composer de|B2+||4|The team comprises ten people.|L'équipe se compose de dix personnes.|comprises|w|f|pro,reporting|pos=v
+compulsory|obligatoire (scolaire)|B2||4|Attendance is compulsory.|La présence est obligatoire.|compulsory|d||rules|pos=adj
+conceal|cacher (soutenu)|B2+||3|He tried to conceal the truth.|Il a essayé de dissimuler la vérité.|conceal|n|f|communication|pos=v
+concurrent|simultané|C1||3|We run two concurrent projects.|Nous menons deux projets simultanés.|concurrent|w|f|pro,project|pos=adj
+condemn|condamner|B2||3|They condemned the attack.|Ils ont condamné l'attaque.|condemned|n||news|pos=v
+condone|tolérer, cautionner|C1||3|We don't condone this behaviour.|Nous ne cautionnons pas ce comportement.|condone|w|f|rules|pos=v
+confer|conférer, se concerter|C1||2|Let me confer with my colleagues.|Laissez-moi me concerter avec mes collègues.|confer|w|f|pro,decision|pos=v
+confine|limiter, confiner|B2+||3|Let's confine the debate to one topic.|Limitons le débat à un seul sujet.|confine|w|f|meetings|pos=v
+conform|se conformer|B2+||3|The product doesn't conform to the standard.|Le produit n'est pas conforme à la norme.|conform|w|f|rules|pos=v
+conscientious|consciencieux|B2+||4|She's a very conscientious worker.|C'est une employée très consciencieuse.|conscientious|w||pro,personality|pos=adj
+consolidate|consolider|B2+||4|We need to consolidate our position.|Nous devons consolider notre position.|consolidate|w||pro,business|pos=v
+conspicuous|voyant, remarquable|C1||2|He felt conspicuous in his suit.|Il se sentait voyant dans son costume.|conspicuous|c|f|description|pos=adj
+constitute|constituer|B2+||4|Women constitute half of the board.|Les femmes constituent la moitié du conseil.|constitute|w|f|pro,analysis|pos=v
+contemplate|envisager, contempler|B2+||4|We're contemplating a move.|Nous envisageons de déménager.|contemplating|c|f|decision|pos=v
+contentious|litigieux, sujet à débat|C1||3|It's a contentious issue.|C'est une question controversée.|contentious|n|f|argument|pos=adj
+contradict|contredire|B2||4|Don't contradict me.|Ne me contredis pas.|contradict|c||fn_disagree|pos=v
+contradiction|contradiction|B2||3|There's a contradiction in your argument.|Il y a une contradiction dans ton argument.|contradiction|c||argument|pos=n
+convene|convoquer, réunir|C1||3|The board will convene on Friday.|Le conseil se réunira vendredi.|convene|w|f|pro,meetings|pos=v
+converge|converger|C1||2|Our views are starting to converge.|Nos points de vue commencent à converger.|converge|c|f|fn_agree|pos=v
+convoluted|alambiqué|C1||3|It's a very convoluted process.|C'est un processus très alambiqué.|convoluted|w|f|description|pos=adj
+cordial|cordial|C1||3|We had a cordial meeting.|Nous avons eu une réunion cordiale.|cordial|w|f|pro,meetings|pos=adj
+corroborate|corroborer|C1||3|The data corroborates her story.|Les données corroborent son histoire.|corroborates|a|f|analysis|pos=v
+counterpart|homologue|B2+||5|I spoke to my German counterpart.|J'ai parlé à mon homologue allemand.|counterpart|w||pro,career|pos=n
+counterproductive|contre-productif|B2+||4|This approach is counterproductive.|Cette approche est contre-productive.|counterproductive|w||pro,analysis|pos=adj
+crave|avoir très envie de|B2+||3|I'm craving chocolate.|J'ai terriblement envie de chocolat.|craving|c|i|feelings|pos=v
+curtail|réduire, restreindre|C1||3|We had to curtail spending.|Nous avons dû restreindre les dépenses.|curtail|w|f|pro,money|pos=v
+dearth|manque, pénurie|C1||2|There's a dearth of good data.|Il y a un manque de données fiables.|dearth|a|f|analysis|pos=n
+debilitating|invalidant|C1||2|It's a debilitating illness.|C'est une maladie invalidante.|debilitating|d|f|health|pos=adj
+deduce|déduire|B2+||3|What can we deduce from this?|Que pouvons-nous en déduire ?|deduce|a||analysis|pos=v
+defer|reporter, différer|B2+||4|Can we defer the decision?|Pouvons-nous reporter la décision ?|defer|w|f|pro,decision|pos=v
+deficiency|carence|B2+||3|It's caused by a vitamin deficiency.|C'est dû à une carence en vitamines.|deficiency|d|f|health|pos=n
+defy|défier|B2||3|It defies all logic.|Cela défie toute logique.|defies|c||basics|pos=v
+deliberation|délibération|C1||2|After much deliberation, we said yes.|Après mûre réflexion, nous avons dit oui.|deliberation|w|f|decision|pos=n
+demise|disparition, fin|C1||2|This led to the company's demise.|Cela a conduit à la disparition de l'entreprise.|demise|n|f|business|pos=n
+denote|indiquer, dénoter|C1||2|The red colour denotes danger.|La couleur rouge indique le danger.|denotes|a|f|analysis|pos=v
+deplete|épuiser, réduire|C1||3|Our stocks are depleted.|Nos stocks sont épuisés.|depleted|w|f|business|pos=v
+depict|dépeindre|B2+||3|The film depicts life in the sixties.|Le film dépeint la vie dans les années soixante.|depicts|d||leisure|pos=v
+deprive|priver|B2+||3|They were deprived of sleep.|Ils ont été privés de sommeil.|deprived|n||basics|pos=v
+derive|tirer, provenir|B2+||4|The word derives from Latin.|Le mot provient du latin.|derives|a||learning|pos=v
+designate|désigner|B2+||3|She was designated team leader.|Elle a été désignée chef d'équipe.|designated|w|f|management|pos=v
+deteriorate|se détériorer|B2+||5|The situation has deteriorated.|La situation s'est détériorée.|deteriorated|n||analysis|pos=v
+devise|concevoir, élaborer|B2+||4|We devised a new plan.|Nous avons élaboré un nouveau plan.|devised|w||pro,project|pos=v
+devote|consacrer|B2||5|She devotes her time to charity.|Elle consacre son temps à des œuvres caritatives.|devotes|c||basics|pos=v
+dictate|dicter, imposer|B2+||3|The market dictates the price.|Le marché dicte le prix.|dictates|w||business|pos=v
+differentiate|différencier|B2+||4|We need to differentiate our product.|Nous devons différencier notre produit.|differentiate|w||pro,business|pos=v
+dire|terrible, désastreux|C1||3|The company is in dire need of cash.|L'entreprise a désespérément besoin de trésorerie.|dire|n|f|risk|pos=adj
+discern|discerner|C1||2|It's hard to discern a pattern.|Il est difficile de discerner une tendance.|discern|a|f|analysis|pos=v
+discontinue|arrêter, cesser (produit)|B2+||3|This model has been discontinued.|Ce modèle a été arrêté.|discontinued|w|f|business|pos=v
+discourage|décourager|B2||4|Don't let this discourage you.|Ne te laisse pas décourager par ça.|discourage|c||feelings|pos=v
+disparity|disparité|C1||3|There's a wide disparity in pay.|Il y a une grande disparité de salaires.|disparity|n|f|analysis|pos=n
+dispel|dissiper|C1||3|We need to dispel this myth.|Nous devons dissiper ce mythe.|dispel|w|f|communication|pos=v
+displace|déplacer, supplanter|B2+||3|Thousands were displaced by the war.|Des milliers de personnes ont été déplacées par la guerre.|displaced|n||news|pos=v
+dispute|litige, contester|B2||5|It's a dispute over pay.|C'est un litige sur les salaires.|dispute|w||pro,rules|pos=n
+disregard|ne pas tenir compte de|B2+||3|Please disregard my last email.|Merci de ne pas tenir compte de mon dernier e-mail.|disregard|w|f|pro,email|pos=v
+disrupt|perturber|B2+||5|The strike disrupted our plans.|La grève a perturbé nos plans.|disrupted|w||pro,project|pos=v
+dissent|désaccord, dissidence|C1||2|There was no dissent in the room.|Il n'y a eu aucun désaccord dans la salle.|dissent|w|f|fn_disagree|pos=n
+divert|détourner, dévier|B2+||3|Our flight was diverted to Lyon.|Notre vol a été dévié vers Lyon.|diverted|t||travel|pos=v
+domain|domaine, nom de domaine|B2||3|We bought a new domain name.|Nous avons acheté un nouveau nom de domaine.|domain|w||it|pos=n
+downplay|minimiser (variante)|B2+||3|He tends to downplay his success.|Il a tendance à minimiser son succès.|downplay|c||communication|pos=v
+downsize|réduire les effectifs|B2+||4|The company is downsizing.|L'entreprise réduit ses effectifs.|downsizing|w||pro,management|pos=v
+downturn|ralentissement, repli|B2+||4|There's been a downturn in sales.|Il y a eu un repli des ventes.|downturn|n||pro,analysis|pos=n
+drastic|radical, drastique|B2+||4|We need to take drastic measures.|Nous devons prendre des mesures drastiques.|drastic|w||pro,decision|pos=adj
+drastically|radicalement|B2+||3|Costs have fallen drastically.|Les coûts ont baissé radicalement.|drastically|n||analysis|pos=adv
+dwindle|diminuer peu à peu|C1||3|Our savings are dwindling.|Nos économies diminuent peu à peu.|dwindling|n||analysis|pos=v
+dynamic|dynamique|B2||4|It's a fast, dynamic team.|C'est une équipe rapide et dynamique.|dynamic|w||pro,description|pos=adj
+@chunk
+It's fair to assume that...|On peut raisonnablement supposer que...|B2+|5|4|It's fair to assume that prices will rise.|On peut raisonnablement supposer que les prix vont augmenter.|It's fair to assume that|w||pro,analysis|
+It would appear that...|Il semblerait que...|B2+|5|5|It would appear that the file is missing.|Il semblerait que le fichier soit manquant.|It would appear that|w|f|pro,fn_nuance|
+It's not entirely clear whether...|Il n'est pas tout à fait clair si...|B2+|5|4|It's not entirely clear whether the deal is on.|On ne sait pas très bien si l'accord tient toujours.|It's not entirely clear whether|w||pro,fn_nuance|
+It seems to me that...|Il me semble que...|B2|5|5|It seems to me that we're missing the point.|Il me semble que nous passons à côté de l'essentiel.|It seems to me that|c||fn_opinion|
+It strikes me that...|Il me semble, je remarque que...|B2+|4|3|It strikes me that nobody asked the users.|Je remarque que personne n'a demandé aux utilisateurs.|It strikes me that|c||fn_opinion|
+It's by no means certain that...|Il n'est absolument pas certain que...|C1|4|3|It's by no means certain that he'll agree.|Il n'est absolument pas certain qu'il soit d'accord.|It's by no means certain that|w|f|fn_nuance|
+It's debatable whether...|On peut se demander si...|B2+|4|3|It's debatable whether this will work.|On peut se demander si cela va marcher.|It's debatable whether|w||fn_nuance|
+I'm inclined to think that...|Je suis enclin à penser que...|B2+|5|4|I'm inclined to think that he's right.|Je suis enclin à penser qu'il a raison.|I'm inclined to think that|c||fn_opinion|
+I tend to agree.|J'aurais tendance à être d'accord.|B2|5|4|You think it's too risky? I tend to agree.|Tu trouves ça trop risqué ? J'aurais tendance à être d'accord.|I tend to agree|c||fn_agree|
+I'd take that with a grain of salt.|Je prendrais ça avec des pincettes.|B2|3|2|I'd take that with a grain of salt.|Je prendrais ça avec des pincettes.|take that with a grain of salt|c||fn_nuance|
+I have reservations about...|J'ai des réserves sur...|B2+|5|5|I have reservations about the timing.|J'ai des réserves sur le calendrier.|I have reservations about|w||pro,fn_disagree|
+I have my doubts.|J'ai des doutes.|B1|5|4|He says it's easy, but I have my doubts.|Il dit que c'est facile, mais j'ai des doutes.|I have my doubts|c||fn_disagree|
+I'm not sure that's the case.|Je ne suis pas sûr que ce soit le cas.|B2|5|4|Everyone agrees? I'm not sure that's the case.|Tout le monde est d'accord ? Je ne suis pas sûr que ce soit le cas.|I'm not sure that's the case|c||fn_disagree|
+I don't entirely agree.|Je ne suis pas entièrement d'accord.|B2|5|4|I don't entirely agree with you there.|Je ne suis pas entièrement d'accord avec toi là-dessus.|I don't entirely agree|c||fn_disagree|
+I can't go along with that.|Je ne peux pas accepter ça.|B2|4|3|I'm sorry, I can't go along with that.|Je suis désolé, je ne peux pas accepter ça.|I can't go along with that|w||fn_disagree|
+I see things differently.|Je vois les choses autrement.|B2|5|4|I'm afraid I see things differently.|J'ai bien peur de voir les choses autrement.|I see things differently|c||fn_disagree|
+That's not quite what I said.|Ce n'est pas tout à fait ce que j'ai dit.|B2|5|4|That's not quite what I said.|Ce n'est pas tout à fait ce que j'ai dit.|That's not quite what I said|c||fn_clarify|
+You're missing the point.|Tu passes à côté de l'essentiel.|B2|5|4|That's not it. You're missing the point.|Ce n'est pas ça. Tu passes à côté de l'essentiel.|You're missing the point|c||fn_disagree|
+That's precisely the point.|C'est précisément là le problème.|B2|4|3|That's precisely the point I'm making.|C'est précisément ce que je dis.|That's precisely the point|c||fn_agree|
+What I'm getting at is...|Ce que je veux dire, c'est...|B2|5|4|What I'm getting at is that it's too late.|Ce que je veux dire, c'est qu'il est trop tard.|What I'm getting at is|c||fn_rephrase|
+Let me put it this way.|Disons les choses comme ça.|B2|5|5|Let me put it this way: it's not ready.|Disons les choses comme ça : ce n'est pas prêt.|Let me put it this way|c||fn_rephrase|
+To put it another way...|Pour le dire autrement...|B2|5|4|To put it another way, we need more time.|Pour le dire autrement, il nous faut plus de temps.|To put it another way|c||fn_rephrase|
+In a word...|En un mot...|B2|4|3|In a word, it was a disaster.|En un mot, ce fut une catastrophe.|In a word|c||fn_end|
+If you see what I mean.|Si tu vois ce que je veux dire.|B1|5|3|It's a bit odd, if you see what I mean.|C'est un peu bizarre, si tu vois ce que je veux dire.|if you see what I mean|c||fn_clarify|
+Am I making sense?|Est-ce que je suis clair ?|B1|5|4|Am I making sense?|Est-ce que je suis clair ?|Am I making sense?|c||fn_clarify|
+Are you with me?|Tu me suis ?|B1|5|3|Are you with me so far?|Tu me suis jusque-là ?|Are you with me|c||fn_clarify|
+I lost my train of thought.|J'ai perdu le fil.|B2|5|4|Sorry, I lost my train of thought.|Pardon, j'ai perdu le fil.|I lost my train of thought|c||fn_hesitate|
+Where was I going with this?|Où voulais-je en venir ?|B2|3|2|Sorry, where was I going with this?|Pardon, où voulais-je en venir ?|where was I going with this?|c||fn_hesitate|
+@collocation
+pose a question|poser une question (soutenu)|B2|4|3|Let me pose a question.|Laissez-moi poser une question.|pose a question|w|f|meetings|
+voice concerns|faire entendre ses inquiétudes|B2+|5|4|Several staff voiced concerns.|Plusieurs employés ont exprimé des inquiétudes.|voiced concerns|w||pro,communication|
+express concern|faire part de son inquiétude|B2|5|3|She expressed concern about the cost.|Elle a fait part de son inquiétude quant au coût.|expressed concern|w||pro,communication|
+allay fears|apaiser les craintes|C1|4|3|The minister tried to allay fears.|Le ministre a essayé d'apaiser les craintes.|allay fears|n|f|communication|
+dispel a myth|dissiper un mythe|C1|3|2|Let's dispel a common myth.|Dissipons un mythe courant.|dispel a common myth|a|f|analysis|
+draw on experience|s'appuyer sur son expérience|B2+|4|3|She drew on years of experience.|Elle s'est appuyée sur des années d'expérience.|drew on years of experience|w||career|
+exceed a limit|dépasser une limite|B2|4|3|You've exceeded your limit.|Tu as dépassé ta limite.|exceeded your limit|w||rules|
+gain traction|gagner du terrain|B2+|5|4|The idea is gaining traction.|L'idée gagne du terrain.|gaining traction|w||pro,business|
+hold someone accountable|tenir quelqu'un pour responsable|B2+|5|4|We must hold them accountable.|Nous devons les tenir pour responsables.|hold them accountable|w||pro,management|
+incur a cost|encourir un coût|C1|4|3|You will incur a late fee.|Vous encourrez des frais de retard.|incur a late fee|w|f|pro,money|
+lay the groundwork|poser les jalons|B2+|5|4|This meeting lays the groundwork for the deal.|Cette réunion pose les jalons de l'accord.|lays the groundwork|w||pro,project|
+lodge a complaint|déposer une plainte|B2+|4|3|She lodged a complaint with the bank.|Elle a déposé une plainte auprès de la banque.|lodged a complaint|w|f|pro,rules|
+offer an apology|présenter des excuses|B2|4|3|They offered a full apology.|Ils ont présenté des excuses complètes.|offered a full apology|w|f|communication|
+pave the way|ouvrir la voie|B2+|5|4|This deal paves the way for growth.|Cet accord ouvre la voie à la croissance.|paves the way|w||pro,business|
+play down the risks|minimiser les risques|B2|3|2|Don't play down the risks.|Ne minimise pas les risques.|play down the risks|w||risk|
+pose a problem|poser problème|B2|5|3|This could pose a problem.|Cela pourrait poser problème.|pose a problem|w||pro,work|
+reach a verdict|rendre un verdict|B2+|3|2|The jury reached a verdict.|Le jury a rendu son verdict.|reached a verdict|n|f|rules|
+reap the benefits|récolter les fruits|B2+|5|4|We're reaping the benefits of the change.|Nous récoltons les fruits du changement.|reaping the benefits|w||pro,analysis|
+serve a purpose|servir à quelque chose|B2|4|3|This meeting serves no purpose.|Cette réunion ne sert à rien.|serves no purpose|w||basics|
+shed jobs|supprimer des emplois|B2+|4|3|The firm plans to shed a hundred jobs.|L'entreprise prévoit de supprimer cent emplois.|shed a hundred jobs|n||work|
+take stock|faire le point|B2+|5|5|Let's take stock of where we are.|Faisons le point sur la situation.|take stock|w||pro,project|
+take its toll|avoir de lourdes conséquences|B2+|5|4|The stress took its toll on him.|Le stress a eu de lourdes conséquences sur lui.|took its toll|c||health|
+yield results|donner des résultats|C1|4|3|The new method is yielding results.|La nouvelle méthode donne des résultats.|yielding results|w|f|pro,analysis|
+@connector
+hitherto|jusqu'ici (très soutenu)|C1|2|2|It's a hitherto unknown problem.|C'est un problème jusqu'ici inconnu.|hitherto|a|f|time|
+in so doing|ce faisant|C1|3|2|He sold the firm and, in so doing, lost control.|Il a vendu l'entreprise et, ce faisant, en a perdu le contrôle.|in so doing|a|f|fn_explain|
+not least|notamment, surtout|C1|4|3|It failed, not least because of the cost.|Cela a échoué, notamment à cause du coût.|not least|w|f|fn_explain|
+even more so|encore plus|B2|5|3|It's hard, and even more so at night.|C'est dur, et encore plus la nuit.|even more so|c||fn_compare|
+more often than not|le plus souvent|B2|5|4|More often than not, it works.|Le plus souvent, ça marche.|More often than not|c||fn_nuance|
+sooner rather than later|plus tôt que tard|B2|5|4|Let's fix it sooner rather than later.|Réglons ça plus tôt que tard.|sooner rather than later|c||time|
