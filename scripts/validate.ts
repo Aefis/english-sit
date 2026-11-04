@@ -18,7 +18,7 @@ for (const item of items) {
     issues.push({ severity: 'warning', rule: 'zipf_missing', ids: [item.id], message: 'pas de fréquence corpus' });
     continue;
   }
-  if (LEVELS.indexOf(item.level) <= 1 && z < 4.0) {
+  if (LEVELS.indexOf(item.level) <= 1 && z < 3.4) {
     issues.push({ severity: 'warning', rule: 'level_vs_corpus', ids: [item.id], message: `niveau ${item.level} mais Zipf ${z}` });
   }
   if (Math.abs(zipfToFrequency(z) - item.frequency) >= 2) {

@@ -29,7 +29,7 @@ contemporary|contemporain|B2||3|I love contemporary art.|J'adore l'art contempor
 criticism|critique (reproche)|B2||4|She doesn't take criticism well.|Elle prend mal la critique.|criticism|c||communication|pos=n
 extensive|étendu, approfondi|B2||4|We've done extensive research.|Nous avons fait des recherches approfondies.|extensive|w||pro,analysis|pos=adj
 gallery|galerie|A2||3|We visited an art gallery.|Nous avons visité une galerie d'art.|gallery|t||leisure|pos=n
-highway|autoroute (US)|A2||4|Take the highway north.|Prends l'autoroute vers le nord.|highway|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=motorway
+highway|autoroute (US)|A2||4|Take the highway north.|Prends l'autoroute vers le nord.|highway|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=motorway ;; sense=route US
 historic|historique (marquant)|B1||3|It was a historic moment.|Ce fut un moment historique.|historic|n||news|pos=adj
 hunt|chasser|B1||2|They hunt deer in autumn.|Ils chassent le cerf en automne.|hunt|d||nature|pos=v
 improvement|amélioration|B1||5|There's been a clear improvement.|Il y a eu une nette amélioration.|improvement|w||pro,analysis|pos=n
@@ -49,7 +49,7 @@ vast|vaste|B1||4|The vast majority of people agree.|La grande majorité des gens
 visitor|visiteur|A2||3|The city gets millions of visitors.|La ville accueille des millions de visiteurs.|visitors|t||people|pos=n
 guitar|guitare|A1||3|I'm learning to play guitar.|J'apprends la guitare.|guitar|d||leisure|pos=n
 necessarily|forcément|B1||5|That's not necessarily true.|Ce n'est pas forcément vrai.|necessarily|c||fn_nuance|pos=adv
-pants|pantalon (US)|A2||4|These pants are too long.|Ce pantalon est trop long.|pants|d||clothes,uk_us|pos=n ;; variant=US ;; counterpart=trousers
+pants|pantalon (US)|A2||4|These pants are too long.|Ce pantalon est trop long.|pants|d||clothes,uk_us|pos=n ;; variant=US ;; counterpart=trousers ;; sense=vêtement US
 partnership|partenariat|B1||5|We've formed a partnership with a German firm.|Nous avons noué un partenariat avec une société allemande.|partnership|w||pro,business|pos=n
 percentage|pourcentage|A2||4|What percentage of users are active?|Quel pourcentage d'utilisateurs sont actifs ?|percentage|w||pro,analysis|pos=n
 pocket|poche|A2||4|The keys are in my pocket.|Les clés sont dans ma poche.|pocket|d||clothes|pos=n

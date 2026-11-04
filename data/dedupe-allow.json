@@ -670,5 +670,54 @@
       "abandon"
     ],
     "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "clean-up",
+      "clear-up"
+    ],
+    "reason": "Ranger, et s'éclaircir."
+  },
+  {
+    "ids": [
+      "break-your-leg",
+      "break-a-leg"
+    ],
+    "reason": "Sens propre, et idiome."
+  },
+  {
+    "ids": [
+      "car-park",
+      "park-the-car"
+    ],
+    "reason": "Nom, et action."
+  },
+  {
+    "ids": [
+      "located",
+      "locate"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "engineering",
+      "engineer"
+    ],
+    "reason": "Domaine, et métier."
+  },
+  {
+    "ids": [
+      "threatened",
+      "threaten"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "shorts",
+      "short"
+    ],
+    "reason": "Vêtement."
   }
 ]

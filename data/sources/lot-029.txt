@@ -1,0 +1,254 @@
+# Lot 029 : A1-B1 (vocabulaire concret : maison, cuisine, métiers, vêtements, ville, météo, animaux)
+@word
+spoon|cuillère|A1||3|Can I have a spoon?|Je peux avoir une cuillère ?|spoon|d||food|pos=n
+fork|fourchette|A1||3|I dropped my fork.|J'ai fait tomber ma fourchette.|fork|d||food|pos=n
+tomato|tomate|A1||3|Add two tomatoes.|Ajoute deux tomates.|tomatoes|d||food|pos=n ;; forms=tomatoes
+carrot|carotte|A1||3|Peel the carrots.|Épluche les carottes.|carrots|d||food|pos=n
+onion|oignon|A1||3|Chop an onion.|Émince un oignon.|onion|d||food|pos=n
+potato|pomme de terre|A1||4|We had potatoes with the fish.|Nous avons mangé des pommes de terre avec le poisson.|potatoes|d||food|pos=n ;; forms=potatoes
+mushroom|champignon|A2||3|I don't like mushrooms on pizza.|Je n'aime pas les champignons sur les pizzas.|mushrooms|d||food|pos=n
+strawberry|fraise|A1||3|These strawberries are very sweet.|Ces fraises sont très sucrées.|strawberries|d||food|pos=n
+pepper|poivre, poivron|A2||3|Add salt and pepper.|Ajoute du sel et du poivre.|pepper|d||food|pos=n
+garlic|ail|A2||3|This sauce has a lot of garlic.|Cette sauce contient beaucoup d'ail.|garlic|d||food|pos=n
+soup|soupe|A1||3|The soup of the day is tomato.|La soupe du jour est à la tomate.|soup|d||food|pos=n
+salad|salade|A1||3|I'll just have a salad.|Je vais juste prendre une salade.|salad|d||food|pos=n
+pasta|pâtes|A1||3|We're having pasta tonight.|Nous mangeons des pâtes ce soir.|pasta|d||food|pos=n
+steak|steak|A2||3|How would you like your steak?|Comment voulez-vous votre steak ?|steak|d||food|pos=n
+breakfast|petit déjeuner|A1||5|Breakfast is at eight.|Le petit déjeuner est à huit heures.|Breakfast|d||food|pos=n
+lunch|repas de midi|A1||5|What's for lunch?|Qu'est-ce qu'on mange à midi ?|lunch|d||food|pos=n
+snack|en-cas|A2||4|Would you like a snack?|Tu veux un en-cas ?|snack|d||food|pos=n
+dessert|dessert|A1||4|Do you want dessert?|Tu veux un dessert ?|dessert|d||food|pos=n
+waiter|serveur|A1||4|Ask the waiter for the bill.|Demande l'addition au serveur.|waiter|d||food|pos=n
+umbrella|parapluie|A1||3|Take an umbrella.|Prends un parapluie.|umbrella|d||weather|pos=n
+suitcase|valise|A2||4|My suitcase is too heavy.|Ma valise est trop lourde.|suitcase|t||travel|pos=n
+luggage|bagages|A2||5|How much luggage do you have?|Combien de bagages as-tu ?|luggage|t||travel|pos=n ;; notes=Indénombrable : pas de « luggages ».
+sock|chaussette|A1||3|I've lost a sock.|J'ai perdu une chaussette.|sock|d||clothes|pos=n
+trousers|pantalon (UK)|A1||4|These trousers are too long.|Ce pantalon est trop long.|trousers|d||clothes,uk_us|pos=n ;; variant=UK ;; counterpart=pants ;; sense=vêtement
+sweater|pull|A1||3|Take a sweater, it's cold.|Prends un pull, il fait froid.|sweater|d||clothes|pos=n
+jeans|jean|A1||3|I wear jeans to work.|Je porte un jean pour aller au travail.|jeans|d||clothes|pos=n
+shorts|short|A1||2|It's hot, wear shorts.|Il fait chaud, mets un short.|shorts|d||clothes|pos=n
+skirt|jupe|A1||3|She bought a black skirt.|Elle a acheté une jupe noire.|skirt|d||clothes|pos=n
+scarf|écharpe|A2||2|Don't forget your scarf.|N'oublie pas ton écharpe.|scarf|d||clothes|pos=n
+stairs|escalier|A1||4|Take the stairs.|Prends l'escalier.|stairs|d||housing|pos=n
+ceiling|plafond|A2||3|The ceiling is very high.|Le plafond est très haut.|ceiling|d||housing|pos=n
+curtain|rideau|A2||3|Can you close the curtains?|Tu peux fermer les rideaux ?|curtains|d||housing|pos=n
+sofa|canapé|A1||3|He's asleep on the sofa.|Il dort sur le canapé.|sofa|d||housing|pos=n
+drawer|tiroir|A2||3|The scissors are in the top drawer.|Les ciseaux sont dans le tiroir du haut.|drawer|d||housing|pos=n
+wardrobe|armoire|A2||3|Hang it in the wardrobe.|Accroche-le dans l'armoire.|wardrobe|d||housing|pos=n
+scissors|ciseaux|A2||3|Do you have any scissors?|Tu as des ciseaux ?|scissors|d||housing|pos=n
+kettle|bouilloire|A2||2|Put the kettle on.|Mets la bouilloire en route.|kettle|d||housing|pos=n
+microwave|four à micro-ondes|A2||3|Heat it in the microwave.|Fais-le chauffer au micro-ondes.|microwave|d||housing|pos=n
+dishwasher|lave-vaisselle|A2||3|Put the plates in the dishwasher.|Mets les assiettes dans le lave-vaisselle.|dishwasher|d||housing|pos=n
+furniture|meubles|A2||4|We bought some new furniture.|Nous avons acheté de nouveaux meubles.|furniture|d||housing|pos=n ;; notes=Indénombrable : pas de « furnitures ».
+toilet|toilettes|A1||4|Where's the toilet?|Où sont les toilettes ?|toilet|d||housing|pos=n
+shower|douche|A1||4|There's no shower in the room.|Il n'y a pas de douche dans la chambre.|shower|d||housing|pos=n
+dentist|dentiste|A1||4|I have to go to the dentist.|Je dois aller chez le dentiste.|dentist|d||health,career|pos=n
+pharmacy|pharmacie|A1||4|Is there a pharmacy open today?|Il y a une pharmacie ouverte aujourd'hui ?|pharmacy|d||health|pos=n
+plumber|plombier|A2||3|We need to call a plumber.|Nous devons appeler un plombier.|plumber|d||career|pos=n
+electrician|électricien|A2||2|He's a qualified electrician.|C'est un électricien qualifié.|electrician|d||career|pos=n
+mechanic|mécanicien|A2||2|My car's at the mechanic's.|Ma voiture est chez le mécanicien.|mechanic|d||career|pos=n
+hairdresser|coiffeur|A2||3|I'm going to the hairdresser.|Je vais chez le coiffeur.|hairdresser|d||career|pos=n
+cashier|caissier|A2||2|Pay the cashier, please.|Payez à la caisse, s'il vous plaît.|cashier|d||shopping|pos=n
+engineer|ingénieur|A2||4|She's a civil engineer.|Elle est ingénieure civile.|engineer|w||career|pos=n
+accountant|comptable|B1||4|I'm an accountant.|Je suis comptable.|accountant|w||pro,career|pos=n
+receptionist|réceptionniste|A2||3|Ask the receptionist.|Demande au réceptionniste.|receptionist|w||career|pos=n
+firefighter|pompier|A2||2|He's a firefighter.|Il est pompier.|firefighter|c||career|pos=n
+bakery|boulangerie|A1||3|There's a bakery on the corner.|Il y a une boulangerie au coin de la rue.|bakery|d||shopping|pos=n
+supermarket|supermarché|A1||4|I'm going to the supermarket.|Je vais au supermarché.|supermarket|d||shopping|pos=n
+cinema|cinéma|A1||4|Let's go to the cinema.|Allons au cinéma.|cinema|d||leisure|pos=n
+playground|aire de jeux|A2||2|The kids are at the playground.|Les enfants sont à l'aire de jeux.|playground|d||family|pos=n
+zoo|zoo|A1||2|We took the kids to the zoo.|Nous avons emmené les enfants au zoo.|zoo|d||leisure|pos=n
+stadium|stade|A2||3|The stadium was full.|Le stade était plein.|stadium|d||leisure|pos=n
+pool|piscine|A1||4|Is there a pool at the hotel?|Il y a une piscine à l'hôtel ?|pool|t||leisure|pos=n
+bus|bus|A1||5|The bus is late.|Le bus est en retard.|bus|t||transport|pos=n
+truck|camion|A2||3|A truck blocked the road.|Un camion a bloqué la route.|truck|t||transport|pos=n
+van|camionnette|A2||2|We hired a van for the move.|Nous avons loué une camionnette pour le déménagement.|van|t||transport|pos=n
+motorway|autoroute (UK)|A2||4|Take the motorway to Leeds.|Prends l'autoroute pour Leeds.|motorway|t||transport,uk_us|pos=n ;; variant=UK ;; counterpart=highway ;; sense=route
+roundabout|rond-point|A2||3|Turn right at the roundabout.|Tourne à droite au rond-point.|roundabout|t||transport|pos=n
+platform|quai|A2||4|The train leaves from platform two.|Le train part du quai deux.|platform|t||transport|pos=n
+petrol|essence (UK)|A2||3|We need petrol.|Il nous faut de l'essence.|petrol|t||transport,uk_us|pos=n ;; variant=UK ;; counterpart=gasoline
+storm|tempête, orage|A2||3|There was a big storm last night.|Il y a eu un gros orage hier soir.|storm|d||weather|pos=n
+thunder|tonnerre|A2||2|Did you hear the thunder?|Tu as entendu le tonnerre ?|thunder|d||weather|pos=n
+lightning|éclairs, foudre|B1||2|Lightning struck the tree.|La foudre a frappé l'arbre.|Lightning|d||weather|pos=n
+fog|brouillard|A2||3|There's thick fog this morning.|Il y a un épais brouillard ce matin.|fog|d||weather|pos=n
+cow|vache|A1||2|There are cows in the field.|Il y a des vaches dans le champ.|cows|d||animals|pos=n
+pig|cochon|A1||2|They keep pigs on the farm.|Ils élèvent des cochons à la ferme.|pigs|d||animals|pos=n
+duck|canard|A1||2|We fed the ducks.|Nous avons nourri les canards.|ducks|d||animals|pos=n
+mouse|souris|A1||3|My mouse has stopped working.|Ma souris ne fonctionne plus.|mouse|w||technology|pos=n ;; forms=mice
+bear|ours|A1||2|There are bears in these mountains.|Il y a des ours dans ces montagnes.|bears|t||animals|pos=n
+wolf|loup|A2||2|Wolves are coming back to the Alps.|Les loups reviennent dans les Alpes.|Wolves|t||animals|pos=n ;; forms=wolves
+butterfly|papillon|A2||2|There's a butterfly on your shoulder.|Il y a un papillon sur ton épaule.|butterfly|d||animals|pos=n
+mosquito|moustique|A2||2|I was bitten by mosquitoes.|Je me suis fait piquer par des moustiques.|mosquitoes|t||animals|pos=n
+compatible|compatible|B2||4|Is it compatible with my phone?|C'est compatible avec mon téléphone ?|compatible|d||technology|pos=adj
+curiosity|curiosité|B1||3|I asked out of curiosity.|J'ai demandé par curiosité.|curiosity|c||personality|pos=n
+delight|joie, ravir|B2||3|To my delight, she said yes.|À ma grande joie, elle a dit oui.|delight|c||feelings|pos=n
+fortunately|heureusement|A2||5|Fortunately, nobody was hurt.|Heureusement, personne n'a été blessé.|Fortunately|c||fn_narrate|pos=adv
+frustration|frustration|B2||3|I understand your frustration.|Je comprends ta frustration.|frustration|c||feelings|pos=n
+handy|pratique, utile|B1||5|This app is really handy.|Cette appli est vraiment pratique.|handy|c|i|description|pos=adj
+harmful|nocif|B1||4|It's harmful to the environment.|C'est nocif pour l'environnement.|harmful|n||nature|pos=adj
+memorable|mémorable|B1||3|It was a memorable trip.|Ce fut un voyage mémorable.|memorable|c||description|pos=adj
+merger|fusion (entreprises)|B2||4|The merger was announced today.|La fusion a été annoncée aujourd'hui.|merger|w||pro,business|pos=n
+portable|portable, transportable|B1||3|It's a portable speaker.|C'est une enceinte portable.|portable|d||technology|pos=adj
+randomly|au hasard|B1||3|We chose the names randomly.|Nous avons choisi les noms au hasard.|randomly|c||basics|pos=adv
+random|aléatoire, au hasard|B1||4|It was a totally random choice.|C'était un choix totalement aléatoire.|random|c||basics|pos=adj
+resign|démissionner|B1||5|She resigned yesterday.|Elle a démissionné hier.|resigned|w||career|pos=v
+robbery|cambriolage, braquage|B1||3|There was a bank robbery in town.|Il y a eu un braquage de banque en ville.|robbery|n||rules|pos=n
+suspicion|soupçon|B2||3|I have a suspicion he knows.|Je soupçonne qu'il sait.|suspicion|c||fn_nuance|pos=n
+suspicious|méfiant, suspect|B1||4|That's very suspicious.|C'est très suspect.|suspicious|c||feelings|pos=adj
+therapist|thérapeute|B1||3|She sees a therapist every week.|Elle voit un thérapeute chaque semaine.|therapist|d||health|pos=n
+tuition|frais de scolarité|B1||3|Tuition is very expensive here.|Les frais de scolarité sont très élevés ici.|Tuition|d||learning,money|pos=n
+coincidence|coïncidence|B1||4|What a coincidence!|Quelle coïncidence !|coincidence|c||fn_react|pos=n
+comedian|humoriste|B1||2|He's a stand-up comedian.|C'est un humoriste de stand-up.|comedian|d||leisure|pos=n
+conscience|conscience (morale)|B2||3|I have a clear conscience.|J'ai la conscience tranquille.|conscience|c||feelings|pos=n
+employ|employer|B1||4|The firm employs fifty people.|L'entreprise emploie cinquante personnes.|employs|w||work|pos=v
+enforce|faire respecter|B2||4|They need to enforce the rules.|Ils doivent faire respecter les règles.|enforce|n||rules|pos=v
+forbidden|défendu|B1||4|Smoking is strictly forbidden.|Il est strictement interdit de fumer.|forbidden|d||rules|pos=adj
+fraction|fraction, petite partie|B2||3|It costs a fraction of the price.|Ça coûte une fraction du prix.|fraction|c||numbers|pos=n
+melt|fondre|A2||3|The ice is melting.|La glace fond.|melting|d||nature|pos=v
+prediction|prédiction, prévision|B1||3|My prediction is that they'll win.|Je prédis qu'ils vont gagner.|prediction|c||analysis|pos=n
+preview|aperçu|B2||3|Here's a preview of the new site.|Voici un aperçu du nouveau site.|preview|w||technology|pos=n
+puzzle|casse-tête, puzzle|A2||3|We did a puzzle together.|Nous avons fait un puzzle ensemble.|puzzle|d||leisure|pos=n
+stir|remuer|A2||3|Stir the sauce slowly.|Remue la sauce doucement.|Stir|d||food|pos=v
+superb|superbe|B2||3|The food was superb.|La cuisine était superbe.|superb|c||description|pos=adj
+tendency|tendance (personne)|B2||4|He has a tendency to exaggerate.|Il a tendance à exagérer.|tendency|c||personality|pos=n
+toast|toast, pain grillé|A2||3|I had toast for breakfast.|J'ai mangé du pain grillé au petit déjeuner.|toast|d||food|pos=n
+underwear|sous-vêtements|A2||3|Pack enough underwear.|Prends assez de sous-vêtements.|underwear|d||clothes|pos=n
+waist|taille (corps)|B1||2|It's too tight at the waist.|C'est trop serré à la taille.|waist|d||body|pos=n
+wit|esprit, humour|B2||2|She's known for her wit.|Elle est connue pour son esprit.|wit|c||personality|pos=n
+wreck|épave, détruire|B2||3|The storm wrecked the boat.|La tempête a détruit le bateau.|wrecked|n||basics|pos=v
+absurd|absurde|B1||4|That's absurd.|C'est absurde.|absurd|c||fn_disagree|pos=adj
+ballet|ballet|A2||2|She goes to ballet classes.|Elle prend des cours de danse classique.|ballet|d||leisure|pos=n
+bargain|bonne affaire|B1||5|It was a real bargain.|C'était une vraie bonne affaire.|bargain|d||shopping|pos=n
+blend|mélanger|B1||3|Blend the fruit with some milk.|Mixe les fruits avec un peu de lait.|Blend|d||food|pos=v
+brake|frein, freiner|A2||3|The brakes aren't working.|Les freins ne marchent pas.|brakes|t||transport|pos=n
+businessman|homme d'affaires|A2||3|He's a successful businessman.|C'est un homme d'affaires qui réussit.|businessman|w||career|pos=n
+cab|taxi (familier)|A2||3|Let's take a cab.|Prenons un taxi.|cab|t|i|transport|pos=n
+compassion|empathie, compassion|B2||3|She showed real compassion.|Elle a fait preuve de vraie compassion.|compassion|c||feelings|pos=n
+correction|correction|B1||3|I've made a few corrections.|J'ai fait quelques corrections.|corrections|w||writing|pos=n
+documentation|documentation|B2||4|Read the documentation first.|Lis d'abord la documentation.|documentation|w||pro,it|pos=n
+dramatically|de façon spectaculaire|B2||4|Prices have fallen dramatically.|Les prix ont chuté de façon spectaculaire.|dramatically|n||fn_nuance|pos=adv
+elegant|élégant|B1||3|It's an elegant solution.|C'est une solution élégante.|elegant|c||description|pos=adj
+execute|exécuter, réaliser|B2||4|We need to execute the plan.|Nous devons exécuter le plan.|execute|w||pro,project|pos=v
+hike|randonnée, randonner|A2||4|We went for a hike in the hills.|Nous sommes partis en randonnée dans les collines.|hike|t||leisure|pos=n
+meditation|méditation|B1||2|Meditation helps me relax.|La méditation m'aide à me détendre.|Meditation|d||health|pos=n
+punish|punir|B1||3|He was punished for lying.|Il a été puni pour avoir menti.|punished|c||rules|pos=v
+purse|porte-monnaie, sac à main|A2||3|I've lost my purse.|J'ai perdu mon porte-monnaie.|purse|d||money|pos=n
+reservation|réservation|A2||5|Do you have a reservation?|Avez-vous une réservation ?|reservation|t||travel|pos=n
+sigh|soupirer|B1||2|She sighed and closed the book.|Elle a soupiré et fermé le livre.|sighed|c||feelings|pos=v
+spouse|conjoint (soutenu)|B2||3|Your spouse is welcome too.|Votre conjoint est le bienvenu aussi.|spouse|c|f|family|pos=n
+supervisor|superviseur, responsable|B1||4|Ask your supervisor.|Demande à ton responsable.|supervisor|w||pro,work|pos=n
+tense|tendu|B1||4|The atmosphere was very tense.|L'ambiance était très tendue.|tense|c||feelings|pos=adj
+vegan|végan|A2||3|I've been vegan for two years.|Je suis végan depuis deux ans.|vegan|d||food|pos=adj
+consist|consister|B1||4|The team consists of six people.|L'équipe est composée de six personnes.|consists|w||basics|pos=v
+dull|ennuyeux, terne|B1||3|It was a dull meeting.|Ce fut une réunion ennuyeuse.|dull|c||description|pos=adj
+fare|prix du billet|A2||4|How much is the bus fare?|Combien coûte le ticket de bus ?|fare|t||transport|pos=n
+float|flotter|A2||2|Wood floats on water.|Le bois flotte sur l'eau.|floats|d||basics|pos=v
+hobby|passe-temps|A1||4|What are your hobbies?|Quels sont tes passe-temps ?|hobbies|c||leisure|pos=n
+incorrect|incorrect|A2||3|This information is incorrect.|Cette information est incorrecte.|incorrect|w||basics|pos=adj
+locate|localiser, trouver|B1||3|We couldn't locate the file.|Nous n'avons pas pu retrouver le fichier.|locate|w||basics|pos=v
+oppose|s'opposer à|B1||4|Most people oppose the plan.|La plupart des gens s'opposent au projet.|oppose|n||fn_disagree|pos=v
+risky|hasardeux, risqué|B1||5|It's too risky.|C'est trop risqué.|risky|c||risk|pos=adj
+scam|arnaque|B1||4|It's a phone scam.|C'est une arnaque téléphonique.|scam|n|i|money|pos=n
+spice|épice|A2||2|This dish needs more spice.|Ce plat a besoin de plus d'épices.|spice|d||food|pos=n
+squeeze|presser, serrer|B1||3|Squeeze half a lemon over the fish.|Presse un demi-citron sur le poisson.|Squeeze|d||food|pos=v
+swap|échanger (familier)|B1||4|Can we swap seats?|On peut échanger nos places ?|swap|c|i|basics|pos=v
+threaten|menacer|B1||4|He threatened to leave.|Il a menacé de partir.|threatened|c||basics|pos=v
+vibe|atmosphère, feeling|B1||3|This place has a great vibe.|Cet endroit a une super ambiance.|vibe|c|i|description|pos=n
+workforce|main-d'œuvre, effectifs|B2||4|Women make up half of our workforce.|Les femmes représentent la moitié de nos effectifs.|workforce|w||pro,management|pos=n
+leisure|loisirs|B1||3|What do you do in your leisure time?|Que fais-tu pendant tes loisirs ?|leisure|c||leisure|pos=n
+luckily|heureusement (coup de chance)|A2||4|Luckily, I had my keys.|Par chance, j'avais mes clés.|Luckily|c||fn_narrate|pos=adv
+polite|poli|A2||5|She's always very polite.|Elle est toujours très polie.|polite|c||personality|pos=adj
+shy|timide|A2||4|He's very shy with strangers.|Il est très timide avec les inconnus.|shy|c||personality|pos=adj
+@chunk
+Could you pass me the...?|Tu pourrais me passer le... ?|A2|5|4|Could you pass me the bread?|Tu pourrais me passer le pain ?|Could you pass me the|d||food|
+Is it spicy?|C'est épicé ?|A2|4|3|Is it spicy? I don't like hot food.|C'est épicé ? Je n'aime pas les plats forts.|Is it spicy?|d||food|
+I'm full.|Je n'ai plus faim.|A2|5|4|No more for me, thanks. I'm full.|Plus pour moi, merci. Je n'ai plus faim.|I'm full|d||food|
+It was delicious.|C'était délicieux.|A2|5|4|Thank you, it was delicious.|Merci, c'était délicieux.|it was delicious|d||food|
+I'd like it without...|Je le voudrais sans...|A2|4|3|I'd like it without onions, please.|Je le voudrais sans oignons, s'il vous plaît.|I'd like it without|d||food|
+Can we order?|On peut commander ?|A2|5|3|Excuse me, can we order?|Excusez-moi, on peut commander ?|can we order?|d||food|
+For here or to take away?|Sur place ou à emporter ?|A2|4|4|For here or to take away?|Sur place ou à emporter ?|For here or to take away?|d||food|
+Do you have a table for...?|Vous avez une table pour... ?|A2|4|3|Do you have a table for three?|Vous avez une table pour trois ?|Do you have a table for|d||food|
+Can I get you anything?|Je peux vous apporter quelque chose ?|A2|5|3|Can I get you anything to drink?|Je peux vous apporter quelque chose à boire ?|Can I get you anything|d||food|
+Would you like some more?|Tu en veux encore ?|A2|5|3|It's good. Would you like some more?|C'est bon. Tu en veux encore ?|Would you like some more?|d||food|
+It's time for bed.|C'est l'heure d'aller au lit.|A1|4|2|Come on, kids, it's time for bed.|Allez, les enfants, c'est l'heure d'aller au lit.|it's time for bed|d||family|
+It's time for lunch.|C'est l'heure de déjeuner.|A1|4|2|Let's stop, it's time for lunch.|Arrêtons, c'est l'heure de déjeuner.|it's time for lunch|d||food|
+I'm getting ready.|Je me prépare.|A2|5|3|Give me ten minutes, I'm getting ready.|Donne-moi dix minutes, je me prépare.|I'm getting ready|d||daily_routine|
+I overslept.|Je ne me suis pas réveillé à temps.|B1|5|4|Sorry I'm late, I overslept.|Désolé pour le retard, je ne me suis pas réveillé.|I overslept|d||daily_routine|
+I'm on my lunch break.|Je suis en pause déjeuner.|A2|4|3|I can't talk long, I'm on my lunch break.|Je ne peux pas parler longtemps, je suis en pause déjeuner.|I'm on my lunch break|w||work|
+I finish work at...|Je finis le travail à...|A2|5|3|I finish work at five.|Je finis le travail à dix-sept heures.|I finish work at|w||work|
+I start work at...|Je commence le travail à...|A2|5|3|I start work at nine.|Je commence le travail à neuf heures.|I start work at|w||work|
+I take the kids to school.|J'emmène les enfants à l'école.|A2|4|3|I take the kids to school every morning.|J'emmène les enfants à l'école tous les matins.|I take the kids to school|d||family|
+What's for dinner?|Qu'est-ce qu'on mange ce soir ?|A1|5|3|I'm starving. What's for dinner tonight?|Je meurs de faim. Qu'est-ce qu'on mange ce soir ?|What's for dinner|d||food|
+Who's next?|C'est à qui le tour ?|A2|5|3|Who's next, please?|C'est à qui le tour, s'il vous plaît ?|Who's next|d||shopping|
+Are you in the queue?|Vous faites la queue ?|A2|4|3|Excuse me, are you in the queue?|Excusez-moi, vous faites la queue ?|are you in the queue?|d||shopping|
+Can I have a bag?|Je peux avoir un sac ?|A2|4|3|Can I have a bag, please?|Je peux avoir un sac, s'il vous plaît ?|Can I have a bag|d||shopping|
+Where can I pay?|Où est-ce que je peux payer ?|A2|4|3|Excuse me, where can I pay?|Excusez-moi, où est-ce que je peux payer ?|where can I pay?|d||shopping|
+Where are the changing rooms?|Où sont les cabines d'essayage ?|A2|4|3|Where are the changing rooms, please?|Où sont les cabines d'essayage, s'il vous plaît ?|Where are the changing rooms|d||shopping|
+It's too big.|C'est trop grand.|A1|5|3|This shirt is too big.|Cette chemise est trop grande.|is too big|d||shopping|
+Do you have it in another colour?|Vous l'avez dans une autre couleur ?|A2|4|3|Do you have it in another colour?|Vous l'avez dans une autre couleur ?|Do you have it in another colour?|d||shopping|
+I'll take it.|Je le prends.|A1|5|4|It's perfect, I'll take it.|C'est parfait, je le prends.|I'll take it|d||shopping|
+I'll think about it, thanks.|Je vais réfléchir, merci.|A2|4|3|It's nice, but I'll think about it, thanks.|C'est joli, mais je vais réfléchir, merci.|I'll think about it, thanks|d||shopping|
+Are you open on Sundays?|Vous êtes ouvert le dimanche ?|A2|4|3|Excuse me, are you open on Sundays?|Excusez-moi, vous êtes ouvert le dimanche ?|are you open on Sundays?|d||shopping|
+It's nice weather today.|Il fait beau aujourd'hui.|A1|5|3|It's nice weather today, let's go out.|Il fait beau aujourd'hui, sortons.|It's nice weather today|d||weather|
+It's freezing.|Il gèle, il fait un froid de canard.|A2|5|4|Close the door, it's freezing.|Ferme la porte, il fait un froid de canard.|it's freezing|d||weather|
+It's boiling.|Il fait une chaleur étouffante.|B1|4|3|Open the window, it's boiling in here.|Ouvre la fenêtre, on étouffe ici.|it's boiling|d|i|weather|
+It's pouring.|Il pleut à verse.|B1|5|4|Don't go out, it's pouring.|Ne sors pas, il pleut à verse.|it's pouring|d||weather|
+It's snowing.|Il neige.|A1|5|3|Look outside, it's snowing!|Regarde dehors, il neige !|it's snowing|d||weather|
+It's windy.|Il y a du vent.|A1|5|3|It's windy on the beach today.|Il y a du vent sur la plage aujourd'hui.|It's windy|d||weather|
+It's cloudy.|Le ciel est couvert.|A1|5|3|It's cloudy this morning.|Le ciel est couvert ce matin.|It's cloudy|d||weather|
+It's getting cold.|Il commence à faire froid.|A2|5|3|It's getting cold, let's go in.|Il commence à faire froid, rentrons.|It's getting cold|d||weather|
+I'm soaked.|Je suis trempé.|B1|4|3|I forgot my umbrella and I'm soaked.|J'ai oublié mon parapluie et je suis trempé.|I'm soaked|d||weather|
+The weather is awful.|Il fait un temps affreux.|A2|4|2|The weather is awful in November.|Il fait un temps affreux en novembre.|The weather is awful|d||weather|
+Is it going to rain?|Est-ce qu'il va pleuvoir ?|A2|5|3|Is it going to rain tomorrow?|Est-ce qu'il va pleuvoir demain ?|Is it going to rain|d||weather|
+What a lovely day!|Quelle belle journée !|A2|5|3|What a lovely day! Let's go for a walk.|Quelle belle journée ! Allons nous promener.|What a lovely day!|d||weather|
+@collocation
+chop an onion|émincer un oignon|B1|3|2|First, chop an onion.|D'abord, émince un oignon.|chop an onion|d||food|
+peel a potato|éplucher une pomme de terre|A2|3|2|Can you peel the potatoes?|Tu peux éplucher les pommes de terre ?|peel the potatoes|d||food|
+boil an egg|faire cuire un œuf|A2|3|2|I can only boil an egg.|Je sais seulement faire cuire un œuf.|boil an egg|d||food|
+fry an egg|faire frire un œuf|A2|3|2|Do you want me to fry an egg?|Tu veux que je fasse frire un œuf ?|fry an egg|d||food|
+bake a cake|faire un gâteau|A2|4|3|I baked a cake for your birthday.|J'ai fait un gâteau pour ton anniversaire.|baked a cake|d||food|
+wash the dishes|laver la vaisselle|A1|4|2|I'll wash the dishes tonight.|Je laverai la vaisselle ce soir.|wash the dishes|d||housing|
+take out the rubbish|sortir les poubelles|A2|4|3|It's your turn to take out the rubbish.|C'est ton tour de sortir les poubelles.|take out the rubbish|d||housing|
+walk the dog|promener le chien|A2|4|3|I walk the dog every morning.|Je promène le chien chaque matin.|walk the dog|d||animals|
+water the plants|arroser les plantes|A2|4|2|Can you water the plants while I'm away?|Tu peux arroser les plantes pendant mon absence ?|water the plants|d||housing|
+mow the lawn|tondre la pelouse|B1|3|2|He mows the lawn every Saturday.|Il tond la pelouse tous les samedis.|mows the lawn|d||housing|
+hang out the washing|étendre le linge|B1|3|2|Can you hang out the washing?|Tu peux étendre le linge ?|hang out the washing|d||housing|
+change a tyre|changer un pneu|B1|3|2|Do you know how to change a tyre?|Tu sais changer un pneu ?|change a tyre|t||transport|
+park the car|garer la voiture|A2|5|3|Where did you park the car?|Où as-tu garé la voiture ?|park the car|t||transport|
+pass a driving test|réussir son permis|A2|5|4|She passed her driving test first time.|Elle a eu son permis du premier coup.|passed her driving test|d||transport|
+driving licence|permis de conduire|A2|5|4|Do you have a driving licence?|Tu as le permis de conduire ?|driving licence|t||transport,uk_us|variant=UK ;; counterpart=driver's license
+speed limit|limitation de vitesse|A2|4|3|The speed limit here is fifty.|La limitation de vitesse ici est de cinquante.|speed limit|t||transport|
+parking ticket|contravention de stationnement|B1|4|3|I got a parking ticket.|J'ai eu une contravention de stationnement.|parking ticket|t||transport|
+flat tyre|pneu crevé|B1|4|3|We had a flat tyre on the motorway.|Nous avons crevé sur l'autoroute.|flat tyre|t||transport|
+town centre|centre-ville|A1|5|3|The hotel is in the town centre.|L'hôtel est dans le centre-ville.|town centre|t||places|
+bus stop|arrêt de bus|A1|5|3|I'll wait at the bus stop.|J'attendrai à l'arrêt de bus.|bus stop|t||transport|
+train station|gare|A1|5|3|Where's the train station?|Où est la gare ?|train station|t||transport|
+swimming pool|piscine (couverte)|A1|4|3|The hotel has a swimming pool.|L'hôtel a une piscine.|swimming pool|t||leisure|
+washing machine|machine à laver|A2|5|3|The washing machine has stopped.|La machine à laver s'est arrêtée.|washing machine|d||housing|
+alarm clock|réveil|A1|5|3|My alarm clock didn't go off.|Mon réveil n'a pas sonné.|alarm clock|d||daily_routine|
+remote control|télécommande|A2|4|3|Where's the remote control?|Où est la télécommande ?|remote control|d||technology|
+living room|salon|A1|5|4|We're in the living room.|Nous sommes dans le salon.|living room|d||housing|
+traffic light|feu de circulation|A2|5|3|Stop at the traffic light.|Arrête-toi au feu.|traffic light|t||transport|
+@phrasal_verb
+come across as|donner l'impression d'être|B2|5|4|He comes across as a bit arrogant.|Il donne l'impression d'être un peu arrogant.|comes across as|c||personality|
+dress up|s'habiller, se déguiser|A2|5|3|We dressed up for the party.|Nous nous sommes mis sur notre trente-et-un pour la fête.|dressed up|d||clothes|
+do up|fermer, attacher|A2|3|2|Do up your coat.|Ferme ton manteau.|Do up|d||clothes|
+dry off|se sécher|A2|3|2|I dried off in the sun.|Je me suis séché au soleil.|dried off|d||daily_routine|
+eat up|finir de manger|A2|3|2|Eat up, it's getting cold.|Mange, ça va refroidir.|Eat up|d||food|
+heat up|réchauffer|A2|4|3|I'll heat up the soup.|Je vais réchauffer la soupe.|heat up|d||food|
+cool down|refroidir, se calmer|A2|4|3|Let it cool down first.|Laisse-le d'abord refroidir.|cool down|d||food|
+cut up|couper en morceaux|A2|3|2|Cut up the carrots.|Coupe les carottes en morceaux.|Cut up|d||food|
+sort through|trier|B1|3|2|I sorted through my old photos.|J'ai trié mes vieilles photos.|sorted through|d||housing|
+clear up|s'éclaircir, ranger|B1|5|4|The weather should clear up later.|Le temps devrait s'éclaircir plus tard.|clear up|d||weather|
+@connector
+just then|à ce moment-là|B1|4|3|Just then, the phone rang.|À ce moment-là, le téléphone a sonné.|Just then|c||fn_narrate|
+right after|juste après|A2|5|3|I called right after lunch.|J'ai appelé juste après le déjeuner.|right after|c||time|
+right away|tout de suite (variante)|A2|5|4|I'll do it right away.|Je le fais tout de suite.|right away|c||time|
+in a minute|dans une minute|A1|5|4|I'll be there in a minute.|Je serai là dans une minute.|in a minute|c||time|
+any minute now|d'une minute à l'autre|B1|5|3|He'll be here any minute now.|Il sera là d'une minute à l'autre.|any minute now|c||time|
+@idiom
+Under the thumb.|Sous la coupe de.|B2|2|2|He's under his wife's thumb.|Il est sous la coupe de sa femme.|under his wife's thumb|c|i|relationships|
+The last straw.|La goutte d'eau qui fait déborder le vase.|B2|5|4|That was the last straw.|C'était la goutte d'eau qui fait déborder le vase.|the last straw|c||feelings|
+A slap in the face.|Une gifle, un affront.|B2|3|3|Not getting the job was a slap in the face.|Ne pas avoir le poste a été une gifle.|a slap in the face|c||feelings|
+Rain or shine.|Qu'il pleuve ou qu'il vente.|B1|3|2|We'll be there, rain or shine.|Nous serons là, qu'il pleuve ou qu'il vente.|rain or shine|c||weather|
+Break a leg!|Merde ! (bonne chance)|B2|3|2|It's your big night. Break a leg!|C'est ton grand soir. Merde !|Break a leg!|c|i|fn_react|
