@@ -621,5 +621,54 @@
       "publish"
     ],
     "reason": "Nom de secteur à part entière."
+  },
+  {
+    "ids": [
+      "take-on",
+      "take-in"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "wake-up",
+      "take-up"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "make-up",
+      "take-up"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "by-the-way",
+      "by-way-of"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "rip-off",
+      "tip-off"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "have-second-thoughts",
+      "on-second-thoughts"
+    ],
+    "reason": "Hésiter, et se raviser."
+  },
+  {
+    "ids": [
+      "abandoned",
+      "abandon"
+    ],
+    "reason": "Adjectif à part entière."
   }
 ]

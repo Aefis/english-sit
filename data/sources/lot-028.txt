@@ -1,0 +1,225 @@
+# Lot 028 : B1-B2 (mots utiles variés, techniques, droit, loisirs, caractère)
+@word
+abandon|abandonner|B2||4|They abandoned the plan.|Ils ont abandonné le projet.|abandoned|n||basics|pos=v
+accommodate|accueillir, répondre à|B2+||4|We can accommodate your request.|Nous pouvons répondre à votre demande.|accommodate|w|f|pro,business|pos=v
+aesthetic|esthétique|B2+||2|The design has a clean aesthetic.|Le design a une esthétique épurée.|aesthetic|c||description|pos=n
+algorithm|algorithme|B2||4|The algorithm chooses what you see.|L'algorithme choisit ce que tu vois.|algorithm|w||pro,technology|pos=n
+badge|badge|A2||3|Please wear your badge.|Merci de porter votre badge.|badge|w||work|pos=n
+bizarre|insolite|B1||3|It was a bizarre situation.|C'était une situation étrange.|bizarre|c||description|pos=adj
+bounce|faire des bonds|B1||3|The ball bounced off the wall.|Le ballon a rebondi sur le mur.|bounced|d||basics|pos=v
+complexity|complexité|B2||4|We underestimated the complexity of the job.|Nous avons sous-estimé la complexité du travail.|complexity|w||pro,analysis|pos=n
+consultation|consultation|B2||3|The first consultation is free.|La première consultation est gratuite.|consultation|w||pro,business|pos=n
+convenience|commodité|B1||3|For your convenience, we've attached a map.|Pour votre commodité, nous avons joint un plan.|convenience|w|f|pro,email|pos=n
+dignity|dignité|B2||3|She handled it with dignity.|Elle y a fait face avec dignité.|dignity|c||personality|pos=n
+ego|ego|B2||2|He has a huge ego.|Il a un ego démesuré.|ego|c||personality|pos=n
+enthusiasm|enthousiasme|B1||4|She spoke with great enthusiasm.|Elle a parlé avec beaucoup d'enthousiasme.|enthusiasm|c||feelings|pos=n
+equation|équation|B1||3|Solve this equation.|Résous cette équation.|equation|a||learning|pos=n
+extract|extraire, extrait|B2||3|Here's an extract from the report.|Voici un extrait du rapport.|extract|w||reporting|pos=n
+ferry|ferry|A2||3|We took the ferry to Dover.|Nous avons pris le ferry pour Douvres.|ferry|t||transport|pos=n
+flexibility|flexibilité|B2||5|This job gives me a lot of flexibility.|Ce travail me donne beaucoup de flexibilité.|flexibility|w||pro,work|pos=n
+goat|chèvre|A2||2|I love goat's cheese.|J'adore le fromage de chèvre.|goat|d||food|pos=n
+gut|intestin, instinct|B2||4|Trust your gut.|Fie-toi à ton instinct.|gut|c|i|decision|pos=n
+helmet|casque|A2||3|Always wear a helmet.|Porte toujours un casque.|helmet|t||safety|pos=n
+ideology|idéologie|B2||2|It's a question of ideology.|C'est une question d'idéologie.|ideology|n||politics|pos=n
+inclusion|inclusion|B2||3|We promote inclusion at work.|Nous favorisons l'inclusion au travail.|inclusion|w||pro,management|pos=n
+instructor|moniteur, formateur|B1||3|My driving instructor is very patient.|Mon moniteur d'auto-école est très patient.|instructor|d||learning|pos=n
+isolation|isolement|B2||3|Older people often suffer from isolation.|Les personnes âgées souffrent souvent d'isolement.|isolation|n||news|pos=n
+lamb|agneau|A2||2|We had roast lamb on Sunday.|Nous avons mangé de l'agneau rôti dimanche.|lamb|d||food|pos=n
+liar|menteur|B1||3|He's a terrible liar.|C'est un très mauvais menteur.|liar|c||personality|pos=n
+machinery|machines, machinerie|B2||2|Don't touch the machinery.|Ne touche pas aux machines.|machinery|w||safety|pos=n
+probability|chances, probabilité (calcul)|B2||3|What's the probability of rain?|Quelle est la probabilité de pluie ?|probability|c||analysis|pos=n
+resignation|démission|B2||4|She handed in her resignation.|Elle a remis sa démission.|resignation|w||pro,career|pos=n
+ritual|rituel|B2||2|Morning coffee is my daily ritual.|Le café du matin est mon rituel quotidien.|ritual|c||daily_routine|pos=n
+slam|claquer|B1||3|She slammed the door.|Elle a claqué la porte.|slammed|d||basics|pos=v
+subscribe|s'abonner|B1||4|Subscribe to our newsletter.|Abonne-toi à notre newsletter.|Subscribe|d||technology|pos=v
+tire|pneu (US)|A2||3|We got a flat tire on the highway.|Nous avons crevé sur l'autoroute.|tire|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=tyre
+utterly|complètement|B2+||3|I'm utterly exhausted.|Je suis complètement épuisé.|utterly|c||fn_nuance|pos=adv
+width|largeur|B1||3|What's the width of the door?|Quelle est la largeur de la porte ?|width|d||numbers|pos=n
+workout|séance de sport|A2||4|I did a quick workout this morning.|J'ai fait une petite séance de sport ce matin.|workout|d||leisure|pos=n
+adaptation|adaptation|B2||3|The film is an adaptation of a novel.|Le film est une adaptation d'un roman.|adaptation|d||leisure|pos=n
+advisor|un conseiller|B1||4|Talk to your financial advisor.|Parle à ton conseiller financier.|advisor|w||pro,money|pos=n ;; also=adviser
+civilization|civilisation|B1||2|It's one of the oldest civilizations.|C'est l'une des plus anciennes civilisations.|civilizations|a||academic|pos=n
+creativity|créativité|B2||4|This job requires a lot of creativity.|Ce travail demande beaucoup de créativité.|creativity|w||pro,personality|pos=n
+delicate|délicat|B2||4|It's a very delicate situation.|C'est une situation très délicate.|delicate|c||description|pos=adj
+disappointment|déception|B1||4|The film was a big disappointment.|Le film a été une grosse déception.|disappointment|c||feelings|pos=n
+harassment|harcèlement|B2||3|There's no place for harassment at work.|Le harcèlement n'a pas sa place au travail.|harassment|w||pro,rules|pos=n
+insert|insérer|B1||3|Insert your card here.|Insérez votre carte ici.|Insert|d||technology|pos=v
+massage|massage|A2||3|I booked a massage at the hotel.|J'ai réservé un massage à l'hôtel.|massage|t||leisure|pos=n
+musician|musicien|A2||3|My brother is a musician.|Mon frère est musicien.|musician|c||career|pos=n
+nephew|neveu|A2||3|My nephew is four.|Mon neveu a quatre ans.|nephew|c||family|pos=n
+niece|nièce|A2||3|My niece lives in Spain.|Ma nièce vit en Espagne.|niece|c||family|pos=n
+orchestra|orchestre|A2||2|She plays in an orchestra.|Elle joue dans un orchestre.|orchestra|d||leisure|pos=n
+precision|précision|B2||3|It requires great precision.|Cela demande une grande précision.|precision|w||work|pos=n
+sail|naviguer, voile|A2||3|We sailed along the coast.|Nous avons navigué le long de la côte.|sailed|t||leisure|pos=v
+salmon|saumon|A2||2|I'll have the grilled salmon.|Je vais prendre le saumon grillé.|salmon|d||food|pos=n
+sympathy|compassion|B2||3|You have my deepest sympathy.|Toutes mes condoléances.|sympathy|c|f|feelings,false_friend|pos=n ;; notes=Faux ami : la sympathie = liking.
+theoretical|théorique|B2||3|It's only a theoretical risk.|Ce n'est qu'un risque théorique.|theoretical|a||analysis|pos=adj
+upside|le bon côté|B2||4|The upside is that it's cheap.|L'avantage, c'est que c'est bon marché.|upside|c|i|fn_nuance|pos=n
+wheat|blé|B1||2|The price of wheat has gone up.|Le prix du blé a augmenté.|wheat|n||food|pos=n
+wipe|essuyer|A2||3|Wipe your feet.|Essuie-toi les pieds.|Wipe|d||housing|pos=v
+acute|aigu|B2+||2|She has acute back pain.|Elle a une douleur aiguë au dos.|acute|d|f|health|pos=adj
+arrange|organiser, arranger|A2||5|I'll arrange a meeting.|Je vais organiser une réunion.|arrange|w||pro,meetings|pos=v
+banana|banane|A1||2|He ate a banana.|Il a mangé une banane.|banana|d||food|pos=n
+behave|se comporter|A2||5|The kids behaved very well.|Les enfants se sont très bien comportés.|behaved|d||family|pos=v
+clerk|employé, commis|B1||2|Ask the clerk at the desk.|Demande à l'employé au comptoir.|clerk|w||work|pos=n
+considerably|considérablement|B2||4|Prices have risen considerably.|Les prix ont considérablement augmenté.|considerably|w||fn_nuance|pos=adv
+cottage|petite maison, cottage|A2||2|We rented a cottage by the sea.|Nous avons loué une petite maison au bord de la mer.|cottage|t||housing|pos=n
+disclosure|divulgation|C1||3|The contract forbids any disclosure.|Le contrat interdit toute divulgation.|disclosure|w|f|pro,rules|pos=n
+disposal|élimination, disposition|B2+||3|I'm at your disposal.|Je suis à votre disposition.|disposal|w|f|pro,fn_suggest|pos=n
+distinctive|caractéristique, distinctif|B2||3|It has a very distinctive smell.|Il a une odeur très caractéristique.|distinctive|c||description|pos=adj
+donation|don|B1||3|We made a small donation.|Nous avons fait un petit don.|donation|c||news|pos=n
+drone|drone|B1||2|They filmed it with a drone.|Ils l'ont filmé avec un drone.|drone|d||technology|pos=n
+flour|farine|A2||2|You'll need two cups of flour.|Il te faudra deux tasses de farine.|flour|d||food|pos=n
+indirect|indirect|B1||3|It's an indirect cost.|C'est un coût indirect.|indirect|w||analysis|pos=adj
+inspire|inspirer|B1||5|She inspires everyone around her.|Elle inspire tout le monde autour d'elle.|inspires|c||feelings|pos=v
+lottery|loterie|A2||2|He won the lottery.|Il a gagné à la loterie.|lottery|c||money|pos=n
+outlet|prise, point de vente|B2||3|Is there a power outlet near here?|Il y a une prise électrique par ici ?|outlet|t||technology|pos=n
+pause|pause, faire une pause|A2||4|Let's pause for a moment.|Faisons une pause un instant.|pause|c||basics|pos=v
+pledge|promesse, promettre|B2+||3|They pledged to cut emissions.|Ils ont promis de réduire les émissions.|pledged|n|f|politics|pos=v
+portal|portail|B2||3|Log in to the customer portal.|Connecte-toi au portail client.|portal|w||pro,it|pos=n
+publicity|publicité, médiatisation|B2||3|The event got a lot of publicity.|L'événement a été très médiatisé.|publicity|w||media|pos=n
+puppy|chiot|A2||2|We got a puppy for Christmas.|Nous avons eu un chiot à Noël.|puppy|d||animals|pos=n
+recruitment|recrutement|B2||5|She works in recruitment.|Elle travaille dans le recrutement.|recruitment|w||pro,career|pos=n
+slice|tranche|A2||3|Would you like a slice of cake?|Tu veux une part de gâteau ?|slice|d||food|pos=n
+survivor|survivant|B1||2|There were no survivors.|Il n'y a eu aucun survivant.|survivors|n||news|pos=n
+clause|clause|B2||4|Read the clause carefully.|Lis attentivement la clause.|clause|w||pro,rules|pos=n
+consistency|cohérence, régularité|B2||5|Consistency is the key to success.|La régularité est la clé du succès.|Consistency|w||pro,analysis|pos=n
+deaf|sourd|B1||2|He's deaf in one ear.|Il est sourd d'une oreille.|deaf|c||health|pos=adj
+evident|manifeste|B2||4|It's evident that he's upset.|Il est évident qu'il est contrarié.|evident|c||fn_explain|pos=adj
+facilitate|faciliter|B2+||4|I'll facilitate the workshop.|J'animerai l'atelier.|facilitate|w||pro,meetings|pos=v
+feat|exploit|B2+||2|It was an impressive feat.|Ce fut un exploit impressionnant.|feat|c|f|description|pos=n
+freight|fret|B2||2|Freight costs have doubled.|Les coûts de fret ont doublé.|Freight|w||pro,business|pos=n
+honesty|honnêteté|B1||4|I appreciate your honesty.|J'apprécie ton honnêteté.|honesty|c||personality|pos=n
+inappropriate|déplacé, inapproprié|B2||5|That comment was inappropriate.|Cette remarque était déplacée.|inappropriate|c||communication|pos=adj
+injection|piqûre, injection|B1||3|The nurse gave him an injection.|L'infirmier lui a fait une piqûre.|injection|d||health|pos=n
+insult|insulter, insulte|B1||4|Don't insult me.|Ne m'insulte pas.|insult|c||communication|pos=v
+interference|ingérence, interférence|B2||2|We don't want any outside interference.|Nous ne voulons aucune ingérence extérieure.|interference|n||politics|pos=n
+neat|soigné, net|B1||4|Your desk is very neat.|Ton bureau est très bien rangé.|neat|d||description|pos=adj
+outbreak|épidémie, début|B2||3|There's been an outbreak of flu.|Il y a eu une épidémie de grippe.|outbreak|n||health|pos=n
+pal|copain|A2||2|He's an old pal of mine.|C'est un vieux copain à moi.|pal|c|i|relationships|pos=n
+perfection|perfection|B1||2|The steak was cooked to perfection.|Le steak était cuit à la perfection.|perfection|d||food|pos=n
+propose|proposer|B1||5|I propose a short break.|Je propose une courte pause.|propose|w||pro,fn_suggest|pos=v
+sneak|se faufiler|B1||3|We sneaked out of the meeting.|Nous nous sommes éclipsés de la réunion.|sneaked|c|i|basics|pos=v
+sore|endolori|A2||4|My legs are sore after the run.|J'ai les jambes douloureuses après la course.|sore|d||health|pos=adj
+speculation|spéculation, suppositions|B2+||3|There's a lot of speculation about the deal.|Il y a beaucoup de suppositions sur l'accord.|speculation|n||news|pos=n
+straw|paille|A2||2|Can I have a straw?|Je peux avoir une paille ?|straw|d||food|pos=n
+successor|successeur|B2||3|Who will be her successor?|Qui sera son successeur ?|successor|w||pro,career|pos=n
+uncertain|incertain|B1||4|The future is uncertain.|L'avenir est incertain.|uncertain|c||fn_nuance|pos=adj
+uncertainty|incertitude|B2||5|There's a lot of uncertainty right now.|Il y a beaucoup d'incertitude en ce moment.|uncertainty|n||pro,analysis|pos=n
+upload|télécharger, mettre en ligne|A2||4|Upload your CV here.|Téléverse ton CV ici.|Upload|w||technology|pos=v
+weigh|peser|A2||4|How much do you weigh?|Combien pèses-tu ?|weigh|d||numbers|pos=v
+absent|absent|A2||3|She was absent from work.|Elle était absente du travail.|absent|w||work|pos=adj
+archive|archives|B2||2|It's in the online archive.|C'est dans les archives en ligne.|archive|w||it|pos=n
+bicycle|bicyclette|A1||3|She came on her bicycle.|Elle est venue à bicyclette.|bicycle|t||transport|pos=n
+bump|bosse, heurter|B1||3|I bumped my head.|Je me suis cogné la tête.|bumped|d||basics|pos=v
+cart|chariot, panier (en ligne)|A2||3|Add it to your cart.|Ajoute-le à ton panier.|cart|d||shopping,technology|pos=n
+dense|dense|B2||2|The fog was very dense.|Le brouillard était très dense.|dense|d||weather|pos=adj
+expose|exposer, révéler|B2||4|The report exposed serious problems.|Le rapport a révélé de graves problèmes.|exposed|n||basics|pos=v
+geography|géographie|A2||3|She teaches geography.|Elle enseigne la géographie.|geography|d||learning|pos=n
+gig|concert, petit boulot|B1||3|The band has a gig on Friday.|Le groupe a un concert vendredi.|gig|d|i|leisure|pos=n
+harbour|port (naturel)|B1||2|The boats are in the harbour.|Les bateaux sont dans le port.|harbour|t||places,uk_us|pos=n ;; variant=UK ;; counterpart=harbor
+jaw|mâchoire|B1||2|My jaw hurts.|J'ai mal à la mâchoire.|jaw|d||body|pos=n
+lawn|pelouse|A2||3|I mowed the lawn this morning.|J'ai tondu la pelouse ce matin.|lawn|d||housing|pos=n
+manufacture|fabriquer|B2||3|We manufacture car parts.|Nous fabriquons des pièces automobiles.|manufacture|w||pro,business|pos=v
+mistaken|dans l'erreur|B1||4|You're mistaken.|Vous faites erreur.|mistaken|c||fn_disagree|pos=adj
+needle|aiguille|A2||2|I'm scared of needles.|J'ai peur des aiguilles.|needles|d||health|pos=n
+pity|pitié, dommage|B1||3|It's a pity you can't come.|C'est dommage que tu ne puisses pas venir.|pity|c||fn_react|pos=n
+pond|étang, mare|A2||2|There are fish in the pond.|Il y a des poissons dans l'étang.|pond|d||nature|pos=n
+referendum|référendum|B2||2|They held a referendum.|Ils ont organisé un référendum.|referendum|n||politics|pos=n
+satisfy|satisfaire|B1||4|It's hard to satisfy everyone.|C'est difficile de satisfaire tout le monde.|satisfy|c||basics|pos=v
+seasonal|saisonnier|B1||3|She does seasonal work.|Elle fait du travail saisonnier.|seasonal|w||work|pos=adj
+sensible|raisonnable, sensé|B1||5|That's a sensible decision.|C'est une décision raisonnable.|sensible|c||false_friend|pos=adj ;; notes=Faux ami : veut dire « raisonnable ».
+sequel|suite (film)|B1||2|The sequel wasn't as good.|La suite n'était pas aussi bonne.|sequel|d||leisure|pos=n
+whale|baleine|A2||2|We saw whales in Iceland.|Nous avons vu des baleines en Islande.|whales|t||animals|pos=n
+admire|avoir de l'admiration pour|B1||4|I really admire her courage.|J'admire vraiment son courage.|admire|c||feelings|pos=v
+bachelor|licence, célibataire|B1||3|She has a bachelor's degree.|Elle a une licence.|bachelor|d||learning|pos=n
+berry|baie, fruit rouge|A2||2|These berries are delicious.|Ces baies sont délicieuses.|berries|d||food|pos=n
+caution|prudence|B2||4|Handle with caution.|À manipuler avec précaution.|caution|w||pro,safety|pos=n
+certification|certification|B2||3|You need a safety certification.|Il te faut une certification de sécurité.|certification|w||pro,career|pos=n
+characteristic|caractéristique|B2||3|Patience is her main characteristic.|La patience est sa principale caractéristique.|characteristic|c||personality|pos=n
+clash|affrontement, coïncider|B2||3|The two meetings clash.|Les deux réunions tombent en même temps.|clash|w||pro,time|pos=v
+@chunk
+I've changed my mind.|J'ai changé d'avis.|A2|5|5|Sorry, I've changed my mind.|Désolé, j'ai changé d'avis.|I've changed my mind|c||decision|
+I can't decide.|Je n'arrive pas à me décider.|A2|5|4|Red or blue? I can't decide.|Rouge ou bleu ? Je n'arrive pas à me décider.|I can't decide|c||decision|
+I've made up my mind.|Ma décision est prise.|B1|5|5|I've made up my mind, I'm leaving.|Ma décision est prise, je pars.|I've made up my mind|c||decision|
+Let's weigh the options.|Pesons les options.|B1|4|3|Before we decide, let's weigh the options.|Avant de décider, pesons les options.|let's weigh the options|c||decision|
+Which would you choose?|Lequel choisirais-tu ?|A2|4|3|Which would you choose, the blue or the red?|Lequel choisirais-tu, le bleu ou le rouge ?|Which would you choose|c||decision|
+It's a tough decision.|C'est une décision difficile.|B1|5|4|Leaving my job was a tough decision.|Quitter mon travail a été une décision difficile.|a tough decision|c||decision|
+I need more time to think.|J'ai besoin de plus de temps pour réfléchir.|B1|5|3|I need more time to think about the offer.|J'ai besoin de plus de temps pour réfléchir à l'offre.|I need more time to think|c||decision|
+I'll let you know by Friday.|Je te dirai ça d'ici vendredi.|B1|5|4|It's a good offer. I'll let you know by Friday.|C'est une bonne offre. Je te dirai ça d'ici vendredi.|I'll let you know by Friday|w||pro,decision|
+I'm leaning towards...|Je penche pour...|B2|5|4|I'm leaning towards the second option.|Je penche pour la deuxième option.|I'm leaning towards|c||decision|
+I'm torn between...|J'hésite entre...|B2|5|4|I'm torn between the two jobs.|J'hésite entre les deux postes.|I'm torn between|c||decision|
+On second thoughts...|Tout bien réfléchi...|B1|5|5|On second thoughts, I'll stay.|Tout bien réfléchi, je reste.|On second thoughts|c||decision|
+At the last minute|À la dernière minute|B1|5|4|They cancelled at the last minute.|Ils ont annulé à la dernière minute.|at the last minute|c||time|
+Just so you know...|Pour info...|B1|5|5|Just so you know, I'm leaving at four.|Pour info, je pars à seize heures.|Just so you know|c|i|fn_explain|
+Just to be clear...|Pour que ce soit clair...|B1|5|5|Just to be clear, this isn't a promise.|Pour que ce soit clair, ce n'est pas une promesse.|Just to be clear|c||fn_clarify|
+Just out of interest...|Par curiosité...|B2|5|4|Just out of interest, how much did it cost?|Par curiosité, combien ça a coûté ?|Just out of interest|c||fn_clarify|
+Just out of curiosity...|Simple curiosité...|B1|5|4|Just out of curiosity, who told you?|Simple curiosité, qui te l'a dit ?|Just out of curiosity|c||fn_clarify|
+By any chance...|Par hasard...|B1|5|5|Do you have a pen, by any chance?|Tu aurais un stylo, par hasard ?|by any chance|c||fn_request|
+By the looks of it...|À première vue, d'après ce qu'on voit...|B2|4|3|By the looks of it, it's going to rain.|Vu comme ça, il va pleuvoir.|By the looks of it|c||fn_nuance|
+By all means.|Je vous en prie, bien sûr.|B2|5|4|Can I sit here? By all means.|Je peux m'asseoir ici ? Je vous en prie.|By all means|c||fn_agree|
+By no means.|Pas du tout, en aucun cas.|B2|4|3|It's by no means certain.|Ce n'est pas du tout certain.|by no means|c||fn_disagree|
+No hard feelings.|Sans rancune.|B1|5|4|No hard feelings, OK?|Sans rancune, d'accord ?|No hard feelings|c||relationships|
+No need to...|Inutile de...|B1|5|4|No need to apologise.|Inutile de t'excuser.|No need to|c||basics|
+No matter what.|Quoi qu'il arrive.|B1|5|5|I'll be there, no matter what.|Je serai là, quoi qu'il arrive.|no matter what|c||fn_nuance|
+No matter how...|Peu importe à quel point...|B1|5|4|No matter how hard I try, I can't do it.|J'ai beau essayer, je n'y arrive pas.|No matter how|c||fn_nuance|
+No longer|Ne... plus (soutenu)|B1|5|4|He no longer works here.|Il ne travaille plus ici.|no longer|c||time|
+Not any more.|Plus maintenant.|A2|5|4|Do you live there? Not any more.|Tu habites là-bas ? Plus maintenant.|Not any more|c||time|
+Not at the moment.|Pas pour le moment.|A2|5|3|Are you busy? Not at the moment.|Tu es occupé ? Pas pour le moment.|Not at the moment|c||time|
+Not for long.|Pas longtemps.|A2|5|3|He's here, but not for long.|Il est là, mais pas pour longtemps.|not for long|c||time|
+Not that I care.|Pas que ça m'intéresse.|B2|3|2|He got a new car, not that I care.|Il a une nouvelle voiture, pas que ça m'intéresse.|not that I care|c|i|fn_nuance|
+Not as ... as|Pas aussi ... que|A2|5|4|It's not as hot as yesterday.|Il ne fait pas aussi chaud qu'hier.|not as hot as|c||fn_compare|
+The more ... the more|Plus ... plus|B1|5|5|The more you practise, the more you learn.|Plus tu t'entraînes, plus tu apprends.|The more you practise, the more you learn|c||fn_compare|
+The same goes for...|Il en va de même pour...|B1|5|5|The same goes for the other teams.|Il en va de même pour les autres équipes.|The same goes for|c||fn_compare|
+The thing about ... is...|Le truc avec ..., c'est que...|B1|4|3|The thing about Paris is the traffic.|Le truc avec Paris, c'est la circulation.|The thing about Paris is|c|i|fn_explain|
+The whole point is...|Tout l'intérêt, c'est...|B2|5|4|The whole point is to save time.|Tout l'intérêt, c'est de gagner du temps.|The whole point is|c||fn_explain|
+The main thing is...|L'essentiel, c'est...|B1|5|5|The main thing is that you're safe.|L'essentiel, c'est que tu sois sain et sauf.|The main thing is|c||fn_explain|
+@collocation
+blow your nose|se moucher|A2|4|3|Do you have a tissue? I need to blow my nose.|Tu as un mouchoir ? Je dois me moucher.|blow my nose|d||health|
+call a meeting|convoquer une réunion|B1|5|4|The manager called a meeting.|Le responsable a convoqué une réunion.|called a meeting|w||pro,meetings|
+call someone names|insulter quelqu'un|B1|3|2|The other kids called him names.|Les autres enfants l'insultaient.|called him names|c||relationships|
+carry a bag|porter un sac|A2|4|2|Can you carry this bag for me?|Tu peux porter ce sac pour moi ?|carry this bag|d||basics|
+change jobs|changer de travail|A2|5|4|She changed jobs last year.|Elle a changé de travail l'année dernière.|changed jobs|w||career|
+change clothes|se changer|A2|5|3|Let me change clothes first.|Laisse-moi d'abord me changer.|change clothes|d||clothes|
+clear the table|débarrasser la table|A2|4|3|Can you clear the table?|Tu peux débarrasser la table ?|clear the table|d||housing|
+clear your throat|s'éclaircir la voix|B1|3|2|He cleared his throat and began.|Il s'est éclairci la voix et a commencé.|cleared his throat|c||communication|
+close your eyes|fermer les yeux|A1|4|3|Close your eyes and relax.|Ferme les yeux et détends-toi.|Close your eyes|d||basics|
+commit a crime|commettre un crime|B1|4|3|He didn't commit the crime.|Il n'a pas commis ce crime.|commit the crime|n||rules|
+complete a form|compléter un formulaire (soutenu)|B1|4|3|Please complete the form in black ink.|Veuillez compléter le formulaire à l'encre noire.|complete the form|w|f|admin|
+cut your hair|se couper les cheveux|A2|4|2|You've cut your hair!|Tu t'es coupé les cheveux !|cut your hair|d||daily_routine|
+drive someone home|ramener quelqu'un en voiture|A2|5|3|I'll drive you home.|Je te ramène en voiture.|drive you home|t||transport|
+drop a hint|laisser entendre|B2|4|3|She dropped a hint about the present.|Elle a laissé entendre quelque chose à propos du cadeau.|dropped a hint|c||communication|
+drop a subject|laisser tomber un sujet|B2|4|3|Let's drop the subject.|Laissons tomber le sujet.|drop the subject|c||fn_topic_change|
+enter a password|saisir un mot de passe|A2|5|3|Enter your password to continue.|Saisis ton mot de passe pour continuer.|Enter your password|d||technology|
+fall ill|tomber malade (soutenu)|B1|4|3|She fell ill during the trip.|Elle est tombée malade pendant le voyage.|fell ill|d||health|
+feel at home|se sentir chez soi|B1|5|3|I feel at home here.|Je me sens chez moi ici.|feel at home|c||feelings|
+feel guilty|se sentir coupable|B1|5|4|I feel guilty about leaving early.|Je me sens coupable de partir tôt.|feel guilty|c||feelings|
+feel sorry for|avoir pitié de|B1|5|4|I feel sorry for him.|J'ai de la peine pour lui.|feel sorry for|c||feelings|
+fill a vacancy|pourvoir un poste|B2|4|3|We need to fill a vacancy in sales.|Nous devons pourvoir un poste aux ventes.|fill a vacancy|w||pro,career|
+find a solution|trouver une solution|A2|5|5|We need to find a solution quickly.|Nous devons trouver une solution rapidement.|find a solution|w||pro,work|
+find a job|trouver un emploi|A2|5|4|She found a job in Lyon.|Elle a trouvé un emploi à Lyon.|found a job|w||career|
+find it hard to|avoir du mal à|B1|5|5|I find it hard to get up.|J'ai du mal à me lever.|find it hard to|c||basics|
+@phrasal_verb
+take apart|démonter|B1|4|3|He took the clock apart.|Il a démonté la pendule.|took the clock apart|d||basics|
+take back|reprendre, retirer|B1|5|4|I take back what I said.|Je retire ce que j'ai dit.|take back|c||communication|
+take in|comprendre, assimiler|B1|4|3|It's a lot to take in.|C'est beaucoup à assimiler.|take in|c||learning|
+take up|commencer (activité), occuper|B1|5|5|I've taken up yoga.|Je me suis mis au yoga.|taken up|c||leisure|
+tear down|démolir|B1|4|3|They tore down the old school.|Ils ont démoli l'ancienne école.|tore down|n||basics|
+think through|bien réfléchir à|B1|5|4|You need to think this through.|Tu dois bien y réfléchir.|think this through|c||decision|
+think up|inventer|B1|4|3|She thought up a great name.|Elle a inventé un super nom.|thought up|c||basics|
+throw out|jeter, rejeter|B1|5|4|We threw out all the old files.|Nous avons jeté tous les vieux dossiers.|threw out|d||basics|
+tie up|attacher, occuper|B1|4|3|I'm tied up all morning.|Je suis pris toute la matinée.|tied up|w||time|
+tip off|prévenir, tuyauter|B2|3|2|Someone tipped off the police.|Quelqu'un a prévenu la police.|tipped off|n||communication|
+tone down|atténuer|B2|4|3|Can you tone down the email?|Tu peux adoucir le ton de l'e-mail ?|tone down|w||pro,communication|
+@connector
+as a whole|dans son ensemble|B2|5|4|The company as a whole is doing well.|L'entreprise dans son ensemble se porte bien.|as a whole|w||pro,fn_nuance|
+at the very least|à tout le moins|B2|4|3|At the very least, call her.|À tout le moins, appelle-la.|At the very least|c||fn_nuance|
+by way of|en guise de|B2+|3|2|He bought flowers by way of apology.|Il a acheté des fleurs en guise d'excuse.|by way of|c||fn_explain|
+in other respects|à d'autres égards|C1|3|2|In other respects, it's a good plan.|À d'autres égards, c'est un bon plan.|In other respects|w|f|fn_nuance|
+in some ways|à certains égards|B2|5|4|In some ways, it's better.|À certains égards, c'est mieux.|In some ways|c||fn_nuance|
+@idiom
+Bark up the wrong tree.|Faire fausse route.|B2|3|3|You're barking up the wrong tree.|Tu fais fausse route.|barking up the wrong tree|c|i|fn_disagree|
+Beat a dead horse.|Perdre son temps sur un sujet réglé.|B2|3|2|Let's stop, we're beating a dead horse.|Arrêtons, ce sujet est réglé.|beating a dead horse|c|i|fn_disagree|
+Call the shots.|Mener la danse.|B2|4|3|She calls the shots here.|C'est elle qui mène la danse ici.|calls the shots|w|i|management|
+Get the wrong end of the stick.|Comprendre de travers.|B2|4|3|I think you got the wrong end of the stick.|Je crois que tu as compris de travers.|got the wrong end of the stick|c|i|communication|
+Hit a wall.|Se heurter à un mur.|B2|3|3|We've hit a wall on this project.|Nous nous heurtons à un mur sur ce projet.|hit a wall|w||project|
