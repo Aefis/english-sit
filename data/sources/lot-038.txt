@@ -1,0 +1,116 @@
+# Lot 038 : A2-B2 (expressions à forte utilité : parler de soi, de sa journée, opinions, démarches, voisins, parents, conduite)
+@chunk
+I grew up in...|J'ai grandi à...|A2|5|5|I grew up in a small town near Lyon.|J'ai grandi dans une petite ville près de Lyon.|I grew up in|c||small_talk|
+I've lived here for...|J'habite ici depuis...|A2|5|5|I've lived here for six years.|J'habite ici depuis six ans.|I've lived here for|c||small_talk|
+I moved here in...|Je me suis installé ici en...|A2|5|4|I moved here in 2020 for work.|Je me suis installé ici en 2020 pour le travail.|I moved here in|c||small_talk|
+I'm originally from...|Je suis originaire de...|B1|5|5|I'm originally from Tunisia.|Je suis originaire de Tunisie.|I'm originally from|c||small_talk|
+I was born and raised in...|Je suis né et j'ai grandi à...|B1|5|4|I was born and raised in Toulouse.|Je suis né et j'ai grandi à Toulouse.|I was born and raised in|c||small_talk|
+I have two children.|J'ai deux enfants.|A1|5|3|I have two children, a boy and a girl.|J'ai deux enfants, un garçon et une fille.|I have two children|c||family|
+I'm an only child.|Je suis enfant unique.|A2|5|4|I'm an only child, so I was often alone.|Je suis enfant unique, donc j'étais souvent seul.|I'm an only child|c||family|
+I'm the youngest.|Je suis le plus jeune.|A2|4|3|There are three of us, and I'm the youngest.|Nous sommes trois et je suis le plus jeune.|I'm the youngest|c||family|
+We're a big family.|Nous sommes une grande famille.|A2|4|3|We're a big family, we love being together.|Nous sommes une grande famille, nous aimons être ensemble.|We're a big family|c||family|
+My parents are divorced.|Mes parents sont divorcés.|A2|4|3|My parents are divorced, so I have two homes.|Mes parents sont divorcés, donc j'ai deux maisons.|My parents are divorced|c||family|
+It takes me half an hour to...|Il me faut une demi-heure pour...|A2|5|4|It takes me half an hour to get to work.|Il me faut une demi-heure pour aller au travail.|It takes me half an hour to|d||daily_routine|
+I'm not a morning person.|Je ne suis pas du matin.|B1|5|5|Don't call before ten, I'm not a morning person.|Ne m'appelle pas avant dix heures, je ne suis pas du matin.|I'm not a morning person|c||daily_routine|
+I'm a night owl.|Je suis un oiseau de nuit.|B1|4|3|I'm a night owl, I work best after ten.|Je suis un oiseau de nuit, je travaille mieux après vingt-deux heures.|I'm a night owl|c|i|daily_routine|
+I didn't sleep very well.|Je n'ai pas très bien dormi.|A2|5|4|I didn't sleep very well last night.|Je n'ai pas très bien dormi cette nuit.|I didn't sleep very well|d||daily_routine|
+I've had a long day.|J'ai eu une longue journée.|A2|5|4|Sorry, I've had a long day.|Désolé, j'ai eu une longue journée.|I've had a long day|c||daily_routine|
+I've got a busy day ahead.|J'ai une journée chargée qui m'attend.|B1|4|3|I've got a busy day ahead, let's talk tonight.|J'ai une journée chargée, parlons-en ce soir.|I've got a busy day ahead|c||daily_routine|
+It's been a crazy week.|Ça a été une semaine de fou.|B1|5|4|It's been a crazy week at work.|Ça a été une semaine de fou au travail.|It's been a crazy week|c|i|daily_routine|
+I'm looking forward to the weekend.|J'ai hâte d'être au week-end.|B1|5|4|It's only Tuesday. I'm looking forward to the weekend.|Ce n'est que mardi. J'ai hâte d'être au week-end.|I'm looking forward to the weekend|c||small_talk|
+Thank God it's Friday.|Vivement le week-end, enfin vendredi.|B1|4|3|Thank God it's Friday!|Enfin vendredi !|Thank God it's Friday|c|i|small_talk|
+How's your week going?|Comment se passe ta semaine ?|A2|5|4|Hi! How's your week going?|Salut ! Comment se passe ta semaine ?|How's your week going?|c||small_talk|
+Any plans for the weekend?|Des projets pour le week-end ?|A2|5|5|It's nearly Friday. Any plans for the weekend?|C'est presque vendredi. Des projets pour le week-end ?|Any plans for the weekend?|c||small_talk|
+Nice weather we're having.|Il fait beau, n'est-ce pas ?|A2|4|3|Nice weather we're having, isn't it?|Il fait beau, n'est-ce pas ?|Nice weather we're having|c||small_talk,weather|
+How's everything?|Comment ça va, tout va bien ?|A2|5|4|Hi Sam! How's everything?|Salut Sam ! Tout va bien ?|How's everything?|c|i|small_talk|
+How are things?|Comment vont les choses ?|A2|5|4|Long time no see. How are things?|Ça fait longtemps. Comment vont les choses ?|How are things?|c|i|small_talk|
+Can't complain.|Je ne peux pas me plaindre.|B1|4|3|How are you? Can't complain.|Comment vas-tu ? Je ne peux pas me plaindre.|Can't complain|c|i|small_talk|
+Same as always.|Comme d'habitude.|A2|4|3|How's work? Same as always.|Comment va le travail ? Comme d'habitude.|Same as always|c|i|small_talk|
+Who's this?|C'est qui ?|A1|4|3|Who's this in the photo?|C'est qui sur la photo ?|Who's this|c||basics|
+What's your name again?|Comment tu t'appelles, déjà ?|A2|5|4|Sorry, what's your name again?|Désolé, comment tu t'appelles, déjà ?|what's your name again?|c||small_talk|
+How do you two know each other?|Comment vous connaissez-vous ?|B1|5|4|How do you two know each other?|Comment vous connaissez-vous tous les deux ?|How do you two know each other?|c||small_talk|
+This is my friend...|Je te présente mon ami...|A1|5|5|This is my friend Tom.|Je te présente mon ami Tom.|This is my friend|c||small_talk|
+Do you live around here?|Tu habites dans le coin ?|A2|5|4|Do you live around here?|Tu habites dans le coin ?|Do you live around here?|c||small_talk|
+Do you come here often?|Tu viens souvent ici ?|A2|5|3|Nice place. Do you come here often?|Bel endroit. Tu viens souvent ici ?|Do you come here often?|c||small_talk|
+What do you think of...?|Comment trouves-tu... ?|A2|5|5|What do you think of the new boss?|Que penses-tu du nouveau patron ?|What do you think of|c||fn_opinion|
+I don't think it's a good idea.|Je ne pense pas que ce soit une bonne idée.|A2|5|4|I don't think it's a good idea to go now.|Je ne pense pas que ce soit une bonne idée d'y aller maintenant.|I don't think it's a good idea|c||fn_disagree|
+I'd say it's about...|Je dirais que c'est environ...|B1|5|3|I'd say it's about two hours from here.|Je dirais que c'est à environ deux heures d'ici.|I'd say it's about|c||fn_nuance|
+It's not my thing.|Ce n'est pas mon truc.|B1|5|4|Thanks, but opera's not my thing.|Merci, mais l'opéra, ce n'est pas mon truc.|not my thing|c|i|fn_opinion|
+I'm not a big fan of...|Je ne suis pas très fan de...|B1|5|5|I'm not a big fan of spicy food.|Je ne suis pas très fan de la cuisine épicée.|I'm not a big fan of|c||fn_opinion|
+I'm a big fan of...|Je suis un grand fan de...|B1|5|3|I'm a big fan of British comedy.|Je suis un grand fan de comédie britannique.|I'm a big fan of|c||fn_opinion|
+I'm not really into...|Je n'aime pas trop...|B1|5|5|I'm not really into sport.|Je n'aime pas trop le sport.|I'm not really into|c|i|fn_opinion|
+I can take it or leave it.|Ça m'est égal, sans plus.|B2|3|3|Football? I can take it or leave it.|Le foot ? Sans plus.|I can take it or leave it|c|i|fn_opinion|
+It's OK, I suppose.|C'est correct, je suppose.|B1|5|3|The film? It's OK, I suppose.|Le film ? C'est correct, je suppose.|It's OK, I suppose|c||fn_opinion|
+It was better than I expected.|C'était mieux que ce que j'attendais.|B1|5|4|The hotel was better than I expected.|L'hôtel était mieux que ce que j'attendais.|better than I expected|c||fn_opinion|
+It wasn't as good as I expected.|Ce n'était pas aussi bien que je l'espérais.|B1|5|4|The concert wasn't as good as I expected.|Le concert n'était pas aussi bien que je l'espérais.|wasn't as good as I expected|c||fn_opinion|
+I'd recommend it.|Je le recommande.|B1|5|4|It's a great hotel, I'd recommend it.|C'est un très bon hôtel, je le recommande.|I'd recommend it|c||fn_suggest|
+I wouldn't recommend it.|Je ne le recommande pas.|B1|5|3|The food was awful, I wouldn't recommend it.|La cuisine était horrible, je ne le recommande pas.|I wouldn't recommend it|c||fn_suggest|
+You should try it.|Tu devrais essayer.|A2|5|3|This soup is great, you should try it.|Cette soupe est excellente, tu devrais essayer.|you should try it|c||fn_suggest|
+You won't regret it.|Tu ne le regretteras pas.|B1|5|4|Come with us, you won't regret it.|Viens avec nous, tu ne le regretteras pas.|you won't regret it|c||fn_suggest|
+Trust me.|Fais-moi confiance.|A2|5|4|It's the right road, trust me.|C'est la bonne route, fais-moi confiance.|trust me|c||fn_suggest|
+Believe me.|Crois-moi.|A2|5|4|Believe me, it's not worth it.|Crois-moi, ça n'en vaut pas la peine.|Believe me|c||fn_suggest|
+Take my word for it.|Crois-moi sur parole.|B2|4|3|It's a mistake, take my word for it.|C'est une erreur, crois-moi sur parole.|take my word for it|c||fn_suggest|
+I told you so.|Je te l'avais bien dit.|B1|5|4|It rained? I told you so.|Il a plu ? Je te l'avais bien dit.|I told you so|c||fn_react|
+You were right.|Tu avais raison.|A1|5|4|You were right, it was closed.|Tu avais raison, c'était fermé.|You were right|c||fn_agree|
+I was wrong.|J'avais tort.|A1|5|4|I was wrong, I'm sorry.|J'avais tort, je suis désolé.|I was wrong|c||fn_react|
+My mistake.|Au temps pour moi.|B1|5|5|You're right, my mistake.|Tu as raison, au temps pour moi.|my mistake|c||fn_react|
+My bad.|Ma faute (familier).|B1|4|3|I forgot to call. My bad.|J'ai oublié d'appeler. Ma faute.|My bad|c|i|fn_react|
+I stand corrected.|Je reconnais mon erreur.|B2+|4|3|You're right. I stand corrected.|Tu as raison. Je reconnais mon erreur.|I stand corrected|c|f|fn_agree|
+Point taken.|Message reçu.|B2|4|3|Point taken, I'll be more careful.|Message reçu, je ferai plus attention.|Point taken|c||fn_agree|
+Good thinking.|Bien vu.|B1|5|4|You brought a map? Good thinking.|Tu as pris un plan ? Bien vu.|Good thinking|c|i|fn_agree|
+Good to know.|Bon à savoir.|A2|5|5|The bank closes at four? Good to know.|La banque ferme à seize heures ? Bon à savoir.|Good to know|c||fn_react|
+Excuse me, is this the way to...?|Excusez-moi, c'est bien le chemin pour... ?|A2|5|4|Excuse me, is this the way to the beach?|Excusez-moi, c'est bien le chemin pour la plage ?|is this the way to|t||travel|
+Could you show me on the map?|Pourriez-vous me montrer sur le plan ?|A2|5|4|Could you show me on the map, please?|Pourriez-vous me montrer sur le plan, s'il vous plaît ?|Could you show me on the map|t||travel|
+Go past the church.|Passez devant l'église.|A2|4|3|Go past the church and turn left.|Passez devant l'église et tournez à gauche.|Go past the church|t||directions|
+Take the second left.|Prenez la deuxième à gauche.|A2|5|4|Take the second left after the bank.|Prenez la deuxième à gauche après la banque.|Take the second left|t||directions|
+It's on your right.|C'est sur votre droite.|A2|5|4|Keep walking and it's on your right.|Continuez à marcher, c'est sur votre droite.|it's on your right|t||directions|
+Keep going until you reach...|Continuez jusqu'à...|A2|5|4|Keep going until you reach the bridge.|Continuez jusqu'au pont.|Keep going until you reach|t||directions|
+I'm not from around here.|Je ne suis pas d'ici.|A2|5|4|Sorry, I'm not from around here.|Désolé, je ne suis pas d'ici.|I'm not from around here|t||travel|
+@collocation
+give directions|indiquer le chemin|A2|5|3|Could you give me directions to the hotel?|Pourriez-vous m'indiquer le chemin de l'hôtel ?|give me directions|t||travel|
+get directions|obtenir son itinéraire|A2|3|2|I got directions on my phone.|J'ai eu l'itinéraire sur mon téléphone.|got directions|t||travel|
+pick up the phone|décrocher|A2|5|4|He didn't pick up the phone.|Il n'a pas décroché.|pick up the phone|c||phone|
+leave a voicemail|laisser un message vocal|A2|4|3|I left you a voicemail.|Je t'ai laissé un message vocal.|left you a voicemail|c||phone|
+make a video call|passer un appel vidéo|A2|5|3|We make a video call every Sunday.|Nous passons un appel vidéo chaque dimanche.|make a video call|c||phone|
+put the kids to bed|coucher les enfants|A2|5|3|I'll put the kids to bed.|Je vais coucher les enfants.|put the kids to bed|d||family|
+take care of the children|s'occuper des enfants|A2|5|3|Who's taking care of the children?|Qui s'occupe des enfants ?|taking care of the children|d||family|
+pick up the kids|aller chercher les enfants|A2|5|4|I'll pick up the kids from school.|J'irai chercher les enfants à l'école.|pick up the kids|d||family|
+raise children|élever des enfants|B1|5|3|It's expensive to raise children here.|C'est cher d'élever des enfants ici.|raise children|d||family|
+have children|avoir des enfants|A1|5|3|Do you have children?|Tu as des enfants ?|have children|c||family|
+start a family|fonder une famille|B1|5|4|They want to start a family.|Ils veulent fonder une famille.|start a family|c||family|
+spend time with|passer du temps avec|A2|5|4|I want to spend time with my family.|Je veux passer du temps avec ma famille.|spend time with|c||family|
+visit family|rendre visite à sa famille|A2|4|3|We're visiting family in Spain.|Nous rendons visite à notre famille en Espagne.|visiting family|c||family|
+celebrate a birthday|fêter un anniversaire|A2|5|3|We celebrated her birthday at home.|Nous avons fêté son anniversaire à la maison.|celebrated her birthday|c||family|
+throw a party|organiser une fête|B1|5|4|We're throwing a party on Saturday.|Nous organisons une fête samedi.|throwing a party|c||leisure|
+invite someone over|inviter quelqu'un chez soi|B1|5|3|Let's invite the neighbours over.|Invitons les voisins à la maison.|invite the neighbours over|c||leisure|
+meet new people|rencontrer de nouvelles personnes|A2|5|4|I love meeting new people.|J'adore rencontrer de nouvelles personnes.|meeting new people|c||relationships|
+go on a date|sortir en rendez-vous|B1|5|3|We went on a date last night.|Nous sommes sortis en rendez-vous hier soir.|went on a date|c||relationships|
+have an affair|avoir une liaison|B1|3|2|He had an affair with a colleague.|Il a eu une liaison avec une collègue.|had an affair|c||relationships|
+get back together|se remettre ensemble|B1|4|3|They got back together last month.|Ils se sont remis ensemble le mois dernier.|got back together|c||relationships|
+make up your mind|se décider|B1|5|5|Make up your mind, we're late.|Décide-toi, nous sommes en retard.|Make up your mind|c||decision|
+take sides|prendre parti|B2|4|4|I don't want to take sides.|Je ne veux pas prendre parti.|take sides|c||decision|
+respect someone's decision|respecter la décision de quelqu'un|B1|4|3|I respect your decision.|Je respecte ta décision.|respect your decision|c||decision|
+speak your mind|dire ce qu'on pense|B2|5|4|Don't be afraid to speak your mind.|N'aie pas peur de dire ce que tu penses.|speak your mind|c||communication|
+get to the point|aller à l'essentiel|B1|5|5|Please get to the point.|S'il te plaît, va à l'essentiel.|get to the point|c||communication|
+get the message|comprendre le message|B1|4|3|OK, I get the message.|D'accord, j'ai compris le message.|get the message|c|i|communication|
+get the idea|saisir l'idée|A2|5|3|Do you get the idea?|Tu saisis l'idée ?|get the idea|c||communication|
+get a word in|placer un mot|B2|3|2|I couldn't get a word in.|Je n'ai pas pu en placer une.|get a word in|c|i|communication|
+have a word with|parler à quelqu'un|B1|5|5|Can I have a word with you?|Je peux te dire un mot ?|have a word with|w||communication|
+have a say|avoir son mot à dire|B2|5|4|Staff should have a say in this.|Le personnel devrait avoir son mot à dire.|have a say|w||pro,management|
+have a think|réfléchir un peu|B1|4|3|Let me have a think about it.|Laisse-moi y réfléchir un peu.|have a think|c|i|decision|
+have a laugh|bien rigoler|B1|4|3|We had a laugh at the pub.|Nous avons bien rigolé au pub.|had a laugh|c|i|leisure|
+have a lie-in|faire la grasse matinée (UK)|B1|4|3|I had a lie-in on Sunday.|J'ai fait la grasse matinée dimanche.|had a lie-in|d|i|daily_routine|
+have a nap|faire une petite sieste|A2|4|2|I'll have a nap after lunch.|Je ferai une petite sieste après le déjeuner.|have a nap|d||daily_routine|
+have a snack|prendre un en-cas|A2|4|3|Let's have a snack before we go.|Prenons un en-cas avant de partir.|have a snack|d||food|
+have a bath|prendre un bain|A1|4|2|I'll have a bath and go to bed.|Je vais prendre un bain et me coucher.|have a bath|d||daily_routine|
+have a headache|avoir mal à la tête|A1|5|3|I have a terrible headache.|J'ai un terrible mal de tête.|have a terrible headache|d||health|
+have a fever|avoir de la fièvre|A2|5|3|The baby has a fever.|Le bébé a de la fièvre.|has a fever|d||health|
+have an operation|subir une opération|A2|5|3|She had an operation on her knee.|Elle a subi une opération au genou.|had an operation|d||health|
+have an allergy|avoir une allergie|A2|4|3|Do you have an allergy to anything?|Tu es allergique à quelque chose ?|have an allergy|d||health|
+@connector
+as I say|comme je le dis|B1|3|2|As I say, it's only an idea.|Comme je le dis, ce n'est qu'une idée.|As I say|c||fn_explain|
+as usual|comme à son habitude|A2|5|5|He was late, as usual.|Il était en retard, comme d'habitude.|as usual|c||fn_narrate|
+as always|comme toujours|A2|5|3|As always, thanks for your help.|Comme toujours, merci pour ton aide.|As always|c||fn_narrate|
+as ever|comme toujours (UK)|B2|3|2|As ever, she was right.|Comme toujours, elle avait raison.|As ever|c||fn_narrate|
+as planned|comme prévu|B1|5|5|Everything went as planned.|Tout s'est passé comme prévu.|as planned|c||fn_narrate|
+as expected|comme prévu, comme attendu|B1|5|4|As expected, it was full.|Comme on s'y attendait, c'était plein.|As expected|c||fn_narrate|

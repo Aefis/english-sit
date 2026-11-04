@@ -1202,5 +1202,89 @@
       "shop"
     ],
     "reason": "Activité à part entière."
+  },
+  {
+    "ids": [
+      "what-do-you-think",
+      "what-do-you-think-of"
+    ],
+    "reason": "Question ouverte, et amorce."
+  },
+  {
+    "ids": [
+      "im-not-a-big-fan-of",
+      "im-a-big-fan-of"
+    ],
+    "reason": "Sens opposés."
+  },
+  {
+    "ids": [
+      "as-i-was-saying",
+      "as-i-say"
+    ],
+    "reason": "Formules distinctes."
+  },
+  {
+    "ids": [
+      "get-a-message",
+      "get-the-message"
+    ],
+    "reason": "Recevoir, et comprendre."
+  },
+  {
+    "ids": [
+      "youre-right",
+      "you-were-right"
+    ],
+    "reason": "Temps différents, utiles tous les deux."
+  },
+  {
+    "ids": [
+      "spend-time",
+      "spend-time-with"
+    ],
+    "reason": "Collocations voisines."
+  },
+  {
+    "ids": [
+      "confused",
+      "confuse"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "cooking",
+      "cook"
+    ],
+    "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "crowded",
+      "crowd"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "determined",
+      "determine"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "earring",
+      "ear"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "divided",
+      "divide"
+    ],
+    "reason": "Adjectif à part entière."
   }
 ]
