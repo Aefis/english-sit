@@ -1286,5 +1286,124 @@
       "divide"
     ],
     "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "get-a-flat-tire",
+      "get-a-flat-tyre"
+    ],
+    "reason": "Variantes UK et US."
+  },
+  {
+    "ids": [
+      "hire-a-car",
+      "rent-a-car"
+    ],
+    "reason": "Variantes UK et US."
+  },
+  {
+    "ids": [
+      "could-i-have-the-check",
+      "could-i-have-the-bill"
+    ],
+    "reason": "Variantes UK et US."
+  },
+  {
+    "ids": [
+      "ive-run-out-of-gas",
+      "ive-run-out-of-petrol"
+    ],
+    "reason": "Variantes UK et US."
+  },
+  {
+    "ids": [
+      "have-a-temperature",
+      "have-a-fever"
+    ],
+    "reason": "Variantes d'usage, l'une surtout britannique."
+  },
+  {
+    "ids": [
+      "how-long-does-it-take",
+      "how-long-will-it-take"
+    ],
+    "reason": "Durée habituelle et durée à venir."
+  },
+  {
+    "ids": [
+      "scan-a-document",
+      "sign-a-document"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "deserted",
+      "desert"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "compare-prices",
+      "shop-around"
+    ],
+    "reason": "Sens proches, formes différentes."
+  },
+  {
+    "ids": [
+      "put-the-bins-out",
+      "take-out-the-rubbish"
+    ],
+    "reason": "Deux formulations courantes."
+  },
+  {
+    "ids": [
+      "knock-on-the-door",
+      "knock"
+    ],
+    "reason": "Collocation et mot isolé."
+  },
+  {
+    "ids": [
+      "get-tired",
+      "get-fired"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "sit-an-exam",
+      "take-an-exam"
+    ],
+    "reason": "Variante surtout britannique."
+  },
+  {
+    "ids": [
+      "tuition-fees",
+      "tuition"
+    ],
+    "reason": "Collocation et mot isolé."
+  },
+  {
+    "ids": [
+      "win-a-match",
+      "win"
+    ],
+    "reason": "Collocation et mot isolé."
+  },
+  {
+    "ids": [
+      "change-a-diaper",
+      "change-a-nappy"
+    ],
+    "reason": "Variantes UK et US."
+  },
+  {
+    "ids": [
+      "fasten-your-seatbelt",
+      "wear-a-seat-belt"
+    ],
+    "reason": "Geste et obligation."
   }
 ]

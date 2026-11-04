@@ -1,0 +1,70 @@
+# Lot 040 : A2-B2 (numérique, téléphone, banque, administratif, voiture, santé : collocations et expressions par thème)
+@collocation
+delete an account|supprimer un compte|B1|4|3|I deleted my account last year.|J'ai supprimé mon compte l'année dernière.|deleted my account|d||technology|
+install an update|installer une mise à jour|B1|4|3|I installed the update last night.|J'ai installé la mise à jour hier soir.|installed the update|d||technology|
+restart your computer|redémarrer son ordinateur|A2|5|4|Try restarting your computer.|Essaie de redémarrer ton ordinateur.|restarting your computer|d||technology,it|
+mute your microphone|couper son micro|B1|4|4|Please mute your microphone during the talk.|Merci de couper votre micro pendant l'exposé.|mute your microphone|w||meetings,pro|
+turn on your camera|allumer sa caméra|A2|4|4|Could everyone turn on their camera?|Est-ce que tout le monde pourrait allumer sa caméra ?|turn on their camera|w||meetings,pro|
+send a link|envoyer un lien|A2|5|5|I'll send you the link by email.|Je t'envoie le lien par e-mail.|send you the link|w||technology,pro|
+click on a link|cliquer sur un lien|A2|5|4|Don't click on links in strange emails.|Ne clique pas sur les liens dans les e-mails bizarres.|click on links|d||technology|
+post a photo|publier une photo|A2|5|4|She posted a photo of her new flat.|Elle a publié une photo de son nouvel appartement.|posted a photo|d||technology,media|
+send a text|envoyer un SMS|A2|5|5|I'll send you a text when I arrive.|Je t'envoie un SMS quand j'arrive.|send you a text|d||phone|
+scan a QR code|scanner un QR code|B1|4|3|Scan the QR code to see the menu.|Scannez le QR code pour voir la carte.|Scan the QR code|t||technology|
+connect to the wifi|se connecter au wifi|A2|5|5|I can't connect to the wifi here.|Je n'arrive pas à me connecter au wifi ici.|connect to the wifi|d||technology|
+run out of storage|ne plus avoir d'espace de stockage|B1|4|3|My phone has run out of storage.|Mon téléphone n'a plus d'espace de stockage.|run out of storage|d||technology|
+block a number|bloquer un numéro|B1|4|3|I blocked his number after the third call.|J'ai bloqué son numéro après le troisième appel.|blocked his number|d||phone|
+close an account|fermer un compte|B1|4|3|She closed her account and moved to another bank.|Elle a fermé son compte et a changé de banque.|closed her account|d||money,admin|
+cancel a card|faire opposition sur une carte|B1|4|4|I had to cancel my card after losing my wallet.|J'ai dû faire opposition sur ma carte après avoir perdu mon portefeuille.|cancel my card|d||money|
+pay off a loan|rembourser un prêt|B1|4|4|We paid off the loan in ten years.|Nous avons remboursé le prêt en dix ans.|paid off the loan|d||money|
+take out insurance|souscrire une assurance|B1|4|4|You should take out travel insurance.|Tu devrais souscrire une assurance voyage.|take out travel insurance|d||money,admin|
+make a claim|déclarer un sinistre|B2|4|3|I made a claim after the accident.|J'ai déclaré un sinistre après l'accident.|made a claim|d||admin|
+file a tax return|faire sa déclaration d'impôts|B2|4|4|I have to file my tax return by May.|Je dois faire ma déclaration d'impôts avant mai.|file my tax return|d||money,admin|
+sign a document|signer un document|A2|5|4|You have to sign the document here.|Vous devez signer le document ici.|sign the document|d||admin|
+provide proof of address|fournir un justificatif de domicile|B1|4|4|You must provide proof of address.|Vous devez fournir un justificatif de domicile.|provide proof of address|d||admin|
+cancel an appointment|annuler un rendez-vous|A2|5|5|I need to cancel my appointment on Friday.|Je dois annuler mon rendez-vous de vendredi.|cancel my appointment|d||health,admin|
+reschedule an appointment|décaler un rendez-vous|B1|4|4|Can we reschedule the appointment to Monday?|On peut décaler le rendez-vous à lundi ?|reschedule the appointment|d||admin|
+fill up the car|faire le plein|B1|4|4|I need to fill up the car before the motorway.|Je dois faire le plein avant l'autoroute.|fill up the car|d||transport|
+get a flat tyre|crever un pneu|B1|4|4|We got a flat tyre on the way home.|On a crevé en rentrant.|got a flat tyre|d||transport|variant=UK ;; counterpart=get a flat tire ;; sense=orthographe britannique
+get a flat tire|crever un pneu|B1|4|3|We got a flat tire on the way home.|On a crevé en rentrant.|got a flat tire|d||transport,uk_us|variant=US ;; counterpart=get a flat tyre ;; sense=orthographe américaine
+get a parking ticket|recevoir une amende de stationnement|B1|4|3|I got a parking ticket yesterday.|J'ai eu une amende de stationnement hier.|got a parking ticket|d||transport|
+get a speeding ticket|recevoir une amende pour excès de vitesse|B1|4|3|She got a speeding ticket near Lyon.|Elle a eu une amende pour excès de vitesse près de Lyon.|got a speeding ticket|d||transport|
+hire a car|louer une voiture|A2|5|4|We hired a car at the airport.|Nous avons loué une voiture à l'aéroport.|hired a car|t||transport,travel,uk_us|sense=usage britannique
+have a temperature|avoir de la fièvre|A2|5|5|I think I have a temperature.|Je crois que j'ai de la fièvre.|have a temperature|d||health|
+take your temperature|prendre sa température|A2|4|3|Let me take your temperature.|Laisse-moi prendre ta température.|take your temperature|d||health|
+have a sore throat|avoir mal à la gorge|A2|5|5|I've had a sore throat for three days.|J'ai mal à la gorge depuis trois jours.|had a sore throat|d||health|
+have a runny nose|avoir le nez qui coule|B1|4|4|The kids all have a runny nose.|Les enfants ont tous le nez qui coule.|have a runny nose|d||health|
+feel dizzy|avoir la tête qui tourne|B1|4|4|I felt dizzy when I stood up.|J'ai eu la tête qui tournait en me levant.|felt dizzy|d||health|
+sprain your ankle|se fouler la cheville|B1|4|4|I sprained my ankle playing football.|Je me suis foulé la cheville en jouant au foot.|sprained my ankle|d||health|
+break your arm|se casser le bras|A2|4|4|He broke his arm when he was ten.|Il s'est cassé le bras à dix ans.|broke his arm|d||health|
+get a prescription|obtenir une ordonnance|B1|4|4|You need to get a prescription for this.|Il te faut une ordonnance pour ça.|get a prescription|d||health|
+get vaccinated|se faire vacciner|B1|4|3|I got vaccinated before the trip.|Je me suis fait vacciner avant le voyage.|got vaccinated|d||health|
+have a blood test|faire une prise de sang|B1|4|4|I have to have a blood test tomorrow.|Je dois faire une prise de sang demain.|have a blood test|d||health|
+have a toothache|avoir mal aux dents|A2|4|4|I've got a terrible toothache.|J'ai terriblement mal aux dents.|got a terrible toothache|d||health|
+@chunk
+My phone's dead.|Mon téléphone n'a plus de batterie.|A2|5|5|Sorry, my phone's dead, can I use yours?|Désolé, mon téléphone n'a plus de batterie, je peux utiliser le tien ?|my phone's dead|d|i|phone|
+My battery's about to die.|Je n'ai presque plus de batterie.|B1|4|4|I can't talk long, my battery's about to die.|Je ne peux pas parler longtemps, je n'ai presque plus de batterie.|my battery's about to die|d|i|phone|
+I've got no signal.|Je n'ai pas de réseau.|A2|5|5|I've got no signal in this building.|Je n'ai pas de réseau dans ce bâtiment.|I've got no signal|d||phone|
+It keeps crashing.|Ça plante sans arrêt.|B1|4|4|I can't use this app, it keeps crashing.|Je ne peux pas utiliser cette appli, ça plante sans arrêt.|it keeps crashing|d|i|technology|
+The screen has frozen.|L'écran est figé.|B1|4|3|The screen has frozen again.|L'écran est encore figé.|screen has frozen|d||technology|
+I can't get it to work.|Je n'arrive pas à le faire marcher.|B1|5|5|I can't get it to work, can you help me?|Je n'arrive pas à le faire marcher, tu peux m'aider ?|can't get it to work|d||technology|
+I forgot my password.|J'ai oublié mon mot de passe.|A2|5|4|I forgot my password again.|J'ai encore oublié mon mot de passe.|forgot my password|d||technology|
+It's not loading.|Ça ne charge pas.|A2|5|4|The page is not loading.|La page ne charge pas.|not loading|d||technology|
+Could I have the bill?|Je pourrais avoir l'addition ?|A2|5|5|Could I have the bill, please?|Je pourrais avoir l'addition, s'il vous plaît ?|Could I have the bill|t||food|variant=UK ;; counterpart=Could I have the check? ;; sense=usage britannique
+Could I have the check?|Je pourrais avoir l'addition ?|A2|5|4|Could I have the check, please?|Je pourrais avoir l'addition, s'il vous plaît ?|Could I have the check|t||food,uk_us|variant=US ;; counterpart=Could I have the bill? ;; sense=usage américain
+My card was declined.|Ma carte a été refusée.|B1|4|4|My card was declined at the supermarket.|Ma carte a été refusée au supermarché.|My card was declined|d||money|
+I've lost my wallet.|J'ai perdu mon portefeuille.|A2|5|5|I've lost my wallet, I need to call the bank.|J'ai perdu mon portefeuille, je dois appeler la banque.|lost my wallet|t||money,travel|
+I'd like to speak to an adviser.|J'aimerais parler à un conseiller.|B1|4|4|I'd like to speak to an adviser about a loan.|J'aimerais parler à un conseiller au sujet d'un prêt.|speak to an adviser|d|f|money|
+Where do I sign?|Où dois-je signer ?|A2|4|4|OK, where do I sign?|D'accord, où dois-je signer ?|where do I sign|d||admin|
+What documents do I need?|De quels documents ai-je besoin ?|A2|5|4|What documents do I need to bring?|Quels documents dois-je apporter ?|What documents do I need|d||admin|
+What's the deadline?|C'est quoi la date limite ?|B1|5|5|What's the deadline for applications?|C'est quoi la date limite pour les candidatures ?|What's the deadline|w||admin,pro|
+How long will it take?|Ça va prendre combien de temps ?|A2|5|5|How long will it take to get the visa?|Ça va prendre combien de temps pour avoir le visa ?|How long will it take|d||admin|
+The car won't start.|La voiture ne démarre pas.|A2|5|4|It's so cold that the car won't start.|Il fait tellement froid que la voiture ne démarre pas.|the car won't start|d||transport|
+I've run out of petrol.|Je suis en panne d'essence.|B1|4|3|I've run out of petrol on a country road.|Je suis en panne d'essence sur une route de campagne.|run out of petrol|d||transport|variant=UK ;; counterpart=I've run out of gas. ;; sense=usage britannique
+I've run out of gas.|Je suis en panne d'essence.|B1|4|3|I've run out of gas on a country road.|Je suis en panne d'essence sur une route de campagne.|run out of gas|d||transport,uk_us|variant=US ;; counterpart=I've run out of petrol. ;; sense=usage américain
+Is there a car park nearby?|Y a-t-il un parking à proximité ?|A2|4|4|Excuse me, is there a car park nearby?|Excusez-moi, y a-t-il un parking à proximité ?|car park nearby|t||transport|
+It hurts here.|J'ai mal ici.|A2|5|5|It hurts here when I walk.|J'ai mal ici quand je marche.|It hurts here|d||health|
+I've been feeling tired lately.|Je me sens fatigué ces derniers temps.|B1|4|4|I've been feeling tired lately, I don't know why.|Je me sens fatigué ces derniers temps, je ne sais pas pourquoi.|I've been feeling tired lately|d||health|
+How often should I take it?|Je dois le prendre à quelle fréquence ?|B1|4|4|How often should I take it, doctor?|Je dois le prendre à quelle fréquence, docteur ?|How often should I take it|d||health|
+Do you have anything for a headache?|Avez-vous quelque chose contre le mal de tête ?|B1|4|4|Excuse me, do you have anything for a headache?|Excusez-moi, avez-vous quelque chose contre le mal de tête ?|anything for a headache|d||health|
+I need to see a dentist.|Je dois voir un dentiste.|A2|4|4|I need to see a dentist as soon as possible.|Je dois voir un dentiste dès que possible.|need to see a dentist|d||health|
+I'm on medication.|Je suis sous traitement.|B1|4|4|I can't drink, I'm on medication.|Je ne peux pas boire, je suis sous traitement.|I'm on medication|d||health|

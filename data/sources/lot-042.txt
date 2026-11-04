@@ -1,0 +1,94 @@
+# Lot 042 : A2-B2+ (études, sport, enfants, émotions, relations, avion et hôtel, vie de bureau : collocations par thème)
+@collocation
+go to university|aller à l'université|A2|5|4|She wants to go to university in Canada.|Elle veut aller à l'université au Canada.|go to university|d||learning|
+study abroad|étudier à l'étranger|B1|4|4|I studied abroad for a year.|J'ai étudié à l'étranger pendant un an.|studied abroad|d||learning|
+sit an exam|passer un examen|B1|4|4|I'm sitting my final exam on Monday.|Je passe mon dernier examen lundi.|sitting my final exam|a||learning|
+revise for an exam|réviser pour un examen|B1|5|4|I'm revising for an exam all week.|Je révise pour un examen toute la semaine.|revising for an exam|a||learning|
+get good grades|avoir de bonnes notes|A2|4|4|She always gets good grades in maths.|Elle a toujours de bonnes notes en maths.|gets good grades|a||learning|
+skip a class|sécher un cours|B1|3|3|We skipped a class to go to the beach.|Nous avons séché un cours pour aller à la plage.|skipped a class|a|i|learning|
+take a gap year|prendre une année de césure|B1|4|3|He took a gap year before university.|Il a pris une année de césure avant l'université.|took a gap year|a||learning|
+write an essay|rédiger une dissertation|A2|5|4|I have to write an essay for Friday.|Je dois rédiger une dissertation pour vendredi.|write an essay|a||learning,writing|
+attend a lecture|assister à un cours magistral|B1|4|3|Did you attend the lecture this morning?|Tu as assisté au cours magistral ce matin ?|attend the lecture|a||learning|
+learn by heart|apprendre par cœur|A2|4|4|We had to learn the poem by heart.|Nous avons dû apprendre le poème par cœur.|learn the poem by heart|a||learning|
+get a scholarship|obtenir une bourse|B1|4|3|She got a scholarship to study in Boston.|Elle a obtenu une bourse pour étudier à Boston.|got a scholarship|a||learning|
+tuition fees|frais de scolarité|B1|5|3|Tuition fees are very high in the UK.|Les frais de scolarité sont très élevés au Royaume-Uni.|Tuition fees|a||learning,money|
+student loan|prêt étudiant|B1|4|3|I'm still paying off my student loan.|Je rembourse encore mon prêt étudiant.|student loan|d||learning,money|
+school holidays|vacances scolaires|A2|4|4|Prices go up during the school holidays.|Les prix augmentent pendant les vacances scolaires.|school holidays|d||learning|
+go to the gym|aller à la salle de sport|A2|5|5|I go to the gym after work.|Je vais à la salle de sport après le travail.|go to the gym|d||leisure|
+join a gym|s'inscrire à une salle de sport|A2|4|3|I joined a gym in January.|Je me suis inscrit à une salle de sport en janvier.|joined a gym|d||leisure|
+go for a run|aller faire un footing|A2|5|5|I go for a run every morning.|Je vais faire un footing tous les matins.|go for a run|d||leisure|
+go for a swim|aller se baigner|A2|4|4|Let's go for a swim before dinner.|Allons nous baigner avant le dîner.|go for a swim|d||leisure|
+go for a bike ride|faire un tour à vélo|A2|4|4|We went for a bike ride along the river.|Nous avons fait un tour à vélo le long de la rivière.|went for a bike ride|d||leisure|
+go hiking|faire de la randonnée|A2|5|4|We go hiking in the Alps every summer.|Nous faisons de la randonnée dans les Alpes chaque été.|go hiking|d||leisure|
+lift weights|faire de la musculation|B1|4|3|He lifts weights three times a week.|Il fait de la musculation trois fois par semaine.|lifts weights|d||leisure|
+get in shape|se remettre en forme|B1|5|5|I want to get in shape this summer.|Je veux me remettre en forme cet été.|get in shape|d||leisure,health|
+stay in shape|rester en forme|B1|5|4|She swims to stay in shape.|Elle nage pour rester en forme.|stay in shape|d||leisure,health|
+stretch your legs|se dégourdir les jambes|B1|4|4|Let's stop and stretch our legs.|Arrêtons-nous pour nous dégourdir les jambes.|stretch our legs|d||leisure|
+win a match|gagner un match|A2|5|4|We won the match three-one.|Nous avons gagné le match trois à un.|won the match|d||leisure|
+beat a team|battre une équipe|B1|4|3|France beat Spain in the final.|La France a battu l'Espagne en finale.|beat Spain|d||leisure|
+home game|match à domicile|B1|4|3|We have a home game on Saturday.|Nous avons un match à domicile samedi.|home game|d||leisure|
+change a nappy|changer une couche|B1|3|3|Can you change the baby's nappy?|Tu peux changer la couche du bébé ?|change the baby's nappy|d||family|variant=UK ;; counterpart=change a diaper ;; sense=usage britannique
+change a diaper|changer une couche|B1|3|3|Can you change the baby's diaper?|Tu peux changer la couche du bébé ?|change the baby's diaper|d||family,uk_us|variant=US ;; counterpart=change a nappy ;; sense=usage américain
+drop the kids off|déposer les enfants|B1|5|4|I drop the kids off at school at eight.|Je dépose les enfants à l'école à huit heures.|drop the kids off|d||family|
+read a bedtime story|lire une histoire du soir|A2|3|3|I read a bedtime story to my son every night.|Je lis une histoire du soir à mon fils tous les soirs.|read a bedtime story|d||family|
+be expecting a baby|attendre un bébé|B1|4|4|My sister is expecting a baby in May.|Ma sœur attend un bébé pour mai.|is expecting a baby|d||family|
+hire a babysitter|prendre une baby-sitter|B1|3|3|We hired a babysitter for Saturday night.|Nous avons pris une baby-sitter pour samedi soir.|hired a babysitter|d||family|
+break someone's heart|briser le cœur de quelqu'un|B1|4|3|It broke my heart to leave them.|Ça m'a brisé le cœur de les quitter.|broke my heart|c||relationships,feelings|
+hurt someone's feelings|blesser quelqu'un|B1|5|5|I'm sorry, I didn't want to hurt your feelings.|Je suis désolé, je ne voulais pas te blesser.|hurt your feelings|c||relationships,feelings|
+hold hands|se tenir la main|A2|4|3|They were holding hands in the street.|Ils se tenaient la main dans la rue.|holding hands|c||relationships|
+give someone a hug|serrer quelqu'un dans ses bras|A2|5|4|Come here and give me a hug.|Viens me serrer dans tes bras.|give me a hug|c||relationships|
+shake hands|se serrer la main|A2|5|4|They shook hands and sat down.|Ils se sont serré la main et se sont assis.|shook hands|c||relationships,pro|
+hold a grudge|garder rancune|B2|4|4|I don't hold a grudge against him.|Je ne lui garde pas rancune.|hold a grudge|c||relationships,feelings|
+long-distance relationship|relation à distance|B1|4|3|We were in a long-distance relationship for two years.|Nous avons eu une relation à distance pendant deux ans.|long-distance relationship|c||relationships|
+blind date|rendez-vous arrangé|B1|3|3|My sister set me up on a blind date.|Ma sœur m'a organisé un rendez-vous arrangé.|blind date|c||relationships|
+raise your voice|élever la voix|B1|4|4|There's no need to raise your voice.|Inutile d'élever la voix.|raise your voice|c||communication|
+burst into tears|fondre en larmes|B1|5|4|She burst into tears when she heard the news.|Elle a fondu en larmes en apprenant la nouvelle.|burst into tears|c||feelings|
+burst out laughing|éclater de rire|B1|5|4|We all burst out laughing.|Nous avons tous éclaté de rire.|burst out laughing|c||feelings|
+feel homesick|avoir le mal du pays|B1|4|4|I felt homesick during my first month abroad.|J'ai eu le mal du pays pendant mon premier mois à l'étranger.|felt homesick|c||feelings|
+feel lonely|se sentir seul|A2|5|5|I felt lonely in my new city.|Je me sentais seul dans ma nouvelle ville.|felt lonely|c||feelings|
+feel relieved|se sentir soulagé|B1|4|4|I felt relieved when the exam was over.|Je me suis senti soulagé quand l'examen a été fini.|felt relieved|c||feelings|
+feel ashamed|avoir honte|B1|4|4|I feel ashamed of what I said.|J'ai honte de ce que j'ai dit.|feel ashamed|c||feelings|
+feel stressed|se sentir stressé|A2|5|4|I feel stressed about the move.|Je me sens stressé à cause du déménagement.|feel stressed|c||feelings|
+check in online|s'enregistrer en ligne|B1|5|5|You can check in online the day before.|Tu peux t'enregistrer en ligne la veille.|check in online|t||travel|
+check in your luggage|enregistrer ses bagages|A2|4|4|You need to check in your luggage at desk ten.|Vous devez enregistrer vos bagages au comptoir dix.|check in your luggage|t||travel|
+fasten your seatbelt|attacher sa ceinture|A2|5|4|Please fasten your seatbelt for landing.|Veuillez attacher votre ceinture pour l'atterrissage.|fasten your seatbelt|t||travel|
+validate your ticket|composter son billet|B1|3|3|You must validate your ticket before boarding.|Vous devez composter votre billet avant de monter.|validate your ticket|t||travel|
+window seat|place côté fenêtre|A2|5|4|I always choose a window seat.|Je choisis toujours une place côté fenêtre.|window seat|t||travel|
+aisle seat|place côté couloir|B1|4|4|Could I have an aisle seat, please?|Je pourrais avoir une place côté couloir, s'il vous plaît ?|an aisle seat|t||travel|
+one-way ticket|aller simple|A2|5|5|A one-way ticket to Leeds, please.|Un aller simple pour Leeds, s'il vous plaît.|one-way ticket|t||travel|
+boarding pass|carte d'embarquement|A2|5|5|Have your boarding pass ready.|Préparez votre carte d'embarquement.|boarding pass|t||travel|
+hand luggage|bagage à main|A2|5|5|I only have hand luggage.|J'ai seulement un bagage à main.|hand luggage|t||travel|
+sea view|vue sur la mer|A2|4|4|We'd like a room with a sea view.|Nous aimerions une chambre avec vue sur la mer.|sea view|t||travel|
+travel insurance|assurance voyage|B1|5|4|Don't forget to get travel insurance.|N'oublie pas de prendre une assurance voyage.|travel insurance|t||travel|
+package holiday|voyage organisé|B1|4|3|We booked a package holiday to Crete.|Nous avons réservé un voyage organisé en Crète.|package holiday|t||travel|
+long-haul flight|vol long-courrier|B1|4|3|I can't sleep on long-haul flights.|Je n'arrive pas à dormir sur les vols long-courriers.|long-haul flights|t||travel|
+direct flight|vol direct|A2|5|4|We took a direct flight to Boston.|Nous avons pris un vol direct pour Boston.|direct flight|t||travel|
+connecting flight|vol de correspondance|B1|5|4|I missed my connecting flight in Paris.|J'ai raté mon vol de correspondance à Paris.|connecting flight|t||travel|
+peak season|haute saison|B1|4|3|Prices double in peak season.|Les prix doublent en haute saison.|peak season|t||travel|
+low season|basse saison|B1|4|3|It's much quieter in low season.|C'est beaucoup plus calme en basse saison.|low season|t||travel|
+be made redundant|être licencié pour raison économique|B1|4|4|Fifty people were made redundant last month.|Cinquante personnes ont été licenciées le mois dernier.|were made redundant|w||career,pro|
+get fired|se faire virer|B1|5|4|He got fired for being late.|Il s'est fait virer pour ses retards.|got fired|w|i|career,pro|
+work shifts|travailler en horaires décalés|B1|4|4|Nurses often work shifts.|Les infirmiers travaillent souvent en horaires décalés.|work shifts|w||work,pro|
+night shift|équipe de nuit|B1|4|4|She's on the night shift this week.|Elle est de nuit cette semaine.|night shift|w||work,pro|
+book time off|poser des congés|B1|4|4|I've booked time off in August.|J'ai posé des congés en août.|booked time off|w||work,pro|
+go on maternity leave|partir en congé maternité|B1|4|3|She's going on maternity leave in March.|Elle part en congé maternité en mars.|going on maternity leave|w||work,pro|
+update your CV|mettre à jour son CV|B1|5|5|You should update your CV.|Tu devrais mettre à jour ton CV.|update your CV|w||career,pro|
+cover letter|lettre de motivation|B1|5|5|I'm writing a cover letter for the job.|J'écris une lettre de motivation pour le poste.|cover letter|w||career,pro|
+job title|intitulé de poste|B1|5|4|What's your job title?|Quel est l'intitulé de ton poste ?|job title|w||career,pro|
+job description|fiche de poste|B1|5|4|Can you send me the job description?|Tu peux m'envoyer la fiche de poste ?|job description|w||career,pro|
+performance review|entretien d'évaluation|B2|5|4|I have my performance review next week.|J'ai mon entretien d'évaluation la semaine prochaine.|performance review|w||career,pro|
+run a workshop|animer un atelier|B2|4|4|I'm running a workshop on Friday.|J'anime un atelier vendredi.|running a workshop|w||meetings,pro|
+send an invoice|envoyer une facture|B1|5|5|I'll send you the invoice tomorrow.|Je t'envoie la facture demain.|send you the invoice|w||business,pro|
+pay an invoice|régler une facture|B1|5|4|The client hasn't paid the invoice yet.|Le client n'a pas encore réglé la facture.|paid the invoice|w||business,pro|
+customer service|service client|A2|5|5|I called customer service twice.|J'ai appelé le service client deux fois.|customer service|w||business,pro|
+customer feedback|retours clients|B1|5|4|We read all customer feedback.|Nous lisons tous les retours clients.|customer feedback|w||business,pro|
+market share|part de marché|B2|5|4|We've gained market share this year.|Nous avons gagné des parts de marché cette année.|market share|w||business,pro|
+cash flow|trésorerie|B2|5|4|Cash flow is our main problem right now.|La trésorerie est notre principal problème en ce moment.|Cash flow|w||business,pro|
+target audience|public cible|B2|5|4|Who is our target audience?|Qui est notre public cible ?|target audience|w||business,pro|
+supply chain|chaîne d'approvisionnement|B2|5|4|The strike disrupted the supply chain.|La grève a perturbé la chaîne d'approvisionnement.|supply chain|w||business,pro|
+trade fair|salon professionnel|B2|4|3|We met them at a trade fair in Milan.|Nous les avons rencontrés à un salon professionnel à Milan.|trade fair|w||business,pro|
+annual report|rapport annuel|B2|4|3|Have you read our latest annual report?|Tu as lu notre dernier rapport annuel ?|annual report|w||reporting,pro|
+sales figures|chiffres de vente|B1|5|4|The sales figures look good this month.|Les chiffres de vente sont bons ce mois-ci.|sales figures|w||reporting,pro|
+profit margin|marge bénéficiaire|B2|4|4|Our profit margin is getting smaller.|Notre marge bénéficiaire se réduit.|profit margin|w||business,pro|
+quarterly results|résultats trimestriels|B2|4|3|We'll publish our quarterly results on Friday.|Nous publierons nos résultats trimestriels vendredi.|quarterly results|w||reporting,pro|
+board meeting|réunion du conseil d'administration|B2|4|3|The decision was made at the board meeting.|La décision a été prise lors de la réunion du conseil d'administration.|board meeting|w||meetings,pro|

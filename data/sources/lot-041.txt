@@ -1,0 +1,102 @@
+# Lot 041 : A2-B2+ (achats, vêtements, apparence, cuisine, maison, environnement, politique, justice : collocations par thème)
+@collocation
+take off your shoes|enlever ses chaussures|A2|5|4|Please take off your shoes at the door.|Merci d'enlever tes chaussures à la porte.|take off your shoes|d||clothes|
+put on a coat|mettre un manteau|A2|5|4|Put on a coat, it's cold outside.|Mets un manteau, il fait froid dehors.|Put on a coat|d||clothes|
+tie your shoelaces|lacer ses chaussures|A2|4|3|Stop and tie your shoelaces.|Arrête-toi et lace tes chaussures.|tie your shoelaces|d||clothes|
+dress warmly|s'habiller chaudement|A2|4|4|Dress warmly, it's going to snow.|Habille-toi chaudement, il va neiger.|Dress warmly|d||clothes,weather|
+dress smartly|s'habiller élégamment|B1|4|3|You should dress smartly for the interview.|Tu devrais t'habiller élégamment pour l'entretien.|dress smartly|d||clothes,career|
+return an item|rapporter un article|B1|4|4|You can return an item within thirty days.|Vous pouvez rapporter un article sous trente jours.|return an item|d||shopping|
+keep the receipt|garder le ticket de caisse|A2|5|4|Keep the receipt in case it doesn't fit.|Garde le ticket de caisse au cas où ça n'irait pas.|Keep the receipt|d||shopping|
+compare prices|comparer les prix|A2|4|4|I always compare prices online first.|Je compare toujours les prix en ligne d'abord.|compare prices|d||shopping|
+good value for money|bon rapport qualité-prix|B1|5|5|The hotel was good value for money.|L'hôtel avait un bon rapport qualité-prix.|good value for money|d||shopping,money|
+on special offer|en promotion|A2|4|4|Coffee is on special offer this week.|Le café est en promotion cette semaine.|on special offer|d||shopping|
+second-hand clothes|vêtements d'occasion|B1|4|3|She only buys second-hand clothes.|Elle n'achète que des vêtements d'occasion.|second-hand clothes|d||shopping,clothes|
+go window shopping|faire du lèche-vitrines|B1|3|3|We went window shopping in the old town.|Nous avons fait du lèche-vitrines dans la vieille ville.|went window shopping|d||shopping|
+shopping list|liste de courses|A2|5|4|Did you write a shopping list?|Tu as fait une liste de courses ?|shopping list|d||shopping|
+free delivery|livraison gratuite|A2|5|4|You get free delivery on orders over fifty euros.|La livraison est gratuite à partir de cinquante euros de commande.|free delivery|d||shopping|
+track a parcel|suivre un colis|B1|4|4|You can track your parcel online.|Tu peux suivre ton colis en ligne.|track your parcel|d||shopping|
+collect a parcel|récupérer un colis|B1|4|4|I have to collect a parcel from the post office.|Je dois récupérer un colis à la poste.|collect a parcel|d||shopping|
+order online|commander en ligne|A2|5|5|It's cheaper if you order online.|C'est moins cher si tu commandes en ligne.|order online|d||shopping|
+dye your hair|se teindre les cheveux|B1|4|3|She dyed her hair red last week.|Elle s'est teint les cheveux en roux la semaine dernière.|dyed her hair|d||description|
+grow a beard|se laisser pousser la barbe|B1|4|3|He's growing a beard this winter.|Il se laisse pousser la barbe cet hiver.|growing a beard|d||description|
+put on make-up|se maquiller|A2|4|3|She puts on make-up in the car.|Elle se maquille dans la voiture.|puts on make-up|d||daily_routine|
+follow a recipe|suivre une recette|A2|5|4|Just follow the recipe step by step.|Suis simplement la recette étape par étape.|follow the recipe|d||food|
+preheat the oven|préchauffer le four|B1|4|4|Preheat the oven to 180 degrees.|Préchauffe le four à 180 degrés.|Preheat the oven|d||food|
+boil water|faire bouillir de l'eau|A2|4|4|Boil some water for the pasta.|Fais bouillir de l'eau pour les pâtes.|Boil some water|d||food|
+stir the sauce|remuer la sauce|B1|3|3|Keep stirring the sauce so it doesn't burn.|Continue de remuer la sauce pour qu'elle ne brûle pas.|stirring the sauce|d||food|
+grate some cheese|râper du fromage|B1|3|3|Can you grate some cheese for the pasta?|Tu peux râper du fromage pour les pâtes ?|grate some cheese|d||food|
+heat up leftovers|réchauffer les restes|B1|4|4|We just heated up leftovers for dinner.|On a juste réchauffé les restes pour le dîner.|heated up leftovers|d||food|
+order a takeaway|commander à emporter|B1|5|4|Let's order a takeaway tonight.|Commandons à emporter ce soir.|order a takeaway|d||food|
+skip breakfast|sauter le petit-déjeuner|B1|4|4|I often skip breakfast during the week.|Je saute souvent le petit-déjeuner en semaine.|skip breakfast|d||food,daily_routine|
+a light meal|un repas léger|A2|4|3|I'd like a light meal this evening.|Je voudrais un repas léger ce soir.|a light meal|d||food|
+a heavy meal|un repas copieux|B1|3|3|I can't sleep after a heavy meal.|Je ne peux pas dormir après un repas copieux.|a heavy meal|d||food|
+a home-cooked meal|un repas fait maison|B1|4|4|Nothing beats a home-cooked meal.|Rien ne vaut un repas fait maison.|a home-cooked meal|d||food|
+still water|eau plate|A2|4|4|Still or sparkling water? Still water, please.|Eau plate ou gazeuse ? Eau plate, s'il vous plaît.|Still water|t||food|
+vacuum the floor|passer l'aspirateur|A2|4|4|I vacuum the floor every Saturday.|Je passe l'aspirateur tous les samedis.|vacuum the floor|d||housing|
+sweep the floor|balayer le sol|A2|4|3|Can you sweep the floor after lunch?|Tu peux balayer le sol après le déjeuner ?|sweep the floor|d||housing|
+mop the floor|passer la serpillière|B1|3|3|I mopped the floor in the kitchen.|J'ai passé la serpillière dans la cuisine.|mopped the floor|d||housing|
+do the dusting|faire la poussière|B1|3|3|I hate doing the dusting.|Je déteste faire la poussière.|doing the dusting|d||housing|
+change the sheets|changer les draps|A2|4|3|I change the sheets once a week.|Je change les draps une fois par semaine.|change the sheets|d||housing|
+put the bins out|sortir les poubelles|B1|4|4|Don't forget to put the bins out tonight.|N'oublie pas de sortir les poubelles ce soir.|put the bins out|d||housing|
+load the dishwasher|remplir le lave-vaisselle|B1|3|3|Whose turn is it to load the dishwasher?|C'est à qui de remplir le lave-vaisselle ?|load the dishwasher|d||housing|
+empty the dishwasher|vider le lave-vaisselle|B1|4|3|Can you empty the dishwasher, please?|Tu peux vider le lave-vaisselle, s'il te plaît ?|empty the dishwasher|d||housing|
+household chores|tâches ménagères|B1|4|4|We share the household chores.|Nous nous partageons les tâches ménagères.|household chores|d||housing|
+turn off the lights|éteindre les lumières|A2|5|5|Turn off the lights when you leave.|Éteins les lumières en partant.|Turn off the lights|d||housing|
+turn down the heating|baisser le chauffage|A2|4|4|Can we turn down the heating a bit?|On peut baisser un peu le chauffage ?|turn down the heating|d||housing|
+turn up the volume|monter le son|A2|5|4|I can't hear, turn up the volume a bit.|Je n'entends pas, monte un peu le son.|turn up the volume|d||technology|
+change a light bulb|changer une ampoule|B1|4|3|I need a ladder to change the light bulb.|Il me faut une échelle pour changer l'ampoule.|change the light bulb|d||housing|
+put up a shelf|fixer une étagère|B1|3|3|We put up a shelf in the bathroom.|Nous avons fixé une étagère dans la salle de bain.|put up a shelf|d||housing|
+hang a picture|accrocher un tableau|B1|3|3|Could you help me hang this picture?|Tu pourrais m'aider à accrocher ce tableau ?|hang this picture|d||housing|
+unblock a sink|déboucher un évier|B1|3|3|The plumber came to unblock the sink.|Le plombier est venu déboucher l'évier.|unblock the sink|d||housing|
+lock the door|fermer la porte à clé|A2|5|5|Did you lock the door?|Tu as fermé la porte à clé ?|lock the door|d||housing|
+knock on the door|frapper à la porte|A2|5|4|Someone's knocking on the door.|Quelqu'un frappe à la porte.|knocking on the door|d||housing|
+ring the doorbell|sonner à la porte|A2|4|4|Ring the doorbell, he's at home.|Sonne à la porte, il est chez lui.|Ring the doorbell|d||housing|
+draw the curtains|tirer les rideaux|B1|3|3|Could you draw the curtains? It's too bright.|Tu pourrais tirer les rideaux ? Il y a trop de lumière.|draw the curtains|d||housing|
+spare room|chambre d'amis|B1|4|4|You can sleep in the spare room.|Tu peux dormir dans la chambre d'amis.|spare room|d||housing|
+front door|porte d'entrée|A2|5|4|I left the key by the front door.|J'ai laissé la clé près de la porte d'entrée.|front door|d||housing|
+ground floor|rez-de-chaussée|A2|5|5|We live on the ground floor.|Nous habitons au rez-de-chaussée.|ground floor|d||housing|notes=En anglais américain, on dit first floor.
+double bed|lit double|A2|4|3|The room has a double bed.|La chambre a un lit double.|double bed|t||housing,travel|
+energy bill|facture d'énergie|B1|5|4|Our energy bill has doubled.|Notre facture d'énergie a doublé.|energy bill|d||housing,money|
+insulate a house|isoler une maison|B2|3|3|It's expensive to insulate an old house.|Ça coûte cher d'isoler une vieille maison.|insulate an old house|d||housing,nature|
+cut emissions|réduire les émissions|B2|5|4|Countries have promised to cut emissions.|Les pays ont promis de réduire les émissions.|cut emissions|n||nature|
+greenhouse gases|gaz à effet de serre|B2|5|4|Cars produce greenhouse gases.|Les voitures produisent des gaz à effet de serre.|greenhouse gases|n||nature|
+fossil fuels|énergies fossiles|B2|5|4|We still depend on fossil fuels.|Nous dépendons encore des énergies fossiles.|fossil fuels|n||nature|
+air pollution|pollution de l'air|B1|5|4|Air pollution is a problem in big cities.|La pollution de l'air est un problème dans les grandes villes.|Air pollution|n||nature|
+solar panels|panneaux solaires|B1|5|4|We put solar panels on the roof.|Nous avons posé des panneaux solaires sur le toit.|solar panels|d||nature|
+electric car|voiture électrique|A2|5|4|My next car will be an electric car.|Ma prochaine voiture sera une voiture électrique.|electric car|d||nature,transport|
+wind farm|parc éolien|B2|4|3|They're building a wind farm off the coast.|Ils construisent un parc éolien au large de la côte.|wind farm|n||nature|
+endangered species|espèce menacée|B2|5|4|The tiger is an endangered species.|Le tigre est une espèce menacée.|endangered species|n||nature,animals|
+plant a tree|planter un arbre|A2|4|3|We planted a tree in the garden.|Nous avons planté un arbre dans le jardin.|planted a tree|d||nature|
+save water|économiser l'eau|A2|4|4|Take short showers to save water.|Prends des douches courtes pour économiser l'eau.|save water|d||nature|
+sort your rubbish|trier ses déchets|B1|3|4|Most people sort their rubbish now.|La plupart des gens trient leurs déchets maintenant.|sort their rubbish|d||nature|
+rising sea levels|montée du niveau de la mer|B2|4|3|Rising sea levels threaten coastal towns.|La montée du niveau de la mer menace les villes côtières.|Rising sea levels|n||nature|
+extreme weather|phénomènes météo extrêmes|B1|5|4|Extreme weather is becoming more common.|Les phénomènes météo extrêmes sont de plus en plus fréquents.|Extreme weather|n||nature,weather|
+forest fire|feu de forêt|B1|4|3|The forest fire destroyed fifty homes.|Le feu de forêt a détruit cinquante maisons.|forest fire|n||nature|
+go to the polls|aller aux urnes|B2|4|3|Voters go to the polls on Sunday.|Les électeurs vont aux urnes dimanche.|go to the polls|n||politics|
+form a government|former un gouvernement|B2|4|3|The party failed to form a government.|Le parti n'a pas réussi à former un gouvernement.|form a government|n||politics|
+pass a law|adopter une loi|B1|5|4|Parliament passed a law on housing.|Le Parlement a adopté une loi sur le logement.|passed a law|n||politics|
+raise taxes|augmenter les impôts|B1|5|4|The government doesn't want to raise taxes.|Le gouvernement ne veut pas augmenter les impôts.|raise taxes|n||politics,money|
+run for president|se présenter à la présidence|B2|4|3|She's going to run for president.|Elle va se présenter à la présidence.|run for president|n||politics|
+take office|prendre ses fonctions|B2+|4|3|The new mayor took office in June.|Le nouveau maire a pris ses fonctions en juin.|took office|n|f|politics|
+hold a referendum|organiser un référendum|B2|4|3|They plan to hold a referendum next year.|Ils prévoient d'organiser un référendum l'année prochaine.|hold a referendum|n||politics|
+impose sanctions|imposer des sanctions|B2|4|3|The EU imposed sanctions on the regime.|L'UE a imposé des sanctions au régime.|imposed sanctions|n|f|politics|
+peace talks|pourparlers de paix|B2|4|3|Peace talks will resume next week.|Les pourparlers de paix reprendront la semaine prochaine.|Peace talks|n||politics|
+hold talks|mener des discussions|B2|4|3|The two leaders held talks in Geneva.|Les deux dirigeants ont mené des discussions à Genève.|held talks|n||politics|
+public spending|dépenses publiques|B2|5|4|The new budget cuts public spending.|Le nouveau budget réduit les dépenses publiques.|public spending|n||politics,money|
+unemployment rate|taux de chômage|B1|5|4|The unemployment rate fell last year.|Le taux de chômage a baissé l'année dernière.|unemployment rate|n||politics,money|
+interest rates|taux d'intérêt|B1|5|4|Interest rates went up again in May.|Les taux d'intérêt ont encore augmenté en mai.|Interest rates|n||money|
+rising prices|hausse des prix|B1|5|4|Rising prices are hurting families.|La hausse des prix pénalise les familles.|Rising prices|n||money|
+make headlines|faire la une|B2|4|3|The scandal made headlines around the world.|Le scandale a fait la une dans le monde entier.|made headlines|n||media|
+press release|communiqué de presse|B2|5|4|The company issued a press release.|L'entreprise a publié un communiqué de presse.|press release|w||media,pro|
+state of emergency|état d'urgence|B2|4|3|The president declared a state of emergency.|Le président a déclaré l'état d'urgence.|state of emergency|n||politics|
+freedom of speech|liberté d'expression|B2|5|4|Freedom of speech is a basic right.|La liberté d'expression est un droit fondamental.|Freedom of speech|n||politics|
+a landslide victory|une victoire écrasante|B2+|3|3|The party won a landslide victory.|Le parti a remporté une victoire écrasante.|a landslide victory|n||politics|
+a narrow majority|une courte majorité|B2+|3|3|The bill passed by a narrow majority.|Le texte a été adopté à une courte majorité.|a narrow majority|n||politics|
+report a crime|signaler un crime|B1|4|4|You should report the crime to the police.|Tu devrais signaler le crime à la police.|report the crime|d||safety|
+press charges|porter plainte|B2|4|4|She decided not to press charges.|Elle a décidé de ne pas porter plainte.|press charges|d||safety|
+go to court|aller au tribunal|B1|5|4|If they don't pay, we'll go to court.|S'ils ne paient pas, nous irons au tribunal.|go to court|d||rules|
+go to prison|aller en prison|A2|5|3|He went to prison for five years.|Il est allé en prison pendant cinq ans.|went to prison|n||rules|
+hire a lawyer|prendre un avocat|B1|4|4|You should hire a lawyer.|Tu devrais prendre un avocat.|hire a lawyer|d||rules|
+give evidence|témoigner au tribunal|B2|4|3|She gave evidence at the trial.|Elle a témoigné au tribunal.|gave evidence|n|f|rules|
+plead guilty|plaider coupable|B2|4|3|He pleaded guilty to theft.|Il a plaidé coupable de vol.|pleaded guilty|n|f|rules|
+found guilty|reconnu coupable|B2|4|3|He was found guilty of fraud.|Il a été reconnu coupable de fraude.|found guilty|n|f|rules|
