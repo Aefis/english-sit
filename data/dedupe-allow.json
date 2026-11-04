@@ -404,5 +404,33 @@
       "face-a-problem"
     ],
     "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "take-out",
+      "make-out"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "look-up",
+      "look-up-to"
+    ],
+    "reason": "Chercher, et admirer."
+  },
+  {
+    "ids": [
+      "lay-off",
+      "pay-off"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "move-in",
+      "move-on"
+    ],
+    "reason": "Emménager, et passer à autre chose."
   }
 ]

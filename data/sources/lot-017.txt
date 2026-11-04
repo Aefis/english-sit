@@ -53,7 +53,7 @@ pants|pantalon (US)|A2||4|These pants are too long.|Ce pantalon est trop long.|p
 partnership|partenariat|B1||5|We've formed a partnership with a German firm.|Nous avons noué un partenariat avec une société allemande.|partnership|w||pro,business|pos=n
 percentage|pourcentage|A2||4|What percentage of users are active?|Quel pourcentage d'utilisateurs sont actifs ?|percentage|w||pro,analysis|pos=n
 pocket|poche|A2||4|The keys are in my pocket.|Les clés sont dans ma poche.|pocket|d||clothes|pos=n
-primarily|essentiellement|B2||4|We work primarily with small companies.|Nous travaillons principalement avec de petites entreprises.|primarily|w|f|pro,fn_nuance|pos=adv
+primarily|en premier lieu, surtout|B2||4|We work primarily with small companies.|Nous travaillons principalement avec de petites entreprises.|primarily|w|f|pro,fn_nuance|pos=adv
 regardless|quoi qu'il arrive, malgré|B2||5|We'll go ahead regardless.|Nous continuerons quoi qu'il arrive.|regardless|w||pro,fn_nuance|pos=adv
 relative|parent, proche|B1||4|We're staying with relatives.|Nous logeons chez des proches.|relatives|c||family|pos=n
 rescue|sauver, secourir|B1||3|They rescued the climbers.|Ils ont secouru les alpinistes.|rescued|n||safety|pos=v
@@ -196,7 +196,7 @@ lay out|exposer, disposer|B2|4|3|She laid out her plan.|Elle a exposé son plan.
 lead to|mener à, entraîner|B1|5|5|This could lead to more problems.|Cela pourrait entraîner d'autres problèmes.|lead to|c||fn_explain|
 @connector
 in conclusion|en conclusion|B1|5|5|In conclusion, the plan is working.|En conclusion, le plan fonctionne.|In conclusion|w||pro,fn_end|
-in short|en bref|B1|5|5|In short, we need to act.|Bref, nous devons agir.|In short|c||fn_end|
+in short|pour résumer, bref|B1|5|5|In short, we need to act.|Bref, nous devons agir.|In short|c||fn_end|
 in particular|en particulier|B1|5|5|I'd like to thank Anna in particular.|Je voudrais remercier Anna en particulier.|in particular|c||fn_explain|
 above all|surtout, avant tout|B1|5|5|Above all, stay calm.|Surtout, reste calme.|Above all|c||fn_explain|
 in contrast|en revanche, par contraste|B1|5|4|In contrast, costs went down.|En revanche, les coûts ont baissé.|In contrast|w||pro,fn_compare|
