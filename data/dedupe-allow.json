@@ -390,5 +390,19 @@
       "break-out"
     ],
     "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "good-job",
+      "do-a-good-job"
+    ],
+    "reason": "Compliment, et collocation."
+  },
+  {
+    "ids": [
+      "have-a-problem",
+      "face-a-problem"
+    ],
+    "reason": "Registres différents."
   }
 ]

@@ -1,0 +1,210 @@
+# Lot 017 : B2 (travail, analyse, société, description fine)
+@word
+approval|approbation, accord|B2||5|We need the director's approval.|Il nous faut l'accord du directeur.|approval|w||pro,management|pos=n
+contain|contenir|B1||4|This drink contains a lot of sugar.|Cette boisson contient beaucoup de sucre.|contains|d||food|pos=v
+convention|convention, usage|B2||3|It's just a social convention.|C'est simplement un usage social.|convention|c|f|news|pos=n
+document|document|A2||5|Please sign this document.|Veuillez signer ce document.|document|w||pro,admin|pos=n
+equivalent|équivalent|B2||4|What's the English equivalent of this word?|Quel est l'équivalent anglais de ce mot ?|equivalent|c||learning|pos=n
+finger|doigt|A1||3|I cut my finger on a knife.|Je me suis coupé le doigt avec un couteau.|finger|d||body|pos=n
+gang|gang, bande|B1||2|He joined a gang at sixteen.|Il a rejoint un gang à seize ans.|gang|n||news|pos=n
+graduate|diplômé|B1||4|She's a recent graduate.|Elle est jeune diplômée.|graduate|w||career|pos=n
+inner|intérieur|B2||3|We live in the inner city.|Nous vivons dans le centre-ville.|inner|d||places|pos=adj
+neighborhood|quartier (US)|A2||4|It's a safe neighborhood.|C'est un quartier sûr.|neighborhood|d||places,uk_us|pos=n ;; variant=US ;; counterpart=neighbourhood
+operate|faire fonctionner, opérer|B1||4|Can you operate this machine?|Sais-tu faire fonctionner cette machine ?|operate|w||work|pos=v
+outstanding|remarquable, impayé|B2||5|She did an outstanding job.|Elle a fait un travail remarquable.|outstanding|w||pro,description|pos=adj
+regulation|réglementation|B2||5|We have to comply with new regulations.|Nous devons respecter de nouvelles réglementations.|regulations|w|f|pro,rules|pos=n
+rid|débarrasser|B1||4|We're rid of him at last.|Nous sommes enfin débarrassés de lui.|rid|c||basics|pos=adj
+scientist|scientifique|A2||3|Scientists are studying the problem.|Les scientifiques étudient le problème.|Scientists|n||academic|pos=n
+shoulder|épaule|A2||3|My shoulder hurts when I lift my arm.|J'ai mal à l'épaule quand je lève le bras.|shoulder|d||body|pos=n
+tower|tour|A2||3|We climbed the tower.|Nous sommes montés en haut de la tour.|tower|t||places|pos=n
+tradition|tradition|A2||4|It's a family tradition.|C'est une tradition familiale.|tradition|c||family|pos=n
+visual|visuel|B1||3|Add some visual aids to your talk.|Ajoute des supports visuels à ton exposé.|visual|w||pro,presentations|pos=adj
+wheel|roue, volant|A2||3|Who was at the wheel?|Qui était au volant ?|wheel|t||transport|pos=n
+author|auteur|A2||3|Who's the author of this book?|Qui est l'auteur de ce livre ?|author|d||leisure|pos=n
+barely|tout juste, à peine|B2||5|I barely know him.|Je le connais à peine.|barely|c||fn_nuance|pos=adv
+cabinet|meuble, placard|B1||3|The glasses are in the kitchen cabinet.|Les verres sont dans le placard de la cuisine.|cabinet|d||housing|pos=n
+celebrate|fêter, célébrer|A2||5|Let's celebrate!|Il faut fêter ça !|celebrate|c||leisure|pos=v
+chocolate|chocolat|A1||4|Would you like some chocolate?|Tu veux du chocolat ?|chocolate|d||food|pos=n
+contemporary|contemporain|B2||3|I love contemporary art.|J'adore l'art contemporain.|contemporary|d||leisure|pos=adj
+criticism|critique (reproche)|B2||4|She doesn't take criticism well.|Elle prend mal la critique.|criticism|c||communication|pos=n
+extensive|étendu, approfondi|B2||4|We've done extensive research.|Nous avons fait des recherches approfondies.|extensive|w||pro,analysis|pos=adj
+gallery|galerie|A2||3|We visited an art gallery.|Nous avons visité une galerie d'art.|gallery|t||leisure|pos=n
+highway|autoroute (US)|A2||4|Take the highway north.|Prends l'autoroute vers le nord.|highway|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=motorway
+historic|historique (marquant)|B1||3|It was a historic moment.|Ce fut un moment historique.|historic|n||news|pos=adj
+hunt|chasser|B1||2|They hunt deer in autumn.|Ils chassent le cerf en automne.|hunt|d||nature|pos=v
+improvement|amélioration|B1||5|There's been a clear improvement.|Il y a eu une nette amélioration.|improvement|w||pro,analysis|pos=n
+inch|pouce (2,54 cm)|B1||3|It's a seventeen-inch screen.|C'est un écran de dix-sept pouces.|inch|d||numbers|pos=n
+junior|subalterne, débutant|B1||4|He's a junior developer.|Il est développeur débutant.|junior|w||pro,career|pos=adj
+jury|jury|B2||2|The jury found him guilty.|Le jury l'a déclaré coupable.|jury|n||rules|pos=n
+monster|monstre|A2||2|The kids drew a monster.|Les enfants ont dessiné un monstre.|monster|d||leisure|pos=n
+obtain|obtenir|B2||4|You need to obtain a visa.|Tu dois obtenir un visa.|obtain|w|f|admin|pos=v
+philosophy|philosophie|B1||3|What's your management philosophy?|Quelle est ta philosophie de management ?|philosophy|w||management|pos=n
+pride|fierté|B2||3|He takes pride in his work.|Il est fier de son travail.|pride|c||feelings|pos=n
+rough|rugueux, approximatif|B1||4|I can give you a rough idea.|Je peux te donner une idée approximative.|rough|c||fn_nuance|pos=adj
+settlement|accord, règlement|B2||3|They reached a settlement out of court.|Ils ont conclu un accord à l'amiable.|settlement|w|f|pro,rules|pos=n
+smell|sentir, odeur|A2||4|What's that smell?|Quelle est cette odeur ?|smell|d||body|pos=n
+tone|ton|B1||4|I don't like your tone.|Je n'aime pas ton ton.|tone|c||communication|pos=n
+universal|universel|B2||3|It's a universal problem.|C'est un problème universel.|universal|n||basics|pos=adj
+vast|vaste|B1||4|The vast majority of people agree.|La grande majorité des gens sont d'accord.|vast|c||description|pos=adj
+visitor|visiteur|A2||3|The city gets millions of visitors.|La ville accueille des millions de visiteurs.|visitors|t||people|pos=n
+guitar|guitare|A1||3|I'm learning to play guitar.|J'apprends la guitare.|guitar|d||leisure|pos=n
+necessarily|forcément|B1||5|That's not necessarily true.|Ce n'est pas forcément vrai.|necessarily|c||fn_nuance|pos=adv
+pants|pantalon (US)|A2||4|These pants are too long.|Ce pantalon est trop long.|pants|d||clothes,uk_us|pos=n ;; variant=US ;; counterpart=trousers
+partnership|partenariat|B1||5|We've formed a partnership with a German firm.|Nous avons noué un partenariat avec une société allemande.|partnership|w||pro,business|pos=n
+percentage|pourcentage|A2||4|What percentage of users are active?|Quel pourcentage d'utilisateurs sont actifs ?|percentage|w||pro,analysis|pos=n
+pocket|poche|A2||4|The keys are in my pocket.|Les clés sont dans ma poche.|pocket|d||clothes|pos=n
+primarily|essentiellement|B2||4|We work primarily with small companies.|Nous travaillons principalement avec de petites entreprises.|primarily|w|f|pro,fn_nuance|pos=adv
+regardless|quoi qu'il arrive, malgré|B2||5|We'll go ahead regardless.|Nous continuerons quoi qu'il arrive.|regardless|w||pro,fn_nuance|pos=adv
+relative|parent, proche|B1||4|We're staying with relatives.|Nous logeons chez des proches.|relatives|c||family|pos=n
+rescue|sauver, secourir|B1||3|They rescued the climbers.|Ils ont secouru les alpinistes.|rescued|n||safety|pos=v
+sharp|aiguisé, net|B1||4|Be careful, that knife's sharp.|Attention, ce couteau est aiguisé.|sharp|d||description|pos=adj
+stable|stable|B1||4|Prices have remained stable.|Les prix sont restés stables.|stable|w||pro,analysis|pos=adj
+symptom|symptôme|B1||4|What are your symptoms?|Quels sont vos symptômes ?|symptoms|d||health|pos=n
+trick|astuce, tour|B1||4|There's a trick to it.|Il y a une astuce.|trick|c||basics|pos=n
+audio|audio|B1||3|There's a problem with the audio.|Il y a un problème de son.|audio|w||technology|pos=n
+bone|os|A2||3|He broke a bone in his hand.|Il s'est cassé un os de la main.|bone|d||body|pos=n
+chart|graphique, tableau|B1||5|Look at the chart on page five.|Regardez le graphique page cinq.|chart|w||pro,presentations|pos=n
+circuit|circuit|B1||2|There's a problem with the electrical circuit.|Il y a un problème dans le circuit électrique.|circuit|d||technology|pos=n
+clothing|vêtements (général)|B1||3|We sell outdoor clothing.|Nous vendons des vêtements d'extérieur.|clothing|d||clothes|pos=n
+complicated|compliqué|A2||5|It's complicated.|C'est compliqué.|complicated|c||description|pos=adj
+confused|perdu, désorienté|A2||5|I'm a bit confused.|Je suis un peu perdu.|confused|c||feelings|pos=adj
+defend|défendre|B1||4|She defended her decision.|Elle a défendu sa décision.|defended|c||basics|pos=v
+divided|divisé, partagé|B1||3|Opinion is divided.|Les avis sont partagés.|divided|n||fn_nuance|pos=adj
+everyday|quotidien, de tous les jours|A2||4|These are everyday problems.|Ce sont des problèmes de tous les jours.|everyday|c||basics|pos=adj
+extent|étendue, mesure|B2||5|To what extent do you agree?|Dans quelle mesure êtes-vous d'accord ?|extent|c||fn_nuance|pos=n
+format|format|B1||4|What format should I use?|Quel format dois-je utiliser ?|format|w||pro,it|pos=n
+gap|écart, lacune|B1||5|There's a huge gap between rich and poor.|Il y a un écart énorme entre riches et pauvres.|gap|c||analysis|pos=n
+gate|portail, porte d'embarquement|A2||4|Your flight leaves from gate twelve.|Votre vol part de la porte douze.|gate|t||travel|pos=n
+harm|mal, tort|B1||4|It won't do you any harm.|Ça ne te fera pas de mal.|harm|c||basics|pos=n
+healthcare|soins de santé|B1||4|Healthcare is free here.|Les soins sont gratuits ici.|Healthcare|d||health|pos=n
+household|foyer, ménage|B1||3|She does most of the household chores.|Elle fait la plupart des tâches ménagères.|household|d||housing|pos=n
+immigration|immigration|B1||3|You have to go through immigration.|Tu dois passer le contrôle d'immigration.|immigration|t||travel|pos=n
+impressive|impressionnant|B1||5|Your results are impressive.|Tes résultats sont impressionnants.|impressive|c||description|pos=adj
+membership|adhésion|B1||3|My gym membership has expired.|Mon abonnement à la salle de sport a expiré.|membership|d||leisure|pos=n
+mirror|miroir|A2||3|Check your mirror before you turn.|Regarde dans ton rétro avant de tourner.|mirror|t||transport|pos=n
+recognition|reconnaissance|B2||4|She got recognition for her work.|Elle a obtenu la reconnaissance de son travail.|recognition|w||pro,career|pos=n
+tears|larmes|A2||3|She was in tears.|Elle était en larmes.|tears|c||feelings|pos=n
+thin|mince, fin|A2||4|She's tall and thin.|Elle est grande et mince.|thin|c||description|pos=adj
+accused|accusé|B1||3|He was accused of stealing.|Il a été accusé de vol.|accused|n||rules|pos=adj
+adventure|aventure|A2||3|It was a real adventure.|Ce fut une vraie aventure.|adventure|t||leisure|pos=n
+bound|voué à, tenu de|B2||5|It's bound to rain.|Il va forcément pleuvoir.|bound|c||fn_nuance|pos=adj
+cloud|nuage|A1||3|There isn't a cloud in the sky.|Il n'y a pas un nuage dans le ciel.|cloud|d||weather|pos=n
+contrast|contraste|B1||4|There's a sharp contrast between them.|Il y a un net contraste entre eux.|contrast|c||fn_compare|pos=n
+element|élément|B1||4|Trust is a key element.|La confiance est un élément clé.|element|w||analysis|pos=n
+elsewhere|ailleurs|B1||4|Let's look elsewhere.|Cherchons ailleurs.|elsewhere|c||places|pos=adv
+extension|extension, prolongation|B1||4|Can I have an extension on the deadline?|Je peux avoir un délai supplémentaire ?|extension|w||pro,project|pos=n
+founder|fondateur|B1||4|She's the founder of the company.|C'est la fondatrice de l'entreprise.|founder|w||pro,business|pos=n
+gear|équipement, vitesse|B1||3|Bring your hiking gear.|Apporte ton équipement de randonnée.|gear|d||leisure|pos=n
+infrastructure|infrastructure|B2||4|The country needs better infrastructure.|Le pays a besoin de meilleures infrastructures.|infrastructure|n||pro,it|pos=n
+loose|desserré, ample|B1||4|This screw is loose.|Cette vis est desserrée.|loose|d||description|pos=adj
+moral|moral|B1||3|It's a moral issue.|C'est une question morale.|moral|c||analysis|pos=adj
+offensive|offensant|B2||3|That joke was offensive.|Cette plaisanterie était offensante.|offensive|c||communication|pos=adj
+package|colis, forfait|A2||4|A package came for you.|Un colis est arrivé pour toi.|package|d||shopping|pos=n
+poverty|pauvreté|B1||3|Many people still live in poverty.|Beaucoup de gens vivent encore dans la pauvreté.|poverty|n||news|pos=n
+qualified|qualifié, diplômé|B1||5|She's highly qualified.|Elle est très qualifiée.|qualified|w||pro,career|pos=adj
+railway|chemin de fer|A2||3|The railway station is near here.|La gare est tout près.|railway|t||transport|pos=n
+ridiculous|ridicule|B1||5|That's ridiculous!|C'est ridicule !|ridiculous|c||fn_react|pos=adj
+sensitive|sensible|B1||5|This is a sensitive issue.|C'est un sujet sensible.|sensitive|c||false_friend|pos=adj ;; notes=Faux ami : « sensible » en anglais veut dire raisonnable.
+shock|choc|B1||4|It came as a shock.|Ce fut un choc.|shock|c||feelings|pos=n
+silence|silence|B1||3|There was a long silence.|Il y a eu un long silence.|silence|c||basics|pos=n
+soldier|soldat|A2||3|My uncle was a soldier.|Mon oncle était soldat.|soldier|n||news|pos=n
+superior|supérieur|B2||3|It's a superior product.|C'est un produit supérieur.|superior|w||business|pos=adj
+thick|épais|A2||4|The walls are very thick.|Les murs sont très épais.|thick|d||description|pos=adj
+transition|transition|B2||4|The transition went smoothly.|La transition s'est bien passée.|transition|w||pro,project|pos=n
+violent|violent|B1||3|It's a very violent film.|C'est un film très violent.|violent|d||description|pos=adj
+wash|laver|A1||5|I need to wash my hair.|Je dois me laver les cheveux.|wash|d||daily_routine|pos=v
+@chunk
+I'd like to draw your attention to...|J'aimerais attirer votre attention sur...|B2|5|5|I'd like to draw your attention to the second slide.|J'aimerais attirer votre attention sur la deuxième diapositive.|I'd like to draw your attention to|w|f|pro,presentations|
+As you may know...|Comme vous le savez peut-être...|B1|5|4|As you may know, the office is moving.|Comme vous le savez peut-être, le bureau déménage.|As you may know|w||pro,email|
+I'm pleased to announce...|J'ai le plaisir d'annoncer...|B2|5|5|I'm pleased to announce that we've won the contract.|J'ai le plaisir d'annoncer que nous avons remporté le contrat.|I'm pleased to announce|w|f|pro,presentations|
+I'm happy to report that...|Je suis heureux d'annoncer que...|B2|4|4|I'm happy to report that sales are up.|Je suis heureux d'annoncer que les ventes sont en hausse.|I'm happy to report that|w||pro,reporting|
+I regret to inform you...|J'ai le regret de vous informer...|B2|4|4|I regret to inform you that the post has been filled.|J'ai le regret de vous informer que le poste a été pourvu.|I regret to inform you|w|f|pro,email|
+We apologise for any inconvenience.|Veuillez nous excuser pour la gêne occasionnée.|B2|5|5|The line is closed today. We apologise for any inconvenience.|La ligne est fermée aujourd'hui. Veuillez nous excuser pour la gêne occasionnée.|We apologise for any inconvenience|w|f|pro,email|
+Please let me know if you have any questions.|N'hésitez pas à me contacter si vous avez des questions.|B1|5|5|Please let me know if you have any questions about the plan.|N'hésitez pas à me contacter si vous avez des questions sur le plan.|Please let me know if you have any questions|w||pro,email|
+Please see below.|Voir ci-dessous.|B1|5|4|Please see below for the new times.|Voir ci-dessous les nouveaux horaires.|Please see below|w||pro,email|
+Thank you for your patience.|Merci de votre patience.|B1|5|5|The delay is nearly over. Thank you for your patience.|Le retard touche à sa fin. Merci de votre patience.|Thank you for your patience|w||pro,email|
+Thank you for getting back to me.|Merci de m'avoir répondu.|B1|5|5|Thank you for getting back to me so quickly.|Merci de m'avoir répondu si rapidement.|Thank you for getting back to me|w||pro,email|
+Sorry for the late reply.|Désolé pour ma réponse tardive.|B1|5|5|Sorry for the late reply, I've been away.|Désolé pour ma réponse tardive, j'étais absent.|Sorry for the late reply|w||pro,email|
+I hope this email finds you well.|J'espère que vous allez bien.|B1|4|4|Dear Ms Lee, I hope this email finds you well.|Chère Madame Lee, j'espère que vous allez bien.|I hope this email finds you well|w|f|pro,email|
+I look forward to working with you.|Je me réjouis de travailler avec vous.|B1|5|4|Welcome to the team. I look forward to working with you.|Bienvenue dans l'équipe. Je me réjouis de travailler avec vous.|I look forward to working with you|w||pro,email|
+Best regards|Bien cordialement|B1|5|5|Thank you for your time. Best regards, Anna.|Merci de votre temps. Bien cordialement, Anna.|Best regards|w||pro,email|
+Yours sincerely|Veuillez agréer mes salutations distinguées|B1|4|4|I look forward to your reply. Yours sincerely, Tom Lee.|Dans l'attente de votre réponse, veuillez agréer mes salutations distinguées. Tom Lee.|Yours sincerely|w|f|pro,email|
+Could you please confirm...?|Pourriez-vous confirmer... ?|B1|5|5|Could you please confirm your attendance?|Pourriez-vous confirmer votre présence ?|Could you please confirm|w|f|pro,email|
+Could you clarify...?|Pourrais-tu préciser... ?|B1|5|5|Could you clarify what you mean by "soon"?|Pourrais-tu préciser ce que tu entends par « bientôt » ?|Could you clarify|w||pro,fn_clarify|
+Could you elaborate on that?|Pourriez-vous développer ?|B2|5|5|That's interesting. Could you elaborate on that?|C'est intéressant. Pourriez-vous développer ?|Could you elaborate on that?|w||pro,fn_clarify|
+Could you give me an update?|Tu pourrais me faire un point ?|B1|5|5|Could you give me an update on the project?|Tu pourrais me faire un point sur le projet ?|Could you give me an update|w||pro,project|
+Can you confirm that...?|Peux-tu confirmer que... ?|B1|5|4|Can you confirm that the room is booked?|Peux-tu confirmer que la salle est réservée ?|Can you confirm that|w||pro,email|
+I just wanted to check...|Je voulais juste vérifier...|B1|5|5|I just wanted to check that you got my email.|Je voulais juste vérifier que tu as bien reçu mon e-mail.|I just wanted to check|w||pro,email|
+I just wanted to let you know...|Je voulais juste te faire savoir...|B1|5|5|I just wanted to let you know that I'll be late.|Je voulais juste te dire que je serai en retard.|I just wanted to let you know|w||pro,email|
+I'll keep you posted.|Je te tiens au courant.|B1|5|5|Nothing yet, but I'll keep you posted.|Rien pour l'instant, mais je te tiens au courant.|I'll keep you posted|w||pro,communication|
+Leave it with me.|Laisse-moi m'en occuper.|B1|5|4|That's fine, leave it with me.|C'est bon, laisse-moi m'en occuper.|leave it with me|w||pro,fn_react|
+It's not my area.|Ce n'est pas mon domaine.|B1|4|4|Ask Paul, it's not my area.|Demande à Paul, ce n'est pas mon domaine.|it's not my area|w||pro,fn_clarify|
+It's still in progress.|C'est encore en cours.|B1|5|4|The report? It's still in progress.|Le rapport ? C'est encore en cours.|It's still in progress|w||pro,project|
+It's a work in progress.|C'est en cours d'élaboration.|B1|5|4|Don't judge it yet, it's a work in progress.|Ne juge pas encore, c'est en cours d'élaboration.|it's a work in progress|w||pro,project|
+We're on the right track.|Nous sommes sur la bonne voie.|B1|5|5|The tests look good. We're on the right track.|Les tests sont bons. Nous sommes sur la bonne voie.|We're on the right track|w||pro,project|
+We need to prioritise...|Nous devons donner la priorité à...|B2|5|5|We need to prioritise the urgent cases.|Nous devons donner la priorité aux cas urgents.|We need to prioritise|w||pro,decision|
+We'll need to look at...|Il va falloir examiner...|B1|4|4|We'll need to look at the budget again.|Il va falloir réexaminer le budget.|We'll need to look at|w||pro,meetings|
+Let's put this on hold.|Mettons ça en attente.|B1|5|5|We have no budget, so let's put this on hold.|Nous n'avons pas de budget, alors mettons ça en attente.|Let's put this on hold|w||pro,project|
+Let's take this offline.|Parlons-en en dehors de la réunion.|B2|4|4|That's a detail. Let's take this offline.|C'est un détail. Parlons-en en dehors de la réunion.|Let's take this offline|w|i|pro,meetings|
+Let's come back to this later.|Revenons-y plus tard.|B1|5|5|We're short of time. Let's come back to this later.|Le temps presse. Revenons-y plus tard.|Let's come back to this later|w||pro,meetings|
+Let's stick to the agenda.|Tenons-nous-en à l'ordre du jour.|B1|4|4|Let's stick to the agenda, please.|Tenons-nous-en à l'ordre du jour, s'il vous plaît.|Let's stick to the agenda|w||pro,meetings|
+Moving on to...|Passons à...|B1|5|5|Moving on to the next item.|Passons au point suivant.|Moving on to|w||pro,fn_topic_change|
+That brings me to...|Ce qui m'amène à...|B2|5|4|That brings me to my final point.|Ce qui m'amène à mon dernier point.|That brings me to|w||pro,presentations|
+To put it simply...|Pour le dire simplement...|B1|5|5|To put it simply, we're losing money.|Pour le dire simplement, nous perdons de l'argent.|To put it simply|w||pro,fn_rephrase|
+To give you an idea...|Pour te donner une idée...|B1|5|4|To give you an idea, it costs twice as much.|Pour te donner une idée, ça coûte deux fois plus.|To give you an idea|c||fn_explain|
+If you look at...|Si vous regardez...|B1|4|3|If you look at the numbers, it's clear.|Si vous regardez les chiffres, c'est évident.|If you look at|w||pro,presentations|
+From what I understand...|D'après ce que je comprends...|B1|5|5|From what I understand, the deal is off.|D'après ce que je comprends, l'accord est annulé.|From what I understand|c||fn_nuance|
+From my experience...|D'après mon expérience... (variante)|B1|4|3|From my experience, clients prefer a phone call.|D'après mon expérience, les clients préfèrent un appel.|From my experience|c||fn_opinion|
+On the one hand...|D'un côté...|B1|5|5|On the one hand, the pay is good.|D'un côté, le salaire est bon.|On the one hand|c||fn_compare|
+It's worth mentioning...|Il convient de mentionner...|B2|4|4|It's worth mentioning that the data is old.|Il convient de mentionner que les données sont anciennes.|It's worth mentioning|w||pro,fn_explain|
+@collocation
+achieve results|obtenir des résultats|B1|5|4|We achieved excellent results this year.|Nous avons obtenu d'excellents résultats cette année.|achieved excellent results|w||pro,analysis|
+adopt an approach|adopter une approche|B2|4|4|We've adopted a new approach.|Nous avons adopté une nouvelle approche.|adopted a new approach|w||pro,analysis|
+assess the situation|évaluer la situation|B2|5|4|Let's assess the situation first.|Évaluons d'abord la situation.|assess the situation|w||pro,analysis|
+avoid a mistake|éviter une erreur|B1|4|3|How can we avoid this mistake?|Comment éviter cette erreur ?|avoid this mistake|w||pro,work|
+build a relationship|nouer une relation|B1|5|5|It takes time to build a relationship with a client.|Il faut du temps pour nouer une relation avec un client.|build a relationship|w||pro,business|
+build trust|instaurer la confiance|B2|5|5|We need to build trust with our partners.|Nous devons instaurer la confiance avec nos partenaires.|build trust|w||pro,management|
+cause a problem|causer un problème|B1|5|3|This could cause a problem later.|Cela pourrait causer un problème plus tard.|cause a problem|c||basics|
+cause a delay|provoquer un retard|B1|4|3|The strike caused a long delay.|La grève a provoqué un long retard.|caused a long delay|w||pro,project|
+come to a decision|parvenir à une décision|B1|5|4|We haven't come to a decision yet.|Nous ne sommes pas encore parvenus à une décision.|come to a decision|w||pro,decision|
+come to a conclusion|arriver à une conclusion|B1|5|3|We came to the same conclusion.|Nous sommes arrivés à la même conclusion.|came to the same conclusion|c||decision|
+conduct an interview|mener un entretien|B2|4|3|She conducted the interview in English.|Elle a mené l'entretien en anglais.|conducted the interview|w|f|pro,career|
+cut costs|réduire les coûts|B1|5|5|We need to cut costs this year.|Nous devons réduire les coûts cette année.|cut costs|w||pro,business|
+deliver a presentation|présenter un exposé|B2|4|4|He delivered an excellent presentation.|Il a présenté un excellent exposé.|delivered an excellent presentation|w||pro,presentations|
+deliver results|obtenir des résultats concrets|B2|5|4|The new team is delivering results.|La nouvelle équipe obtient des résultats concrets.|delivering results|w||pro,management|
+develop skills|développer des compétences|B1|5|5|This job helped me develop new skills.|Ce travail m'a aidé à développer de nouvelles compétences.|develop new skills|w||pro,career|
+do research|faire des recherches|B1|5|4|I did some research before the meeting.|J'ai fait quelques recherches avant la réunion.|did some research|w||pro,analysis|
+do a good job|faire du bon travail|A2|5|4|You did a good job on this.|Tu as fait du bon travail là-dessus.|did a good job|w||pro,work|
+draw up a plan|établir un plan|B2|4|4|We've drawn up a plan.|Nous avons établi un plan.|drawn up a plan|w||pro,project|
+express an opinion|exprimer une opinion|B1|5|4|Everyone can express an opinion here.|Tout le monde peut exprimer une opinion ici.|express an opinion|c||fn_opinion|
+face a problem|faire face à un problème|B1|5|4|We're facing a serious problem.|Nous faisons face à un problème grave.|facing a serious problem|w||pro,work|
+fix a problem|régler un problème|A2|5|5|Can you fix the problem?|Tu peux régler le problème ?|fix the problem|w||pro,it|
+gain access|accéder à|B2|4|3|Hackers gained access to the server.|Des pirates ont accédé au serveur.|gained access|w||pro,it|
+generate income|générer des revenus|B2|4|3|The business generates a steady income.|L'entreprise génère des revenus réguliers.|generates a steady income|w||pro,business|
+@phrasal_verb
+cut back|réduire les dépenses|B1|5|4|We've had to cut back on travel.|Nous avons dû réduire les déplacements.|cut back|w||pro,business|
+drop out|abandonner (études)|B1|4|3|He dropped out of university.|Il a abandonné ses études.|dropped out|c||learning|
+fall apart|s'effondrer, se désagréger|B1|5|4|The deal fell apart at the last minute.|L'accord s'est effondré à la dernière minute.|fell apart|w||pro,business|
+fall through|échouer, tomber à l'eau|B2|5|4|Our plans fell through.|Nos projets sont tombés à l'eau.|fell through|c||decision|
+fit in|s'intégrer|B1|5|4|It took me a while to fit in.|Il m'a fallu du temps pour m'intégrer.|fit in|c||relationships|
+get ahead|progresser, réussir|B1|4|3|You have to work hard to get ahead.|Il faut travailler dur pour réussir.|get ahead|w||career|
+get on with|continuer, s'entendre avec|B1|5|4|Let's get on with the meeting.|Poursuivons la réunion.|get on with|w||pro,meetings|
+go for|choisir, opter pour|B1|5|4|I'll go for the fish.|Je vais prendre le poisson.|go for|c||decision|
+hand over|remettre, passer|B1|4|4|I'll hand over to Sara now.|Je passe maintenant la parole à Sara.|hand over|w||pro,presentations|
+hold back|retenir, freiner|B1|4|3|Fear is holding you back.|La peur te freine.|holding you back|c||feelings|
+lay out|exposer, disposer|B2|4|3|She laid out her plan.|Elle a exposé son plan.|laid out|w||pro,presentations|
+lead to|mener à, entraîner|B1|5|5|This could lead to more problems.|Cela pourrait entraîner d'autres problèmes.|lead to|c||fn_explain|
+@connector
+in conclusion|en conclusion|B1|5|5|In conclusion, the plan is working.|En conclusion, le plan fonctionne.|In conclusion|w||pro,fn_end|
+in short|en bref|B1|5|5|In short, we need to act.|Bref, nous devons agir.|In short|c||fn_end|
+in particular|en particulier|B1|5|5|I'd like to thank Anna in particular.|Je voudrais remercier Anna en particulier.|in particular|c||fn_explain|
+above all|surtout, avant tout|B1|5|5|Above all, stay calm.|Surtout, reste calme.|Above all|c||fn_explain|
+in contrast|en revanche, par contraste|B1|5|4|In contrast, costs went down.|En revanche, les coûts ont baissé.|In contrast|w||pro,fn_compare|
+similarly|de même|B1|5|4|Similarly, prices rose in Spain.|De même, les prix ont augmenté en Espagne.|Similarly|w||pro,fn_compare|
+consequently|par conséquent (soutenu)|B2|5|4|Sales fell; consequently, we cut costs.|Les ventes ont baissé ; nous avons donc réduit les coûts.|consequently|w|f|pro,fn_explain|
+@idiom
+Bring something to the table.|Apporter une contribution.|B2|4|4|What can you bring to the table?|Que pouvez-vous apporter ?|bring to the table|w||pro,career|
+Keep someone in the loop.|Tenir quelqu'un informé.|B2|5|5|Please keep me in the loop.|Merci de me tenir informé.|keep me in the loop|w||pro,communication|
+The big picture.|La vue d'ensemble.|B2|5|5|Let's look at the big picture.|Regardons la vue d'ensemble.|the big picture|w||pro,analysis|
+Hit the ground running.|Être opérationnel tout de suite.|B2|4|4|She hit the ground running in her new job.|Elle a été opérationnelle tout de suite à son nouveau poste.|hit the ground running|w||pro,career|
+Jump on the bandwagon.|Suivre la mode.|B2|3|3|Everyone's jumping on the AI bandwagon.|Tout le monde suit la mode de l'IA.|jumping on the AI bandwagon|w|i|pro,business|
