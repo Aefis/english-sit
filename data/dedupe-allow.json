@@ -565,5 +565,61 @@
       "draw"
     ],
     "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "does-that-make-sense",
+      "it-doesnt-make-sense"
+    ],
+    "reason": "Vérification, et désaccord."
+  },
+  {
+    "ids": [
+      "such-as",
+      "much-as"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "fill-out",
+      "fall-out"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "stand-up",
+      "stand-up-for"
+    ],
+    "reason": "Se lever, et défendre."
+  },
+  {
+    "ids": [
+      "come-down-to",
+      "come-down-with"
+    ],
+    "reason": "Se résumer à, et attraper une maladie."
+  },
+  {
+    "ids": [
+      "break-the-news",
+      "breaking-news"
+    ],
+    "reason": "Annoncer, et flash d'information."
+  },
+  {
+    "ids": [
+      "status",
+      "statue"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "publishing",
+      "publish"
+    ],
+    "reason": "Nom de secteur à part entière."
   }
 ]

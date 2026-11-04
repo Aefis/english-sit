@@ -1,0 +1,210 @@
+# Lot 027 : A2-B2 (objets, cuisine, études, émotions, environnement)
+@word
+hunger|faim|B1||3|Millions of people suffer from hunger.|Des millions de personnes souffrent de la faim.|hunger|n||news|pos=n
+hurricane|ouragan|B1||2|The hurricane destroyed the coast.|L'ouragan a détruit la côte.|hurricane|n||weather|pos=n
+import|importer, importation|B1||4|We import coffee from Brazil.|Nous importons du café du Brésil.|import|w||pro,business|pos=v
+laughter|rires|B1||3|The room was full of laughter.|La pièce était pleine de rires.|laughter|c||feelings|pos=n
+lemon|citron|A1||3|Add a little lemon juice.|Ajoute un peu de jus de citron.|lemon|d||food|pos=n
+lung|poumon|B1||2|He has lung cancer.|Il a un cancer du poumon.|lung|d||body|pos=n
+nutrition|nutrition|B1||3|Good nutrition is important for kids.|Une bonne nutrition est importante pour les enfants.|nutrition|d||health|pos=n
+pour|verser|A2||4|Can you pour me some water?|Tu peux me verser de l'eau ?|pour|d||food|pos=v
+publish|publier|B1||4|She published her first book at thirty.|Elle a publié son premier livre à trente ans.|published|c||media|pos=v
+purely|purement|B2||3|It's purely a question of money.|C'est purement une question d'argent.|purely|c||fn_nuance|pos=adv
+rental|location (véhicule, matériel)|B1||4|We picked up the rental car at the airport.|Nous avons récupéré la voiture de location à l'aéroport.|rental|t||travel|pos=n
+seemingly|en apparence|B2||3|It's a seemingly simple question.|C'est une question apparemment simple.|seemingly|c||fn_nuance|pos=adv
+shark|requin|A2||2|There are no sharks here.|Il n'y a pas de requins ici.|sharks|t||animals|pos=n
+bee|abeille|A2||2|I was stung by a bee.|Je me suis fait piquer par une abeille.|bee|d||animals|pos=n
+cafe|café (établissement)|A1||4|Let's meet at the cafe on the corner.|Retrouvons-nous au café du coin.|cafe|d||places|pos=n
+dairy|produits laitiers|B1||3|I can't eat dairy.|Je ne peux pas manger de produits laitiers.|dairy|d||food|pos=n
+diary|agenda, journal intime|A2||4|Let me check my diary.|Laisse-moi regarder mon agenda.|diary|w||time,uk_us|pos=n
+disagree|ne pas être d'accord|A2||5|I disagree with you on that.|Je ne suis pas d'accord avec toi là-dessus.|disagree|c||fn_disagree|pos=v
+disappear|s'évanouir, disparaître|A2||5|My keys have disappeared.|Mes clés ont disparu.|disappeared|c||basics|pos=v
+drill|perceuse, exercice|B1||2|We had a fire drill this morning.|Nous avons eu un exercice d'incendie ce matin.|drill|w||safety|pos=n
+euro|euro|A1||4|It costs ten euros.|Ça coûte dix euros.|euros|d||money|pos=n
+forecast|prévision|B1||5|What's the weather forecast?|Quelles sont les prévisions météo ?|forecast|d||weather,pro|pos=n
+governance|gouvernance|B2+||3|We need better corporate governance.|Il nous faut une meilleure gouvernance d'entreprise.|governance|w|f|pro,management|pos=n
+hug|serrer dans ses bras|A2||4|She gave me a big hug.|Elle m'a serré très fort dans ses bras.|hug|c||relationships|pos=n
+indoor|couvert, d'intérieur|A2||3|There's an indoor swimming pool.|Il y a une piscine couverte.|indoor|d||leisure|pos=adj
+influential|influent|B2||4|He's a very influential person.|C'est une personne très influente.|influential|w||description|pos=adj
+invisible|invisible|B1||3|I felt invisible in the meeting.|Je me sentais invisible à la réunion.|invisible|c||description|pos=adj
+lawsuit|procès|B2||3|They filed a lawsuit against the firm.|Ils ont intenté un procès à l'entreprise.|lawsuit|n||rules|pos=n
+leak|fuite|B1||4|There's a gas leak.|Il y a une fuite de gaz.|leak|d||housing|pos=n
+meter|compteur|B1||3|I read the electricity meter.|J'ai relevé le compteur d'électricité.|meter|d||housing|pos=n
+olive|olive|A2||2|Would you like some olives?|Tu veux des olives ?|olives|d||food|pos=n
+passionate|passionné|B1||5|She's passionate about her work.|Elle est passionnée par son travail.|passionate|c||personality|pos=adj
+recommendation|recommandation|B1||5|Do you have any recommendations?|Tu as des recommandations ?|recommendations|w||pro,fn_suggest|pos=n
+riot|émeute|B2||3|There were riots in the capital.|Il y a eu des émeutes dans la capitale.|riots|n||news|pos=n
+setup|installation, configuration|B1||3|The setup takes five minutes.|L'installation prend cinq minutes.|setup|w||it,pro|pos=n
+smash|briser, fracasser|B1||3|Someone smashed the car window.|Quelqu'un a brisé la vitre de la voiture.|smashed|n||basics|pos=v
+statue|statue|A2||2|We took a photo by the statue.|Nous avons pris une photo près de la statue.|statue|t||places|pos=n
+surprisingly|étonnamment|B1||4|It was surprisingly cheap.|C'était étonnamment bon marché.|surprisingly|c||fn_nuance|pos=adv
+teenager|adolescent|A2||4|She has two teenagers at home.|Elle a deux adolescents à la maison.|teenagers|c||people|pos=n
+tender|tendre|B1||3|The meat is very tender.|La viande est très tendre.|tender|d||food|pos=adj
+vacuum|aspirateur, passer l'aspirateur|A2||3|I need to vacuum the living room.|Je dois passer l'aspirateur dans le salon.|vacuum|d||housing|pos=v
+architect|architecte|A2||3|She's an architect.|Elle est architecte.|architect|c||career|pos=n
+bride|mariée|A2||2|The bride looked beautiful.|La mariée était magnifique.|bride|c||family|pos=n
+cartoon|dessin animé|A2||3|The kids are watching cartoons.|Les enfants regardent des dessins animés.|cartoons|d||leisure|pos=n
+comparable|comparable|B2||3|The two jobs are comparable.|Les deux postes sont comparables.|comparable|w||fn_compare|pos=adj
+confirmation|confirmation|B1||5|You'll receive a confirmation by email.|Vous recevrez une confirmation par e-mail.|confirmation|w||pro,email|pos=n
+contractor|sous-traitant, prestataire|B2||4|We hired a contractor for the work.|Nous avons fait appel à un prestataire pour les travaux.|contractor|w||pro,business|pos=n
+dump|jeter, décharge|B1||3|He dumped his girlfriend by text.|Il a largué sa copine par texto.|dumped|c|i|relationships|pos=v
+elephant|éléphant|A1||2|We saw elephants in Kenya.|Nous avons vu des éléphants au Kenya.|elephants|t||animals|pos=n
+fabric|tissu|B1||3|What fabric is this?|C'est quel tissu ?|fabric|d||clothes|pos=n
+fold|plier|A2||3|Fold the paper in half.|Plie la feuille en deux.|Fold|d||basics|pos=v
+gently|doucement|A2||4|Close the door gently.|Ferme la porte doucement.|gently|d||basics|pos=adv
+grief|chagrin|B2||3|She's still in grief.|Elle est encore dans le chagrin.|grief|c||feelings|pos=n
+layout|disposition, mise en page|B1||4|I like the layout of the flat.|J'aime bien l'agencement de l'appartement.|layout|d||housing|pos=n
+merit|mérite, valeur|B2||3|The idea has some merit.|L'idée a du bon.|merit|c||fn_nuance|pos=n
+myth|mythe|B1||4|That's just a myth.|Ce n'est qu'un mythe.|myth|c||analysis|pos=n
+pale|pâle|A2||3|You look pale.|Tu es pâle.|pale|c||health|pos=adj
+poison|poison|B1||2|Keep the poison away from children.|Garde le poison hors de portée des enfants.|poison|d||safety|pos=n
+tragic|tragique|B1||3|It was a tragic accident.|Ce fut un accident tragique.|tragic|n||description|pos=adj
+unbelievable|incroyable|B1||4|The price is unbelievable.|Le prix est incroyable.|unbelievable|c||fn_react|pos=adj
+underneath|en dessous|A2||3|Look underneath the bed.|Regarde sous le lit.|underneath|d||places|pos=prep
+variation|variation|B2||3|There's a lot of variation between regions.|Il y a beaucoup de variations entre les régions.|variation|w||analysis|pos=n
+viral|viral|B1||3|The video went viral.|La vidéo est devenue virale.|viral|d||media|pos=adj
+warehouse|entrepôt|B1||3|The goods are in the warehouse.|Les marchandises sont dans l'entrepôt.|warehouse|w||business|pos=n
+administrator|administrateur|B2||3|Contact your system administrator.|Contacte ton administrateur système.|administrator|w||pro,it|pos=n
+altogether|complètement, en tout|B2||4|That's a different matter altogether.|C'est une tout autre affaire.|altogether|c||fn_nuance|pos=adv
+basket|panier|A2||3|She carried a basket of apples.|Elle portait un panier de pommes.|basket|d||shopping|pos=n
+beard|barbe|A2||3|He's growing a beard.|Il se laisse pousser la barbe.|beard|c||body|pos=n
+blanket|couverture|A2||3|Can I have another blanket?|Je peux avoir une autre couverture ?|blanket|d||housing|pos=n
+bucket|seau|A2||2|Fill the bucket with water.|Remplis le seau d'eau.|bucket|d||housing|pos=n
+burger|hamburger|A1||3|I'll have a burger and fries.|Je vais prendre un hamburger et des frites.|burger|d||food|pos=n
+capability|capacité, aptitude|B2||4|We have the capability to do it.|Nous avons la capacité de le faire.|capability|w||pro,management|pos=n
+concentrate|fixer son attention, se concentrer|B1||5|I can't concentrate with this noise.|Je n'arrive pas à me concentrer avec ce bruit.|concentrate|c||learning|pos=v
+continent|continent|A2||3|Africa is a huge continent.|L'Afrique est un immense continent.|continent|c||places|pos=n
+cookie|biscuit, cookie|A1||3|Would you like a cookie?|Tu veux un biscuit ?|cookie|d||food|pos=n
+curse|malédiction, juron|B2||2|It's both a blessing and a curse.|C'est à la fois une bénédiction et une malédiction.|curse|c||basics|pos=n
+drain|évacuer, épuiser|B2||3|This job really drains me.|Ce travail m'épuise vraiment.|drains|c||feelings|pos=v
+ethical|conforme à l'éthique|B2||4|It's not ethical.|Ce n'est pas éthique.|ethical|w||pro,analysis|pos=adj
+excellence|excellence|B2||3|We aim for excellence.|Nous visons l'excellence.|excellence|w||pro,business|pos=n
+flame|flamme|B1||2|The flames spread quickly.|Les flammes se sont propagées rapidement.|flames|n||safety|pos=n
+graduation|remise des diplômes|B1||3|My parents came to my graduation.|Mes parents sont venus à ma remise de diplôme.|graduation|d||learning|pos=n
+hint|indice, allusion|B1||4|Can you give me a hint?|Tu peux me donner un indice ?|hint|c||basics|pos=n
+horizon|horizon|B1||2|There's a storm on the horizon.|Il y a une tempête à l'horizon.|horizon|t||nature|pos=n
+ink|encre|A2||2|The printer has run out of ink.|L'imprimante n'a plus d'encre.|ink|w||basics|pos=n
+miserable|très malheureux, misérable|B1||4|I was miserable in that job.|J'étais très malheureux dans ce travail.|miserable|c||feelings,false_friend|pos=adj
+monkey|singe|A1||2|There are monkeys in the trees.|Il y a des singes dans les arbres.|monkeys|t||animals|pos=n
+motorcycle|moto|A2||3|He rides a motorcycle to work.|Il va au travail à moto.|motorcycle|t||transport|pos=n
+nationwide|national, dans tout le pays|B2||3|We deliver nationwide.|Nous livrons dans tout le pays.|nationwide|w||business|pos=adv
+nest|nid|A2||2|There's a bird's nest in the tree.|Il y a un nid d'oiseau dans l'arbre.|nest|d||nature|pos=n
+penny|penny, centime|A2||3|I don't have a penny on me.|Je n'ai pas un sou sur moi.|penny|c||money|pos=n
+quantity|quantité|A2||4|What quantity do you need?|De quelle quantité as-tu besoin ?|quantity|w||numbers|pos=n
+rainbow|arc-en-ciel|A2||2|Look, there's a rainbow!|Regarde, il y a un arc-en-ciel !|rainbow|d||weather|pos=n
+scan|scanner, analyser|A2||4|Scan the code with your phone.|Scanne le code avec ton téléphone.|Scan|d||technology|pos=v
+scare|faire peur|A2||4|You scared me!|Tu m'as fait peur !|scared|c||feelings|pos=v
+submission|soumission, dépôt|B2||3|The submission deadline is Friday.|La date limite de dépôt est vendredi.|submission|w||pro,project|pos=n
+sunny|ensoleillé|A1||4|It's a sunny day.|C'est une journée ensoleillée.|sunny|d||weather|pos=adj
+toe|orteil|A2||2|I broke my toe.|Je me suis cassé un orteil.|toe|d||body|pos=n
+ankle|cheville|A2||3|I twisted my ankle running.|Je me suis tordu la cheville en courant.|ankle|d||body|pos=n
+wrist|poignet|A2||2|My wrist hurts when I type.|J'ai mal au poignet quand je tape.|wrist|d||body|pos=n
+thumb|pouce|A2||2|I cut my thumb.|Je me suis coupé le pouce.|thumb|d||body|pos=n
+throat|gorge|A2||3|I have a sore throat.|J'ai mal à la gorge.|throat|d||body|pos=n
+neck|cou|A2||3|My neck is stiff.|J'ai le cou raide.|neck|d||body|pos=n
+headache|mal de tête|A2||4|I've had a headache all day.|J'ai mal à la tête depuis ce matin.|headache|d||health|pos=n
+cough|toux, tousser|A2||4|She has a bad cough.|Elle a une mauvaise toux.|cough|d||health|pos=n
+flu|grippe|A2||4|He's in bed with the flu.|Il est au lit avec la grippe.|flu|d||health|pos=n
+vitamin|vitamine|A2||2|Oranges are full of vitamin C.|Les oranges sont pleines de vitamine C.|vitamin|d||health|pos=n
+vaccine|vaccin|B1||3|The vaccine is free.|Le vaccin est gratuit.|vaccine|d||health|pos=n
+prescription|ordonnance|B1||4|You can't buy it without a prescription.|On ne peut pas l'acheter sans ordonnance.|prescription|d||health|pos=n
+receipt|reçu, ticket de caisse|A2||5|Keep your receipt.|Garde ton reçu.|receipt|d||shopping|pos=n
+fridge|réfrigérateur|A2||4|Put the milk in the fridge.|Mets le lait au frigo.|fridge|d||housing|pos=n
+shelf|étagère|A2||3|The books are on the top shelf.|Les livres sont sur l'étagère du haut.|shelf|d||housing|pos=n
+pillow|oreiller|A2||3|This pillow is too soft.|Cet oreiller est trop mou.|pillow|d||housing|pos=n
+towel|serviette de toilette|A2||3|Can I have a clean towel?|Je peux avoir une serviette propre ?|towel|t||housing|pos=n
+dictionary|dictionnaire|A1||3|Look it up in the dictionary.|Cherche-le dans le dictionnaire.|dictionary|d||learning|pos=n
+pencil|crayon|A1||3|Write it in pencil.|Écris-le au crayon.|pencil|d||learning|pos=n
+@chunk
+It's bad for the environment.|C'est mauvais pour l'environnement.|B1|4|3|Plastic is bad for the environment.|Le plastique est mauvais pour l'environnement.|bad for the environment|n||nature|
+We should do something about it.|Nous devrions faire quelque chose.|B1|5|3|It's getting worse. We should do something about it.|Ça empire. Nous devrions faire quelque chose.|We should do something about it|c||fn_suggest|
+It's getting warmer.|Il fait de plus en plus chaud.|A2|4|2|Every year it's getting warmer.|Chaque année, il fait de plus en plus chaud.|it's getting warmer|n||weather|
+Studies show that...|Des études montrent que...|B1|5|5|Studies show that exercise improves sleep.|Des études montrent que l'exercice améliore le sommeil.|Studies show that|a||analysis|
+Experts say that...|Les experts disent que...|B1|5|4|Experts say that prices will fall.|Les experts disent que les prix vont baisser.|Experts say that|n||analysis|
+According to a recent study...|D'après une étude récente...|B1|5|4|According to a recent study, people sleep less.|D'après une étude récente, les gens dorment moins.|According to a recent study|n||analysis|
+I read somewhere that...|J'ai lu quelque part que...|B1|5|4|I read somewhere that coffee is good for you.|J'ai lu quelque part que le café est bon pour la santé.|I read somewhere that|c||fn_narrate|
+I heard that...|J'ai entendu dire que...|A2|5|4|I heard that they're closing the shop.|J'ai entendu dire qu'ils ferment le magasin.|I heard that|c||fn_narrate|
+Did you hear about...?|Tu as entendu parler de... ?|A2|5|4|Did you hear about the accident?|Tu as entendu parler de l'accident ?|Did you hear about|c||news|
+Have you heard the news?|Tu as appris la nouvelle ?|A2|5|4|Have you heard the news? Anna's pregnant!|Tu as appris la nouvelle ? Anna est enceinte !|Have you heard the news?|c||news|
+What's in the news?|Quoi de neuf dans l'actualité ?|B1|3|2|What's in the news today?|Quoi de neuf dans l'actualité aujourd'hui ?|What's in the news|c||news|
+It was on the news.|C'était aux infos.|A2|5|3|I saw it. It was on the news last night.|Je l'ai vu. C'était aux infos hier soir.|It was on the news|c||news|
+What's your take on this?|Quel est ton avis là-dessus ?|B2|5|5|What's your take on this new policy?|Quel est ton avis sur cette nouvelle politique ?|What's your take on this|c||fn_opinion|
+What do you make of it?|Comment l'interprètes-tu ?|B2|5|4|He resigned. What do you make of it?|Il a démissionné. Qu'est-ce que tu en penses ?|What do you make of it?|c||fn_opinion|
+How do you feel about...?|Que penses-tu de... ?|B1|5|5|How do you feel about working from home?|Que penses-tu du télétravail ?|How do you feel about|c||fn_opinion|
+I'm all for it.|Je suis totalement pour.|B1|5|4|A four-day week? I'm all for it.|Une semaine de quatre jours ? Je suis totalement pour.|I'm all for it|c||fn_agree|
+I'm against it.|Je suis contre.|A2|5|4|A new motorway? I'm against it.|Une nouvelle autoroute ? Je suis contre.|I'm against it|c||fn_disagree|
+I'm in favour of...|Je suis favorable à...|B1|5|5|I'm in favour of the new rules.|Je suis favorable aux nouvelles règles.|I'm in favour of|c||fn_opinion|
+I don't think it's fair.|Je ne trouve pas ça juste.|B1|5|4|I don't think it's fair to blame her.|Je ne trouve pas ça juste de l'accuser.|I don't think it's fair|c||fn_disagree|
+It doesn't make sense.|Ça n'a pas de sens.|A2|5|5|This rule doesn't make sense.|Cette règle n'a pas de sens.|doesn't make sense|c||fn_disagree|
+It's a matter of opinion.|C'est une question d'avis.|B1|5|4|Is it good? It's a matter of opinion.|C'est bien ? C'est une question d'avis.|It's a matter of opinion|c||fn_nuance|
+It's a matter of time.|C'est une question de temps.|B1|5|4|It's just a matter of time before they find out.|Ce n'est qu'une question de temps avant qu'ils le découvrent.|a matter of time|c||time|
+It's a question of...|C'est une question de...|B1|5|3|It's a question of money.|C'est une question d'argent.|It's a question of|c||fn_explain|
+It's only natural.|C'est tout à fait normal.|B1|4|3|You're nervous? It's only natural.|Tu es nerveux ? C'est tout à fait normal.|It's only natural|c||fn_react|
+It makes me angry.|Ça me met en colère.|A2|5|3|It makes me angry when people lie.|Ça me met en colère quand les gens mentent.|It makes me angry|c||feelings|
+It makes me happy.|Ça me rend heureux.|A2|5|3|Cooking makes me happy.|Cuisiner me rend heureux.|makes me happy|c||feelings|
+It drives me crazy.|Ça me rend fou.|B1|5|4|That noise drives me crazy.|Ce bruit me rend fou.|drives me crazy|c|i|feelings|
+It really annoys me.|Ça m'agace vraiment.|B1|5|4|It really annoys me when he's late.|Ça m'agace vraiment quand il est en retard.|It really annoys me|c||feelings|
+It's driving me up the wall.|Ça me rend dingue.|B2|4|3|This printer is driving me up the wall.|Cette imprimante me rend dingue.|driving me up the wall|c|i|feelings|
+It was love at first sight.|Ce fut le coup de foudre.|B1|4|3|We met in Rome. It was love at first sight.|Nous nous sommes rencontrés à Rome. Ce fut le coup de foudre.|love at first sight|c||relationships|
+We get on really well.|Nous nous entendons très bien.|B1|5|4|We get on really well, my sister and I.|Nous nous entendons très bien, ma sœur et moi.|We get on really well|c||relationships|
+We've known each other for years.|Nous nous connaissons depuis des années.|B1|5|4|We've known each other for years.|Nous nous connaissons depuis des années.|We've known each other for years|c||relationships|
+We lost touch.|Nous nous sommes perdus de vue.|B1|5|4|We lost touch after university.|Nous nous sommes perdus de vue après la fac.|We lost touch|c||relationships|
+We're just friends.|Nous sommes juste amis.|A2|5|3|No, we're just friends.|Non, nous sommes juste amis.|we're just friends|c||relationships|
+We're seeing each other.|Nous nous fréquentons.|B1|5|3|Yes, we're seeing each other.|Oui, nous nous fréquentons.|we're seeing each other|c||relationships|
+I've got a date tonight.|J'ai rendez-vous ce soir.|B1|5|3|I can't come, I've got a date tonight.|Je ne peux pas venir, j'ai un rendez-vous ce soir.|I've got a date tonight|c||relationships|
+Will you marry me?|Veux-tu m'épouser ?|A2|4|3|I love you. Will you marry me?|Je t'aime. Veux-tu m'épouser ?|Will you marry me?|c||relationships|
+I'm here for you.|Je suis là pour toi.|B1|5|4|Call me anytime. I'm here for you.|Appelle-moi quand tu veux. Je suis là pour toi.|I'm here for you|c||relationships|
+You can count on me.|Tu peux compter sur moi.|B1|5|5|Don't worry, you can count on me.|Ne t'inquiète pas, tu peux compter sur moi.|you can count on me|c||relationships|
+You're not alone.|Tu n'es pas seul.|A2|5|3|Talk to us, you're not alone.|Parle-nous, tu n'es pas seul.|you're not alone|c||relationships|
+You can do it!|Tu peux le faire !|A1|5|4|Come on, you can do it!|Allez, tu peux le faire !|you can do it!|c||fn_react|
+@collocation
+reduce waste|réduire les déchets|B1|5|4|We all need to reduce waste.|Nous devons tous réduire les déchets.|reduce waste|n||nature|
+recycle plastic|recycler le plastique|A2|4|3|We recycle plastic and glass.|Nous recyclons le plastique et le verre.|recycle plastic|d||nature|
+protect the environment|protéger l'environnement|A2|5|4|We must protect the environment.|Nous devons protéger l'environnement.|protect the environment|n||nature|
+climate change|changement climatique|B1|5|5|Climate change is a global problem.|Le changement climatique est un problème mondial.|Climate change|n||nature|
+global warming|réchauffement climatique|B1|5|4|Global warming is getting worse.|Le réchauffement climatique s'aggrave.|Global warming|n||nature|
+renewable energy|énergie renouvelable|B2|5|4|We're investing in renewable energy.|Nous investissons dans les énergies renouvelables.|renewable energy|n||nature,pro|
+carbon footprint|empreinte carbone|B2|5|4|We want to reduce our carbon footprint.|Nous voulons réduire notre empreinte carbone.|carbon footprint|n||nature,pro|
+natural disaster|catastrophe naturelle|B1|5|3|The region was hit by a natural disaster.|La région a été frappée par une catastrophe naturelle.|natural disaster|n||news|
+public opinion|opinion publique|B1|5|4|Public opinion is divided.|L'opinion publique est partagée.|Public opinion|n||news|
+human rights|droits de l'homme|B1|5|3|It's a human rights issue.|C'est une question de droits de l'homme.|human rights|n||news|
+social media|réseaux sociaux|A2|5|5|I spend too much time on social media.|Je passe trop de temps sur les réseaux sociaux.|social media|c||media|
+fake news|fausses informations|B1|5|4|Don't share fake news.|Ne partage pas de fausses informations.|fake news|n||media|
+breaking news|flash d'information|B1|4|3|Here's some breaking news from Paris.|Voici un flash d'information depuis Paris.|breaking news|n||media|
+general election|élections législatives|B1|4|3|There's a general election next year.|Il y a des élections législatives l'année prochaine.|general election|n||politics|
+prime minister|Premier ministre|A2|4|3|The prime minister resigned today.|Le Premier ministre a démissionné aujourd'hui.|prime minister|n||politics|
+tax cut|baisse d'impôts|B2|4|3|The government promised a tax cut.|Le gouvernement a promis une baisse d'impôts.|tax cut|n||money|
+minimum wage|salaire minimum|B1|5|4|The minimum wage went up in January.|Le salaire minimum a augmenté en janvier.|minimum wage|n||money,work|
+cost of living|coût de la vie|B1|5|5|The cost of living keeps rising.|Le coût de la vie ne cesse d'augmenter.|cost of living|n||money|
+standard of living|niveau de vie|B1|5|4|They have a high standard of living.|Ils ont un niveau de vie élevé.|standard of living|n||money|
+quality of life|qualité de vie|B1|5|5|We moved for a better quality of life.|Nous avons déménagé pour une meilleure qualité de vie.|quality of life|c||basics|
+work-life balance|équilibre vie professionnelle-vie privée|B1|5|5|I want a better work-life balance.|Je veux un meilleur équilibre entre travail et vie privée.|work-life balance|w||pro,work|
+mental health|santé mentale|B1|5|4|Mental health matters as much as physical health.|La santé mentale compte autant que la santé physique.|mental health|d||health|id=mental-health-col
+healthy diet|alimentation saine|A2|5|4|A healthy diet is important.|Une alimentation saine est importante.|healthy diet|d||health|
+balanced diet|alimentation équilibrée|B1|5|3|Try to eat a balanced diet.|Essaie d'avoir une alimentation équilibrée.|balanced diet|d||health|
+side effect|effet secondaire|B1|5|4|Are there any side effects?|Y a-t-il des effets secondaires ?|side effects|d||health|
+first aid|premiers secours|B1|4|3|Do you know first aid?|Tu connais les premiers secours ?|first aid|d||health|
+@phrasal_verb
+come down with|attraper (maladie)|B1|5|4|I think I'm coming down with a cold.|Je crois que je couve un rhume.|coming down with|d||health|
+throw up|vomir|A2|5|3|I think I'm going to throw up.|Je crois que je vais vomir.|throw up|d|i|health|
+fall out|se brouiller|B1|5|4|We fell out over money.|Nous nous sommes brouillés pour une question d'argent.|fell out|c||relationships|
+drift apart|s'éloigner l'un de l'autre|B2|4|3|We've drifted apart over the years.|Nous nous sommes éloignés au fil des années.|drifted apart|c||relationships|
+split up|se séparer|B1|5|4|They split up last year.|Ils se sont séparés l'année dernière.|split up|c||relationships|
+settle down|se poser, se calmer|B1|5|4|He's finally settled down.|Il s'est enfin posé.|settled down|c||relationships|
+stand by|soutenir, rester aux côtés|B1|5|4|She stood by him through it all.|Elle l'a soutenu tout du long.|stood by|c||relationships|
+stand up for|prendre la défense de, défendre|B1|5|5|You need to stand up for yourself.|Tu dois te défendre.|stand up for|c||relationships|
+stick up for|soutenir, prendre parti pour|B1|4|3|Thanks for sticking up for me.|Merci d'avoir pris ma défense.|sticking up for|c|i|relationships|
+talk into|persuader de|B1|4|3|She talked me into going.|Elle m'a persuadé d'y aller.|talked me into|c||communication|
+@connector
+so as to|afin de (soutenu)|B2|4|3|We left early so as to avoid traffic.|Nous sommes partis tôt afin d'éviter la circulation.|so as to|w|f|fn_explain|
+in the same way|de la même façon|B1|5|3|In the same way, prices rose in Italy.|De la même façon, les prix ont augmenté en Italie.|In the same way|c||fn_compare|
+just as|tout comme|B1|5|3|Just as I said, it's closed.|Comme je l'ai dit, c'est fermé.|Just as|c||fn_compare|
+much as|bien que, autant|B2|3|2|Much as I'd like to, I can't help.|J'aimerais bien, mais je ne peux pas t'aider.|Much as|c||fn_nuance|
+if only because|ne serait-ce que parce que|C1|3|2|I'll go, if only because it's free.|J'irai, ne serait-ce que parce que c'est gratuit.|if only because|c||fn_explain|
+let alone|encore moins|B2+|5|5|I can't afford a bike, let alone a car.|Je n'ai pas les moyens d'acheter un vélo, encore moins une voiture.|let alone|c||fn_nuance|
+@idiom
+Have a chip on your shoulder.|Être aigri.|B2|3|2|He has a chip on his shoulder about money.|Il est aigri à cause de l'argent.|a chip on his shoulder|c|i|personality|
+Have a soft spot for.|Avoir un faible pour.|B2|4|3|I have a soft spot for old movies.|J'ai un faible pour les vieux films.|a soft spot for|c||feelings|
+Fall head over heels.|Tomber éperdument amoureux.|B2|3|3|He fell head over heels for her.|Il est tombé éperdument amoureux d'elle.|fell head over heels|c|i|relationships|
+Tie the knot.|Se passer la bague au doigt.|B2|4|3|They tied the knot in June.|Ils se sont mariés en juin.|tied the knot|c|i|relationships|
+Blood is thicker than water.|La famille passe avant tout.|B2|3|2|He'll help you. Blood is thicker than water.|Il t'aidera. La famille passe avant tout.|Blood is thicker than water|c||family|
