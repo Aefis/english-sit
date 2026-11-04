@@ -5,7 +5,7 @@ import { levelVerdict, placementCard, presumeRest, sampleLevel } from '../src/co
 import { buildQueue, dayKey, matchesFocus, NO_FOCUS, type QueueInput } from '../src/core/queue';
 import type { Item, Level } from '../src/core/schema';
 import {
-  applyReview, createScheduler, DAY_MS, newCardState, previewDue, Rating, retrievability, seedCard, State,
+  applyReview, createScheduler, DAY_MS, newCardState, Rating, retrievability, seedCard, State,
   type CardState, type ReviewLog,
 } from '../src/core/srs';
 import { computeStats, computeStreak, itemProgress } from '../src/core/stats';
@@ -56,12 +56,24 @@ describe('FSRS', () => {
     expect(card.correct).toBe(6);
   });
 
-  it('ordonne Again < Hard < Good < Easy', () => {
-    const card = graduated(item('a'));
-    const due = previewDue(scheduler, card, card.due);
-    expect(due[Rating.Again]).toBeLessThan(due[Rating.Hard]);
-    expect(due[Rating.Hard]).toBeLessThan(due[Rating.Good]);
-    expect(due[Rating.Good]).toBeLessThan(due[Rating.Easy]);
+  it('« Je connais » sort une nouvelle carte de la session, pour plusieurs jours', () => {
+    const { card } = applyReview(scheduler, newCardState(ref(item('a')), NOW), Rating.Good, NOW);
+    expect(card.state).toBe(State.Review);
+    expect(card.due - NOW).toBeGreaterThanOrEqual(DAY_MS);
+  });
+
+  it('« À réviser » ramène aussi une carte restée sur une ancienne seconde étape', () => {
+    const old = { ...applyReview(scheduler, newCardState(ref(item('a')), NOW), Rating.Again, NOW).card, learningSteps: 1 };
+    const { card } = applyReview(scheduler, old, Rating.Again, old.due);
+    expect(card.state).toBe(State.Learning);
+    expect(card.due - old.due).toBeLessThanOrEqual(60_000);
+  });
+
+  it('« À réviser » ramène la carte dans la session, puis « Je connais » la valide', () => {
+    const { card } = applyReview(scheduler, newCardState(ref(item('a')), NOW), Rating.Again, NOW);
+    expect(card.state).toBe(State.Learning);
+    expect(card.due - NOW).toBeLessThanOrEqual(60_000);
+    expect(applyReview(scheduler, card, Rating.Good, card.due).card.state).toBe(State.Review);
   });
 
   it('compte un oubli et renvoie la carte en réapprentissage', () => {
@@ -104,7 +116,7 @@ describe('file de révision', () => {
 
   it('bloque la production tant que la compréhension n\'est pas consolidée', () => {
     const items = [item('a')];
-    const learning = applyReview(scheduler, newCardState(ref(items[0]), NOW), Rating.Good, NOW).card;
+    const learning = applyReview(scheduler, newCardState(ref(items[0]), NOW), Rating.Again, NOW).card;
     const later = NOW + 2 * DAY_MS;
     expect(buildQueue({ ...input, items, cards: mapOf({ ...learning, due: later + 1e9 }), now: later }).next).toBeNull();
     const done = graduated(items[0]);

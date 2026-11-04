@@ -47,8 +47,9 @@ export function createScheduler(requestRetention = 0.9, enableFuzz = true): FSRS
     maximum_interval: 365 * 3,
     enable_fuzz: enableFuzz,
     enable_short_term: true,
-    learning_steps: ['1m', '10m'],
-    relearning_steps: ['10m'],
+    // Une seule étape : « Je connais » sort la carte de la session, « À réviser » la ramène vite.
+    learning_steps: ['1m'],
+    relearning_steps: ['1m'],
   });
 }
 
@@ -77,7 +78,8 @@ function toFsrs(c: CardState): Card {
     stability: c.stability,
     difficulty: c.difficulty,
     scheduled_days: c.scheduledDays,
-    learning_steps: c.learningSteps,
+    // Les cartes enregistrées avec l'ancienne seconde étape reviennent à l'unique étape actuelle.
+    learning_steps: 0,
     reps: c.reps,
     lapses: c.lapses,
     state: c.state,
@@ -125,17 +127,6 @@ export function applyReview(
       difficultyAfter: card.difficulty,
       elapsedMs,
     },
-  };
-}
-
-/** Échéances affichées sous les boutons Again / Hard / Good / Easy. */
-export function previewDue(scheduler: FSRS, c: CardState, now: number): Record<Grade, number> {
-  const preview = scheduler.repeat(toFsrs(c), new Date(now));
-  return {
-    [Rating.Again]: preview[Rating.Again].card.due.getTime(),
-    [Rating.Hard]: preview[Rating.Hard].card.due.getTime(),
-    [Rating.Good]: preview[Rating.Good].card.due.getTime(),
-    [Rating.Easy]: preview[Rating.Easy].card.due.getTime(),
   };
 }
 

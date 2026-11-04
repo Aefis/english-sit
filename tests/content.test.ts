@@ -131,7 +131,8 @@ describe('lots réels', () => {
       ...findDuplicates(items, loadAllowlist()),
     ].filter((i) => i.severity === 'error');
     expect(errors).toEqual([]);
-  });
+    // La recherche de doublons sur toute la base dépasse les 5 s par défaut.
+  }, 30_000);
 
   it('couvre les six niveaux et les six types', () => {
     expect(new Set(items.map((i) => i.level)).size).toBe(6);

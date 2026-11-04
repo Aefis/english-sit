@@ -3,7 +3,7 @@ import { clozeHint, spokenAnswer, type CardKind } from '../core/cards';
 import { matchesFocus, NO_FOCUS, type Focus } from '../core/queue';
 import { LEVELS, type Item } from '../core/schema';
 import type { Store } from '../core/store';
-import { LEECH_LAPSES, previewDue, Rating, type CardState, type Grade } from '../core/srs';
+import { LEECH_LAPSES, Rating, type CardState, type Grade } from '../core/srs';
 import { Badges, Highlighted, ItemDetails, speak, useStore } from './shared';
 
 const KIND_LABELS: Record<CardKind, string> = {
@@ -12,11 +12,10 @@ const KIND_LABELS: Record<CardKind, string> = {
   context: 'Situation : que dis-tu ?',
 };
 
+/** Deux choix seulement : le calendrier reste caché. L'ordre donne les touches 1 et 2. */
 const GRADES: { rating: Grade; label: string; className: string }[] = [
-  { rating: Rating.Again, label: 'Again', className: 'again' },
-  { rating: Rating.Hard, label: 'Hard', className: 'hard' },
-  { rating: Rating.Good, label: 'Good', className: 'good' },
-  { rating: Rating.Easy, label: 'Easy', className: 'easy' },
+  { rating: Rating.Good, label: 'Je connais', className: 'good' },
+  { rating: Rating.Again, label: 'À réviser', className: 'again' },
 ];
 
 const CATEGORIES: [Focus['category'], string][] = [
@@ -29,17 +28,6 @@ const CATEGORIES: [Focus['category'], string][] = [
   ['connector', 'Connecteurs'],
   ['pro', 'Anglais pro'],
 ];
-
-function formatDelay(ms: number): string {
-  const minutes = Math.max(1, Math.round(ms / 60_000));
-  if (minutes < 60) return `${minutes} min`;
-  const hours = Math.round(minutes / 60);
-  if (hours < 24) return `${hours} h`;
-  const days = Math.round(hours / 24);
-  if (days < 31) return `${days} j`;
-  const months = Math.round(days / 30.4);
-  return months < 12 ? `${months} mois` : `${(days / 365).toFixed(1)} an(s)`;
-}
 
 function FocusBar({ focus, onFocus }: { focus: Focus; onFocus: (focus: Focus) => void }) {
   // Rendre le focus à la page pour qu'Espace retourne la carte juste après le choix.
@@ -92,7 +80,7 @@ function DoneMessage({ store, focus, onFocus, onContinue, learning }: {
 
   let title = "C'est tout pour aujourd'hui";
   let detail = learning > 0
-    ? `${learning} carte(s) en cours reviendront plus tard dans la journée.`
+    ? `${learning} carte(s) à réviser reviendront dans quelques minutes.`
     : 'Tes prochaines cartes seront prêtes demain.';
   if (empty) {
     title = 'Aucun élément pour cette sélection';
@@ -141,8 +129,7 @@ export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; 
       )}
       <p class="counts" aria-label="Cartes restantes">
         <span>{counts.fresh} nouvelles</span>
-        <span>{counts.learning} en cours</span>
-        <span>{counts.review} à réviser</span>
+        <span>{counts.learning + counts.review} à réviser</span>
       </p>
       {next && item ? (
         <Flashcard key={`${next.id}:${next.reps}`} store={store} card={next} item={item} />
@@ -155,8 +142,6 @@ export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; 
 
 function Flashcard({ store, card, item }: { store: Store; card: CardState; item: Item }) {
   const [flipped, setFlipped] = useState(false);
-  // Une fois la réponse vue, on peut retourner la carte à volonté avant de noter.
-  const [seen, setSeen] = useState(false);
   const [hint, setHint] = useState(false);
   const [busy, setBusy] = useState(false);
   const shownAt = useRef(Date.now());
@@ -170,10 +155,7 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
     await store.review(card, rating, Date.now() - shownAt.current);
   };
 
-  const flip = () => {
-    setFlipped(!flipped);
-    setSeen(true);
-  };
+  const flip = () => setFlipped(!flipped);
 
   /** Les boutons posés sur la carte ne doivent pas la retourner. */
   const withoutFlip = (action: () => void) => (event: Event) => {
@@ -193,15 +175,13 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
         setHint(true);
       } else if (flipped && event.key === 's') {
         listen();
-      } else if (seen && ['1', '2', '3', '4'].includes(event.key)) {
-        void grade(Number(event.key) as Grade);
+      } else if (event.key === '1' || event.key === '2') {
+        void grade(GRADES[Number(event.key) - 1].rating);
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   });
-
-  const preview = seen ? previewDue(store.scheduler, card, Date.now()) : null;
 
   return (
     <article class="flashcard">
@@ -261,20 +241,17 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
       </div>
 
       <div class="actions flip-actions">
-        <button class={seen ? 'secondary' : 'primary'} onClick={flip}>Retourner la carte</button>
+        <button class="secondary" onClick={flip}>Retourner la carte</button>
       </div>
 
-      {preview && (
-        <div class="grades">
-          {GRADES.map(({ rating, label, className }, index) => (
-            <button key={rating} class={`grade ${className}`} disabled={busy} onClick={() => void grade(rating)}>
-              <span>{label}</span>
-              <small>{formatDelay(preview[rating] - Date.now())}</small>
-              <kbd>{index + 1}</kbd>
-            </button>
-          ))}
-        </div>
-      )}
+      <div class="grades">
+        {GRADES.map(({ rating, label, className }, index) => (
+          <button key={rating} class={`grade ${className}`} disabled={busy} onClick={() => void grade(rating)}>
+            <span>{label}</span>
+            <kbd>{index + 1}</kbd>
+          </button>
+        ))}
+      </div>
     </article>
   );
 }

@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Raccourcis en révision : `Espace` ou un clic retourne la carte, `H` affiche l'indice, `1` à `4` notent la carte, `S` lit la réponse.
+Raccourcis en révision : `Espace` ou un clic retourne la carte, `H` affiche l'indice, `1` répond « Je connais », `2` répond « À réviser », `S` lit la réponse.
 
 ## Commandes
 

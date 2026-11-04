@@ -105,7 +105,7 @@ Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes pr
 
 ## 6. Répétition espacée
 
-- **Algorithme.** FSRS-6, rétention visée de 90 %, réglable. Étapes d'apprentissage de 1 et 10 minutes, journée qui bascule à 4 h.
+- **Algorithme.** FSRS-6, rétention visée de 90 %, réglable. Deux boutons seulement, sans délai affiché : « Je connais » (Good) et « À réviser » (Again), disponibles dès le recto. Une étape d'apprentissage de 1 minute, journée qui bascule à 4 h.
 - **Sens de révision.** Menu Les deux, EN → FR ou FR → EN. En mode Les deux, la production attend que la compréhension soit consolidée, et le contexte que la production le soit. FR → EN lève le premier blocage.
 - **Ordre de la file.** Cartes en cours, puis révisions dues, puis nouveautés. Les nouveautés alternent productions débloquées et nouveaux éléments.
 - **Révision ciblée.** Une sélection par catégorie et par niveau restreint la file sans changer la planification. La sélection s'efface au rechargement pour ne pas masquer durablement des cartes dues.
