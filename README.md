@@ -37,4 +37,4 @@ Ne change jamais l'`id` d'un élément publié : la progression y est rattachée
 
 ## Sources
 
-Fréquences : [wordfreq](https://github.com/rspeer/wordfreq) (données CC BY-SA 4.0). Traductions et exemples sont originaux.
+Fréquences : [wordfreq](https://github.com/rspeer/wordfreq) (données CC BY-SA 4.0). Traductions et exemples sont originaux. Le détail des crédits et des licences est dans [ATTRIBUTIONS.md](ATTRIBUTIONS.md).

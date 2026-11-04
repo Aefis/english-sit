@@ -93,13 +93,7 @@ Le chevauchement entre chunk et phrasal verb se règle par une seule entrée tag
 
 ## 5. Sélection et classement des 10 000 éléments
 
-**Mots.** Le vivier vient de listes ouvertes, jamais d'un dictionnaire propriétaire :
-
-| Source | Usage | Licence |
-|---|---|---|
-| [wordfreq](https://github.com/rspeer/wordfreq) | Fréquence par mot, instantané arrêté vers 2021 | Code libre ; données CC BY-SA 4.0 |
-| [NGSL](https://www.newgeneralservicelist.com/new-general-service-list) et sa [liste orale](https://www.newgeneralservicelist.com/ngsl-spoken) | Noyau de 2 809 mots, oral | CC BY-SA 4.0 (à revérifier sur la page de téléchargement de la v1.2) |
-| [CEFR-J](https://github.com/openlanguageprofiles/olp-en-cefrj) | Indication de niveau | Gratuit, y compris en commercial, avec citation (v1.5) |
+**Mots.** La sélection et les niveaux ont été rédigés pour ce projet, jamais repris d'un dictionnaire propriétaire. La seule source externe utilisée est [wordfreq](https://github.com/rspeer/wordfreq) (code Apache 2.0, données CC BY-SA 4.0) : il donne la fréquence de chaque mot et sert à contrôler les niveaux. NGSL et CEFR-J, envisagées au départ, n'ont pas été utilisées. Le détail des crédits est dans [ATTRIBUTIONS.md](../ATTRIBUTIONS.md).
 
 Oxford 3000 et English Vocabulary Profile restent exclus : ce sont des listes protégées. Les traductions, définitions et exemples sont tous originaux.
 
