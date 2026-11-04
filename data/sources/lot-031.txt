@@ -62,7 +62,7 @@ scrape through|réussir de justesse|B2|3|2|He scraped through the exam.|Il a ré
 screw up|gâcher, foirer (familier)|B2|4|3|I screwed up the presentation.|J'ai foiré la présentation.|screwed up|c|i|fn_react|
 see off|accompagner (au départ)|B1|3|2|They saw me off at the airport.|Ils m'ont accompagné à l'aéroport.|saw me off|t||travel|
 see through|percer à jour|B2|4|3|I can see through your excuses.|Je vois clair dans tes excuses.|see through|c||relationships|
-see to|se charger de|B1|4|3|I'll see to it.|Je m'en occupe.|see to it|c||fn_react|
+see to|veiller à|B1|4|3|I'll see to it.|Je m'en occupe.|see to it|c||fn_react|
 sell out|être épuisé (stock, billets)|B1|5|4|The tickets sold out in an hour.|Les billets se sont vendus en une heure.|sold out|d||shopping|
 send in|envoyer, soumettre|B1|4|3|Send in your application by Friday.|Envoie ta candidature d'ici vendredi.|Send in|w||career|
 send out|envoyer (en nombre)|B1|4|3|We sent out the invitations.|Nous avons envoyé les invitations.|sent out|c||communication|

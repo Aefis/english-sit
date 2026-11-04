@@ -1,0 +1,226 @@
+# Lot 032 : A2-B2 (logement, internet, finances, personnalité, études, voyages)
+@word
+hospitality|hospitalité, hôtellerie|B2||3|Thank you for your hospitality.|Merci pour votre hospitalité.|hospitality|t||travel|pos=n
+monument|monument|A2||2|We visited the main monuments.|Nous avons visité les principaux monuments.|monuments|t||places|pos=n
+obsession|obsession|B2||2|Fitness has become an obsession.|Le sport est devenu une obsession.|obsession|c||feelings|pos=n
+peanut|cacahuète|A2||2|She's allergic to peanuts.|Elle est allergique aux cacahuètes.|peanuts|d||food|pos=n
+pharmaceutical|pharmaceutique|B2||2|He works for a pharmaceutical company.|Il travaille pour un laboratoire pharmaceutique.|pharmaceutical|w||business|pos=adj
+rebuild|reconstruire|B1||3|They had to rebuild the school.|Ils ont dû reconstruire l'école.|rebuild|n||basics|pos=v
+rejection|rejet, refus|B2||3|He's afraid of rejection.|Il a peur du rejet.|rejection|c||feelings|pos=n
+sensation|sensation|B1||2|I had a strange sensation in my arm.|J'ai eu une sensation étrange dans le bras.|sensation|d||health|pos=n
+slope|pente|B1||3|It's a steep ski slope.|C'est une piste de ski raide.|slope|t||leisure|pos=n
+spotlight|projecteurs, feu des projecteurs|B2||2|She loves being in the spotlight.|Elle adore être sous les projecteurs.|spotlight|c||media|pos=n
+stiff|raide, courbaturé|B1||3|I've got a stiff neck.|J'ai un torticolis.|stiff|d||health|pos=adj
+terrific|génial, formidable|B1||3|You did a terrific job.|Tu as fait un travail formidable.|terrific|c|i|description|pos=adj
+unlock|déverrouiller|A2||3|Can you unlock your phone?|Tu peux déverrouiller ton téléphone ?|unlock|d||technology|pos=v
+biography|biographie|A2||2|I'm reading a biography of Churchill.|Je lis une biographie de Churchill.|biography|d||leisure|pos=n
+broker|courtier|B2||2|Ask your insurance broker.|Demande à ton courtier en assurances.|broker|w||money|pos=n
+browser|navigateur|B1||4|Clear your browser history.|Efface ton historique de navigation.|browser|d||technology|pos=n
+bury|enterrer|B1||3|He's buried in the village.|Il est enterré au village.|buried|c||basics|pos=v
+cocktail|cocktail|A2||2|Would you like a cocktail?|Tu veux un cocktail ?|cocktail|d||food|pos=n
+dislike|ne pas aimer|B1||4|I dislike the idea.|Je n'aime pas cette idée.|dislike|c||fn_opinion|pos=v
+emerge|apparaître, émerger|B2||4|New problems have emerged.|De nouveaux problèmes sont apparus.|emerged|w||pro,analysis|pos=v
+farewell|adieu, au revoir|B1||3|We had a farewell party for Anna.|Nous avons fait une fête d'adieu pour Anna.|farewell|c||work|pos=n
+fist|poing|B1||2|He hit the table with his fist.|Il a frappé la table du poing.|fist|c||body|pos=n
+fond|qui aime bien|B1||4|I'm very fond of him.|Je l'aime beaucoup.|fond|c||feelings|pos=adj
+foolish|bête, imprudent|B1||3|That was a foolish thing to do.|C'était bête de faire ça.|foolish|c||description|pos=adj
+frog|grenouille|A2||2|There are frogs in the pond.|Il y a des grenouilles dans l'étang.|frogs|d||animals|pos=n
+landlord|propriétaire (bailleur)|B1||5|Call the landlord about the heating.|Appelle le propriétaire pour le chauffage.|landlord|d||housing|pos=n
+tenant|locataire|B1||4|The tenant pays the bills.|Le locataire paie les factures.|tenant|d||housing|pos=n
+landmark|point de repère, monument|B2||3|The bridge is a famous landmark.|Le pont est un monument célèbre.|landmark|t||places|pos=n
+liable|responsable, susceptible|C1||3|You're liable for any damage.|Vous êtes responsable de tout dégât.|liable|w|f|pro,rules|pos=adj
+misery|malheur, misère|B2||2|He put an end to my misery.|Il a mis fin à mon malheur.|misery|c||feelings|pos=n
+module|module|B1||3|The course has six modules.|Le cours comprend six modules.|modules|a||learning|pos=n
+nursery|crèche|A2||3|She takes the baby to nursery.|Elle emmène le bébé à la crèche.|nursery|d||family|pos=n
+recruit|recruter|B2||5|We're recruiting a new manager.|Nous recrutons un nouveau responsable.|recruiting|w||pro,career|pos=v
+sincerely|sincèrement|B1||4|I sincerely hope you're right.|J'espère sincèrement que tu as raison.|sincerely|c|f|feelings|pos=adv
+sincere|sincère|B1||3|She seems sincere.|Elle a l'air sincère.|sincere|c||personality|pos=adj
+solidarity|solidarité|B2||2|The union called for solidarity.|Le syndicat a appelé à la solidarité.|solidarity|n||politics|pos=n
+trademark|marque déposée|B2||3|It's a registered trademark.|C'est une marque déposée.|trademark|w||pro,rules|pos=n
+adjustment|ajustement|B2||4|We need to make a few adjustments.|Nous devons faire quelques ajustements.|adjustments|w||pro,project|pos=n
+attachment|pièce jointe|B1||5|Please see the attachment.|Veuillez consulter la pièce jointe.|attachment|w||pro,email|pos=n
+candle|bougie|A2||2|She lit a candle.|Elle a allumé une bougie.|candle|d||housing|pos=n
+confession|aveu|B2||2|I have a confession to make.|J'ai un aveu à faire.|confession|c||communication|pos=n
+consume|consommer|B2||4|We consume too much energy.|Nous consommons trop d'énergie.|consume|n||nature|pos=v
+corridor|couloir|A2||3|Her office is at the end of the corridor.|Son bureau est au bout du couloir.|corridor|w||places|pos=n
+gossip|commérages|B1||4|Don't listen to office gossip.|N'écoute pas les commérages du bureau.|gossip|c||communication|pos=n
+qualification|qualification, diplôme|B1||4|What qualifications do you have?|Quels sont tes diplômes ?|qualifications|w||pro,career|pos=n
+sour|aigre, acide|A2||3|This milk has gone sour.|Ce lait a tourné.|sour|d||food|pos=n
+stressful|stressant|B1||5|It's a very stressful job.|C'est un travail très stressant.|stressful|w||work|pos=adj
+thief|voleur|A2||3|The thief took my bag.|Le voleur a pris mon sac.|thief|n||safety|pos=n
+undoubtedly|sans aucun doute|B2+||4|This is undoubtedly the best option.|C'est sans aucun doute la meilleure option.|undoubtedly|w|f|pro,fn_opinion|pos=adv
+verify|vérifier, confirmer|B2||4|We need to verify your identity.|Nous devons vérifier votre identité.|verify|w||pro,admin|pos=v
+whistle|sifflet, siffler|A2||2|The referee blew his whistle.|L'arbitre a sifflé.|whistle|d||leisure|pos=n
+appetite|appétit|B1||3|I've lost my appetite.|J'ai perdu l'appétit.|appetite|d||health|pos=n
+backyard|jardin de derrière|A2||2|The kids are playing in the backyard.|Les enfants jouent dans le jardin.|backyard|d||housing|pos=n
+bully|harceler, brute|B1||3|He was bullied at school.|Il s'est fait harceler à l'école.|bullied|d||learning|pos=v
+calculate|calculer|A2||4|We need to calculate the cost.|Nous devons calculer le coût.|calculate|w||numbers|pos=v
+distinguish|faire la différence|B2||4|It's hard to distinguish between them.|Il est difficile de les distinguer.|distinguish|c||basics|pos=v
+dominate|dominer|B2||3|Two companies dominate the market.|Deux entreprises dominent le marché.|dominate|w||business|pos=v
+economist|économiste|B2||2|Economists expect a recovery.|Les économistes prévoient une reprise.|Economists|n||money|pos=n
+forehead|front|A2||2|He kissed her on the forehead.|Il l'a embrassée sur le front.|forehead|d||body|pos=n
+informal|informel, décontracté|B1||5|It's an informal meeting.|C'est une réunion informelle.|informal|w||description|pos=adj
+messy|en désordre|A2||4|Her room is always messy.|Sa chambre est toujours en désordre.|messy|d||housing|pos=adj
+promotional|promotionnel|B2||2|We sent out promotional emails.|Nous avons envoyé des e-mails promotionnels.|promotional|w||pro,business|pos=adj
+prospective|éventuel, potentiel|B2+||4|We met a prospective client.|Nous avons rencontré un client potentiel.|prospective|w|f|pro,business|pos=adj
+regulate|réguler|B2||3|The state regulates the market.|L'État régule le marché.|regulates|n|f|rules|pos=v
+roast|rôtir, rôti|A2||3|We had roast beef on Sunday.|Nous avons mangé du rôti de bœuf dimanche.|roast|d||food|pos=adj
+swallow|avaler|B1||3|It hurts when I swallow.|J'ai mal quand j'avale.|swallow|d||health|pos=v
+systematic|systématique|B2||3|We need a systematic approach.|Il nous faut une approche systématique.|systematic|w||pro,analysis|pos=adj
+unacceptable|intolérable, inacceptable|B1||5|This behaviour is unacceptable.|Ce comportement est inacceptable.|unacceptable|c||fn_disagree|pos=adj
+unaware|inconscient de, ignorant|B2||4|I was unaware of the problem.|Je n'étais pas au courant du problème.|unaware|c||basics|pos=adj
+unstable|instable|B2||3|The situation is unstable.|La situation est instable.|unstable|n||risk|pos=adj
+antique|ancien, antiquité|B1||2|It's an antique table.|C'est une table ancienne.|antique|d||housing|pos=adj
+breeze|brise|B1||2|There's a nice breeze from the sea.|Il y a une agréable brise de mer.|breeze|t||weather|pos=n
+commodity|matière première|B2||3|Oil is a global commodity.|Le pétrole est une matière première mondiale.|commodity|n||money|pos=n
+coupon|bon de réduction|A2||3|I have a coupon for ten percent off.|J'ai un bon de réduction de dix pour cent.|coupon|d||shopping|pos=n
+envelope|enveloppe|A2||3|Put it in an envelope.|Mets-le dans une enveloppe.|envelope|d||communication|pos=n
+fade|s'estomper, se décolorer|B1||3|The colours have faded.|Les couleurs ont pâli.|faded|d||basics|pos=v
+fatigue|fatigue (soutenu)|B2||3|Symptoms include fever and fatigue.|Les symptômes comprennent de la fièvre et de la fatigue.|fatigue|d|f|health|pos=n
+fictional|fictif|B2||3|He's a fictional character.|C'est un personnage fictif.|fictional|d||leisure|pos=adj
+handbook|guide pratique|B2||3|Check the employee handbook.|Consulte le manuel de l'employé.|handbook|w||pro,rules|pos=n
+instinct|instinct|B2||3|Follow your instincts.|Suis ton instinct.|instincts|c||decision|pos=n
+irony|ironie|B2||3|The irony is that he was right.|L'ironie, c'est qu'il avait raison.|irony|c||communication|pos=n
+lime|citron vert|A2||2|Add a slice of lime.|Ajoute une tranche de citron vert.|lime|d||food|pos=n
+referee|arbitre|A2||3|The referee stopped the match.|L'arbitre a arrêté le match.|referee|d||leisure|pos=n
+scroll|faire défiler|A2||4|I spent an hour scrolling through photos.|J'ai passé une heure à faire défiler des photos.|scrolling|d||technology|pos=v
+sunlight|lumière du soleil|A2||2|The room gets a lot of sunlight.|La pièce reçoit beaucoup de lumière.|sunlight|d||nature|pos=n
+taxpayer|contribuable|B2||3|It's the taxpayer who pays.|C'est le contribuable qui paie.|taxpayer|n||money|pos=n
+wheelchair|fauteuil roulant|A2||3|The hotel has wheelchair access.|L'hôtel est accessible en fauteuil roulant.|wheelchair|t||health|pos=n
+allowance|allocation, franchise|B2||3|What's the baggage allowance?|Quelle est la franchise bagages ?|allowance|t||travel|pos=n
+correspondence|correspondance|B2||3|Keep all your correspondence.|Garde toute ta correspondance.|correspondence|w|f|pro,writing|pos=n
+diagram|schéma|B1||3|Look at the diagram on page five.|Regarde le schéma page cinq.|diagram|w||pro,presentations|pos=n
+incomplete|incomplet|B1||3|Your form is incomplete.|Ton formulaire est incomplet.|incomplete|w||admin|pos=adj
+necklace|collier|A2||2|She wore a gold necklace.|Elle portait un collier en or.|necklace|d||clothes|pos=n
+niche|créneau, niche|B2||3|We've found a niche in the market.|Nous avons trouvé un créneau sur le marché.|niche|w||pro,business|pos=n
+porch|porche|B1||2|We sat on the porch.|Nous nous sommes assis sous le porche.|porch|d||housing|pos=n
+yell|hurler|B1||3|Stop yelling at me.|Arrête de me hurler dessus.|yelling|c|i|communication|pos=v
+advertisement|publicité (annonce)|A2||3|I saw an advertisement for the job.|J'ai vu une annonce pour ce poste.|advertisement|d||media|pos=n
+daylight|lumière du jour|B1||2|Let's leave in daylight.|Partons quand il fait jour.|daylight|d||time|pos=n
+disclose|divulguer|B2+||3|We can't disclose the price.|Nous ne pouvons pas divulguer le prix.|disclose|w|f|pro,rules|pos=v
+elbow|coude|A2||2|I hurt my elbow.|Je me suis fait mal au coude.|elbow|d||body|pos=n
+enthusiastic|enthousiaste|B1||5|She's very enthusiastic about the job.|Elle est très enthousiaste pour le poste.|enthusiastic|c||personality|pos=adj
+envy|envie, envier|B2||3|I envy you.|Je t'envie.|envy|c||feelings|pos=v
+goose|oie|A2||2|There's a goose in the garden.|Il y a une oie dans le jardin.|goose|d||animals|pos=n ;; forms=geese
+grill|faire griller|A2||3|Grill the fish for ten minutes.|Fais griller le poisson dix minutes.|Grill|d||food|pos=v
+outrage|indignation|B2+||3|The decision caused outrage.|La décision a provoqué l'indignation.|outrage|n||feelings|pos=n
+paperwork|paperasse|B1||5|I have so much paperwork.|J'ai tellement de paperasse.|paperwork|w||admin|pos=n
+renewal|renouvellement|B2||3|Your contract is up for renewal.|Votre contrat arrive à renouvellement.|renewal|w||pro,admin|pos=n
+spill|renverser (un liquide)|B1||4|I spilled coffee on my shirt.|J'ai renversé du café sur ma chemise.|spilled|d||basics|pos=v
+steadily|régulièrement, progressivement|B2||4|Prices have risen steadily.|Les prix ont augmenté régulièrement.|steadily|w||fn_nuance|pos=adv
+supplier|fournisseur|B1||5|We've changed suppliers.|Nous avons changé de fournisseur.|suppliers|w||pro,business|pos=n
+tasty|savoureux|A2||4|This soup is very tasty.|Cette soupe est très savoureuse.|tasty|d||food|pos=adj
+teammate|coéquipier|A2||2|She's my teammate.|C'est ma coéquipière.|teammate|c||work|pos=n
+testify|témoigner|B2||3|She agreed to testify.|Elle a accepté de témoigner.|testify|n|f|rules|pos=v
+vanilla|vanille|A2||2|I'll have vanilla ice cream.|Je vais prendre une glace à la vanille.|vanilla|d||food|pos=n
+applause|applaudissements|B1||2|There was loud applause.|Il y a eu de vifs applaudissements.|applause|c||leisure|pos=n
+bald|chauve|A2||2|He's going bald.|Il devient chauve.|bald|c||description|pos=adj
+boil|faire bouillir|A2||3|Boil the water first.|Fais d'abord bouillir l'eau.|Boil|d||food|pos=v
+critique|critique (analyse)|B2+||2|She wrote a critique of the study.|Elle a rédigé une critique de l'étude.|critique|a|f|analysis|pos=n
+decay|carie, déclin|B2||2|The dentist found some tooth decay.|Le dentiste a trouvé une carie.|decay|d||health|pos=n
+entertain|divertir, recevoir|B1||3|We entertain a lot at home.|Nous recevons beaucoup à la maison.|entertain|d||leisure|pos=v
+exploit|abuser, exploiter (des personnes)|B2||3|They exploit their workers.|Ils exploitent leurs employés.|exploit|n||work|pos=v
+gateway|porte, passerelle|B2||2|The city is the gateway to Asia.|La ville est la porte de l'Asie.|gateway|t||places|pos=n
+imply|sous-entendre|B2||5|What are you implying?|Qu'est-ce que tu sous-entends ?|implying|c||communication|pos=v
+investigator|enquêteur|B2||2|Investigators found the cause.|Les enquêteurs ont trouvé la cause.|Investigators|n||rules|pos=n
+naughty|vilain, désobéissant|A2||2|Don't be naughty.|Ne sois pas vilain.|naughty|d||family|pos=adj
+obey|obéir|B1||3|You must obey the rules.|Tu dois obéir aux règles.|obey|c||rules|pos=v
+prototype|prototype|B2||3|We've built a prototype.|Nous avons construit un prototype.|prototype|w||pro,project|pos=n
+pumpkin|citrouille|A2||2|We carved a pumpkin.|Nous avons sculpté une citrouille.|pumpkin|d||food|pos=n
+refusal|refus|B2||3|I was surprised by his refusal.|J'ai été surpris par son refus.|refusal|c||communication|pos=n
+reset|réinitialiser|B1||4|You need to reset the router.|Tu dois réinitialiser le routeur.|reset|d||technology|pos=v
+shave|se raser|A2||3|I shave every morning.|Je me rase tous les matins.|shave|d||daily_routine|pos=v
+startup|jeune entreprise|B1||5|She works for a startup.|Elle travaille pour une start-up.|startup|w||pro,business|pos=n
+thoughtful|prévenant, réfléchi|B1||4|That's very thoughtful of you.|C'est très attentionné de ta part.|thoughtful|c||personality|pos=adj
+toddler|bambin|B1||3|They have a toddler at home.|Ils ont un bambin à la maison.|toddler|d||family|pos=n
+zoom|zoomer, visioconférence|A2||3|Let's have a Zoom call.|Faisons un appel Zoom.|Zoom|w||technology|pos=n
+accidental|accidentel|B1||3|It was purely accidental.|C'était purement accidentel.|accidental|c||basics|pos=adj
+certainty|certitude|B2||3|Nothing is a certainty.|Rien n'est certain.|certainty|c||fn_nuance|pos=n
+deliberate|délibéré|B2||4|It was a deliberate choice.|C'était un choix délibéré.|deliberate|c||basics|pos=adj
+despair|désespoir|B2||3|She was in despair.|Elle était au désespoir.|despair|c||feelings|pos=n
+drift|dériver|B2||2|The boat drifted out to sea.|Le bateau a dérivé vers le large.|drifted|t||basics|pos=v
+intentionally|intentionnellement|B2||3|He did it intentionally.|Il l'a fait intentionnellement.|intentionally|c||basics|pos=adv
+marketplace|marché, place de marché|B2||3|It's a crowded marketplace.|C'est un marché très concurrentiel.|marketplace|w||pro,business|pos=n
+pardon|pardon|A2||4|I beg your pardon?|Pardon, vous dites ?|pardon|c||fn_clarify|pos=n
+quiz|quiz, jeu-questionnaire|A2||3|We did a quiz at the pub.|Nous avons fait un quiz au pub.|quiz|d||leisure|pos=n
+revision|révision|B1||4|I've made some revisions to the plan.|J'ai apporté quelques révisions au plan.|revisions|w||pro,writing|pos=n
+sunrise|lever de soleil|A2||2|We got up at sunrise.|Nous nous sommes levés au lever du soleil.|sunrise|t||nature|pos=n
+vocabulary|vocabulaire|A2||5|I want to improve my vocabulary.|Je veux enrichir mon vocabulaire.|vocabulary|c||learning|pos=n
+@chunk
+Do you rent or own?|Tu es locataire ou propriétaire ?|B1|4|3|Your flat is great. Do you rent or own?|Ton appartement est super. Tu es locataire ou propriétaire ?|Do you rent or own?|d||housing|
+I have an interview tomorrow.|J'ai un entretien demain.|A2|5|4|Wish me luck, I have an interview tomorrow.|Souhaite-moi bonne chance, j'ai un entretien demain.|I have an interview tomorrow|w||career|
+I got the job!|J'ai eu le poste !|A2|5|4|They called this morning. I got the job!|Ils ont appelé ce matin. J'ai eu le poste !|I got the job!|w||career|
+I've been made redundant.|J'ai été licencié (économique).|B2|4|4|I've been made redundant after ten years.|J'ai été licencié après dix ans.|I've been made redundant|w||career|
+I handed in my notice.|J'ai donné ma démission.|B2|5|4|I handed in my notice this morning.|J'ai donné ma démission ce matin.|I handed in my notice|w||career|
+I'm between jobs at the moment.|Je suis entre deux emplois.|B2|4|4|I'm between jobs at the moment.|Je suis entre deux emplois en ce moment.|I'm between jobs at the moment|w||career|
+I work part-time.|Je travaille à temps partiel.|A2|5|4|I work part-time in a bookshop.|Je travaille à temps partiel dans une librairie.|I work part-time|w||career|
+I work full-time.|Je travaille à temps plein.|A2|5|3|I work full-time at the hospital.|Je travaille à temps plein à l'hôpital.|I work full-time|w||career|
+I'm self-employed.|Je suis à mon compte.|B1|5|4|I'm self-employed, so I choose my hours.|Je suis à mon compte, donc je choisis mes horaires.|I'm self-employed|w||career|
+I run my own business.|Je dirige ma propre entreprise.|B1|5|4|I run my own business in Lyon.|Je dirige ma propre entreprise à Lyon.|I run my own business|w||pro,career|
+I'm on a training course.|Je suis en formation.|B1|4|3|I'm on a training course this week.|Je suis en formation cette semaine.|I'm on a training course|w||career|
+I report to...|Je rends compte à...|B2|5|4|I report to the head of sales.|Je rends compte au directeur commercial.|I report to|w||pro,management|
+Who do you report to?|À qui rendez-vous compte ?|B2|4|3|In this role, who do you report to?|Dans ce poste, à qui rendez-vous compte ?|who do you report to?|w||pro,management|
+It's a great opportunity.|C'est une belle opportunité.|B1|5|4|This job is a great opportunity for me.|Ce poste est une belle opportunité pour moi.|a great opportunity|w||pro,career|
+I'd like to discuss my salary.|J'aimerais parler de mon salaire.|B1|5|4|I'd like to discuss my salary with you.|J'aimerais parler de mon salaire avec vous.|I'd like to discuss my salary|w||pro,career|
+Could I have the day off?|Pourrais-je avoir un jour de congé ?|A2|5|4|Could I have the day off on Friday?|Pourrais-je avoir mon vendredi ?|Could I have the day off|w||work|
+I'm off sick.|Je suis en arrêt maladie.|B1|5|3|I'm off sick today, sorry.|Je suis en arrêt maladie aujourd'hui, désolé.|I'm off sick|w||health|
+What time do you finish?|Tu finis à quelle heure ?|A2|5|3|What time do you finish tonight?|Tu finis à quelle heure ce soir ?|What time do you finish|w||work|
+I've got too much on my plate.|J'ai trop de choses à gérer.|B2|4|3|I've got too much on my plate this week.|J'ai trop de choses à gérer cette semaine.|too much on my plate|w|i|work|
+What's your major?|Quelle est ta spécialité ?|B1|4|3|You're at university? What's your major?|Tu es à la fac ? Quelle est ta spécialité ?|What's your major?|c||learning,uk_us|
+What are you studying?|Qu'est-ce que tu étudies ?|A2|5|4|What are you studying at university?|Qu'est-ce que tu étudies à l'université ?|What are you studying|c||learning|
+I graduated in...|J'ai eu mon diplôme en...|B1|5|3|I graduated in 2018.|J'ai eu mon diplôme en 2018.|I graduated in|c||learning|
+I'm in my final year.|Je suis en dernière année.|B1|4|3|I'm in my final year at university.|Je suis en dernière année à la fac.|I'm in my final year|c||learning|
+I have to revise.|Je dois réviser.|B1|4|3|I can't come out, I have to revise.|Je ne peux pas sortir, je dois réviser.|I have to revise|d||learning|
+Could you explain that again?|Pourriez-vous réexpliquer ?|A2|5|4|Sorry, could you explain that again?|Pardon, pourriez-vous réexpliquer ?|could you explain that again?|c||learning,fn_clarify|
+What does that word mean?|Que veut dire ce mot ?|A1|5|4|Excuse me, what does that word mean?|Excusez-moi, que veut dire ce mot ?|what does that word mean?|c||learning|
+How do you pronounce this?|Comment prononce-t-on ça ?|A2|5|4|How do you pronounce this word?|Comment prononce-t-on ce mot ?|How do you pronounce this|c||learning|
+Is that the right word?|C'est le bon mot ?|A2|5|3|Is that the right word in English?|C'est le bon mot en anglais ?|Is that the right word|c||learning|
+What's the English for...?|Comment dit-on ... en anglais ?|A2|5|4|What's the English for "boulanger"?|Comment dit-on « boulanger » en anglais ?|What's the English for|c||learning|
+It's on the tip of my tongue.|Je l'ai sur le bout de la langue.|B1|5|4|What's his name? It's on the tip of my tongue.|Comment s'appelle-t-il ? Je l'ai sur le bout de la langue.|It's on the tip of my tongue|c||fn_hesitate|
+I can't think of the word.|Le mot ne me vient pas.|B1|5|3|I can't think of the word in English.|Le mot ne me vient pas en anglais.|I can't think of the word|c||fn_hesitate|
+How can I put it?|Comment dire ?|B1|5|4|It's, how can I put it, a bit strange.|C'est, comment dire, un peu étrange.|how can I put it|c||fn_hesitate|
+You know what I mean?|Tu vois ce que je veux dire ?|A2|5|5|It's a bit weird, you know what I mean?|C'est un peu bizarre, tu vois ce que je veux dire ?|you know what I mean?|c||fn_clarify|
+What's it called?|Comment ça s'appelle ?|A2|5|4|That thing for opening bottles. What's it called?|Le truc pour ouvrir les bouteilles. Comment ça s'appelle ?|What's it called?|c||fn_hesitate|
+That thing...|Ce truc...|A2|5|3|Pass me that thing, please.|Passe-moi ce truc, s'il te plaît.|that thing|c|i|fn_hesitate|
+It's a kind of...|C'est une sorte de...|A2|5|4|It's a kind of soup.|C'est une sorte de soupe.|It's a kind of|c||fn_explain|
+It's like...|C'est comme...|A2|5|4|It's like a small car.|C'est comme une petite voiture.|It's like|c||fn_explain|
+Something like that.|Quelque chose comme ça.|A2|5|4|Forty euros, something like that.|Quarante euros, quelque chose comme ça.|something like that|c||fn_hesitate|
+Sort of.|En quelque sorte.|A2|5|3|Do you understand? Sort of.|Tu comprends ? Plus ou moins.|Sort of|c|i|fn_nuance|
+You see, ...|Tu vois...|A2|5|4|You see, it's not that easy.|Tu vois, ce n'est pas si facile.|You see|c||fn_explain|
+You know, ...|Tu sais...|A2|5|4|You know, I've never liked him.|Tu sais, je ne l'ai jamais aimé.|You know|c||fn_hesitate|
+@collocation
+sign a form|signer un formulaire|A2|4|2|Please sign this form.|Veuillez signer ce formulaire.|sign this form|w||admin|
+renew a passport|renouveler un passeport|B1|4|3|I need to renew my passport.|Je dois renouveler mon passeport.|renew my passport|t||admin|
+hand in a report|remettre un rapport|B1|4|3|I handed in the report on time.|J'ai remis le rapport à temps.|handed in the report|w||work|
+open a bank account|ouvrir un compte en banque|A2|4|2|I'd like to open a bank account.|Je voudrais ouvrir un compte en banque.|open a bank account|d||money|
+apply for a loan|demander un prêt|B1|4|3|We applied for a loan.|Nous avons demandé un prêt.|applied for a loan|d||money|
+get a mortgage|obtenir un prêt immobilier|B1|4|3|We got a mortgage from the bank.|Nous avons obtenu un prêt immobilier de la banque.|got a mortgage|d||money|
+buy a house|acheter une maison|A2|4|2|They bought a house last year.|Ils ont acheté une maison l'année dernière.|bought a house|d||housing|
+move house|déménager (UK)|A2|5|4|We're moving house next month.|Nous déménageons le mois prochain.|moving house|d||housing|
+share a flat|partager un appartement|A2|5|3|I share a flat with two friends.|Je partage un appartement avec deux amis.|share a flat|d||housing|
+furnished flat|appartement meublé|B1|4|3|We rented a furnished flat.|Nous avons loué un appartement meublé.|furnished flat|d||housing|
+real estate|immobilier|B1|4|4|She works in real estate.|Elle travaille dans l'immobilier.|real estate|w||money|
+estate agent|agent immobilier|B1|4|3|Call the estate agent.|Appelle l'agent immobilier.|estate agent|d||housing|
+quiet area|quartier calme|A2|4|2|It's a very quiet area.|C'est un quartier très calme.|quiet area|d||housing|
+within walking distance|à quelques minutes à pied|B1|5|3|Everything is within walking distance.|Tout est accessible à pied.|within walking distance|t||places|
+well paid|bien payé|A2|5|3|Her job is well paid.|Son poste est bien payé.|well paid|w||work|
+badly paid|mal payé|A2|5|2|Nurses are badly paid here.|Les infirmières sont mal payées ici.|badly paid|w||work|
+full-time job|emploi à temps plein|A2|5|3|I'm looking for a full-time job.|Je cherche un emploi à temps plein.|full-time job|w||career|
+temporary job|emploi temporaire|B1|4|3|It's only a temporary job.|Ce n'est qu'un emploi temporaire.|temporary job|w||career|
+permanent contract|CDI|B1|5|4|I've got a permanent contract.|J'ai un CDI.|permanent contract|w||pro,career|
+fixed-term contract|CDD|B2|5|4|It's a six-month fixed-term contract.|C'est un CDD de six mois.|fixed-term contract|w||pro,career|
+notice period|préavis|B2|5|4|My notice period is three months.|Mon préavis est de trois mois.|notice period|w||pro,career|
+job offer|offre d'emploi|A2|5|4|I've had a job offer in Lyon.|J'ai reçu une offre d'emploi à Lyon.|job offer|w||career|
+@connector
+in my case|dans mon cas|A2|5|3|In my case, it took two years.|Dans mon cas, ça a pris deux ans.|In my case|c||fn_explain|
+to my surprise|à ma grande surprise|B1|4|3|To my surprise, she agreed.|À ma grande surprise, elle a accepté.|To my surprise|c||fn_narrate|
+to be exact|pour être exact|B1|5|3|It took six hours, to be exact.|Ça a pris six heures, pour être exact.|to be exact|c||fn_clarify|
+by chance|fortuitement, par hasard|A2|5|4|We met by chance.|Nous nous sommes rencontrés par hasard.|by chance|c||fn_narrate|
+by mistake|par erreur|A2|5|5|I sent it by mistake.|Je l'ai envoyé par erreur.|by mistake|c||basics|
+by accident|par accident|A2|5|4|I deleted it by accident.|Je l'ai supprimé par accident.|by accident|c||basics|
+@idiom
+In the pipeline.|En préparation.|B2|4|4|We have several projects in the pipeline.|Nous avons plusieurs projets en préparation.|in the pipeline|w||pro,project|
+In a rut.|Dans une routine pesante.|B2|4|3|I feel stuck in a rut.|Je me sens enfermé dans une routine.|in a rut|c|i|feelings|
+In the dark.|Dans l'ignorance.|B1|4|3|They kept me in the dark.|Ils m'ont laissé dans l'ignorance.|in the dark|c||communication|
+In the red.|À découvert, dans le rouge.|B2|4|3|My account is in the red.|Mon compte est à découvert.|in the red|c||money|
+In the black.|Bénéficiaire.|B2|3|2|The company is back in the black.|L'entreprise est de nouveau bénéficiaire.|in the black|w||money|
