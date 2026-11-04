@@ -1,0 +1,206 @@
+# Lot 006 : A1-A2 (socle : verbes de base, personnes, nombres, famille, repères)
+@word
+be|être|A1||5|She wants to be a doctor.|Elle veut être médecin.|be|c||grammar,basics|pos=v ;; forms=am, is, are, was, were, been
+have|avoir|A1||5|We have two cats.|Nous avons deux chats.|have|c||grammar,basics|pos=v ;; forms=has, had
+do|faire (une action)|A1||5|What are you doing tonight?|Qu'est-ce que tu fais ce soir ?|doing|c||grammar,basics|pos=v ;; forms=does, did, done
+make|faire, fabriquer|A1||5|I'll make some coffee.|Je vais faire du café.|make|d||basics|pos=v ;; forms=made
+get|obtenir, recevoir|A1||5|Did you get my message?|Tu as reçu mon message ?|get|c||basics|pos=v ;; forms=got ;; notes=Verbe très polyvalent : recevoir, obtenir, devenir, arriver.
+say|dire|A1||5|What did she say?|Qu'est-ce qu'elle a dit ?|say|c||basics|pos=v ;; forms=said
+look|regarder|A1||5|Look at this photo!|Regarde cette photo !|Look|c||basics|pos=v ;; notes=look at + ce qu'on regarde.
+use|utiliser|A1||5|Can I use your phone?|Je peux utiliser ton téléphone ?|use|d||basics|pos=v
+show|montrer|A1||5|Can you show me the way?|Tu peux me montrer le chemin ?|show|c||basics|pos=v ;; forms=showed, shown
+put|mettre, poser|A1||5|Put your bag on the chair.|Pose ton sac sur la chaise.|Put|d||basics|pos=v ;; forms=put
+play|jouer|A1||4|The kids are playing outside.|Les enfants jouent dehors.|playing|d||leisure|pos=v
+tell|dire à, raconter|A1||5|Tell me about your family.|Parle-moi de ta famille.|Tell|c||basics|pos=v ;; forms=told ;; notes=tell + personne ; say sans personne.
+hear|entendre|A1||4|I can't hear you.|Je ne t'entends pas.|hear|c||basics|pos=v ;; forms=heard
+turn|tourner|A1||4|Turn left at the lights.|Tourne à gauche aux feux.|Turn|t||transport|pos=v
+move|bouger, déménager|A2||4|We moved to Lyon last year.|Nous avons déménagé à Lyon l'année dernière.|moved|d||housing|pos=v
+run|courir|A1||4|I run three times a week.|Je cours trois fois par semaine.|run|d||leisure|pos=v ;; forms=ran, run
+hold|tenir|A2||4|Can you hold my coffee for a second?|Tu peux tenir mon café une seconde ?|hold|d||basics|pos=v ;; forms=held
+add|ajouter|A2||4|Add a little salt.|Ajoute un peu de sel.|Add|d||food|pos=v
+stop|arrêter, s'arrêter|A1||5|Please stop the car here.|Arrête la voiture ici, s'il te plaît.|stop|c||basics|pos=v
+buy|acheter|A1||5|I need to buy some milk.|Je dois acheter du lait.|buy|d||shopping|pos=v ;; forms=bought
+sell|vendre|A2||4|They sell fresh bread here.|Ils vendent du pain frais ici.|sell|d||shopping|pos=v ;; forms=sold
+send|envoyer|A1||5|I'll send you the address.|Je t'envoie l'adresse.|send|c||communication|pos=v ;; forms=sent
+this|ce, cette, ceci|A1||5|This coffee is really good.|Ce café est vraiment bon.|This|c||grammar,basics|pos=det
+that|ce... là, cela|A1||5|Who's that man over there?|C'est qui, cet homme là-bas ?|that|c||grammar,basics|pos=det
+these|ces (proches)|A1||4|These shoes are too small.|Ces chaussures sont trop petites.|These|c||grammar,basics|pos=det
+those|ces... là|A1||4|Can I see those glasses?|Je peux voir ces lunettes-là ?|those|c||grammar,basics|pos=det
+they|ils, elles|A1||5|They live near the station.|Ils habitent près de la gare.|They|c||grammar,basics|pos=pron
+them|les, leur, eux|A1||4|I saw them yesterday.|Je les ai vus hier.|them|c||grammar,basics|pos=pron
+his|son, sa, ses (à lui)|A1||5|Tom lost his keys.|Tom a perdu ses clés.|his|c||grammar,basics|pos=det
+her|son, sa, ses (à elle)|A1||5|Anna called her mother.|Anna a appelé sa mère.|her|c||grammar,basics|pos=det
+their|leur, leurs|A1||4|They sold their house.|Ils ont vendu leur maison.|their|c||grammar,basics|pos=det
+our|notre, nos|A1||4|Our flat is on the third floor.|Notre appartement est au troisième étage.|Our|c||grammar,basics|pos=det
+who|qui|A1||5|Who is your best friend?|Qui est ton meilleur ami ?|Who|c||grammar,basics|pos=pron
+which|quel, lequel|A1||4|Which bus goes to the airport?|Quel bus va à l'aéroport ?|Which|t||grammar,basics|pos=det
+some|du, de la, quelques|A1||5|Would you like some water?|Tu veux de l'eau ?|some|c||grammar,basics|pos=det
+any|du tout, n'importe quel|A1||4|I don't have any money on me.|Je n'ai pas du tout d'argent sur moi.|any|c||grammar,basics|pos=det
+many|beaucoup de (dénombrable)|A1||4|There aren't many people here.|Il n'y a pas beaucoup de monde ici.|many|c||grammar,basics|pos=det
+each|chaque, chacun|A2||4|Each room has its own bathroom.|Chaque chambre a sa propre salle de bain.|Each|t||grammar,basics|pos=det
+every|tous les, chaque|A1||5|I go there every week.|J'y vais toutes les semaines.|every|c||grammar,time|pos=det
+both|les deux|A2||4|We both like jazz.|On aime le jazz tous les deux.|both|c||grammar,basics|pos=det
+few|peu de|A2||4|Few people know this.|Peu de gens le savent.|Few|c||grammar,basics|pos=det
+another|un autre, encore un|A1||4|Can I have another coffee?|Je peux avoir un autre café ?|another|c||grammar,basics|pos=det
+everything|tout|A1||5|Everything is ready.|Tout est prêt.|Everything|c||basics|pos=pron
+everyone|tout le monde|A1||5|Everyone is here.|Tout le monde est là.|Everyone|c||basics|pos=pron ;; also=everybody
+anyone|quelqu'un, n'importe qui|A2||4|Is anyone home?|Il y a quelqu'un à la maison ?|anyone|c||basics|pos=pron
+nobody|personne|A2||4|Nobody told me about it.|Personne ne m'en a parlé.|Nobody|c||basics|pos=pron
+myself|moi-même|A2||3|I made it myself.|Je l'ai fait moi-même.|myself|c||grammar|pos=pron
+yourself|toi-même|A2||3|Did you paint this yourself?|Tu as peint ça toi-même ?|yourself|c||grammar|pos=pron
+before|avant|A1||5|Wash your hands before lunch.|Lave-toi les mains avant le déjeuner.|before|d||time|pos=prep
+around|autour de, vers|A2||4|Let's meet around six.|Retrouvons-nous vers six heures.|around|c||time|pos=prep
+between|entre|A1||4|The bank is between the café and the school.|La banque est entre le café et l'école.|between|t||places|pos=prep
+outside|dehors|A1||4|It's cold outside.|Il fait froid dehors.|outside|d||places|pos=adv
+inside|à l'intérieur|A2||4|Let's wait inside.|Attendons à l'intérieur.|inside|d||places|pos=adv
+soon|bientôt|A1||5|See you soon!|À bientôt !|soon|c||time,small_talk|pos=adv
+tonight|ce soir|A1||5|Are you free tonight?|Tu es libre ce soir ?|tonight|c||time|pos=adv
+people|les gens|A1||5|People are very friendly here.|Les gens sont très sympas ici.|People|c||basics|pos=n
+year|an, année|A1||5|I started here a year ago.|J'ai commencé ici il y a un an.|year|c||time|pos=n
+week|semaine|A1||5|See you next week.|À la semaine prochaine.|week|c||time|pos=n
+month|mois|A1||5|I'll be away for a month.|Je serai absent un mois.|month|c||time|pos=n
+hour|heure (durée)|A1||5|The film lasts two hours.|Le film dure deux heures.|hours|c||time|pos=n
+minute|minute|A1||5|I'll be there in five minutes.|J'y serai dans cinq minutes.|minutes|c||time|pos=n
+life|vie|A1||5|Life is short.|La vie est courte.|Life|c||basics|pos=n
+world|monde|A1||5|She wants to travel around the world.|Elle veut faire le tour du monde.|world|t||basics|pos=n
+home|maison, chez soi|A1||5|I'm going home.|Je rentre à la maison.|home|d||housing|pos=n
+man|homme|A1||5|That man is my neighbour.|Cet homme est mon voisin.|man|c||people|pos=n ;; forms=men
+woman|femme|A1||5|Who's the woman in the red coat?|C'est qui, la femme au manteau rouge ?|woman|c||people|pos=n ;; forms=women
+boy|garçon|A1||4|Their little boy is three.|Leur petit garçon a trois ans.|boy|c||people|pos=n
+girl|fille|A1||4|There are ten girls in my class.|Il y a dix filles dans ma classe.|girls|c||people|pos=n
+baby|bébé|A1||4|The baby is sleeping.|Le bébé dort.|baby|d||family|pos=n
+kid|gamin, enfant (familier)|A2||4|How old are your kids?|Quel âge ont tes enfants ?|kids|c|i|family|pos=n
+father|père|A1||4|My father is a teacher.|Mon père est enseignant.|father|c||family|pos=n
+mother|mère|A1||4|My mother lives in Lille.|Ma mère habite à Lille.|mother|c||family|pos=n
+parents|parents|A1||4|I still live with my parents.|J'habite encore chez mes parents.|parents|c||family|pos=n
+son|fils|A1||4|Their son is at university.|Leur fils est à l'université.|son|c||family|pos=n
+daughter|fille (enfant)|A1||4|My daughter loves horses.|Ma fille adore les chevaux.|daughter|c||family|pos=n
+brother|frère|A1||4|I have an older brother.|J'ai un frère aîné.|brother|c||family|pos=n
+sister|sœur|A1||4|My sister lives abroad.|Ma sœur vit à l'étranger.|sister|c||family|pos=n
+husband|mari|A1||4|This is my husband, Paul.|Je te présente mon mari, Paul.|husband|c||family|pos=n
+wife|épouse, femme|A1||4|His wife works in a bank.|Sa femme travaille dans une banque.|wife|c||family|pos=n
+two|deux|A1||4|I have two sisters.|J'ai deux sœurs.|two|c||numbers|pos=det
+three|trois|A1||4|We stayed for three nights.|Nous sommes restés trois nuits.|three|c||numbers|pos=det
+four|quatre|A1||3|The meeting is at four.|La réunion est à quatre heures.|four|c||numbers|pos=det
+five|cinq|A1||3|It takes five minutes on foot.|Ça prend cinq minutes à pied.|five|c||numbers|pos=det
+six|six|A1||3|There are six of us.|Nous sommes six.|six|c||numbers|pos=det
+seven|sept|A1||3|I get up at seven.|Je me lève à sept heures.|seven|c||numbers|pos=det
+eight|huit|A1||3|Dinner is at eight.|Le dîner est à huit heures.|eight|c||numbers|pos=det
+nine|neuf (chiffre)|A1||3|The shop opens at nine.|Le magasin ouvre à neuf heures.|nine|c||numbers|pos=det
+ten|dix|A1||3|She's ten years old.|Elle a dix ans.|ten|c||numbers|pos=det
+twenty|vingt|A1||3|It costs twenty euros.|Ça coûte vingt euros.|twenty|c||numbers|pos=det
+hundred|cent|A1||4|About a hundred people came.|Une centaine de personnes sont venues.|hundred|c||numbers|pos=det
+thousand|mille|A1||4|It costs two thousand euros.|Ça coûte deux mille euros.|thousand|c||numbers|pos=det
+million|million|A2||3|The city has two million inhabitants.|La ville compte deux millions d'habitants.|million|n||numbers|pos=det
+car|voiture|A1||5|We came by car.|Nous sommes venus en voiture.|car|t||transport|pos=n
+street|rue|A1||4|I live on this street.|J'habite dans cette rue.|street|d||places|pos=n
+road|route|A1||4|The road is closed.|La route est fermée.|road|t||transport|pos=n
+town|ville (petite)|A1||4|It's a small town near the sea.|C'est une petite ville près de la mer.|town|t||places|pos=n
+country|pays|A1||5|Which country are you from?|Tu viens de quel pays ?|country|t||places|pos=n
+bank|banque|A1||4|Is there a bank near here?|Il y a une banque près d'ici ?|bank|d||money,places|pos=n
+park|parc|A1||3|Let's go for a walk in the park.|Allons nous promener au parc.|park|d||places,leisure|pos=n
+hospital|hôpital|A1||4|She works at the hospital.|Elle travaille à l'hôpital.|hospital|d||health,places|pos=n
+beautiful|beau, magnifique|A1||5|What a beautiful view!|Quelle belle vue !|beautiful|t||description|pos=adj
+white|blanc|A1||3|I'd like a white shirt.|Je voudrais une chemise blanche.|white|d||colours|pos=adj
+black|noir|A1||3|He always wears black.|Il est toujours en noir.|black|d||colours|pos=adj
+green|vert|A1||3|The door is green.|La porte est verte.|green|d||colours|pos=adj
+blue|bleu|A1||3|She has blue eyes.|Elle a les yeux bleus.|blue|d||colours|pos=adj
+red|rouge|A1||3|I bought a red bike.|J'ai acheté un vélo rouge.|red|d||colours|pos=adj
+@chunk
+What's your name?|Comment tu t'appelles ?|A1|5|5|Hi, I'm Sara. What's your name?|Salut, je suis Sara. Comment tu t'appelles ?|What's your name?|c||small_talk,fn_start|
+How old are you?|Quel âge as-tu ?|A1|5|4|How old are you? I'm twenty-five.|Quel âge as-tu ? J'ai vingt-cinq ans.|How old are you?|c||small_talk|
+What time is it?|Quelle heure est-il ?|A1|5|5|Excuse me, what time is it?|Excusez-moi, quelle heure est-il ?|what time is it?|c||time|
+Where do you live?|Où est-ce que tu habites ?|A1|5|4|Where do you live? In the city centre.|Où est-ce que tu habites ? En centre-ville.|Where do you live?|c||small_talk|
+Where is the...?|Où se trouve... ?|A1|5|5|Where is the nearest pharmacy?|Où se trouve la pharmacie la plus proche ?|Where is the|t||travel,fn_request|
+How much is it?|C'est combien ?|A1|5|5|I like this bag. How much is it?|J'aime bien ce sac. C'est combien ?|How much is it?|d||shopping|
+Can I have...?|Je pourrais avoir... ?|A1|5|5|Can I have the bill, please?|Je pourrais avoir l'addition, s'il vous plaît ?|Can I have|d||food,fn_request|
+Can you help me?|Tu peux m'aider ?|A1|5|5|I'm lost. Can you help me?|Je suis perdu. Tu peux m'aider ?|Can you help me?|c||fn_request|
+I don't understand.|Je ne comprends pas (la langue).|A1|5|5|Sorry, I don't understand. I'm French.|Désolé, je ne comprends pas. Je suis français.|I don't understand.|c||learning,fn_clarify|
+I don't know.|Je ne sais pas.|A1|5|5|Where's Tom? I don't know.|Où est Tom ? Je ne sais pas.|I don't know.|c||fn_react|
+I'm sorry.|Je suis désolé.|A1|5|5|I'm sorry, I forgot your birthday.|Je suis désolé, j'ai oublié ton anniversaire.|I'm sorry|c||feelings,fn_react|
+Thank you very much.|Merci beaucoup.|A1|5|5|Thank you very much for your help.|Merci beaucoup pour ton aide.|Thank you very much|c||fn_react|
+Have a nice day!|Bonne journée !|A1|5|5|Thanks for coming. Have a nice day!|Merci d'être venu. Bonne journée !|Have a nice day!|c||small_talk,fn_end|
+Good morning.|Bonjour (le matin).|A1|5|5|Good morning! Did you sleep well?|Bonjour ! Tu as bien dormi ?|Good morning!|c||small_talk,fn_start|
+Good night.|Bonne nuit.|A1|5|4|I'm going to bed. Good night.|Je vais me coucher. Bonne nuit.|Good night.|c||small_talk,fn_end|
+See you tomorrow.|À demain.|A1|5|5|I have to go. See you tomorrow.|Je dois y aller. À demain.|See you tomorrow.|c||small_talk,fn_end|
+Come in.|Entrez, entre donc.|A1|5|4|Hi! Come in and sit down.|Salut ! Entre et assieds-toi.|Come in|c||small_talk|
+Wait a minute.|Attends une minute.|A1|5|4|Wait a minute, I can't find my keys.|Attends une minute, je ne trouve pas mes clés.|Wait a minute|c||fn_interrupt|
+Be careful!|Fais attention !|A1|5|5|Be careful! The floor is wet.|Fais attention ! Le sol est mouillé.|Be careful!|c||fn_react|
+I'm hungry.|J'ai faim.|A1|5|5|I'm hungry. Let's get something to eat.|J'ai faim. Allons manger quelque chose.|I'm hungry.|d||food,feelings|
+I'm thirsty.|J'ai soif.|A1|5|4|I'm thirsty. Is there any water?|J'ai soif. Il y a de l'eau ?|I'm thirsty.|d||food,feelings|
+I'm tired.|Je suis fatigué.|A1|5|5|I'm tired. I need some sleep.|Je suis fatigué. J'ai besoin de dormir.|I'm tired.|c||feelings,health|
+I'm cold.|J'ai froid.|A1|5|4|I'm cold. Can you close the window?|J'ai froid. Tu peux fermer la fenêtre ?|I'm cold.|c||feelings|
+I'm hot.|J'ai chaud.|A1|5|3|I'm hot. Can we open a window?|J'ai chaud. On peut ouvrir une fenêtre ?|I'm hot.|c||feelings|
+I'm lost.|Je suis perdu.|A1|4|4|I'm lost. Where is the train station?|Je suis perdu. Où est la gare ?|I'm lost.|t||travel|
+I need help.|J'ai besoin d'aide.|A1|5|5|I need help with my homework.|J'ai besoin d'aide pour mes devoirs.|I need help|c||fn_request|
+I like it.|Ça me plaît.|A1|5|4|Nice jacket. I like it.|Jolie veste. Elle me plaît.|I like it.|c||fn_opinion|
+I love it!|J'adore !|A1|5|4|Is that your new car? I love it!|C'est ta nouvelle voiture ? J'adore !|I love it!|c||fn_react|
+I don't like...|Je n'aime pas...|A1|5|4|I don't like mushrooms.|Je n'aime pas les champignons.|I don't like|c||fn_opinion|
+What do you like?|Qu'est-ce que tu aimes ?|A1|4|3|What do you like to do at weekends?|Qu'est-ce que tu aimes faire le week-end ?|What do you like|c||small_talk|
+There is...|Il y a... (singulier)|A1|5|5|There is a bakery on the corner.|Il y a une boulangerie au coin.|There is|c||grammar|
+There are...|Il y a... (pluriel)|A1|5|5|There are three bedrooms upstairs.|Il y a trois chambres à l'étage.|There are|c||grammar|
+Is there...?|Est-ce qu'il y a... ?|A1|5|5|Is there a lift in the building?|Est-ce qu'il y a un ascenseur dans l'immeuble ?|Is there|c||grammar|
+How do you say...?|Comment dit-on... ?|A1|4|5|How do you say "merci" in English?|Comment dit-on « merci » en anglais ?|How do you say|c||learning,fn_clarify|
+Can you repeat that?|Tu peux répéter, s'il te plaît ?|A1|5|5|Sorry, can you repeat that, please?|Désolé, tu peux répéter, s'il te plaît ?|can you repeat that|c||fn_clarify,learning|
+Please speak slowly.|Parlez lentement, s'il vous plaît.|A1|4|4|Please speak slowly. My English isn't very good.|Parlez lentement, s'il vous plaît. Mon anglais n'est pas très bon.|Please speak slowly.|c||learning,fn_request|
+What's your phone number?|Quel est ton numéro de téléphone ?|A1|4|4|What's your phone number? I'll text you.|Quel est ton numéro ? Je t'enverrai un texto.|What's your phone number?|c||small_talk|
+What's the weather like?|Quel temps fait-il ?|A1|4|4|What's the weather like in London today?|Quel temps fait-il à Londres aujourd'hui ?|What's the weather like|c||weather,small_talk|
+It's raining.|Il pleut.|A1|5|3|Take an umbrella, it's raining.|Prends un parapluie, il pleut.|it's raining|d||weather|
+It's cold today.|Il fait froid aujourd'hui.|A1|4|3|Wear a coat, it's cold today.|Mets un manteau, il fait froid aujourd'hui.|it's cold today|d||weather|
+I'm from...|Je viens de...|A1|5|5|I'm from Marseille, in the south of France.|Je viens de Marseille, dans le sud de la France.|I'm from|c||small_talk|
+I work as...|Je travaille comme...|A1|4|4|I work as a nurse.|Je travaille comme infirmier.|I work as|w||career,small_talk|
+Happy birthday!|Joyeux anniversaire !|A1|5|4|Happy birthday! How old are you today?|Joyeux anniversaire ! Tu as quel âge aujourd'hui ?|Happy birthday!|c||small_talk|
+@collocation
+brush your teeth|se brosser les dents|A1|4|4|Don't forget to brush your teeth.|N'oublie pas de te brosser les dents.|brush your teeth|d||daily_routine|
+have breakfast|prendre le petit déjeuner|A1|5|5|I usually have breakfast at seven.|Je prends généralement le petit déjeuner à sept heures.|have breakfast|d||food,daily_routine|
+have lunch|déjeuner|A1|5|5|Let's have lunch together.|Déjeunons ensemble.|have lunch|d||food,daily_routine|
+have dinner|dîner|A1|5|5|We have dinner at eight.|Nous dînons à huit heures.|have dinner|d||food,daily_routine|
+have a shower|prendre une douche|A1|4|4|I'll have a shower and then we can go.|Je prends une douche et on peut y aller.|have a shower|d||daily_routine|
+go to bed|aller se coucher|A1|5|5|I go to bed around eleven.|Je me couche vers onze heures.|go to bed|d||daily_routine|
+go home|rentrer à la maison|A1|5|5|I'm tired, let's go home.|Je suis fatigué, rentrons à la maison.|go home|d||daily_routine|
+go to work|aller au travail|A1|5|5|I go to work by bike.|Je vais au travail à vélo.|go to work|d||daily_routine,work|
+go for a walk|aller se promener|A1|5|4|Do you want to go for a walk?|Tu veux aller te promener ?|go for a walk|d||leisure|
+do homework|faire ses devoirs|A1|4|3|I have to do my homework first.|Je dois d'abord faire mes devoirs.|do my homework|d||learning|
+do the cleaning|faire le ménage|A2|4|3|I do the cleaning on Saturdays.|Je fais le ménage le samedi.|do the cleaning|d||housing,daily_routine|
+do the shopping|faire les courses|A1|4|5|Who's doing the shopping this week?|Qui fait les courses cette semaine ?|doing the shopping|d||shopping,daily_routine|
+watch TV|regarder la télé|A1|5|4|We watched TV all evening.|Nous avons regardé la télé toute la soirée.|watched TV|d||leisure|
+listen to music|écouter de la musique|A1|5|4|I listen to music on the train.|J'écoute de la musique dans le train.|listen to music|d||leisure|
+read a book|lire un livre|A1|4|3|I'd rather read a book tonight.|Je préfère lire un livre ce soir.|read a book|d||leisure|
+send an email|envoyer un e-mail|A1|5|5|I'll send an email to the team.|Je vais envoyer un e-mail à l'équipe.|send an email|w||pro,email|
+take a shower|prendre une douche (US)|A2|4|3|I need to take a shower before we leave.|Je dois prendre une douche avant qu'on parte.|take a shower|d||uk_us,daily_routine|
+take the bus|prendre le bus|A1|5|4|I take the bus to work.|Je prends le bus pour aller au travail.|take the bus|t||transport|
+catch a train|prendre un train|A2|4|4|I need to catch a train at six.|Je dois prendre un train à six heures.|catch a train|t||transport|
+book a table|réserver une table|A2|4|5|Shall I book a table for four?|Je réserve une table pour quatre ?|book a table|d||food|
+book a flight|réserver un vol|A2|4|4|I booked a flight to Rome.|J'ai réservé un vol pour Rome.|booked a flight|t||travel|
+open a window|ouvrir une fenêtre|A1|4|2|Could you open a window? It's hot.|Tu pourrais ouvrir une fenêtre ? Il fait chaud.|open a window|d||housing|
+turn left|tourner à gauche|A1|5|5|Turn left after the bridge.|Tourne à gauche après le pont.|Turn left|t||transport,directions|
+turn right|tourner à droite|A1|5|5|Turn right at the church.|Tourne à droite à l'église.|Turn right|t||transport,directions|
+go straight on|aller tout droit|A1|4|5|Go straight on for two minutes.|Va tout droit pendant deux minutes.|Go straight on|t||transport,directions|
+pay by card|payer par carte|A1|5|5|Can I pay by card?|Je peux payer par carte ?|pay by card|d||shopping,money|
+@phrasal_verb
+sit down|s'asseoir|A1|5|5|Let's sit down and talk.|Asseyons-nous pour en parler.|sit down|c||basics|
+stand up|se lever (debout)|A1|5|4|Everybody stood up when she came in.|Tout le monde s'est levé quand elle est entrée.|stood up|c||basics|
+get on|monter (dans un bus, un train)|A2|4|4|We got on the wrong train.|Nous sommes montés dans le mauvais train.|got on|t||transport|
+get off|descendre (d'un bus, d'un train)|A2|4|4|Get off at the next stop.|Descends au prochain arrêt.|Get off|t||transport|
+get in|monter (en voiture), rentrer|A2|4|3|Get in, I'll drive you home.|Monte, je te ramène chez toi.|Get in|t||transport|
+go back|retourner, rentrer|A2|5|4|I want to go back to Spain next year.|Je veux retourner en Espagne l'année prochaine.|go back|c||travel|
+go away|partir, s'en aller|A2|4|4|We're going away for the weekend.|Nous partons pour le week-end.|going away|c||travel|
+come on|allez, viens|A2|5|4|Come on, we're going to be late!|Allez, on va être en retard !|Come on|c|i|fn_react|
+take out|sortir (quelque chose)|A2|4|3|Can you take out the rubbish?|Tu peux sortir les poubelles ?|take out|d||housing|
+put down|poser|A2|4|3|Put that down, it's hot.|Pose ça, c'est chaud.|Put that down|d||basics|
+write down|noter, écrire|A2|4|5|Let me write down your number.|Laisse-moi noter ton numéro.|write down|c||learning|
+clean up|nettoyer, ranger|A2|4|3|We cleaned up after the party.|Nous avons tout rangé après la fête.|cleaned up|d||housing|
+@connector
+and|et|A1|5|4|I'd like a coffee and a sandwich.|Je voudrais un café et un sandwich.|and|c||grammar,fn_explain|
+but|mais|A1|5|5|It's small but comfortable.|C'est petit mais confortable.|but|c||grammar,fn_explain|
+or|ou|A1|5|4|Tea or coffee?|Thé ou café ?|or|c||grammar|
+so|donc, alors|A1|5|5|I was tired, so I went to bed.|J'étais fatigué, donc je suis allé me coucher.|so|c||grammar,fn_explain|
+then|ensuite, puis|A1|5|5|First we eat, then we go.|D'abord on mange, ensuite on y va.|then|c||fn_narrate|
+also|aussi, également|A1|5|5|She speaks French and also Italian.|Elle parle français et aussi italien.|also|c||fn_explain|
+when|quand|A1|5|5|Call me when you arrive.|Appelle-moi quand tu arrives.|when|c||grammar,time|
+@idiom
+It's raining cats and dogs.|Il pleut des cordes.|B1|3|2|Stay in, it's raining cats and dogs.|Reste à l'intérieur, il pleut des cordes.|it's raining cats and dogs|c|i|weather|notes=Connu mais peu employé aujourd'hui ; plus naturel : It's pouring.
+Practice makes perfect.|C'est en forgeant qu'on devient forgeron.|B1|3|3|Keep trying. Practice makes perfect.|Continue d'essayer. C'est en forgeant qu'on devient forgeron.|Practice makes perfect|c||learning|
+Time flies.|Le temps passe vite.|A2|4|3|Is it June already? Time flies.|On est déjà en juin ? Le temps passe vite.|Time flies|c||time|
+No pain, no gain.|On n'a rien sans rien.|B1|3|2|It's hard training, but no pain, no gain.|C'est un entraînement difficile, mais on n'a rien sans rien.|no pain, no gain|c||leisure|
+Home sweet home.|Rien ne vaut son chez-soi.|A2|3|2|Back at last. Home sweet home!|Enfin de retour. Rien ne vaut son chez-soi !|Home sweet home|c||housing|

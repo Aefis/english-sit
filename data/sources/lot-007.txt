@@ -1,0 +1,191 @@
+# Lot 007 : A2 (corps, maison, ville, nourriture, temps, adjectifs courants)
+@word
+thing|chose|A1||5|I forgot one thing.|J'ai oublié une chose.|thing|c||basics|pos=n
+place|endroit, lieu|A1||5|This is a great place for lunch.|C'est un super endroit pour déjeuner.|place|c||places|pos=n
+way|chemin, façon|A1||5|Is this the right way to the station?|C'est bien le chemin de la gare ?|way|t||basics|pos=n
+part|partie|A2||5|This is the best part of the film.|C'est la meilleure partie du film.|part|c||basics|pos=n
+number|numéro, nombre|A1||5|What's your room number?|Quel est le numéro de ta chambre ?|number|c||numbers|pos=n
+name|nom|A1||5|Write your name here.|Écris ton nom ici.|name|c||basics|pos=n
+game|jeu, match|A1||4|Do you want to play a game?|Tu veux faire un jeu ?|game|d||leisure|pos=n
+team|équipe|A2||5|Which team do you support?|Tu soutiens quelle équipe ?|team|c||leisure,work|pos=n
+group|groupe|A2||4|We travelled in a small group.|Nous avons voyagé en petit groupe.|group|t||people|pos=n
+side|côté|A2||4|The shop is on the left side of the road.|Le magasin est du côté gauche de la route.|side|t||places|pos=n
+end|fin|A1||5|I'll finish it by the end of the week.|Je le finirai d'ici la fin de la semaine.|end|c||time|pos=n
+head|tête|A1||4|I hit my head on the door.|Je me suis cogné la tête contre la porte.|head|d||body|pos=n
+face|visage|A1||4|Wash your face with cold water.|Lave-toi le visage à l'eau froide.|face|d||body|pos=n
+hand|main|A1||5|Raise your hand if you agree.|Levez la main si vous êtes d'accord.|hand|c||body|pos=n
+eye|œil|A1||4|She closed her eyes.|Elle a fermé les yeux.|eyes|d||body|pos=n
+mouth|bouche|A1||3|Open your mouth, please.|Ouvrez la bouche, s'il vous plaît.|mouth|d||body,health|pos=n
+nose|nez|A1||3|I've got a runny nose.|J'ai le nez qui coule.|nose|d||body,health|pos=n
+ear|oreille|A1||3|My left ear hurts.|J'ai mal à l'oreille gauche.|ear|d||body,health|pos=n
+tooth|dent|A1||3|I've got a bad tooth.|J'ai une dent qui me fait mal.|tooth|d||body,health|pos=n ;; forms=teeth
+hair|cheveux|A1||4|She has long dark hair.|Elle a de longs cheveux bruns.|hair|d||body|pos=n ;; notes=Indénombrable : pas de « hairs » pour la chevelure.
+arm|bras|A1||3|He broke his arm skiing.|Il s'est cassé le bras au ski.|arm|d||body|pos=n
+leg|jambe|A1||3|My legs are tired.|J'ai les jambes fatiguées.|legs|d||body|pos=n
+foot|pied|A1||4|My foot hurts.|J'ai mal au pied.|foot|d||body|pos=n ;; forms=feet
+back|dos|A1||4|I've got a sore back.|J'ai mal au dos.|back|d||body,health|pos=n
+heart|cœur|A2||4|Her heart was beating fast.|Son cœur battait vite.|heart|c||body|pos=n
+body|corps|A1||4|Exercise is good for your body.|L'exercice, c'est bon pour le corps.|body|d||body,health|pos=n
+window|fenêtre|A1||4|The window is open.|La fenêtre est ouverte.|window|d||housing|pos=n
+kitchen|cuisine (pièce)|A1||4|We eat in the kitchen.|Nous mangeons dans la cuisine.|kitchen|d||housing|pos=n
+bedroom|chambre (à coucher)|A1||4|The flat has two bedrooms.|L'appartement a deux chambres.|bedrooms|d||housing|pos=n
+bathroom|salle de bain|A1||4|Where's the bathroom?|Où est la salle de bain ?|bathroom|d||housing|pos=n
+floor|sol, étage|A2||4|My office is on the fifth floor.|Mon bureau est au cinquième étage.|floor|d||housing|pos=n
+wall|mur|A2||3|There's a big clock on the wall.|Il y a une grande horloge sur le mur.|wall|d||housing|pos=n
+bed|lit|A1||4|This bed is really comfortable.|Ce lit est vraiment confortable.|bed|d||housing|pos=n
+table|table|A1||4|Dinner is on the table.|Le dîner est sur la table.|table|d||housing|pos=n
+chair|chaise|A1||3|Take a chair and join us.|Prends une chaise et viens avec nous.|chair|d||housing|pos=n
+box|boîte, carton|A1||3|Put the books in this box.|Mets les livres dans ce carton.|box|d||housing|pos=n
+glass|verre|A1||3|Can I have a glass of water?|Je peux avoir un verre d'eau ?|glass|d||food|pos=n
+plate|assiette|A2||3|Put your plate in the sink.|Mets ton assiette dans l'évier.|plate|d||food|pos=n
+bottle|bouteille|A1||3|We ordered a bottle of red wine.|Nous avons commandé une bouteille de vin rouge.|bottle|d||food|pos=n
+bread|pain|A1||4|We need some bread.|Il nous faut du pain.|bread|d||food|pos=n
+meat|viande|A1||4|I don't eat meat.|Je ne mange pas de viande.|meat|d||food|pos=n
+fish|poisson|A1||4|We had fish for dinner.|Nous avons mangé du poisson au dîner.|fish|d||food|pos=n
+chicken|poulet|A1||4|I'll have the roast chicken.|Je vais prendre le poulet rôti.|chicken|d||food|pos=n
+rice|riz|A1||3|Would you like rice with that?|Tu veux du riz avec ça ?|rice|d||food|pos=n
+egg|œuf|A1||3|I had two eggs for breakfast.|J'ai mangé deux œufs au petit déjeuner.|eggs|d||food|pos=n
+cheese|fromage|A1||3|France is famous for its cheese.|La France est célèbre pour ses fromages.|cheese|d||food|pos=n
+fruit|fruit|A1||3|I try to eat more fruit.|J'essaie de manger plus de fruits.|fruit|d||food|pos=n
+apple|pomme|A1||3|Would you like an apple?|Tu veux une pomme ?|apple|d||food|pos=n
+vegetable|légume|A2||4|Kids should eat more vegetables.|Les enfants devraient manger plus de légumes.|vegetables|d||food|pos=n
+sugar|sucre|A1||3|No sugar for me, thanks.|Pas de sucre pour moi, merci.|sugar|d||food|pos=n
+salt|sel|A1||3|Can you pass the salt?|Tu peux me passer le sel ?|salt|d||food|pos=n
+milk|lait|A1||3|Do you take milk in your tea?|Tu prends du lait dans ton thé ?|milk|d||food|pos=n
+tea|thé|A1||3|Would you like a cup of tea?|Tu veux une tasse de thé ?|tea|d||food|pos=n
+wine|vin|A1||3|This wine is excellent.|Ce vin est excellent.|wine|d||food|pos=n
+beer|bière|A1||3|Let's have a beer after work.|Allons boire une bière après le travail.|beer|d||food|pos=n
+shirt|chemise|A1||3|I need to iron my shirt.|Je dois repasser ma chemise.|shirt|d||clothes|pos=n
+shoe|chaussure|A1||3|These shoes hurt my feet.|Ces chaussures me font mal aux pieds.|shoes|d||clothes|pos=n
+coat|manteau|A1||3|Take your coat, it's freezing.|Prends ton manteau, il gèle.|coat|d||clothes|pos=n
+dress|robe|A1||3|She wore a long blue dress.|Elle portait une longue robe bleue.|dress|d||clothes|pos=n
+hat|chapeau|A1||2|Don't forget your hat.|N'oublie pas ton chapeau.|hat|d||clothes|pos=n
+bag|sac|A1||4|My bag is under the seat.|Mon sac est sous le siège.|bag|d||clothes,travel|pos=n
+key|clé|A1||4|Have you seen my keys?|Tu as vu mes clés ?|keys|d||housing|pos=n
+sun|soleil|A1||3|The sun is shining.|Le soleil brille.|sun|d||weather|pos=n
+rain|pluie|A1||3|We got caught in the rain.|Nous nous sommes fait surprendre par la pluie.|rain|d||weather|pos=n
+snow|neige|A1||3|There's snow on the mountains.|Il y a de la neige sur les montagnes.|snow|d||weather|pos=n
+wind|vent|A2||3|The wind is very strong today.|Le vent est très fort aujourd'hui.|wind|d||weather|pos=n
+sea|mer|A1||4|We could see the sea from our room.|Nous voyions la mer depuis notre chambre.|sea|t||nature|pos=n
+river|rivière, fleuve|A1||3|The river runs through the city.|Le fleuve traverse la ville.|river|t||nature|pos=n
+mountain|montagne|A1||3|We spent a week in the mountains.|Nous avons passé une semaine à la montagne.|mountains|t||nature|pos=n
+beach|plage|A1||4|Let's go to the beach.|Allons à la plage.|beach|t||nature,leisure|pos=n
+tree|arbre|A1||3|There's a huge tree in the garden.|Il y a un arbre immense dans le jardin.|tree|d||nature|pos=n
+flower|fleur|A1||3|I bought her some flowers.|Je lui ai acheté des fleurs.|flowers|d||nature|pos=n
+dog|chien|A1||4|We take the dog for a walk every evening.|Nous sortons le chien tous les soirs.|dog|d||animals|pos=n
+cat|chat|A1||4|The cat is sleeping on the sofa.|Le chat dort sur le canapé.|cat|d||animals|pos=n
+horse|cheval|A1||3|She learned to ride a horse.|Elle a appris à monter à cheval.|horse|d||animals|pos=n
+bird|oiseau|A1||3|I can hear the birds singing.|J'entends les oiseaux chanter.|birds|d||animals|pos=n
+hot|chaud|A1||5|This soup is too hot.|Cette soupe est trop chaude.|hot|d||description|pos=adj
+cold|froid|A1||5|The water is really cold.|L'eau est vraiment froide.|cold|d||description|pos=adj
+warm|tiède, chaud (agréable)|A1||4|It's a warm evening.|La soirée est douce.|warm|d||weather|pos=adj
+fast|rapide, vite|A1||4|You drive too fast.|Tu conduis trop vite.|fast|t||description|pos=adj
+slow|lent|A1||4|The internet is very slow today.|Internet est très lent aujourd'hui.|slow|c||description|pos=adj
+full|plein, complet|A1||4|Sorry, the hotel is full.|Désolé, l'hôtel est complet.|full|t||description|pos=adj
+empty|vide|A2||3|The fridge is empty.|Le frigo est vide.|empty|d||description|pos=adj
+dark|sombre, foncé|A1||3|It gets dark early in winter.|Il fait nuit tôt en hiver.|dark|d||description|pos=adj
+clean|propre|A1||4|Are these towels clean?|Ces serviettes sont propres ?|clean|d||description|pos=adj
+dirty|sale|A1||3|Your shoes are dirty.|Tes chaussures sont sales.|dirty|d||description|pos=adj
+nice|sympa, agréable|A1||5|She's really nice.|Elle est vraiment sympa.|nice|c||description,personality|pos=adj
+tall|grand (taille)|A1||3|He's very tall for his age.|Il est très grand pour son âge.|tall|c||description|pos=adj
+short|court, petit|A1||4|It's a short walk from here.|C'est à deux pas d'ici.|short|c||description|pos=adj
+young|jeune|A1||4|She looks very young.|Elle fait très jeune.|young|c||description|pos=adj
+rich|riche|A1||3|He comes from a rich family.|Il vient d'une famille riche.|rich|c||description,money|pos=adj
+poor|pauvre|A1||3|It's one of the poorest regions.|C'est l'une des régions les plus pauvres.|poorest|n||description,money|pos=adj
+sick|malade|A1||4|I feel sick.|J'ai mal au cœur.|sick|d||health|pos=adj ;; notes=UK : souvent « nauséeux » ; US : malade en général.
+true|vrai|A1||4|Is that true?|C'est vrai ?|true|c||basics|pos=adj
+wrong|faux, mauvais|A1||5|I took the wrong bus.|Je me suis trompé de bus.|wrong|c||basics|pos=adj
+real|vrai, réel|A2||4|Is that his real name?|C'est son vrai nom ?|real|c||basics|pos=adj ;; sense=authentique
+again|encore, de nouveau|A1||5|Can you say it again?|Tu peux le redire ?|again|c||time|pos=adv
+@chunk
+I'm looking for...|Je cherche...|A1|5|5|I'm looking for the post office.|Je cherche la poste.|I'm looking for|t||travel,shopping|
+I've got a headache.|J'ai mal à la tête.|A2|5|5|I've got a headache. Do you have any aspirin?|J'ai mal à la tête. Tu as de l'aspirine ?|I've got a headache|d||health|
+It hurts.|Ça fait mal.|A2|5|5|It hurts when I walk.|Ça fait mal quand je marche.|It hurts|d||health|
+I don't feel well.|Je ne me sens pas bien.|A2|5|5|I don't feel well. I think I'll go home.|Je ne me sens pas bien. Je crois que je vais rentrer.|I don't feel well|d||health|
+A table for two, please.|Une table pour deux, s'il vous plaît.|A1|4|5|Good evening. A table for two, please.|Bonsoir. Une table pour deux, s'il vous plaît.|A table for two, please|d||food|
+The bill, please.|L'addition, s'il vous plaît.|A1|4|5|Excuse me, the bill, please.|Excusez-moi, l'addition, s'il vous plaît.|the bill, please|d||food|
+Is this seat taken?|Cette place est-elle prise ?|A2|4|4|Excuse me, is this seat taken?|Excusez-moi, cette place est prise ?|is this seat taken?|t||travel|
+What would you like?|Qu'est-ce que vous désirez ?|A1|5|4|What would you like to drink?|Qu'est-ce que vous désirez boire ?|What would you like|d||food|
+I'll have the...|Je vais prendre le...|A1|5|5|I'll have the fish, please.|Je vais prendre le poisson, s'il vous plaît.|I'll have the|d||food|
+Do you take cards?|Vous prenez la carte ?|A2|4|4|Do you take cards or is it cash only?|Vous prenez la carte ou seulement les espèces ?|Do you take cards|d||shopping,money|
+How far is it?|C'est loin ?|A2|4|4|How far is it to the museum?|C'est loin, le musée ?|How far is it|t||travel|
+How long does it take?|Combien de temps ça prend ?|A2|5|5|How long does it take to get there?|Combien de temps ça prend pour y aller ?|How long does it take|t||travel,time|
+What time does it start?|Ça commence à quelle heure ?|A2|4|4|What time does the film start?|Le film commence à quelle heure ?|What time does|c||time|
+Do you speak English?|Vous parlez anglais ?|A1|5|4|Excuse me, do you speak English?|Excusez-moi, vous parlez anglais ?|do you speak English?|t||learning|
+I speak a little English.|Je parle un peu anglais.|A1|4|4|I speak a little English, but slowly.|Je parle un peu anglais, mais lentement.|I speak a little English|c||learning|
+Are you OK?|Ça va ?|A1|5|5|You look pale. Are you OK?|Tu es pâle. Ça va ?|Are you OK?|c||fn_react|
+I'm fine, thanks.|Je vais bien, merci.|A1|5|5|How are you? I'm fine, thanks.|Comment ça va ? Je vais bien, merci.|I'm fine, thanks|c||small_talk|
+Not bad.|Pas mal.|A1|5|4|How's the food? Not bad.|C'est bon ? Pas mal.|Not bad|c|i|fn_react|
+That's great!|C'est super !|A1|5|5|You got the job? That's great!|Tu as eu le poste ? C'est super !|That's great!|c||fn_react|
+That's too bad.|Tant pis, c'est dommage pour toi.|A2|5|4|You can't come? That's too bad.|Tu ne peux pas venir ? C'est dommage.|That's too bad|c||fn_react|
+Me too.|Moi aussi.|A1|5|5|I'm tired. Me too.|Je suis fatigué. Moi aussi.|Me too|c||fn_agree|
+Good idea.|Bonne idée.|A1|5|5|Let's take a taxi. Good idea.|Prenons un taxi. Bonne idée.|Good idea|c||fn_agree|
+Let's go.|On y va.|A1|5|5|Are you ready? Let's go.|Tu es prêt ? On y va.|Let's go|c||fn_suggest|
+Let me see.|Voyons voir.|A2|5|4|Let me see. I think it's on Tuesday.|Voyons voir. Je crois que c'est mardi.|Let me see|c||fn_hesitate|
+Here it is.|Le voici.|A1|4|3|Where's my pen? Here it is.|Où est mon stylo ? Le voici.|Here it is|c||basics|
+I'd like to...|J'aimerais...|A1|5|5|I'd like to book a room.|Je voudrais réserver une chambre.|I'd like to|c||fn_request|
+Do you want to...?|Tu veux... ?|A1|5|5|Do you want to come with us?|Tu veux venir avec nous ?|Do you want to|c||fn_suggest|
+Shall we...?|On... ? (proposition)|A2|4|4|Shall we start?|On commence ?|Shall we|c||fn_suggest|notes=Surtout UK.
+I have to...|Je dois...|A1|5|5|I have to work on Saturday.|Je dois travailler samedi.|I have to|c||grammar|
+You should...|Tu devrais...|A2|5|5|You should get some rest.|Tu devrais te reposer.|You should|c||fn_suggest|
+You don't have to...|Tu n'es pas obligé de...|A2|5|5|You don't have to pay now.|Tu n'es pas obligé de payer maintenant.|You don't have to|c||grammar|
+I'm going to...|Je vais...|A1|5|5|I'm going to call her tonight.|Je vais l'appeler ce soir.|I'm going to|c||grammar|
+I've never...|Je n'ai jamais...|A2|5|4|I've never been to Japan.|Je ne suis jamais allé au Japon.|I've never|c||grammar|
+Have you got...?|Est-ce que tu as... ?|A1|5|4|Have you got a pen?|Tu as un stylo ?|Have you got|c||grammar|
+Can I help you?|Je peux vous aider ?|A1|5|5|Good morning. Can I help you?|Bonjour. Je peux vous aider ?|Can I help you?|d||shopping|
+Just looking, thanks.|Je regarde, merci.|A2|4|4|Can I help you? Just looking, thanks.|Je peux vous aider ? Je regarde, merci.|Just looking, thanks|d||shopping|
+Can I try it on?|Je peux l'essayer ?|A2|4|4|I like this jacket. Can I try it on?|J'aime bien cette veste. Je peux l'essayer ?|Can I try it on?|d||shopping,clothes|
+Do you have this in...?|Vous avez ça en... ?|A2|4|4|Do you have this in a smaller size?|Vous avez ça en plus petit ?|Do you have this in|d||shopping|
+It's too expensive.|C'est trop cher.|A1|5|4|I like it, but it's too expensive.|Il me plaît, mais c'est trop cher.|it's too expensive|d||shopping|
+Help yourself.|Sers-toi.|A2|4|4|There's coffee in the kitchen. Help yourself.|Il y a du café dans la cuisine. Sers-toi.|Help yourself|c||small_talk|
+Make yourself at home.|Fais comme chez toi.|A2|4|4|Come in and make yourself at home.|Entre et fais comme chez toi.|make yourself at home|c||small_talk|
+Enjoy your meal!|Bon appétit !|A2|4|4|Here's your pizza. Enjoy your meal!|Voici votre pizza. Bon appétit !|Enjoy your meal!|d||food|
+Have a good trip!|Bon voyage !|A1|4|4|See you in June. Have a good trip!|À juin. Bon voyage !|Have a good trip!|t||travel,fn_end|
+@collocation
+get up early|se lever tôt|A2|5|5|I got up early to catch the train.|Je me suis levé tôt pour prendre le train.|got up early|d||daily_routine|
+go to sleep|s'endormir|A2|4|4|I couldn't go to sleep last night.|Je n'ai pas réussi à m'endormir hier soir.|go to sleep|d||daily_routine|
+get dressed|s'habiller|A2|5|5|I got dressed and left.|Je me suis habillé et je suis parti.|got dressed|d||daily_routine,clothes|
+get home|rentrer chez soi|A2|5|5|I'll call you when I get home.|Je t'appelle quand je rentre.|get home|d||daily_routine|
+get a taxi|prendre un taxi|A2|4|4|Let's get a taxi to the airport.|Prenons un taxi pour l'aéroport.|get a taxi|t||transport|
+drive a car|conduire une voiture|A1|4|3|Can you drive a car?|Tu sais conduire ?|drive a car|t||transport|
+ride a bike|faire du vélo|A1|5|4|I learned to ride a bike at five.|J'ai appris à faire du vélo à cinq ans.|ride a bike|d||transport,leisure|
+cook dinner|préparer le dîner|A1|5|4|It's your turn to cook dinner.|C'est ton tour de préparer le dîner.|cook dinner|d||food|
+wash your hands|se laver les mains|A1|4|3|Go and wash your hands.|Va te laver les mains.|wash your hands|d||daily_routine|
+clean the house|nettoyer la maison|A1|4|3|We clean the house on Sundays.|Nous nettoyons la maison le dimanche.|clean the house|d||housing|
+feed the cat|nourrir le chat|A2|3|2|Can you feed the cat while I'm away?|Tu peux nourrir le chat pendant mon absence ?|feed the cat|d||animals|
+make the bed|faire le lit|A2|4|3|I make the bed every morning.|Je fais le lit chaque matin.|make the bed|d||housing|
+lay the table|mettre la table|A2|3|3|Could you lay the table, please?|Tu peux mettre la table, s'il te plaît ?|lay the table|d||housing,food|also=set the table
+hot water|eau chaude|A1|4|3|There's no hot water in the shower.|Il n'y a pas d'eau chaude dans la douche.|hot water|d||housing|
+fresh air|air frais|A2|4|3|I need some fresh air.|J'ai besoin de prendre l'air.|fresh air|d||health|
+best friend|meilleur ami|A1|5|4|Tom and I have been best friends since school.|Tom et moi sommes meilleurs amis depuis l'école.|best friends|c||relationships|
+last night|hier soir|A1|5|5|Did you sleep well last night?|Tu as bien dormi cette nuit ?|last night|c||time|
+next week|la semaine prochaine|A1|5|5|I'm on holiday next week.|Je suis en vacances la semaine prochaine.|next week|c||time|
+last year|l'année dernière|A1|5|5|We moved here last year.|Nous avons emménagé ici l'année dernière.|last year|c||time|
+this morning|ce matin|A1|5|5|I saw her this morning.|Je l'ai vue ce matin.|this morning|c||time|
+every day|tous les jours|A1|5|5|I walk to work every day.|Je vais au travail à pied tous les jours.|every day|c||time|
+at home|à la maison|A1|5|5|I'm working at home today.|Je travaille à la maison aujourd'hui.|at home|c||places|
+at work|au travail|A1|5|5|I'll call you when I'm not at work.|Je t'appellerai quand je ne serai pas au travail.|at work|c||places,work|
+on time|à l'heure|A2|5|5|The train arrived on time.|Le train est arrivé à l'heure.|on time|c||time|
+in time|à temps|A2|5|4|We got there just in time.|Nous sommes arrivés juste à temps.|in time|c||time|
+on foot|à pied|A1|5|4|It's ten minutes on foot.|C'est à dix minutes à pied.|on foot|t||transport|
+@phrasal_verb
+get out|sortir, descendre|A2|5|4|Get out of the car.|Sors de la voiture.|Get out|c||basics|
+go in|entrer|A2|4|3|Let's go in, it's starting to rain.|Entrons, il commence à pleuvoir.|go in|c||basics|
+come over|passer (chez quelqu'un)|A2|5|5|Do you want to come over tonight?|Tu veux passer ce soir ?|come over|c|i|relationships|
+come from|venir de|A1|5|4|Where does this wine come from?|D'où vient ce vin ?|come from|c||basics|
+turn up|monter (le son), arriver|A2|4|3|Can you turn up the volume?|Tu peux monter le son ?|turn up|d||technology|
+get back|revenir, rentrer|A2|5|4|What time did you get back?|Tu es rentré à quelle heure ?|get back|c||basics|
+@connector
+because of|à cause de|A2|5|5|The flight was cancelled because of the snow.|Le vol a été annulé à cause de la neige.|because of|c||fn_explain|
+first|d'abord|A1|5|5|First, open the app.|D'abord, ouvre l'appli.|First|c||fn_narrate|
+after that|après ça|A1|5|4|We had lunch. After that, we went to the beach.|Nous avons déjeuné. Après ça, nous sommes allés à la plage.|After that|c||fn_narrate|
+finally|enfin, finalement|A2|5|4|Finally, we found a hotel.|Finalement, nous avons trouvé un hôtel.|Finally|c||fn_narrate|
+if|si|A1|5|5|Call me if you need anything.|Appelle-moi si tu as besoin de quelque chose.|if|c||grammar|
+while|pendant que|A2|5|5|I cooked while she was on the phone.|J'ai cuisiné pendant qu'elle était au téléphone.|while|c||fn_narrate|
+too|aussi (en fin de phrase)|A1|5|5|I like jazz too.|J'aime le jazz aussi.|too|c||grammar|
+@idiom
+It's not rocket science.|Ce n'est pas sorcier.|B1|3|3|Just follow the steps. It's not rocket science.|Suis juste les étapes. Ce n'est pas sorcier.|It's not rocket science|c|i|fn_react|
+Better safe than sorry.|Mieux vaut prévenir que guérir.|B1|4|4|Take a coat, better safe than sorry.|Prends un manteau, mieux vaut prévenir que guérir.|better safe than sorry|c||fn_suggest|
+Actions speak louder than words.|Les actes valent mieux que les paroles.|B1|4|3|Don't promise. Actions speak louder than words.|Ne promets pas. Les actes valent mieux que les paroles.|Actions speak louder than words|c||fn_opinion|
+Every cloud has a silver lining.|À quelque chose malheur est bon.|B2|3|2|You lost your job, but every cloud has a silver lining.|Tu as perdu ton travail, mais à quelque chose malheur est bon.|every cloud has a silver lining|c||feelings|
+It takes two to tango.|Il faut être deux pour se disputer.|B2|3|2|Don't blame her alone. It takes two to tango.|Ne l'accuse pas seule. Il faut être deux pour se disputer.|It takes two to tango|c|i|relationships|

@@ -68,5 +68,61 @@
       "challenge"
     ],
     "reason": "challenging est un adjectif courant à part entière."
+  },
+  {
+    "ids": [
+      "going-back-to",
+      "go-back"
+    ],
+    "reason": "Transition de discours, et verbe de déplacement."
+  },
+  {
+    "ids": [
+      "come-in",
+      "come-on"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "what-do-you-like",
+      "what-would-you-like"
+    ],
+    "reason": "Goûts généraux, et commande au restaurant."
+  },
+  {
+    "ids": [
+      "get-back-to-someone",
+      "get-back"
+    ],
+    "reason": "Recontacter quelqu'un, et revenir."
+  },
+  {
+    "ids": [
+      "i-cant-help-it",
+      "can-i-help-you"
+    ],
+    "reason": "Sans rapport malgré la proximité de forme."
+  },
+  {
+    "ids": [
+      "on-time",
+      "in-time"
+    ],
+    "reason": "Paire à distinguer : à l'heure, à temps."
+  },
+  {
+    "ids": [
+      "do-you-speak-english",
+      "speak-english"
+    ],
+    "reason": "Question de voyage, et collocation générale."
+  },
+  {
+    "ids": [
+      "how-much-is-it",
+      "how-much"
+    ],
+    "reason": "Prix, et quantité."
   }
 ]

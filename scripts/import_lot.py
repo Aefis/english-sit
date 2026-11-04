@@ -22,7 +22,8 @@ from wordfreq import zipf_frequency
 CONTEXTS = {"": "conversation", "c": "conversation", "d": "daily_life", "w": "work",
             "t": "travel", "a": "academic", "n": "news"}
 REGISTERS = {"": "neutral", "i": "informal", "f": "formal", "s": "slang"}
-POS = {"n": "noun", "v": "verb", "adj": "adjective", "adv": "adverb", "prep": "preposition"}
+POS = {"n": "noun", "v": "verb", "adj": "adjective", "adv": "adverb", "prep": "preposition",
+       "pron": "pronoun", "det": "determiner", "conj": "conjunction"}
 TYPES = {"word", "chunk", "collocation", "phrasal_verb", "connector", "idiom"}
 FIELDS = 12
 
@@ -41,6 +42,8 @@ def slug(text):
 
 def parse_line(line, item_type, number):
     parts = [p.strip() for p in line.split("|")]
+    if len(parts) == FIELDS - 1:
+        parts.append("")  # extras facultatifs
     if len(parts) != FIELDS:
         sys.exit(f"Ligne {number} : {len(parts)} champs au lieu de {FIELDS} : {line}")
     english, french, level, freq, prio, ex_en, ex_fr, highlight, context, register, tags, extras = parts

@@ -1,0 +1,196 @@
+# Lot 008 : A1-A2 (temps, calendrier, école, médias, lieux, loisirs)
+@word
+time|temps, heure|A1||5|I don't have time today.|Je n'ai pas le temps aujourd'hui.|time|c||time|pos=n
+day|jour, journée|A1||5|It was a long day.|Ça a été une longue journée.|day|c||time|pos=n
+love|aimer, adorer|A1||5|I love this song.|J'adore cette chanson.|love|c||feelings|pos=v
+long|long|A1||5|It's a long way from here.|C'est loin d'ici.|long|c||description|pos=adj
+keep|garder|A2||5|You can keep the change.|Gardez la monnaie.|keep|d||basics|pos=v ;; forms=kept
+high|haut, élevé|A2||4|The prices are very high here.|Les prix sont très élevés ici.|high|c||description|pos=adj
+low|bas, faible|A2||4|The battery is low.|La batterie est faible.|low|c||description|pos=adj
+better|mieux, meilleur|A1||5|I feel much better today.|Je me sens beaucoup mieux aujourd'hui.|better|c||description|pos=adj
+little|petit, peu|A1||5|We have a little time left.|Il nous reste un peu de temps.|little|c||description|pos=adj
+next|prochain, suivant|A1||5|Get off at the next stop, please.|Descendez au prochain arrêt, s'il vous plaît.|next|t||time|pos=adj
+great|super, génial|A1||5|We had a great time.|On s'est super bien amusés.|great|c||description|pos=adj
+bad|mauvais|A1||5|That's a bad idea.|C'est une mauvaise idée.|bad|c||description|pos=adj
+hard|difficile, pénible|A1||5|This exercise is really hard.|Cet exercice est vraiment difficile.|hard|c||description|pos=adj
+free|libre, gratuit|A1||5|The museum is free on Sundays.|Le musée est gratuit le dimanche.|free|c||description|pos=adj
+right|correct, droite|A1||5|Is this the right address?|C'est la bonne adresse ?|right|c||basics|pos=adj
+left|gauche|A1||5|The toilets are on the left.|Les toilettes sont à gauche.|left|t||directions|pos=n
+second|seconde, deuxième|A1||4|Give me a second.|Donne-moi une seconde.|second|c||time|pos=n
+enough|assez|A1||5|Do we have enough chairs?|Est-ce qu'on a assez de chaises ?|enough|c||basics|pos=det
+something|quelque chose|A1||5|I need to tell you something.|Il faut que je te dise quelque chose.|something|c||basics|pos=pron ;; sense=une chose
+someone|quelqu'un|A1||5|Someone is at the door.|Quelqu'un est à la porte.|Someone|c||basics|pos=pron ;; also=somebody ;; sense=une personne
+anything|n'importe quoi, quelque chose|A1||5|Do you need anything?|Tu as besoin de quelque chose ?|anything|c||basics|pos=pron
+nothing|rien|A1||5|There's nothing in the fridge.|Il n'y a rien dans le frigo.|nothing|c||basics|pos=pron
+away|loin, absent|A2||4|She's away this week.|Elle est absente cette semaine.|away|c||basics|pos=adv
+together|ensemble|A1||5|Let's work on it together.|Travaillons-y ensemble.|together|c||basics|pos=adv
+please|s'il te plaît|A1||5|Two coffees, please.|Deux cafés, s'il vous plaît.|please|c||small_talk|pos=adv
+sorry|désolé|A1||5|Sorry, I'm late.|Désolé, je suis en retard.|Sorry|c||fn_react|pos=adj
+hello|bonjour, salut|A1||5|Hello! Nice to see you.|Bonjour ! Content de te voir.|Hello|c||small_talk|pos=adv
+yes|oui|A1||5|Yes, of course you can.|Oui, bien sûr que tu peux.|Yes|c||basics|pos=adv
+thanks|merci|A1||5|Thanks, that's very kind.|Merci, c'est très gentil.|Thanks|c||small_talk|pos=n
+song|chanson|A1||4|I know all her songs.|Je connais toutes ses chansons.|songs|d||leisure|pos=n
+music|musique|A1||5|What kind of music do you like?|Tu aimes quel genre de musique ?|music|c||leisure|pos=n
+story|histoire, récit|A1||5|Tell me the whole story.|Raconte-moi toute l'histoire.|story|c||leisure|pos=n
+word|mot|A1||5|I don't know this word.|Je ne connais pas ce mot.|word|c||learning|pos=n
+film|film|A1||4|Have you seen this film?|Tu as vu ce film ?|film|d||leisure|pos=n
+movie|film (surtout US)|A1||4|Let's watch a movie tonight.|Regardons un film ce soir.|movie|d||leisure,uk_us|pos=n
+picture|image, photo|A1||4|There's a picture of my family on the wall.|Il y a une photo de ma famille au mur.|picture|d||leisure|pos=n
+photo|photo|A1||4|Can you take a photo of us?|Tu peux nous prendre en photo ?|photo|t||leisure|pos=n
+video|vidéo|A1||4|I watched a video about it.|J'ai regardé une vidéo sur le sujet.|video|d||technology|pos=n
+football|football|A1||4|Do you play football?|Tu joues au foot ?|football|d||leisure|pos=n
+class|cours, classe|A1||4|My English class starts at nine.|Mon cours d'anglais commence à neuf heures.|class|d||learning|pos=n
+student|étudiant, élève|A1||4|She's a student in Paris.|Elle est étudiante à Paris.|student|c||learning|pos=n
+teacher|professeur, enseignant|A1||4|Our teacher is very patient.|Notre professeur est très patient.|teacher|d||learning|pos=n
+college|fac, établissement supérieur|A2||3|She's in her second year at college.|Elle est en deuxième année de fac.|college|d||learning|pos=n
+university|université|A1||4|I went to university in Lyon.|J'ai fait mes études à Lyon.|university|d||learning|pos=n
+paper|papier|A1||4|Do you have a piece of paper?|Tu as une feuille de papier ?|paper|d||basics|pos=n
+page|page|A1||3|Open your book at page ten.|Ouvrez votre livre à la page dix.|page|d||learning|pos=n
+letter|lettre|A1||3|I got a letter from the bank.|J'ai reçu une lettre de la banque.|letter|d||communication|pos=n
+computer|ordinateur|A1||5|My computer is really slow.|Mon ordinateur est vraiment lent.|computer|w||technology|pos=n
+website|site web|A1||4|You can book on their website.|Tu peux réserver sur leur site.|website|d||technology|pos=n
+internet|internet|A1||4|Is there internet in the room?|Il y a internet dans la chambre ?|internet|t||technology|pos=n
+email|e-mail|A1||5|I got your email this morning.|J'ai reçu ton e-mail ce matin.|email|w||pro,email|pos=n
+radio|radio|A1||3|I heard it on the radio.|Je l'ai entendu à la radio.|radio|d||media|pos=n
+television|télévision|A1||3|There's nothing good on television.|Il n'y a rien de bien à la télévision.|television|d||media|pos=n
+camera|appareil photo, caméra|A1||3|I left my camera at the hotel.|J'ai laissé mon appareil photo à l'hôtel.|camera|t||technology|pos=n
+map|carte, plan|A1||4|Can you show me on the map?|Tu peux me montrer sur le plan ?|map|t||travel|pos=n
+ticket|billet, ticket|A1||5|I bought a return ticket.|J'ai acheté un billet aller-retour.|ticket|t||travel|pos=n
+train|train|A1||5|The train leaves at nine.|Le train part à neuf heures.|train|t||transport|pos=n
+plane|avion|A1||4|The plane landed on time.|L'avion a atterri à l'heure.|plane|t||transport|pos=n
+boat|bateau|A1||3|We crossed the lake by boat.|Nous avons traversé le lac en bateau.|boat|t||transport|pos=n
+bike|vélo|A1||4|I go everywhere by bike.|Je vais partout à vélo.|bike|t||transport|pos=n
+flight|vol|A2||5|Our flight was delayed.|Notre vol a été retardé.|flight|t||travel|pos=n
+airport|aéroport|A1||5|I'll pick you up at the airport.|Je viendrai te chercher à l'aéroport.|airport|t||travel|pos=n
+hotel|hôtel|A1||5|Our hotel is near the beach.|Notre hôtel est près de la plage.|hotel|t||travel|pos=n
+station|gare, station|A1||5|The station is ten minutes away.|La gare est à dix minutes.|station|t||transport|pos=n
+restaurant|restaurant|A1||4|We found a nice restaurant by the river.|Nous avons trouvé un bon restaurant au bord du fleuve.|restaurant|d||food|pos=n
+library|bibliothèque|A1||3|The library closes at six.|La bibliothèque ferme à dix-huit heures.|library|d||places|pos=n
+museum|musée|A1||3|We spent the day at the museum.|Nous avons passé la journée au musée.|museum|t||places|pos=n
+shop|magasin|A1||5|The shop is closed on Mondays.|Le magasin est fermé le lundi.|shop|d||shopping|pos=n
+store|magasin (surtout US)|A2||4|I'm going to the store.|Je vais au magasin.|store|d||shopping,uk_us|pos=n
+church|église|A1||3|The church is in the old town.|L'église est dans la vieille ville.|church|t||places|pos=n
+garden|jardin|A1||4|We have a small garden.|Nous avons un petit jardin.|garden|d||housing|pos=n
+village|village|A1||3|She grew up in a small village.|Elle a grandi dans un petit village.|village|t||places|pos=n
+island|île|A2||3|We spent a week on a Greek island.|Nous avons passé une semaine sur une île grecque.|island|t||nature|pos=n
+lake|lac|A1||3|You can swim in the lake.|On peut se baigner dans le lac.|lake|t||nature|pos=n
+forest|forêt|A2||3|We walked through the forest.|Nous avons marché dans la forêt.|forest|t||nature|pos=n
+farm|ferme|A2||3|My grandparents have a farm.|Mes grands-parents ont une ferme.|farm|d||nature|pos=n
+summer|été|A1||4|We go to Spain every summer.|Nous allons en Espagne chaque été.|summer|t||time|pos=n
+winter|hiver|A1||4|Winter is very cold here.|L'hiver est très froid ici.|Winter|d||time|pos=n
+spring|printemps|A1||3|The park is lovely in spring.|Le parc est magnifique au printemps.|spring|d||time|pos=n
+autumn|automne|A1||3|The leaves fall in autumn.|Les feuilles tombent en automne.|autumn|d||time,uk_us|pos=n ;; variant=uk ;; counterpart=fall
+evening|soir, soirée|A1||5|We could meet this evening.|On pourrait se voir ce soir.|evening|c||time|pos=n
+afternoon|après-midi|A1||5|I'm free this afternoon.|Je suis libre cet après-midi.|afternoon|c||time|pos=n
+Monday|lundi|A1||4|We start work on Monday.|Nous commençons le travail lundi.|Monday|c||time,calendar|pos=n
+Tuesday|mardi|A1||4|Is Tuesday OK for you?|Mardi, ça te va ?|Tuesday|c||time,calendar|pos=n
+Wednesday|mercredi|A1||4|The meeting is on Wednesday.|La réunion a lieu mercredi.|Wednesday|c||time,calendar|pos=n
+Thursday|jeudi|A1||4|I'm working from home on Thursday.|Je télétravaille jeudi.|Thursday|c||time,calendar|pos=n
+Friday|vendredi|A1||4|We finish early on Fridays.|Nous finissons tôt le vendredi.|Fridays|c||time,calendar|pos=n
+Saturday|samedi|A1||4|What are you doing on Saturday?|Tu fais quoi samedi ?|Saturday|c||time,calendar|pos=n
+Sunday|dimanche|A1||4|Everything is closed on Sunday.|Tout est fermé le dimanche.|Sunday|c||time,calendar|pos=n
+January|janvier|A1||3|I started in January.|J'ai commencé en janvier.|January|c||time,calendar|pos=n
+February|février|A1||3|Her birthday is in February.|Son anniversaire est en février.|February|c||time,calendar|pos=n
+March|mars|A1||3|We're moving in March.|Nous déménageons en mars.|March|c||time,calendar|pos=n
+April|avril|A1||3|Paris is lovely in April.|Paris est magnifique en avril.|April|c||time,calendar|pos=n
+May|mai|A1||3|The office is closed on the first of May.|Le bureau est fermé le premier mai.|May|c||time,calendar|pos=n ;; id=may-month
+June|juin|A1||3|School finishes in June.|L'école se termine en juin.|June|c||time,calendar|pos=n
+July|juillet|A1||3|We got married in July.|Nous nous sommes mariés en juillet.|July|c||time,calendar|pos=n
+August|août|A1||3|It's very hot here in August.|Il fait très chaud ici en août.|August|c||time,calendar|pos=n
+September|septembre|A1||3|Classes start in September.|Les cours commencent en septembre.|September|c||time,calendar|pos=n
+October|octobre|A1||3|I'll be in London in October.|Je serai à Londres en octobre.|October|c||time,calendar|pos=n
+November|novembre|A1||3|It rains a lot in November.|Il pleut beaucoup en novembre.|November|c||time,calendar|pos=n
+December|décembre|A1||3|The project ends in December.|Le projet se termine en décembre.|December|c||time,calendar|pos=n
+@chunk
+What day is it today?|On est quel jour aujourd'hui ?|A1|5|4|What day is it today? Thursday, I think.|On est quel jour ? Jeudi, je crois.|What day is it today?|c||time|
+What's the date today?|On est le combien aujourd'hui ?|A1|4|4|What's the date today? It's the third.|On est le combien ? Le trois.|What's the date today?|c||time|
+It's half past six.|Il est six heures et demie.|A1|4|4|What time is it? It's half past six.|Quelle heure est-il ? Il est six heures et demie.|It's half past six|c||time|
+It's a quarter to nine.|Il est neuf heures moins le quart.|A2|4|4|Hurry up, it's a quarter to nine.|Dépêche-toi, il est neuf heures moins le quart.|it's a quarter to nine|c||time|
+at the weekend|le week-end|A1|5|5|What do you usually do at the weekend?|Tu fais quoi d'habitude le week-end ?|at the weekend|c||time,uk_us|variant=uk ;; counterpart=on the weekend
+a long time ago|il y a longtemps|A2|5|4|I met her a long time ago.|Je l'ai rencontrée il y a longtemps.|a long time ago|c||time,fn_narrate|
+the day after tomorrow|après-demain|A2|5|4|I'm leaving the day after tomorrow.|Je pars après-demain.|the day after tomorrow|c||time|
+the day before yesterday|avant-hier|A2|4|3|I saw him the day before yesterday.|Je l'ai vu avant-hier.|the day before yesterday|c||time|
+in the morning|le matin|A1|5|5|I prefer working in the morning.|Je préfère travailler le matin.|in the morning|c||time|
+in the evening|le soir|A1|5|4|I go running in the evening.|Je vais courir le soir.|in the evening|c||time|
+at night|la nuit|A1|5|4|I can't drink coffee at night.|Je ne peux pas boire de café la nuit.|at night|c||time|
+right now|tout de suite, en ce moment|A2|5|5|I'm busy right now.|Je suis occupé en ce moment.|right now|c||time|
+at the moment|en ce moment|A2|5|5|She's on holiday at the moment.|Elle est en vacances pour le moment.|at the moment|c||time|
+for a while|pendant un moment|A2|5|4|Let's stay here for a while.|Restons ici un moment.|for a while|c||time|
+a lot of|beaucoup de|A1|5|5|She has a lot of friends.|Elle a beaucoup d'amis.|a lot of|c||basics|
+a little bit|un petit peu|A2|5|5|I'm a little bit nervous.|Je suis un petit peu nerveux.|a little bit|c||basics|
+a few|quelques|A2|5|5|I'll be back in a few minutes.|Je reviens dans quelques minutes.|a few|c||basics|sense=un petit nombre (positif)
+a bit|un peu|A2|5|5|It's a bit cold in here.|Il fait un peu froid ici.|a bit|c|i|basics|
+How often do you...?|Tu... à quelle fréquence ?|A2|4|4|How often do you go to the gym?|Tu vas à la salle à quelle fréquence ?|How often do you|c||time|
+How many...?|Combien de... ? (dénombrable)|A1|5|5|How many brothers do you have?|Combien de frères as-tu ?|How many|c||grammar|
+How much...?|Combien de... ? (indénombrable)|A1|5|5|How much water do we need?|De combien d'eau avons-nous besoin ?|How much|c||grammar|
+Whose is this?|C'est à qui ?|A2|4|3|Whose is this phone?|À qui est ce téléphone ?|Whose is this|c||grammar|
+What's this?|Qu'est-ce que c'est ?|A1|5|4|What's this? It looks delicious.|Qu'est-ce que c'est ? Ça a l'air délicieux.|What's this?|c||basics|
+What's that?|C'est quoi, ça ?|A1|5|4|What's that on your shirt?|C'est quoi, ça, sur ta chemise ?|What's that|c||basics|
+Who's calling?|Qui est à l'appareil ?|A2|4|4|Hello, who's calling, please?|Allô, qui est à l'appareil, s'il vous plaît ?|who's calling|w||pro,phone|
+Can I speak to...?|Je pourrais parler à... ?|A2|5|5|Hello, can I speak to Mr Lee, please?|Allô, je pourrais parler à M. Lee, s'il vous plaît ?|can I speak to|w||pro,phone|
+Hold the line, please.|Ne quittez pas.|A2|4|4|Hold the line, please. I'll put you through.|Ne quittez pas. Je vous le passe.|Hold the line, please|w|f|pro,phone|
+Can I take a message?|Je peux prendre un message ?|A2|4|4|She's out. Can I take a message?|Elle est sortie. Je peux prendre un message ?|Can I take a message?|w||pro,phone|
+Can I call you back?|Je peux te rappeler ?|A2|5|5|I'm driving. Can I call you back?|Je conduis. Je peux te rappeler ?|Can I call you back?|c||phone|
+Who is it?|Qui est-ce ?|A1|5|3|Someone's at the door. Who is it?|Il y a quelqu'un à la porte. Qui est-ce ?|Who is it?|c||basics|
+What's your job?|Quel est ton métier ?|A1|4|3|What's your job exactly?|Quel est ton métier exactement ?|What's your job|c||small_talk,career|
+Do you have any brothers or sisters?|Tu as des frères et sœurs ?|A1|4|3|Do you have any brothers or sisters?|Tu as des frères et sœurs ?|Do you have any brothers or sisters?|c||small_talk,family|
+Are you married?|Tu es marié ?|A1|4|3|Are you married? Yes, for ten years.|Tu es marié ? Oui, depuis dix ans.|Are you married?|c||small_talk,family|
+I live in...|J'habite à...|A1|5|5|I live in a small flat in Nantes.|J'habite dans un petit appartement à Nantes.|I live in|c||small_talk,housing|
+I've been learning English for...|J'apprends l'anglais depuis...|A2|4|4|I've been learning English for two years.|J'apprends l'anglais depuis deux ans.|I've been learning English for|c||learning,small_talk|
+I can't wait!|J'ai hâte !|A2|5|5|We're leaving on Friday. I can't wait!|On part vendredi. J'ai hâte !|I can't wait!|c||feelings,fn_react|
+I'm so happy for you.|Je suis tellement content pour toi.|A2|4|4|You're getting married? I'm so happy for you.|Tu te maries ? Je suis tellement content pour toi.|I'm so happy for you|c||feelings,fn_react|
+Bless you!|À tes souhaits !|A2|4|3|Atchoo! Bless you!|Atchoum ! À tes souhaits !|Bless you!|c||small_talk|
+Get well soon!|Remets-toi vite !|A2|4|4|Sorry you're ill. Get well soon!|Désolé que tu sois malade. Remets-toi vite !|Get well soon!|c||health,small_talk|
+Well done!|Bravo !|A1|5|5|You passed? Well done!|Tu as réussi ? Bravo !|Well done!|c||fn_react|
+Hurry up, we're late.|Dépêche-toi, on est en retard.|A2|4|3|Hurry up, we're late for the film.|Dépêche-toi, on est en retard pour le film.|Hurry up, we're late|c||time|
+No, thanks.|Non, merci.|A1|5|4|More coffee? No, thanks.|Encore du café ? Non, merci.|No, thanks|c||fn_react|
+@collocation
+have a drink|boire un verre|A2|5|5|Let's have a drink after work.|Allons boire un verre après le travail.|have a drink|c||leisure|
+have a party|faire une fête|A1|4|3|We're having a party on Saturday.|On fait une fête samedi.|having a party|c||leisure|
+have a holiday|prendre des vacances|A2|4|3|We need to have a holiday.|Nous avons besoin de prendre des vacances.|have a holiday|c||travel|
+go on holiday|partir en vacances|A1|5|5|Where are you going on holiday?|Où pars-tu en vacances ?|going on holiday|t||travel|variant=uk ;; counterpart=go on vacation
+go swimming|aller nager|A1|4|3|We go swimming every Tuesday.|Nous allons nager tous les mardis.|go swimming|d||leisure|
+go running|aller courir|A2|4|3|She goes running before work.|Elle va courir avant le travail.|goes running|d||leisure|
+play football|jouer au foot|A1|4|3|The kids play football after school.|Les enfants jouent au foot après l'école.|play football|d||leisure|
+play the guitar|jouer de la guitare|A1|4|3|He's learning to play the guitar.|Il apprend à jouer de la guitare.|play the guitar|d||leisure|
+see a doctor|voir un médecin|A2|5|5|You should see a doctor about that cough.|Tu devrais voir un médecin pour cette toux.|see a doctor|d||health|
+see a film|voir un film|A1|4|3|We went to see a film last night.|Nous sommes allés voir un film hier soir.|see a film|d||leisure|
+take a seat|prendre place|A2|4|4|Please take a seat. She won't be long.|Asseyez-vous. Elle n'en a pas pour longtemps.|take a seat|c|f|pro,small_talk|
+take a taxi|prendre un taxi (formule courante)|A2|4|3|We took a taxi back to the hotel.|Nous avons pris un taxi pour rentrer à l'hôtel.|took a taxi|t||transport|
+take a walk|faire un tour à pied|A2|4|3|I took a walk along the river.|J'ai fait un tour le long du fleuve.|took a walk|d||leisure|
+take medicine|prendre un médicament|A2|4|4|Are you taking any medicine?|Tu prends des médicaments ?|taking any medicine|d||health|
+learn English|apprendre l'anglais|A1|4|4|Why are you learning English?|Pourquoi apprends-tu l'anglais ?|learning English|c||learning|
+speak English|parler anglais|A1|5|4|You speak English very well.|Tu parles très bien anglais.|speak English|c||learning|
+pass an exam|réussir un examen|A2|5|5|She passed all her exams.|Elle a réussi tous ses examens.|passed all her exams|d||learning|notes=Faux ami : pass = réussir, take = passer.
+take an exam|passer un examen|A2|5|5|I'm taking an exam on Friday.|Je passe un examen vendredi.|taking an exam|d||learning,false_friend|
+fail an exam|rater un examen|A2|4|4|He failed his driving exam twice.|Il a raté son examen de conduite deux fois.|failed his driving exam|d||learning|
+buy a ticket|acheter un billet|A1|5|4|Where can I buy a ticket?|Où est-ce que je peux acheter un billet ?|buy a ticket|t||travel|
+rent a car|louer une voiture|A2|4|4|We rented a car at the airport.|Nous avons loué une voiture à l'aéroport.|rented a car|t||travel|
+miss a train|rater un train|A2|5|4|I missed my train by one minute.|J'ai raté mon train à une minute près.|missed my train|t||transport|
+pack a suitcase|faire une valise|A2|4|4|Have you packed your suitcase yet?|Tu as fait ta valise ?|packed your suitcase|t||travel|
+good at sports|bon en sport|A1|4|3|My brother is good at sports.|Mon frère est bon en sport.|good at sports|c||leisure|
+old friend|vieil ami|A2|4|3|I met an old friend in town.|J'ai croisé un vieil ami en ville.|old friend|c||relationships|
+great idea|excellente idée|A1|4|3|That's a great idea, let's do it.|C'est une excellente idée, faisons-le.|great idea|c||fn_agree|
+@phrasal_verb
+get to|arriver à|A2|5|5|How do I get to the station?|Comment je peux aller à la gare ?|get to|t||travel|
+drop someone off|déposer quelqu'un|A2|5|5|Can you drop me off at the station?|Tu peux me déposer à la gare ?|drop me off|t||travel|
+go on|continuer (à parler, à faire)|A2|5|4|Please go on, I'm listening.|Continue, je t'écoute.|go on|c||basics|
+come along|venir avec, accompagner|B1|4|4|We're going for a drink. Come along!|On va boire un verre. Viens avec nous !|Come along|c||relationships|
+stay up|rester éveillé, veiller|A2|4|4|We stayed up until two.|Nous sommes restés debout jusqu'à deux heures.|stayed up|d||daily_routine|
+stay in|rester à la maison|A2|4|3|Let's stay in and watch a film.|Restons à la maison et regardons un film.|stay in|d||leisure|
+eat out|manger au restaurant|A2|4|4|We eat out about once a week.|Nous mangeons au restaurant environ une fois par semaine.|eat out|d||food|
+go off|sonner (réveil), s'éteindre|B1|4|3|My alarm went off at six.|Mon réveil a sonné à six heures.|went off|d||daily_routine|
+put away|ranger|A2|4|3|Put your toys away, please.|Range tes jouets, s'il te plaît.|Put your toys away|d||housing|
+log in|se connecter|A2|5|5|I can't log in to my account.|Je n'arrive pas à me connecter à mon compte.|log in|w||technology,pro|
+@connector
+before that|avant cela|A2|4|3|I live in Paris. Before that, I was in Nice.|J'habite à Paris. Avant cela, j'étais à Nice.|Before that|c||fn_narrate|
+for instance|par exemple (variante)|B1|4|4|Take Spain, for instance.|Prenez l'Espagne, par exemple.|for instance|c||fn_explain|
+as soon as|dès que|A2|5|5|I'll call you as soon as I land.|Je t'appelle dès que j'atterris.|as soon as|c||time|
+until|jusqu'à ce que, jusqu'à|A2|5|5|Wait here until I get back.|Attends ici jusqu'à mon retour.|until|c||time|
+since|depuis (que)|A2|5|5|I've lived here since 2019.|J'habite ici depuis 2019.|since|c||time|
+@idiom
+Money doesn't grow on trees.|L'argent ne pousse pas sur les arbres.|B1|3|3|We can't buy it. Money doesn't grow on trees.|On ne peut pas l'acheter. L'argent ne pousse pas sur les arbres.|Money doesn't grow on trees|c||money|
+Don't judge a book by its cover.|Il ne faut pas se fier aux apparences.|B1|4|3|He looks shy, but don't judge a book by its cover.|Il a l'air timide, mais il ne faut pas se fier aux apparences.|don't judge a book by its cover|c||fn_opinion|
+When in Rome...|À Rome, fais comme les Romains.|B1|3|2|They eat late here, so when in Rome, do as the Romans do.|Ici, on dîne tard, alors à Rome, fais comme les Romains.|when in Rome|c||travel|
+Two heads are better than one.|Deux avis valent mieux qu'un.|B1|3|3|Let's look at it together. Two heads are better than one.|Regardons ça ensemble. Deux avis valent mieux qu'un.|Two heads are better than one|c||work|
+Out of sight, out of mind.|Loin des yeux, loin du cœur.|B1|3|2|We stopped calling each other. Out of sight, out of mind.|On a arrêté de s'appeler. Loin des yeux, loin du cœur.|Out of sight, out of mind|c||relationships|
