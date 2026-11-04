@@ -79,7 +79,7 @@ farm|ferme|A2||3|My grandparents have a farm.|Mes grands-parents ont une ferme.|
 summer|été|A1||4|We go to Spain every summer.|Nous allons en Espagne chaque été.|summer|t||time|pos=n
 winter|hiver|A1||4|Winter is very cold here.|L'hiver est très froid ici.|Winter|d||time|pos=n
 spring|printemps|A1||3|The park is lovely in spring.|Le parc est magnifique au printemps.|spring|d||time|pos=n
-autumn|automne|A1||3|The leaves fall in autumn.|Les feuilles tombent en automne.|autumn|d||time,uk_us|pos=n ;; variant=uk ;; counterpart=fall
+autumn|automne|A1||3|The leaves fall in autumn.|Les feuilles tombent en automne.|autumn|d||time,uk_us|pos=n ;; variant=UK ;; counterpart=fall ;; sense=saison
 evening|soir, soirée|A1||5|We could meet this evening.|On pourrait se voir ce soir.|evening|c||time|pos=n
 afternoon|après-midi|A1||5|I'm free this afternoon.|Je suis libre cet après-midi.|afternoon|c||time|pos=n
 Monday|lundi|A1||4|We start work on Monday.|Nous commençons le travail lundi.|Monday|c||time,calendar|pos=n
@@ -106,7 +106,7 @@ What day is it today?|On est quel jour aujourd'hui ?|A1|5|4|What day is it today
 What's the date today?|On est le combien aujourd'hui ?|A1|4|4|What's the date today? It's the third.|On est le combien ? Le trois.|What's the date today?|c||time|
 It's half past six.|Il est six heures et demie.|A1|4|4|What time is it? It's half past six.|Quelle heure est-il ? Il est six heures et demie.|It's half past six|c||time|
 It's a quarter to nine.|Il est neuf heures moins le quart.|A2|4|4|Hurry up, it's a quarter to nine.|Dépêche-toi, il est neuf heures moins le quart.|it's a quarter to nine|c||time|
-at the weekend|le week-end|A1|5|5|What do you usually do at the weekend?|Tu fais quoi d'habitude le week-end ?|at the weekend|c||time,uk_us|variant=uk ;; counterpart=on the weekend
+at the weekend|le week-end|A1|5|5|What do you usually do at the weekend?|Tu fais quoi d'habitude le week-end ?|at the weekend|c||time,uk_us|variant=UK ;; counterpart=on the weekend
 a long time ago|il y a longtemps|A2|5|4|I met her a long time ago.|Je l'ai rencontrée il y a longtemps.|a long time ago|c||time,fn_narrate|
 the day after tomorrow|après-demain|A2|5|4|I'm leaving the day after tomorrow.|Je pars après-demain.|the day after tomorrow|c||time|
 the day before yesterday|avant-hier|A2|4|3|I saw him the day before yesterday.|Je l'ai vu avant-hier.|the day before yesterday|c||time|
@@ -148,7 +148,7 @@ No, thanks.|Non, merci.|A1|5|4|More coffee? No, thanks.|Encore du café ? Non, m
 have a drink|boire un verre|A2|5|5|Let's have a drink after work.|Allons boire un verre après le travail.|have a drink|c||leisure|
 have a party|faire une fête|A1|4|3|We're having a party on Saturday.|On fait une fête samedi.|having a party|c||leisure|
 have a holiday|prendre des vacances|A2|4|3|We need to have a holiday.|Nous avons besoin de prendre des vacances.|have a holiday|c||travel|
-go on holiday|partir en vacances|A1|5|5|Where are you going on holiday?|Où pars-tu en vacances ?|going on holiday|t||travel|variant=uk ;; counterpart=go on vacation
+go on holiday|partir en vacances|A1|5|5|Where are you going on holiday?|Où pars-tu en vacances ?|going on holiday|t||travel|variant=UK ;; counterpart=go on vacation
 go swimming|aller nager|A1|4|3|We go swimming every Tuesday.|Nous allons nager tous les mardis.|go swimming|d||leisure|
 go running|aller courir|A2|4|3|She goes running before work.|Elle va courir avant le travail.|goes running|d||leisure|
 play football|jouer au foot|A1|4|3|The kids play football after school.|Les enfants jouent au foot après l'école.|play football|d||leisure|

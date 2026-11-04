@@ -40,7 +40,7 @@ many|beaucoup de (dénombrable)|A1||4|There aren't many people here.|Il n'y a pa
 each|chaque, chacun|A2||4|Each room has its own bathroom.|Chaque chambre a sa propre salle de bain.|Each|t||grammar,basics|pos=det
 every|tous les, chaque|A1||5|I go there every week.|J'y vais toutes les semaines.|every|c||grammar,time|pos=det
 both|les deux|A2||4|We both like jazz.|On aime le jazz tous les deux.|both|c||grammar,basics|pos=det
-few|peu de|A2||4|Few people know this.|Peu de gens le savent.|Few|c||grammar,basics|pos=det
+few|peu de|A2||4|Few people know this.|Peu de gens le savent.|Few|c||grammar,basics|pos=det ;; sense=un petit nombre (négatif)
 another|un autre, encore un|A1||4|Can I have another coffee?|Je peux avoir un autre café ?|another|c||grammar,basics|pos=det
 everything|tout|A1||5|Everything is ready.|Tout est prêt.|Everything|c||basics|pos=pron
 everyone|tout le monde|A1||5|Everyone is here.|Tout le monde est là.|Everyone|c||basics|pos=pron ;; also=everybody

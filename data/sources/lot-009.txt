@@ -1,0 +1,203 @@
+# Lot 009 : A2-B1 (noms et verbes très fréquents, société, travail)
+@word
+business|affaires, entreprise|A2||5|She runs her own business.|Elle dirige sa propre entreprise.|business|w||pro,business|pos=n
+system|système|A2||5|The new system is much faster.|Le nouveau système est beaucoup plus rapide.|system|w||pro,it|pos=n
+case|cas|A2||5|In that case, I'll stay.|Dans ce cas, je reste.|case|c||basics|pos=n
+point|point, intérêt|A2||5|What's the point of waiting?|À quoi bon attendre ?|point|c||basics|pos=n
+order|commande, ordre|A2||5|Your order is ready.|Votre commande est prête.|order|d||shopping|pos=n
+party|fête|A1||5|Are you coming to the party?|Tu viens à la fête ?|party|c||leisure|pos=n
+service|service|A2||4|The service here is really slow.|Le service est vraiment lent ici.|service|d||food|pos=n
+law|loi, droit|B1||4|It's against the law.|C'est contraire à la loi.|law|n||rules|pos=n
+war|guerre|A2||4|My grandfather fought in the war.|Mon grand-père a fait la guerre.|war|n||news|pos=n
+kind|gentil|A2||5|That's very kind of you.|C'est très gentil de ta part.|kind|c||personality|pos=adj
+course|cours, formation|A2||5|I'm taking an online course.|Je suis une formation en ligne.|course|w||learning,pro|pos=n
+level|niveau|A2||5|What's your level of English?|Quel est ton niveau d'anglais ?|level|c||learning|pos=n
+mind|esprit, tête|B1||5|I can't get it out of my mind.|Je n'arrive pas à me l'ôter de la tête.|mind|c||feelings|pos=n
+control|contrôler, maîtriser|B1||4|He couldn't control the car.|Il n'a pas pu maîtriser la voiture.|control|c||basics|pos=v
+death|mort, décès|B1||3|Her death was a terrible shock.|Sa mort a été un choc terrible.|death|n||news|pos=n
+guy|type, gars|A2||4|He's a really nice guy.|C'est un type vraiment sympa.|guy|c|i|people|pos=n
+office|bureau (lieu)|A1||5|I'll be at the office until six.|Je serai au bureau jusqu'à six heures.|office|w||work|pos=n
+history|histoire (passé)|A2||4|She teaches history.|Elle enseigne l'histoire.|history|d||learning|pos=n
+matter|importer, compter|B1||5|Money doesn't matter to him.|L'argent ne compte pas pour lui.|matter|c||basics|pos=v
+air|air|A2||4|The air is cleaner in the mountains.|L'air est plus pur à la montagne.|air|d||nature|pos=n
+hit|frapper, heurter|A2||4|The car hit a tree.|La voiture a heurté un arbre.|hit|n||basics|pos=v ;; forms=hit
+watch|regarder (suivre), montre|A1||5|We watched the match at home.|Nous avons regardé le match à la maison.|watched|d||leisure|pos=v
+future|avenir|A2||5|What are your plans for the future?|Quels sont tes projets d'avenir ?|future|c||time|pos=n
+light|lumière|A1||4|The light in the hall isn't working.|La lumière de l'entrée ne marche pas.|light|d||housing|pos=n
+police|police|A1||4|Call the police!|Appelle la police !|police|d||safety|pos=n
+age|âge|A1||4|We're the same age.|Nous avons le même âge.|age|c||people|pos=n
+form|formulaire|A2||4|You need to complete this form.|Tu dois compléter ce formulaire.|form|w||admin|pos=n
+fire|feu, incendie|A2||4|There was a fire in the kitchen.|Il y a eu un incendie dans la cuisine.|fire|n||safety|pos=n
+fun|amusant, plaisir|A1||5|The party was really fun.|La fête était vraiment sympa.|fun|c||leisure|pos=n
+market|marché|A1||4|We buy our vegetables at the market.|Nous achetons nos légumes au marché.|market|d||shopping|pos=n
+plan|projet, plan|A1||5|Do you have any plans for tonight?|Tu as des projets pour ce soir ?|plans|c||basics|pos=n
+education|éducation, enseignement|A2||4|She works in education.|Elle travaille dans l'enseignement.|education|w||learning|pos=n
+list|liste|A1||4|I made a shopping list.|J'ai fait une liste de courses.|list|d||basics|pos=n
+type|type, genre|A2||4|What type of room would you like?|Quel type de chambre désirez-vous ?|type|t||basics|pos=n
+chance|occasion, chance (possibilité)|A2||5|I didn't get a chance to call you.|Je n'ai pas eu l'occasion de t'appeler.|chance|c||basics|pos=n ;; notes=Pas « chance » au sens de bonne fortune : luck.
+process|processus|B1||4|It's a long process.|C'est un long processus.|process|w||pro,project|pos=n
+study|étudier|A1||5|I'm studying for my exams.|Je révise mes examens.|studying|d||learning|pos=v
+act|agir|B1||4|We need to act now, not talk.|Il faut agir maintenant, pas parler.|act|n||basics|pos=v
+cost|coûter|A1||5|How much did it cost?|Ça a coûté combien ?|cost|d||money|pos=v ;; forms=cost
+cut|couper|A1||5|I cut my finger.|Je me suis coupé le doigt.|cut|d||basics|pos=v ;; forms=cut
+field|domaine, champ|B1||4|She's an expert in her field.|Elle est experte dans son domaine.|field|w||pro,career|pos=n
+energy|énergie|A2||4|I have no energy today.|Je n'ai aucune énergie aujourd'hui.|energy|c||health|pos=n
+fight|se battre, se disputer|A2||4|They fight about money.|Ils se disputent pour des questions d'argent.|fight|c||relationships|pos=v ;; forms=fought
+fine|bien, très bien|A1||5|I'm fine, don't worry.|Je vais bien, ne t'inquiète pas.|fine|c||basics|pos=adj
+rest|repos, reste|A2||4|You need some rest.|Tu as besoin de repos.|rest|d||health|pos=n
+space|espace, place|A2||4|There isn't much space in the car.|Il n'y a pas beaucoup de place dans la voiture.|space|d||basics|pos=n
+date|date, rendez-vous galant|A1||4|What's the date of your flight?|Quelle est la date de ton vol ?|date|c||time|pos=n
+land|terre, terrain|B1||3|They bought some land in the country.|Ils ont acheté un terrain à la campagne.|land|d||nature|pos=n
+project|projet (de travail)|A2||5|The project starts in May.|Le projet démarre en mai.|project|w||pro,project|pos=n
+strong|fort, solide|A2||5|This coffee is too strong.|Ce café est trop fort.|strong|c||description|pos=adj
+account|compte|A2||5|I've opened a bank account.|J'ai ouvert un compte en banque.|account|d||money|pos=n
+period|période|A2||4|It was a difficult period in my life.|C'était une période difficile de ma vie.|period|c||time|pos=n
+position|poste, position|A2||4|She applied for the position.|Elle a postulé pour le poste.|position|w||pro,career|pos=n
+record|enregistrer|A2||4|We recorded the whole meeting.|Nous avons enregistré toute la réunion.|recorded|w||pro,meetings|pos=v
+similar|similaire|A2||4|Our jobs are very similar.|Nos métiers sont très similaires.|similar|c||fn_compare|pos=adj
+total|total|A2||4|The total comes to fifty euros.|Le total s'élève à cinquante euros.|total|d||money|pos=n
+club|club|A1||3|I joined a tennis club.|Je me suis inscrit à un club de tennis.|club|d||leisure|pos=n
+common|courant, commun|B1||4|That's a very common name.|C'est un nom très courant.|common|c||description|pos=adj
+perfect|parfait|A1||5|The weather was perfect.|Le temps était parfait.|perfect|c||description|pos=adj
+personal|personnel|A2||4|Can I ask you a personal question?|Je peux te poser une question personnelle ?|personal|c||description|pos=adj
+security|sécurité (protection)|B1||4|Go through security at gate B.|Passe le contrôle de sécurité à la porte B.|security|t||travel|pos=n
+couple|couple, quelques|A2||4|I'll be back in a couple of days.|Je reviens dans quelques jours.|couple|c||basics|pos=n
+dead|mort|A2||3|The battery's dead.|La batterie est morte.|dead|c||basics|pos=adj
+industry|industrie, secteur|B1||4|He works in the film industry.|Il travaille dans l'industrie du cinéma.|industry|w||pro,business|pos=n
+online|en ligne|A2||5|I bought it online.|Je l'ai acheté en ligne.|online|d||technology|pos=adv
+private|privé|A2||4|This is a private beach.|C'est une plage privée.|private|t||description|pos=adj
+return|retourner, rendre|A2||4|I need to return this book.|Je dois rendre ce livre.|return|d||basics|pos=v
+sense|sens|B1||5|She has a great sense of humour.|Elle a un grand sens de l'humour.|sense|c||personality|pos=n
+star|étoile, star|A2||3|You can see the stars from here.|On voit les étoiles d'ici.|stars|d||nature|pos=n
+test|test, contrôle|A1||4|I've got a maths test tomorrow.|J'ai un contrôle de maths demain.|test|d||learning|pos=n
+view|vue|A2||4|The room has a great view.|La chambre a une très belle vue.|view|t||travel|pos=n
+break|casser|A1||5|Be careful, don't break it.|Fais attention, ne le casse pas.|break|d||basics|pos=v ;; forms=broke, broken
+event|événement|A2||4|It's the biggest event of the year.|C'est le plus grand événement de l'année.|event|c||news|pos=n
+member|membre|A2||4|She's a member of our team.|Elle fait partie de notre équipe.|member|w||work|pos=n
+middle|milieu|A2||4|There's a table in the middle of the room.|Il y a une table au milieu de la pièce.|middle|d||places|pos=n
+present|cadeau|A1||4|I bought her a birthday present.|Je lui ai acheté un cadeau d'anniversaire.|present|d||leisure|pos=n
+training|formation|B1||5|All staff get training.|Tout le personnel reçoit une formation.|training|w||pro,career|pos=n
+wish|souhaiter|A2||4|I wish you a happy new year.|Je te souhaite une bonne année.|wish|c||small_talk|pos=v
+design|conception, design|B1||4|I love the design of this phone.|J'adore le design de ce téléphone.|design|w||pro,technology|pos=n
+gold|or|A2||3|She won a gold medal.|Elle a remporté une médaille d'or.|gold|n||leisure|pos=n
+interest|intérêt|A2||4|He showed no interest in the job.|Il n'a montré aucun intérêt pour le poste.|interest|c||feelings|pos=n
+king|roi|A2||3|The king visited France last year.|Le roi est venu en France l'année dernière.|king|n||news|pos=n
+policy|politique, règlement|B1||4|It's against company policy.|C'est contraire à la politique de l'entreprise.|policy|w||pro,rules|pos=n ;; notes=Politique suivie ; « politics » = la vie politique.
+society|société (collectivité)|B1||4|We live in a multicultural society.|Nous vivons dans une société multiculturelle.|society|n||news|pos=n
+alone|seul|A2||5|I live alone.|Je vis seul.|alone|c||feelings|pos=adj
+average|moyen, moyenne|A2||4|The average price is about ten euros.|Le prix moyen est d'environ dix euros.|average|c||analysis|pos=adj
+certain|certain|A2||4|Are you certain about this?|Tu en es certain ?|certain|c||basics|pos=adj
+original|original, d'origine|B1||3|This is the original version.|C'est la version originale.|original|c||description|pos=adj
+press|presse, appuyer|A2||4|Press the green button.|Appuie sur le bouton vert.|Press|d||technology|pos=v
+role|rôle|B1||4|What's your role in the company?|Quel est ton rôle dans l'entreprise ?|role|w||pro,career|pos=n
+worth|valoir|B1||5|How much is this painting worth?|Combien vaut ce tableau ?|worth|c||money|pos=adj
+bill|facture, addition|A2||5|Can we have the bill, please?|On peut avoir l'addition, s'il vous plaît ?|bill|d||money,food|pos=n
+cool|cool, frais|A1||4|That's a really cool idea.|C'est une idée vraiment géniale.|cool|c|i|description|pos=adj
+director|directeur|A2||4|She's the sales director.|Elle est directrice commerciale.|director|w||pro,career|pos=n
+ground|sol, terre|A2||3|He fell to the ground.|Il est tombé par terre.|ground|c||basics|pos=n
+sound|paraître, sembler|A2||5|That sounds like a good plan.|Ça m'a l'air d'un bon plan.|sounds|c||fn_react|pos=v
+source|source|B1||4|What's the source of this figure?|Quelle est la source de ce chiffre ?|source|w||analysis,pro|pos=n
+value|valeur|B1||4|The house has doubled in value.|La maison a doublé de valeur.|value|c||money|pos=n
+evidence|preuves|B1||4|There's no evidence for that.|Il n'y a aucune preuve de cela.|evidence|n||analysis|pos=n ;; notes=Indénombrable : pas de « an evidence ».
+official|officiel|B1||3|It's not official yet.|Ce n'est pas encore officiel.|official|n||news|pos=adj
+production|production|B1||3|Production stopped last week.|La production s'est arrêtée la semaine dernière.|Production|w||pro,business|pos=n
+rate|taux, tarif|B1||4|What's the exchange rate today?|Quel est le taux de change aujourd'hui ?|rate|t||money|pos=n
+round|rond|A2||3|We sat at a round table.|Nous nous sommes assis à une table ronde.|round|d||description|pos=adj
+save|sauver, économiser|A2||5|I'm saving for a new car.|J'économise pour une nouvelle voiture.|saving|d||money|pos=v
+stand|supporter, être debout|A2||4|We had to stand all the way.|Nous avons dû rester debout tout le trajet.|stand|d||basics|pos=v ;; forms=stood
+stuff|trucs, affaires|A2||5|Where's all my stuff?|Où sont toutes mes affaires ?|stuff|c|i|basics|pos=n
+tax|impôt, taxe|B1||4|Prices include tax.|Les prix sont taxes comprises.|tax|d||money|pos=n
+@chunk
+What's the point?|À quoi bon ?|B1|4|4|We've tried everything. What's the point?|On a tout essayé. À quoi bon ?|What's the point?|c||fn_react|
+Just in case.|Au cas où.|A2|5|5|Take an umbrella, just in case.|Prends un parapluie, au cas où.|just in case|c||fn_explain|
+What kind of...?|Quel genre de... ?|A1|5|5|What kind of food do you like?|Quel genre de cuisine aimes-tu ?|What kind of|c||basics|
+It doesn't work.|Ça ne fonctionne pas (en général).|A1|5|5|I pressed the button, but it doesn't work.|J'ai appuyé sur le bouton, mais ça ne marche pas.|it doesn't work|c||technology|
+Are you sure?|Tu es sûr ?|A1|5|5|Are you sure? Let me check.|Tu es sûr ? Laisse-moi vérifier.|Are you sure?|c||fn_clarify|
+I'm sure that...|Je suis sûr que...|A2|5|4|I'm sure that she'll love it.|Je suis sûr que ça va lui plaire.|I'm sure that|c||fn_opinion|
+I think that...|Je pense que...|A1|5|5|I think that you're right.|Je pense que tu as raison.|I think that|c||fn_opinion|
+I agree with you.|Je suis d'accord avec toi.|A2|5|5|You're right, I agree with you.|Tu as raison, je suis d'accord avec toi.|I agree with you|c||fn_agree|
+I don't agree.|Je ne suis pas d'accord.|A2|5|5|Sorry, I don't agree.|Désolé, je ne suis pas d'accord.|I don't agree|c||fn_disagree|
+In my opinion...|À mon avis...|A2|5|5|In my opinion, we should wait.|À mon avis, nous devrions attendre.|In my opinion|c||fn_opinion|
+That's right.|C'est ça.|A1|5|5|So you're from Lyon? That's right.|Donc tu viens de Lyon ? C'est ça.|That's right|c||fn_agree|
+That's wrong.|C'est faux.|A1|5|4|Paris is in Spain? No, that's wrong.|Paris est en Espagne ? Non, c'est faux.|that's wrong|c||fn_disagree|
+Why not?|Pourquoi pas ?|A1|5|5|Shall we go by train? Why not?|On y va en train ? Pourquoi pas ?|Why not?|c||fn_agree|
+Maybe later.|Plus tard, peut-être.|A2|5|4|Do you want to go out? Maybe later.|Tu veux sortir ? Plus tard, peut-être.|Maybe later|c||fn_react|
+I'm busy.|Je suis occupé.|A1|5|5|Sorry, I'm busy this evening.|Désolé, je suis occupé ce soir.|I'm busy|c||time|
+I'm free on...|Je suis libre le...|A2|5|4|I'm free on Thursday afternoon.|Je suis libre jeudi après-midi.|I'm free on|c||time,fn_suggest|
+I'm sorry I'm late.|Désolé d'être en retard.|A2|5|5|I'm sorry I'm late. The traffic was awful.|Désolé d'être en retard. La circulation était épouvantable.|I'm sorry I'm late|c||fn_react|
+Sorry about that.|Désolé pour ça.|A2|5|5|That was my mistake. Sorry about that.|C'était mon erreur. Désolé pour ça.|Sorry about that|c||fn_react|
+Thanks anyway.|Merci quand même.|A2|5|4|You can't help? OK, thanks anyway.|Tu ne peux pas m'aider ? D'accord, merci quand même.|thanks anyway|c||fn_react|
+Thanks a lot.|Merci beaucoup (familier).|A1|5|5|Thanks a lot for the lift.|Merci beaucoup de m'avoir déposé.|Thanks a lot|c|i|fn_react|
+Nice to see you.|Content de te voir.|A1|5|5|Hi Tom! Nice to see you.|Salut Tom ! Content de te voir.|Nice to see you|c||small_talk|
+Good to see you again.|Content de te revoir.|A2|5|4|Hello Sara, good to see you again.|Bonjour Sara, content de te revoir.|good to see you again|c||small_talk|
+Say hello to...|Dis bonjour à...|A2|4|3|Say hello to your parents for me.|Dis bonjour à tes parents de ma part.|Say hello to|c||small_talk|
+What's up?|Ça va ? Quoi de beau ?|A2|5|4|Hey, what's up?|Salut, quoi de neuf ?|what's up?|c|i|small_talk|
+Not much.|Pas grand-chose.|A2|5|3|What's new? Not much.|Quoi de neuf ? Pas grand-chose.|Not much|c|i|small_talk|
+Same to you.|À toi aussi.|A2|5|4|Have a good weekend! Same to you.|Bon week-end ! À toi aussi.|Same to you|c||small_talk|
+You too.|Toi aussi.|A1|5|5|Have a great evening! You too.|Bonne soirée ! Toi aussi.|You too|c||small_talk|
+See you soon.|À bientôt.|A1|5|5|Thanks for dinner. See you soon.|Merci pour le dîner. À bientôt.|See you soon|c||small_talk,fn_end|
+Have a good weekend!|Bon week-end !|A1|5|4|See you on Monday. Have a good weekend!|À lundi. Bon week-end !|Have a good weekend!|c||small_talk,fn_end|
+I need to go now.|Je dois y aller maintenant.|A2|5|4|Sorry, I need to go now.|Désolé, je dois y aller maintenant.|I need to go now|c||fn_end|
+I'm not ready yet.|Je ne suis pas encore prêt.|A2|4|4|Wait, I'm not ready yet.|Attends, je ne suis pas encore prêt.|I'm not ready yet|c||time|
+I've lost my...|J'ai perdu mon...|A2|5|4|I've lost my passport.|J'ai perdu mon passeport.|I've lost my|t||travel|
+I've forgotten...|J'ai oublié...|A2|5|4|I've forgotten my password.|J'ai oublié mon mot de passe.|I've forgotten|c||technology|
+Call an ambulance!|Appelez une ambulance !|A2|4|4|He's not breathing. Call an ambulance!|Il ne respire plus. Appelez une ambulance !|Call an ambulance!|c||health,safety|
+What a pity!|Quel dommage !|A2|4|3|You missed the concert? What a pity!|Tu as raté le concert ? Quel dommage !|What a pity!|c||fn_react|
+How nice!|Comme c'est gentil !|A2|4|3|You brought flowers? How nice!|Tu as apporté des fleurs ? Comme c'est gentil !|How nice!|c||fn_react|
+How exciting!|Comme c'est excitant !|A2|4|3|You're moving to Canada? How exciting!|Tu pars au Canada ? C'est super !|How exciting!|c||fn_react|
+What a surprise!|Quelle surprise !|A2|4|3|Hi! What a surprise to see you here!|Salut ! Quelle surprise de te voir ici !|What a surprise|c||fn_react|
+It was my pleasure.|Ce fut un plaisir.|B1|4|4|Thanks for helping. It was my pleasure.|Merci de ton aide. Ce fut un plaisir.|It was my pleasure|c|f|fn_react|
+My pleasure.|Je vous en prie.|A2|5|5|Thank you so much. My pleasure.|Merci beaucoup. Avec plaisir.|My pleasure|c||fn_react|
+I'm afraid not.|J'ai bien peur que non.|B1|4|4|Is there any cake left? I'm afraid not.|Il reste du gâteau ? J'ai bien peur que non.|I'm afraid not|c||fn_disagree|
+I hope so.|Je l'espère.|A2|5|5|Will you be there? I hope so.|Tu seras là ? Je l'espère.|I hope so|c||fn_react|
+@collocation
+join a club|s'inscrire à un club|A2|4|3|I joined a running club.|Je me suis inscrit à un club de course.|joined a running club|d||leisure|
+open an account|ouvrir un compte|A2|4|4|I'd like to open an account.|Je voudrais ouvrir un compte.|open an account|d||money|
+place an order|passer une commande|B1|4|5|I'd like to place an order.|Je voudrais passer une commande.|place an order|w||pro,business|
+fill in a form|compléter un formulaire|A2|5|5|You'll need to fill in a form.|Tu dois remplir un formulaire.|fill in a form|w||admin|
+take a course|suivre une formation|A2|4|4|I'm taking a course in marketing.|Je suis une formation en marketing.|taking a course|w||pro,learning|
+have a chance|avoir l'occasion|A2|5|4|I never had a chance to thank you.|Je n'ai jamais eu l'occasion de te remercier.|had a chance|c||basics|
+have time|avoir le temps|A1|5|5|Do you have time for a coffee?|Tu as le temps de prendre un café ?|have time|c||time|
+make plans|faire des projets|A2|5|4|Let's make plans for the summer.|Faisons des projets pour l'été.|make plans|c||basics|
+make sure|s'assurer|A2|5|5|Make sure the door is locked.|Vérifie que la porte est bien fermée.|Make sure|c||basics|
+make a list|faire une liste|A1|4|3|Let's make a list of what we need.|Faisons une liste de ce qu'il nous faut.|make a list|d||basics|
+make dinner|préparer à dîner|A1|5|3|Can you make dinner tonight?|Tu peux préparer à dîner ce soir ?|make dinner|d||food|
+make noise|faire du bruit|A2|5|4|Please don't make so much noise.|Ne fais pas autant de bruit, s'il te plaît.|make so much noise|d||housing|
+do business|faire des affaires|B1|4|4|We do business with several Asian firms.|Nous faisons des affaires avec plusieurs entreprises asiatiques.|do business|w||pro,business|
+do sport|pratiquer un sport|A1|5|5|Do you do any sport?|Tu fais du sport ?|do any sport|d||leisure|
+do yoga|faire du yoga|A2|4|3|She does yoga twice a week.|Elle fait du yoga deux fois par semaine.|does yoga|d||leisure|
+do nothing|ne rien faire|A2|5|3|I did nothing all weekend.|Je n'ai rien fait de tout le week-end.|did nothing|c||leisure|
+give someone a call|passer un coup de fil à quelqu'un|A2|5|5|Give me a call when you're free.|Passe-moi un coup de fil quand tu es libre.|Give me a call|c|i|phone|
+give a lift|déposer en voiture|A2|5|4|Can you give me a lift to the station?|Tu peux me déposer à la gare ?|give me a lift|t||transport|variant=UK ;; counterpart=give a ride
+wait a second|attendre une seconde|A2|5|3|Wait a second, I'm coming.|Attends une seconde, j'arrive.|Wait a second|c||basics|
+keep calm|garder son calme|A2|5|4|Try to keep calm.|Essaie de garder ton calme.|keep calm|c||feelings|
+keep quiet|se taire, rester discret|A2|4|3|Keep quiet about this, please.|N'en parle à personne, s'il te plaît.|Keep quiet|c||basics|
+strong coffee|café fort|A2|4|2|I need a strong coffee this morning.|J'ai besoin d'un café fort ce matin.|strong coffee|d||food|
+bank account|compte bancaire|A2|5|4|You'll need a bank account here.|Il te faudra un compte bancaire ici.|bank account|d||money|
+credit card|carte de crédit|A1|5|5|Can I pay with a credit card?|Je peux payer par carte de crédit ?|credit card|d||money|
+mobile phone|téléphone portable|A1|5|4|Please turn off your mobile phone.|Merci d'éteindre votre téléphone portable.|mobile phone|d||technology,uk_us|variant=UK ;; counterpart=cell phone
+post office|bureau de poste|A1|5|3|Is the post office open on Saturdays?|La poste est ouverte le samedi ?|post office|d||places|
+@phrasal_verb
+fill up|remplir, faire le plein|A2|4|3|We need to fill up before the motorway.|Il faut faire le plein avant l'autoroute.|fill up|t||transport|
+go up|monter, augmenter|A2|5|4|Prices have gone up again.|Les prix ont encore augmenté.|gone up|c||money|
+go down|baisser, descendre|A2|5|4|Unemployment went down last year.|Le chômage a baissé l'année dernière.|went down|c||money|
+get together|se retrouver, se réunir|A2|5|5|We should get together soon.|On devrait se voir bientôt.|get together|c||relationships|
+hang out|traîner, passer du temps|A2|5|5|We hung out at the beach all day.|On a traîné à la plage toute la journée.|hung out|c|i|relationships|
+hang up|raccrocher|A2|5|4|Don't hang up, I'm still here.|Ne raccroche pas, je suis encore là.|hang up|c||phone|
+slow down|ralentir|A2|5|4|Slow down, you're driving too fast.|Ralentis, tu roules trop vite.|Slow down|t||transport|
+speak up|parler plus fort|A2|4|4|Can you speak up? I can't hear you.|Tu peux parler plus fort ? Je ne t'entends pas.|speak up|c||communication|
+tidy up|mettre de l'ordre|A2|4|3|We have to tidy up before they arrive.|Il faut ranger avant qu'ils arrivent.|tidy up|d||housing|
+walk around|se promener, faire le tour|A2|4|2|We walked around the old town.|Nous nous sommes promenés dans la vieille ville.|walked around|t||travel|
+work from home|télétravailler|A2|5|5|My whole team works from home now.|Toute mon équipe télétravaille maintenant.|works from home|w||pro,work|
+@connector
+such as|tel que, comme|B1|5|5|We sell things such as books and maps.|Nous vendons des choses comme des livres et des cartes.|such as|c||fn_explain|
+like|comme|A1|5|5|She sings like an angel.|Elle chante comme un ange.|like|c||grammar,fn_compare|id=like-comparison ;; sense=comparaison
+later|plus tard|A1|5|5|We can talk about it later.|On peut en parler plus tard.|later|c||time,fn_narrate|
+of course not|bien sûr que non|A2|5|4|Do you mind? Of course not.|Ça te dérange ? Bien sûr que non.|Of course not|c||fn_disagree|
+by the time|d'ici à ce que, au moment où|B1|4|4|By the time we arrived, it was over.|Au moment où nous sommes arrivés, c'était fini.|By the time|c||fn_narrate|
+@idiom
+Where there's a will, there's a way.|Quand on veut, on peut.|B1|4|3|Don't give up: where there's a will, there's a way.|N'abandonne pas : quand on veut, on peut.|where there's a will, there's a way|c||fn_suggest|
+The early bird catches the worm.|L'avenir appartient à ceux qui se lèvent tôt.|B1|3|2|I start at six. The early bird catches the worm.|Je commence à six heures. L'avenir appartient à ceux qui se lèvent tôt.|The early bird catches the worm|c||work|
+Rome wasn't built in a day.|Paris ne s'est pas fait en un jour.|B1|3|3|Be patient. Rome wasn't built in a day.|Sois patient. Paris ne s'est pas fait en un jour.|Rome wasn't built in a day|c||learning|
+A picture is worth a thousand words.|Une image vaut mille mots.|B1|3|2|Show them the chart. A picture is worth a thousand words.|Montre-leur le graphique. Une image vaut mille mots.|A picture is worth a thousand words|c||communication|
+Birds of a feather flock together.|Qui se ressemble s'assemble.|B2|3|2|They're both lazy. Birds of a feather flock together.|Ils sont aussi paresseux l'un que l'autre. Qui se ressemble s'assemble.|Birds of a feather flock together|c||relationships|

@@ -124,5 +124,54 @@
       "how-much"
     ],
     "reason": "Prix, et quantité."
+  },
+  {
+    "ids": [
+      "what-are-you-up-to",
+      "whats-up"
+    ],
+    "reason": "Deux questions différentes."
+  },
+  {
+    "ids": [
+      "nice-to-meet-you",
+      "nice-to-see-you"
+    ],
+    "reason": "Première rencontre, et retrouvailles."
+  },
+  {
+    "ids": [
+      "whats-wrong",
+      "thats-wrong"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "save-time",
+      "have-time"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "training",
+      "train"
+    ],
+    "reason": "training est un nom à part entière."
+  },
+  {
+    "ids": [
+      "come-up-with",
+      "come-up"
+    ],
+    "reason": "Trouver une idée, et survenir."
+  },
+  {
+    "ids": [
+      "go-ahead",
+      "go-ahead-with"
+    ],
+    "reason": "Autorisation, et lancement d'un projet."
   }
 ]
