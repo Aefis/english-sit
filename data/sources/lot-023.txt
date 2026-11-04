@@ -1,0 +1,184 @@
+# Lot 023 : B2+-C1 (vocabulaire soutenu, écrit, analyse fine, registres)
+@word
+adjacent|adjacent, voisin|C1||3|The hotel is adjacent to the station.|L'hôtel est attenant à la gare.|adjacent|t|f|places|pos=adj
+acceptance|acceptation|B2+||3|There's growing acceptance of remote work.|Le télétravail est de plus en plus accepté.|acceptance|w||analysis|pos=n
+accountability|responsabilité, obligation de rendre des comptes|C1||5|We need more accountability in this team.|Il faut davantage de responsabilisation dans cette équipe.|accountability|w||pro,management|pos=n
+acquisition|acquisition, rachat|B2+||4|The acquisition was completed in May.|Le rachat a été finalisé en mai.|acquisition|w||pro,business|pos=n
+alike|semblable, de la même façon|B2||4|Customers and staff alike were happy.|Clients et personnel étaient tous contents.|alike|c||fn_compare|pos=adv
+alter|modifier|B2+||4|This doesn't alter our decision.|Cela ne change rien à notre décision.|alter|w|f|pro,decision|pos=v
+ambiguous|ambigu|B2+||4|The wording is ambiguous.|La formulation est ambiguë.|ambiguous|w||pro,communication|pos=adj
+anecdotal|anecdotique, empirique|C1||3|The evidence is only anecdotal.|Les preuves sont uniquement anecdotiques.|anecdotal|a|f|analysis|pos=adj
+applicable|applicable|B2+||4|This rule isn't applicable here.|Cette règle n'est pas applicable ici.|applicable|w|f|pro,rules|pos=adj
+articulate|exprimer clairement|C1||4|She articulated her vision well.|Elle a bien exprimé sa vision.|articulated|w|f|pro,communication|pos=v
+aspiration|aspiration|C1||3|He has political aspirations.|Il a des ambitions politiques.|aspirations|c|f|career|pos=n
+assertive|sûr de soi, affirmé|B2+||4|You need to be more assertive.|Tu dois t'affirmer davantage.|assertive|w||pro,personality|pos=adj
+attribute|attribuer, qualité|B2+||4|We attribute the rise to better marketing.|Nous attribuons la hausse à un meilleur marketing.|attribute|w||pro,analysis|pos=v
+autonomy|autonomie|B2+||4|Our teams have a lot of autonomy.|Nos équipes ont beaucoup d'autonomie.|autonomy|w||pro,management|pos=n
+benchmark|référence, point de comparaison|B2+||5|This is the industry benchmark.|C'est la référence du secteur.|benchmark|w||pro,analysis|pos=n
+bureaucracy|bureaucratie|B2+||3|There's too much bureaucracy.|Il y a trop de bureaucratie.|bureaucracy|w||admin|pos=n
+candid|franc, sincère|C1||4|Let me be candid with you.|Laisse-moi être franc avec toi.|candid|c|f|fn_opinion|pos=adj
+catalyst|catalyseur|C1||3|The crisis was a catalyst for change.|La crise a été un catalyseur du changement.|catalyst|n|f|analysis|pos=n
+coherent|cohérent|B2+||4|We need a coherent strategy.|Il nous faut une stratégie cohérente.|coherent|w||pro,analysis|pos=adj
+commence|commencer (soutenu)|C1||2|The ceremony will commence at noon.|La cérémonie commencera à midi.|commence|w|f|time|pos=v
+competent|compétent|B2||4|He's a very competent manager.|C'est un manager très compétent.|competent|w||pro,career|pos=adj
+complacent|trop sûr de soi, suffisant|C1||4|We can't afford to be complacent.|Nous ne pouvons pas nous reposer sur nos lauriers.|complacent|w||pro,personality|pos=adj
+concede|concéder, reconnaître|C1||4|He conceded that he was wrong.|Il a reconnu qu'il avait tort.|conceded|c|f|fn_agree|pos=v
+conceivable|envisageable|C1||3|It's conceivable that prices will fall.|Il est envisageable que les prix baissent.|conceivable|a|f|fn_nuance|pos=adj
+concise|concis|B2+||5|Keep your answers concise.|Sois concis dans tes réponses.|concise|w||pro,writing|pos=adj
+conducive|propice|C1||3|The office isn't conducive to deep work.|Le bureau n'est pas propice au travail approfondi.|conducive|w|f|pro,analysis|pos=adj
+consensus|consensus|B2+||5|There's no consensus on this.|Il n'y a pas de consensus là-dessus.|consensus|w||pro,decision|pos=n
+contend|soutenir, affirmer|C1||3|Critics contend that the law is unfair.|Les critiques soutiennent que la loi est injuste.|contend|a|f|argument|pos=v
+contingency|imprévu, éventualité|C1||4|We have a contingency plan.|Nous avons un plan d'urgence.|contingency|w||pro,risk|pos=n
+correlation|corrélation|B2+||4|There's a strong correlation between the two.|Il y a une forte corrélation entre les deux.|correlation|a||pro,analysis|pos=n
+credibility|crédibilité|B2+||4|We've lost credibility with our clients.|Nous avons perdu en crédibilité auprès de nos clients.|credibility|w||pro,business|pos=n
+cumbersome|lourd, encombrant|C1||3|The process is cumbersome.|La procédure est lourde.|cumbersome|w||pro,project|pos=adj
+cynical|cynique|B2||3|Don't be so cynical.|Ne sois pas si cynique.|cynical|c||personality|pos=adj
+deadlock|impasse|C1||3|The talks have reached a deadlock.|Les négociations sont dans l'impasse.|deadlock|w||pro,business|pos=n
+debatable|discutable|B2+||3|It's debatable whether it helped.|On peut discuter de son utilité.|debatable|c||fn_nuance|pos=adj
+deem|juger, estimer|C1||3|The plan was deemed too risky.|Le projet a été jugé trop risqué.|deemed|w|f|pro,analysis|pos=v
+deliberately|délibérément|B2||5|He deliberately ignored my email.|Il a délibérément ignoré mon e-mail.|deliberately|c||basics|pos=adv
+denial|déni, démenti|B2+||3|He's in denial about the problem.|Il est dans le déni par rapport au problème.|denial|c||feelings|pos=n
+deter|dissuader|C1||3|High prices deter new customers.|Les prix élevés dissuadent les nouveaux clients.|deter|w|f|pro,business|pos=v
+detrimental|préjudiciable|C1||4|It could be detrimental to your health.|Cela pourrait nuire à ta santé.|detrimental|w|f|pro,risk|pos=adj
+deviation|écart, déviation|C1||3|Any deviation from the plan must be reported.|Tout écart par rapport au plan doit être signalé.|deviation|w|f|pro,project|pos=n
+diligent|appliqué, consciencieux|C1||3|She's a diligent worker.|C'est une employée consciencieuse.|diligent|w|f|pro,personality|pos=adj
+diminish|diminuer|B2+||4|Its value has diminished over time.|Sa valeur a diminué avec le temps.|diminished|w|f|analysis|pos=v
+discrepancy|écart, divergence|B2+||5|There's a discrepancy in the figures.|Il y a un écart dans les chiffres.|discrepancy|w||pro,analysis|pos=n
+discretion|discrétion, appréciation|C1||4|It's at the manager's discretion.|C'est à la discrétion du manager.|discretion|w|f|pro,management|pos=n
+disruption|perturbation|B2+||5|Expect some disruption next week.|Attendez-vous à quelques perturbations la semaine prochaine.|disruption|w||pro,project|pos=n
+dissatisfied|mécontent|B2||4|Dissatisfied customers rarely complain.|Les clients mécontents se plaignent rarement.|Dissatisfied|w||pro,feelings|pos=adj
+distinct|distinct, net|B2+||4|There's a distinct improvement.|Il y a une nette amélioration.|distinct|w||analysis|pos=adj
+diverge|diverger|C1||3|Our views diverge on this point.|Nos points de vue divergent sur ce point.|diverge|c|f|fn_disagree|pos=v
+dubious|douteux|C1||4|That's a dubious claim.|C'est une affirmation douteuse.|dubious|c||fn_nuance|pos=adj
+eager|impatient, désireux|B2||5|She's eager to learn.|Elle a très envie d'apprendre.|eager|c||feelings|pos=adj
+elaborate|élaboré, développer|B2+||5|Could you elaborate?|Pourrais-tu développer ?|elaborate|w||pro,fn_clarify|pos=v
+elicit|susciter, obtenir|C1||3|The email elicited no response.|L'e-mail n'a suscité aucune réponse.|elicited|w|f|pro,communication|pos=v
+eloquent|éloquent|C1||3|He gave an eloquent speech.|Il a prononcé un discours éloquent.|eloquent|c|f|communication|pos=adj
+empathy|empathie|B2||4|A good manager shows empathy.|Un bon manager fait preuve d'empathie.|empathy|w||pro,management|pos=n
+empower|donner les moyens de|B2+||5|We want to empower our staff.|Nous voulons donner à notre personnel les moyens d'agir.|empower|w||pro,management|pos=v
+endorse|approuver, soutenir|B2+||4|The board endorsed the plan.|Le conseil a approuvé le plan.|endorsed|w|f|pro,decision|pos=v
+enhance|améliorer, renforcer|B2+||5|This will enhance the user experience.|Cela améliorera l'expérience utilisateur.|enhance|w||pro,business|pos=v
+entail|impliquer, entraîner|C1||4|What does the job entail?|En quoi consiste le poste ?|entail|w|f|pro,career|pos=v
+entrepreneur|entrepreneur|B2||3|She's a young entrepreneur.|C'est une jeune entrepreneuse.|entrepreneur|w||pro,business|pos=n
+erode|éroder|C1||3|Trust has eroded over time.|La confiance s'est érodée avec le temps.|eroded|n|f|analysis|pos=v
+escalate|s'aggraver, faire remonter|B2+||5|I'll escalate this to my manager.|Je vais faire remonter ça à mon responsable.|escalate|w||pro,management|pos=v
+exacerbate|aggraver|C1||4|The heat exacerbated the problem.|La chaleur a aggravé le problème.|exacerbated|n|f|analysis|pos=v
+excel|exceller|B2+||3|She excels at negotiation.|Elle excelle en négociation.|excels|w||pro,career|pos=v
+exemplary|exemplaire|C1||3|His conduct was exemplary.|Sa conduite a été exemplaire.|exemplary|w|f|description|pos=adj
+expedite|accélérer|C1||3|Can you expedite my order?|Pouvez-vous accélérer ma commande ?|expedite|w|f|pro,business|pos=v
+explicit|explicite|B2+||4|The instructions were explicit.|Les instructions étaient explicites.|explicit|w||pro,communication|pos=adj
+flawed|défectueux, imparfait|B2+||5|The study was flawed.|L'étude présentait des failles.|flawed|w||pro,analysis|pos=adj
+foresee|prévoir, anticiper|B2+||4|Nobody foresaw the crisis.|Personne n'avait prévu la crise.|foresaw|w||pro,risk|pos=v ;; forms=foresaw, foreseen
+fragile|fragile|B2||3|The economy remains fragile.|L'économie reste fragile.|fragile|n||analysis|pos=adj
+frustrating|frustrant|B2||5|It's really frustrating.|C'est vraiment frustrant.|frustrating|c||feelings|pos=adj
+futile|vain, futile|C1||3|It's futile to argue with him.|C'est vain de discuter avec lui.|futile|c|f|fn_opinion|pos=adj
+gauge|évaluer, jauger|C1||3|It's too early to gauge the impact.|Il est trop tôt pour évaluer l'impact.|gauge|w|f|pro,analysis|pos=v
+gradual|progressif|B2||4|It's a gradual process.|C'est un processus progressif.|gradual|w||analysis|pos=adj
+grasp|saisir, comprendre|B2+||5|I can't grasp the idea.|Je n'arrive pas à saisir l'idée.|grasp|c||learning|pos=v
+grievance|grief, doléance|C1||3|Staff can raise a grievance with HR.|Le personnel peut déposer une réclamation auprès des RH.|grievance|w|f|pro,rules|pos=n
+hamper|entraver, gêner|C1||4|Bad weather hampered the rescue.|Le mauvais temps a entravé les secours.|hampered|n|f|analysis|pos=v
+hazard|danger, risque|B2||4|This is a fire hazard.|C'est un risque d'incendie.|hazard|w||pro,safety|pos=n
+hesitant|hésitant|B2||4|She seems hesitant.|Elle a l'air hésitante.|hesitant|c||feelings|pos=adj
+hierarchy|hiérarchie|B2+||3|The company has a very flat hierarchy.|L'entreprise a une hiérarchie très plate.|hierarchy|w||pro,management|pos=n
+hinder|gêner, freiner|B2+||4|Lack of funds hindered the project.|Le manque de fonds a freiné le projet.|hindered|w|f|pro,project|pos=v
+hindsight|recul (a posteriori)|B2+||4|With hindsight, I'd do it differently.|Avec le recul, je ferais autrement.|hindsight|c||fn_narrate|pos=n
+hostile|hostile|B2||3|The crowd was hostile.|La foule était hostile.|hostile|n||description|pos=adj
+ideally|idéalement|B2||5|Ideally, we'd start next week.|Idéalement, nous commencerions la semaine prochaine.|Ideally|c||fn_nuance|pos=adv
+imminent|imminent|B2+||3|A decision is imminent.|Une décision est imminente.|imminent|n||time|pos=adj
+impartial|impartial|C1||3|We need an impartial opinion.|Il nous faut un avis impartial.|impartial|w|f|fn_opinion|pos=adj
+impede|entraver|C1||3|Nothing should impede the investigation.|Rien ne doit entraver l'enquête.|impede|w|f|pro,project|pos=v
+imperative|impératif|C1||4|It's imperative that we act now.|Il est impératif que nous agissions maintenant.|imperative|w|f|pro,analysis|pos=adj
+implicit|implicite|B2+||3|There's an implicit criticism here.|Il y a ici une critique implicite.|implicit|a||communication|pos=adj
+impose|imposer|B2||4|They imposed new rules.|Ils ont imposé de nouvelles règles.|imposed|n||rules|pos=v
+incentive|incitation, prime|B2+||5|We offer incentives for good results.|Nous proposons des primes pour les bons résultats.|incentives|w||pro,management|pos=n
+inclined|enclin|B2+||4|I'm inclined to agree.|Je suis enclin à être d'accord.|inclined|c||fn_nuance|pos=adj
+incur|encourir, subir|C1||3|You may incur additional fees.|Vous pourriez avoir à payer des frais supplémentaires.|incur|w|f|pro,money|pos=v
+@chunk
+With that in mind...|Dans cette optique...|B2+|5|5|With that in mind, let's review the budget.|Dans cette optique, examinons le budget.|With that in mind|w||pro,fn_explain|
+Be that as it may...|Quoi qu'il en soit...|C1|4|4|Be that as it may, we need a decision.|Quoi qu'il en soit, il nous faut une décision.|Be that as it may|w|f|pro,fn_nuance|
+For all intents and purposes...|Pratiquement, à toutes fins utiles...|C1|4|3|For all intents and purposes, the deal is done.|À toutes fins utiles, l'accord est conclu.|For all intents and purposes|w|f|pro,fn_nuance|
+At the risk of repeating myself...|Au risque de me répéter...|B2+|4|4|At the risk of repeating myself, we must act.|Au risque de me répéter, nous devons agir.|At the risk of repeating myself|w||pro,fn_rephrase|
+To put it mildly...|C'est le moins qu'on puisse dire...|B2+|5|4|The results were disappointing, to put it mildly.|Les résultats ont été décevants, c'est le moins qu'on puisse dire.|to put it mildly|c||fn_nuance|
+To say the least...|Pour ne pas dire plus...|B2|5|4|It was an odd meeting, to say the least.|Ce fut une réunion étrange, pour ne pas dire plus.|to say the least|c||fn_nuance|
+To put it bluntly...|Pour parler franchement...|B2+|5|4|To put it bluntly, the plan won't work.|Pour parler franchement, le plan ne marchera pas.|To put it bluntly|c||fn_opinion|
+To be perfectly honest...|Pour être tout à fait honnête...|B2|5|4|To be perfectly honest, I'm not sure.|Pour être tout à fait honnête, je n'en suis pas sûr.|To be perfectly honest|c||fn_opinion|
+If I'm being honest...|Si je suis honnête...|B2|5|3|If I'm being honest, I prefer the old version.|Si je suis honnête, je préfère l'ancienne version.|If I'm being honest|c||fn_opinion|
+If truth be told...|À vrai dire (soutenu)...|C1|4|3|If truth be told, I was relieved.|À vrai dire, j'ai été soulagé.|If truth be told|c|f|fn_opinion|
+As a rule of thumb...|En règle générale, à vue de nez...|B2+|5|5|As a rule of thumb, allow two days per task.|En règle générale, compte deux jours par tâche.|As a rule of thumb|w||pro,fn_nuance|
+With regard to your question...|Concernant votre question...|B2|5|4|With regard to your question, the answer is yes.|Concernant votre question, la réponse est oui.|With regard to your question|w|f|pro,email|
+Further to our conversation...|Suite à notre conversation...|B2|5|5|Further to our conversation, here's the file.|Suite à notre conversation, voici le fichier.|Further to our conversation|w|f|pro,email|
+Following on from...|Pour faire suite à...|B2|5|5|Following on from yesterday's call, I attach the report.|Pour faire suite à l'appel d'hier, je joins le rapport.|Following on from|w||pro,email|
+I'm writing with regard to...|Je vous écris au sujet de...|B2|5|5|I'm writing with regard to your application.|Je vous écris au sujet de votre candidature.|I'm writing with regard to|w|f|pro,email|
+I would like to express my...|Je tiens à exprimer ma...|B2|4|4|I would like to express my thanks to the team.|Je tiens à exprimer ma gratitude à l'équipe.|I would like to express my|w|f|pro,email|
+Please do not hesitate to contact me.|N'hésitez pas à me contacter.|B2|5|5|If you need anything, please do not hesitate to contact me.|Si vous avez besoin de quoi que ce soit, n'hésitez pas à me contacter.|please do not hesitate to contact me|w|f|pro,email|
+Your prompt reply would be appreciated.|Merci de bien vouloir répondre rapidement.|B2+|4|4|Your prompt reply would be appreciated.|Je vous remercie de bien vouloir répondre rapidement.|Your prompt reply would be appreciated|w|f|pro,email|
+I would appreciate your feedback.|J'apprécierais votre retour.|B2|5|4|I would appreciate your feedback on this draft.|J'apprécierais votre retour sur ce brouillon.|I would appreciate your feedback|w|f|pro,email|
+I'd welcome your thoughts on...|Votre avis sur... m'intéresse.|B2+|5|5|I'd welcome your thoughts on the proposal.|Votre avis sur la proposition m'intéresse.|I'd welcome your thoughts on|w||pro,email|
+I'm happy to discuss this further.|Je suis à votre disposition pour en discuter.|B2|5|5|I'm happy to discuss this further if needed.|Je suis à votre disposition pour en discuter si besoin.|I'm happy to discuss this further|w||pro,email|
+I've copied ... on this email.|J'ai mis ... en copie de cet e-mail.|B1|5|4|I've copied Anna on this email.|J'ai mis Anna en copie de cet e-mail.|I've copied Anna on this email|w||pro,email|
+Please find the details below.|Veuillez trouver les détails ci-dessous.|B1|5|4|Please find the details below.|Vous trouverez les détails ci-dessous.|Please find the details below|w|f|pro,email|
+As per our agreement...|Conformément à notre accord...|B2+|5|5|As per our agreement, payment is due in June.|Conformément à notre accord, le paiement est dû en juin.|As per our agreement|w|f|pro,email|
+As requested...|Comme demandé...|B1|5|5|As requested, I've attached the report.|Comme demandé, j'ai joint le rapport.|As requested|w||pro,email|
+Kindly note that...|Veuillez noter que...|B2|4|4|Kindly note that the office is closed on Monday.|Veuillez noter que le bureau est fermé lundi.|Kindly note that|w|f|pro,email|
+For your information...|Pour information...|B1|5|4|For your information, the deadline has changed.|Pour information, l'échéance a changé.|For your information|w||pro,email|
+For your reference...|Pour votre référence...|B2|4|3|For your reference, I've attached the contract.|Pour référence, j'ai joint le contrat.|For your reference|w||pro,email|
+At your earliest convenience|Dès que possible, à votre convenance|B2+|5|5|Please reply at your earliest convenience.|Merci de répondre dès que possible.|at your earliest convenience|w|f|pro,email|
+Thank you in advance.|Merci d'avance.|B1|5|5|Thank you in advance for your help.|Merci d'avance pour votre aide.|Thank you in advance|w||pro,email|
+I apologise for the delay.|Je vous prie d'excuser ce retard.|B2|5|5|I apologise for the delay in getting back to you.|Je vous prie d'excuser ce retard de réponse.|I apologise for the delay|w|f|pro,email|
+Please accept my apologies.|Veuillez accepter mes excuses.|B2|5|4|Please accept my apologies for the mistake.|Veuillez accepter mes excuses pour cette erreur.|Please accept my apologies|w|f|pro,email|
+It has come to our attention that...|Nous avons été informés que...|B2+|4|4|It has come to our attention that the invoice is unpaid.|Nous avons été informés que la facture est impayée.|It has come to our attention that|w|f|pro,email|
+We regret to announce that...|Nous avons le regret d'annoncer que...|B2+|4|3|We regret to announce that the event is cancelled.|Nous avons le regret d'annoncer que l'événement est annulé.|We regret to announce that|w|f|pro,email|
+We would like to remind you that...|Nous vous rappelons que...|B2|5|4|We would like to remind you that payment is due.|Nous vous rappelons que le paiement est dû.|We would like to remind you that|w|f|pro,email|
+@collocation
+a pressing issue|une question urgente|B2+|5|5|Housing is the most pressing issue.|Le logement est la question la plus urgente.|pressing issue|n||analysis|
+a heated debate|un débat animé|B2|5|4|It sparked a heated debate.|Cela a déclenché un débat animé.|a heated debate|n||argument|
+a vicious circle|un cercle vicieux|B2|5|4|We're stuck in a vicious circle.|Nous sommes coincés dans un cercle vicieux.|a vicious circle|c||analysis|
+a steep learning curve|un apprentissage difficile et rapide|B2+|5|5|The new job has a steep learning curve.|Le nouveau poste demande un apprentissage rapide et difficile.|a steep learning curve|w||pro,career|
+a sharp increase|une forte hausse|B2|5|5|We saw a sharp increase in sales.|Nous avons constaté une forte hausse des ventes.|a sharp increase|w||pro,analysis|
+a sharp decline|une forte baisse|B2|5|4|There's been a sharp decline in profits.|Il y a eu une forte baisse des bénéfices.|a sharp decline|w||pro,analysis|
+a slight increase|une légère hausse|B2|5|4|There was a slight increase in demand.|Il y a eu une légère hausse de la demande.|a slight increase|w||pro,analysis|
+a gradual decline|un déclin progressif|B2|4|3|We've seen a gradual decline in sales.|Nous avons observé un déclin progressif des ventes.|a gradual decline|w||pro,analysis|
+a significant impact|un impact important|B2|5|5|It had a significant impact on our results.|Cela a eu un impact important sur nos résultats.|a significant impact|w||pro,analysis|
+a lasting impact|un impact durable|B2+|4|4|The crisis had a lasting impact.|La crise a eu un impact durable.|a lasting impact|n||analysis|
+a clear distinction|une distinction claire|B2|4|3|There's a clear distinction between them.|Il y a une distinction claire entre eux.|a clear distinction|a||analysis|
+a broad range|une large gamme|B2|4|3|We offer a broad range of services.|Nous proposons une large gamme de services.|a broad range|w||pro,business|
+a key player|un acteur clé|B2|5|4|They're a key player in the market.|C'est un acteur clé du marché.|a key player|w||pro,business|
+a major setback|un revers important|B2+|5|5|This is a major setback for the team.|C'est un revers important pour l'équipe.|a major setback|w||pro,project|
+a tight deadline|un délai serré|B2|5|5|We're working to a tight deadline.|Nous travaillons avec un délai serré.|a tight deadline|w||pro,project|
+a tight budget|un budget serré|B1|5|4|We're on a tight budget this year.|Nous avons un budget serré cette année.|a tight budget|w||pro,money|
+a rough estimate|une estimation approximative|B2|5|5|Can you give me a rough estimate?|Tu peux me donner une estimation approximative ?|a rough estimate|w||pro,analysis|
+a thorough review|un examen approfondi|B2+|5|4|We carried out a thorough review.|Nous avons mené un examen approfondi.|a thorough review|w||pro,analysis|
+a viable option|une option viable|B2+|5|5|Is this a viable option?|Est-ce une option viable ?|a viable option|w||pro,decision|
+a valid point|un argument valable|B2|5|4|That's a valid point.|C'est un argument valable.|a valid point|c||fn_agree|
+common ground|un terrain d'entente|B2+|5|5|We need to find common ground.|Nous devons trouver un terrain d'entente.|common ground|w||pro,decision|
+core values|valeurs fondamentales|B2|4|4|Honesty is one of our core values.|L'honnêteté est l'une de nos valeurs fondamentales.|core values|w||pro,business|
+long-term goals|objectifs à long terme|B2|5|4|We need to focus on our long-term goals.|Nous devons nous concentrer sur nos objectifs à long terme.|long-term goals|w||pro,project|
+short-term gains|gains à court terme|B2+|4|4|Don't sacrifice quality for short-term gains.|Ne sacrifie pas la qualité pour des gains à court terme.|short-term gains|w||pro,analysis|
+mixed feelings|sentiments partagés|B2|5|4|I have mixed feelings about the move.|J'ai des sentiments partagés sur ce déménagement.|mixed feelings|c||feelings|
+mixed results|résultats mitigés|B2|5|4|The campaign had mixed results.|La campagne a eu des résultats mitigés.|mixed results|w||pro,analysis|
+@phrasal_verb
+bounce back|rebondir|B2|5|5|The company bounced back quickly.|L'entreprise a vite rebondi.|bounced back|w||pro,business|
+brush up on|réviser, rafraîchir|B2|5|5|I need to brush up on my French.|Je dois rafraîchir mon français.|brush up on|c||learning|
+carry over|reporter sur la période suivante|B2|4|3|You can carry over five days of leave.|Tu peux reporter cinq jours de congés.|carry over|w||pro,work|
+chip in|participer, contribuer|B2|5|4|Everyone chipped in for the gift.|Tout le monde a participé pour le cadeau.|chipped in|c|i|money|
+churn out|produire à la chaîne|B2+|3|2|They churn out new models every year.|Ils sortent de nouveaux modèles à la chaîne chaque année.|churn out|w|i|business|
+clamp down on|sévir contre|C1|4|3|The government is clamping down on fraud.|Le gouvernement sévit contre la fraude.|clamping down on|n||rules|
+crack down on|réprimer|B2+|4|3|Police are cracking down on speeding.|La police réprime les excès de vitesse.|cracking down on|n||rules|
+delve into|approfondir, fouiller|C1|4|4|Let's delve into the details.|Approfondissons les détails.|delve into|w|f|pro,analysis|
+dip into|puiser dans|B2+|3|3|We had to dip into our savings.|Nous avons dû puiser dans nos économies.|dip into|c||money|
+do away with|abolir, se débarrasser de|B2+|4|4|We should do away with these forms.|Nous devrions supprimer ces formulaires.|do away with|w||pro,project|
+ease off|diminuer, se calmer|B2|4|3|The rain has eased off.|La pluie a diminué.|eased off|d||weather|
+eat into|entamer, grignoter|B2+|4|4|Costs are eating into our profits.|Les coûts grignotent nos bénéfices.|eating into|w||pro,money|
+@connector
+albeit slowly|quoique lentement|C1|3|2|Sales are growing, albeit slowly.|Les ventes augmentent, quoique lentement.|albeit slowly|w|f|pro,fn_nuance|
+hereby|par la présente|C1|3|3|I hereby resign from my post.|Je démissionne par la présente de mon poste.|hereby|w|f|pro,rules|
+henceforth|désormais (soutenu)|C1|3|2|Henceforth, all staff must wear a badge.|Désormais, tout le personnel doit porter un badge.|Henceforth|w|f|rules|
+conversely|inversement|B2+|5|4|Conversely, costs fell in Spain.|Inversement, les coûts ont baissé en Espagne.|Conversely|w|f|pro,fn_compare|
+likewise|de même, pareillement|B2|5|5|Thanks for your help. Likewise!|Merci de ton aide. Pareillement !|Likewise|c||fn_compare|
+accordingly|en conséquence|B2+|5|4|Plans changed, so we adjusted accordingly.|Les plans ont changé, nous nous sommes donc adaptés en conséquence.|accordingly|w|f|pro,fn_explain|
+@idiom
+Cut to the quick.|Blesser au vif.|C1|2|2|Her words cut me to the quick.|Ses mots m'ont blessé au vif.|cut me to the quick|c|f|feelings|
+A blessing in disguise.|Un mal pour un bien.|B2+|4|4|Losing that job was a blessing in disguise.|Perdre ce travail a été un mal pour un bien.|a blessing in disguise|c||fn_opinion|
+At loggerheads.|En désaccord profond.|C1|3|3|The two sides are at loggerheads.|Les deux camps sont en profond désaccord.|at loggerheads|n||fn_disagree|
+By the book.|En suivant les règles.|B2|4|4|We do everything by the book.|Nous faisons tout selon les règles.|by the book|w||pro,rules|
+Rule of thumb.|Règle empirique.|B2+|4|3|A good rule of thumb is to save ten percent.|Une bonne règle empirique est d'épargner dix pour cent.|rule of thumb|c||fn_nuance|
