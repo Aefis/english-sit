@@ -173,5 +173,75 @@
       "go-ahead-with"
     ],
     "reason": "Autorisation, et lancement d'un projet."
+  },
+  {
+    "ids": [
+      "let-me-know",
+      "let-me-know-if"
+    ],
+    "reason": "Formule courte, et amorce de phrase."
+  },
+  {
+    "ids": [
+      "as-well",
+      "as-well-as"
+    ],
+    "reason": "Aussi, et ainsi que."
+  },
+  {
+    "ids": [
+      "go-out",
+      "go-out-with"
+    ],
+    "reason": "Sortir, et sortir avec quelqu'un."
+  },
+  {
+    "ids": [
+      "check-out",
+      "check-out-of"
+    ],
+    "reason": "Vérifier, et quitter un hôtel."
+  },
+  {
+    "ids": [
+      "make-up",
+      "make-up-with"
+    ],
+    "reason": "Inventer, et se réconcilier."
+  },
+  {
+    "ids": [
+      "sales",
+      "sale"
+    ],
+    "reason": "Pluriel à sens propre : le chiffre d'affaires."
+  },
+  {
+    "ids": [
+      "coast",
+      "side"
+    ],
+    "reason": "Faux doublon : côte et côté, les accents diffèrent."
+  },
+  {
+    "ids": [
+      "whats-wrong",
+      "whats-wrong-with"
+    ],
+    "reason": "Question générale, et amorce de question."
+  },
+  {
+    "ids": [
+      "hot-water",
+      "in-hot-water"
+    ],
+    "reason": "Sens propre, et idiome."
+  },
+  {
+    "ids": [
+      "make-an-appointment",
+      "have-an-appointment"
+    ],
+    "reason": "Prendre un rendez-vous, et avoir un rendez-vous."
   }
 ]

@@ -1,0 +1,212 @@
+# Lot 011 : B1 (argent, santé, travail, déplacements, mots fonctionnels)
+@word
+government|gouvernement|A2||4|The government announced new measures.|Le gouvernement a annoncé de nouvelles mesures.|government|n||politics|pos=n
+public|public (adjectif), ouvert à tous|A2||4|Is there a public car park nearby?|Il y a un parking public à proximité ?|public|d||places|pos=adj
+care|soin, s'occuper|B1||4|She needs special care.|Elle a besoin de soins particuliers.|care|d||health|pos=n
+person|une personne, un individu|A1||5|He's a very kind person.|C'est une personne très gentille.|person|c||people|pos=n ;; forms=people
+support|soutenir, soutien|B1||5|Thanks for your support.|Merci pour ton soutien.|support|c||relationships|pos=n
+power|pouvoir, puissance|B1||4|The president has too much power.|Le président a trop de pouvoir.|power|n||politics|pos=n
+line|ligne, file d'attente|A2||4|Take the blue line to the airport.|Prends la ligne bleue pour aller à l'aéroport.|line|t||transport|pos=n
+area|zone, quartier|A2||5|It's a nice area to live in.|C'est un quartier agréable.|area|d||places|pos=n
+whole|tout, entier|A2||5|I read the whole book in one day.|J'ai lu tout le livre en une journée.|whole|c||basics|pos=adj
+local|local, du coin|A2||5|We ate at a local restaurant.|Nous avons mangé dans un restaurant du coin.|local|t||places|pos=adj
+talk|parler, discuter|A1||5|Can we talk about it?|On peut en parler ?|talk|c||communication|pos=v
+court|tribunal, court|B1||3|The case went to court.|L'affaire est allée au tribunal.|court|n||rules|pos=n
+fact|fait|A2||5|That's a fact.|C'est un fait.|fact|c||basics|pos=n
+half|moitié, demi|A1||5|I only ate half of it.|Je n'en ai mangé que la moitié.|half|d||numbers|pos=n
+single|seul, célibataire|A2||4|Are you single?|Tu es célibataire ?|single|c||relationships|pos=adj
+win|gagner (un match)|A1||5|Who do you think will win?|Qui va gagner, à ton avis ?|win|c||leisure|pos=v ;; forms=won
+along|le long de|A2||4|We walked along the beach.|Nous avons marché le long de la plage.|along|t||directions|pos=prep
+pretty|plutôt, joli|A2||5|It's pretty cold today.|Il fait plutôt froid aujourd'hui.|pretty|c|i|fn_nuance|pos=adv
+past|passé, après|A2||4|We've had a lot of rain over the past week.|Il a beaucoup plu cette semaine.|past|c||time|pos=adj
+human|humain|A2||4|It's only human to make mistakes.|C'est humain de faire des erreurs.|human|c||basics|pos=adj
+community|communauté, quartier|B1||4|She's very active in the local community.|Elle est très active dans la vie du quartier.|community|c||people|pos=n
+data|données|B1||5|We need more data.|Il nous faut plus de données.|data|w||pro,analysis|pos=n
+special|spécial|A1||4|Today's a special day.|Aujourd'hui, c'est un jour spécial.|special|c||description|pos=adj
+major|majeur, important|B1||5|It's a major problem.|C'est un problème majeur.|major|c||description|pos=adj
+media|médias|B1||4|The story was all over the media.|L'histoire était partout dans les médias.|media|n||media|pos=n
+art|art|A2||4|She studied art in Florence.|Elle a étudié l'art à Florence.|art|d||leisure|pos=n
+behind|derrière|A1||5|The car park is behind the hotel.|Le parking est derrière l'hôtel.|behind|t||directions|pos=prep
+near|près de|A1||5|Is there a pharmacy near here?|Il y a une pharmacie près d'ici ?|near|t||directions|pos=prep
+political|politique|B1||4|I don't discuss political issues at work.|Je ne parle pas de questions politiques au travail.|political|n||politics|pos=adj
+final|final, dernier|A2||4|This is our final offer.|C'est notre dernière offre.|final|w||business|pos=adj
+front|devant, avant|A2||4|I'll wait in front of the cinema.|J'attendrai devant le cinéma.|front|c||directions|pos=n
+example|exemple|A1||5|Can you give me an example?|Tu peux me donner un exemple ?|example|c||learning,fn_clarify|pos=n
+program|programme, logiciel|A2||4|This program doesn't run on my laptop.|Ce logiciel ne fonctionne pas sur mon ordinateur portable.|program|w||it,pro|pos=n
+across|de l'autre côté de|A2||4|The bakery is across the street.|La boulangerie est en face, de l'autre côté de la rue.|across|t||directions|pos=prep
+department|service, département|A2||5|Which department do you work in?|Tu travailles dans quel service ?|department|w||pro,work|pos=n
+term|terme, trimestre|B1||4|What does this term mean?|Que signifie ce terme ?|term|a||learning|pos=n
+site|site, chantier|B1||3|He works on a building site.|Il travaille sur un chantier.|site|w||work|pos=n
+military|militaire|B1||3|He did his military service.|Il a fait son service militaire.|military|n||news|pos=adj
+east|est|A1||3|The wind is coming from the east.|Le vent vient de l'est.|east|d||directions|pos=n
+west|ouest|A1||3|They live in the west of Ireland.|Ils vivent dans l'ouest de l'Irlande.|west|d||directions|pos=n
+north|nord|A1||3|It's colder in the north.|Il fait plus froid dans le nord.|north|d||directions|pos=n
+south|sud|A1||3|We drove south for two hours.|Nous avons roulé vers le sud pendant deux heures.|south|t||directions|pos=n
+medical|médical|B1||4|I need a medical certificate.|J'ai besoin d'un certificat médical.|medical|d||health|pos=adj
+performance|performance, spectacle|B1||4|His performance has improved.|Ses résultats se sont améliorés.|performance|w||pro,management|pos=n
+management|direction, gestion|B1||5|The management made the decision.|La direction a pris la décision.|management|w||pro,management|pos=n
+career|carrière|B1||5|She's had a successful career.|Elle a fait une belle carrière.|career|w||pro,career|pos=n
+release|sortir, publier|B1||4|The band released a new album.|Le groupe a sorti un nouvel album.|released|n||leisure|pos=v
+pass|passer, réussir|A2||5|Can you pass me the salt?|Tu peux me passer le sel ?|pass|d||basics|pos=v
+base|baser|B1||4|The film is based on a true story.|Le film est tiré d'une histoire vraie.|based|c||leisure|pos=v
+mine|le mien, la mienne|A2||4|That's not your phone, it's mine.|Ce n'est pas ton téléphone, c'est le mien.|mine|c||grammar|pos=pron
+album|album|A2||2|Their first album was great.|Leur premier album était génial.|album|d||leisure|pos=n
+beat|battre|A2||4|We beat them three-nil.|Nous les avons battus trois à zéro.|beat|d||leisure|pos=v ;; forms=beat, beaten
+capital|capitale|A2||4|Ottawa is the capital of Canada.|Ottawa est la capitale du Canada.|capital|c||places|pos=n
+committee|comité|B1||3|The committee meets every month.|Le comité se réunit chaque mois.|committee|w|f|pro,meetings|pos=n
+conference|conférence, congrès|B1||4|I'm going to a conference in Berlin.|Je vais à un congrès à Berlin.|conference|w||pro,meetings|pos=n
+double|double|A2||3|I'd like a double room.|Je voudrais une chambre double.|double|t||travel|pos=adj
+gas|gaz, essence (US)|A2||3|Do you cook with gas?|Tu cuisines au gaz ?|gas|d||housing|pos=n
+normal|normal|A2||5|It's perfectly normal to feel nervous.|C'est tout à fait normal d'être nerveux.|normal|c||description|pos=adj
+population|population|A2||3|The population is getting older.|La population vieillit.|population|n||news|pos=n
+potential|potentiel|B1||4|This idea has a lot of potential.|Cette idée a beaucoup de potentiel.|potential|w||pro,analysis|pos=n
+text|texto, texte|A1||5|Send me a text when you get there.|Envoie-moi un texto quand tu arrives.|text|c||communication|pos=n
+treatment|traitement, soin|B1||4|She's having treatment for her back.|Elle suit un traitement pour le dos.|treatment|d||health|pos=n
+western|occidental|B1||3|It's a typical Western diet.|C'est une alimentation occidentale typique.|Western|n||description|pos=adj
+beginning|début|A2||5|Let's start from the beginning.|Commençons par le début.|beginning|c||time|pos=n
+campaign|campagne|B1||4|It's a big advertising campaign.|C'est une grande campagne de publicité.|campaign|w||pro,business|pos=n
+content|contenu|B1||4|We need to update the website content.|Nous devons mettre à jour le contenu du site.|content|w||pro,it|pos=n
+credit|crédit|B1||3|You can buy it on credit.|Tu peux l'acheter à crédit.|credit|d||money|pos=n
+cross|traverser|A2||5|Be careful when you cross the road.|Fais attention quand tu traverses la route.|cross|t||directions|pos=v
+female|féminin, femme|A2||3|Most of our students are female.|La plupart de nos étudiants sont des femmes.|female|c||people|pos=adj
+male|masculin, homme|A2||3|The driver was a young male.|Le conducteur était un jeune homme.|male|n||people|pos=n
+hi|salut|A1||5|Hi, how's it going?|Salut, ça va ?|Hi|c|i|small_talk|pos=adv
+ice|glace|A1||3|Would you like ice in your drink?|Tu veux des glaçons dans ton verre ?|ice|d||food|pos=n
+individual|individuel, personne|B1||4|Each individual is different.|Chaque personne est différente.|individual|c|f|people|pos=n
+nearly|presque, à peu près|A2||5|I'm nearly ready.|Je suis presque prêt.|nearly|c||basics|pos=adv
+particular|particulier|B1||5|Is there any particular reason?|Y a-t-il une raison particulière ?|particular|c||fn_clarify|pos=adj
+quickly|rapidement|A1||5|Come quickly, it's starting!|Viens vite, ça commence !|quickly|c||basics|pos=adv
+region|région|A2||4|This region is famous for its wine.|Cette région est réputée pour son vin.|region|t||places|pos=n
+section|section, rayon|A2||3|You'll find it in the children's section.|Tu le trouveras au rayon enfants.|section|d||shopping|pos=n
+sort|sorte, genre|A2||5|What sort of music do you listen to?|Quel genre de musique écoutes-tu ?|sort|c||basics|pos=n
+speed|vitesse|A2||4|What's the speed limit here?|Quelle est la limitation de vitesse ici ?|speed|t||transport|pos=n
+drop|laisser tomber|A2||4|I dropped my phone in the water.|J'ai fait tomber mon téléphone dans l'eau.|dropped|d||basics|pos=v
+link|lien|A2||5|I'll send you the link.|Je t'envoie le lien.|link|w||technology|pos=n
+sale|vente, solde|A2||4|Is this car for sale?|Cette voiture est à vendre ?|sale|d||shopping|pos=n
+throughout|tout au long de|B1||4|It rained throughout the day.|Il a plu tout au long de la journée.|throughout|c||time|pos=prep
+tour|visite guidée, tournée|A2||4|We took a guided tour of the castle.|Nous avons fait une visite guidée du château.|tour|t||travel|pos=n
+welcome|bienvenue|A1||5|Welcome to London!|Bienvenue à Londres !|Welcome|t||small_talk|pos=adj
+absolutely|absolument|A2||5|You're absolutely right.|Tu as absolument raison.|absolutely|c||fn_agree|pos=adv
+additional|supplémentaire|B1||4|There's an additional charge for parking.|Le parking est en supplément.|additional|t|f|money|pos=adj
+beyond|au-delà de|B1||4|It's beyond my budget.|C'est au-delà de mon budget.|beyond|c||basics|pos=prep
+earlier|plus tôt|A2||5|I should have told you earlier.|J'aurais dû te le dire plus tôt.|earlier|c||time|pos=adv
+extra|supplémentaire, en plus|A2||5|Can I have an extra pillow?|Je peux avoir un oreiller de plus ?|extra|t||basics|pos=adj
+immediately|immédiatement|A2||5|Call me immediately.|Appelle-moi immédiatement.|immediately|c||time|pos=adv
+nature|nature|A2||4|I love being close to nature.|J'adore être proche de la nature.|nature|d||nature|pos=n
+quick|rapide|A1||5|Can I ask you a quick question?|Je peux te poser une petite question ?|quick|c||time|pos=adj
+construction|construction|B1||3|The road is under construction.|La route est en travaux.|construction|n||news|pos=n
+episode|épisode|A2||3|I watched three episodes last night.|J'ai regardé trois épisodes hier soir.|episodes|d||leisure|pos=n
+favourite|préféré|A1||5|It's my favourite restaurant.|C'est mon restaurant préféré.|favourite|c||feelings|pos=adj ;; variant=UK ;; counterpart=favorite
+income|revenu|B1||4|Your income is taxed at twenty percent.|Vos revenus sont imposés à vingt pour cent.|income|d||money|pos=n
+justice|justice|B1||3|The victims want justice.|Les victimes réclament justice.|justice|n||rules|pos=n
+movement|mouvement|B1||3|The movement began in the sixties.|Le mouvement a débuté dans les années soixante.|movement|n||news|pos=n
+safety|sécurité|B1||5|Safety comes first.|La sécurité d'abord.|Safety|w||pro,safety|pos=n
+scene|scène|A2||3|It's my favourite scene in the film.|C'est ma scène préférée du film.|scene|d||leisure|pos=n
+spend|dépenser, passer (du temps)|A2||5|I spent too much on clothes.|J'ai trop dépensé en vêtements.|spent|d||money|pos=v ;; forms=spent
+statement|déclaration|B1||4|The company issued a statement.|L'entreprise a publié un communiqué.|statement|w||pro,news|pos=n
+coach|entraîneur, autocar|A2||3|Our coach made us run for an hour.|Notre entraîneur nous a fait courir une heure.|coach|d||leisure|pos=n
+collection|collection|A2||3|She has a huge collection of records.|Elle a une énorme collection de disques.|collection|d||leisure|pos=n
+gun|arme à feu|A2||3|The robber had a gun.|Le braqueur avait une arme.|gun|n||safety|pos=n
+heavy|lourd|A1||5|This box is really heavy.|Ce carton est vraiment lourd.|heavy|d||description|pos=adj
+particularly|particulièrement|B1||5|It's not particularly difficult.|Ce n'est pas particulièrement difficile.|particularly|c||fn_nuance|pos=adv
+search|chercher, recherche|A2||4|I searched everywhere.|J'ai cherché partout.|searched|c||basics|pos=v
+subject|sujet, matière|A2||5|Let's change the subject.|Changeons de sujet.|subject|c||fn_topic_change|pos=n
+wide|large|A2||4|The street is quite wide.|La rue est assez large.|wide|d||description|pos=adj
+@chunk
+Could you do me a favour?|Tu pourrais me rendre un service ?|A2|5|5|Could you do me a favour and feed the cat?|Tu pourrais me rendre un service et nourrir le chat ?|Could you do me a favour|c||fn_request|
+Would you like to...?|Voudrais-tu... ?|A2|5|5|Would you like to join us for dinner?|Voudrais-tu dîner avec nous ?|Would you like to|c||fn_suggest|
+I'd love to, but...|J'aimerais bien, mais...|A2|5|5|I'd love to, but I have to work.|J'aimerais bien, mais je dois travailler.|I'd love to, but|c||fn_disagree|
+I'm afraid I can't.|Je crains de ne pas pouvoir.|B1|5|5|Thanks for inviting me, but I'm afraid I can't.|Merci pour l'invitation, mais je crains de ne pas pouvoir.|I'm afraid I can't|c||fn_disagree|
+Sorry, I can't make it.|Désolé, je ne pourrai pas venir.|B1|5|5|Sorry, I can't make it on Friday.|Désolé, je ne pourrai pas venir vendredi.|I can't make it|c||time|
+What time suits you?|Quelle heure te convient ?|B1|4|4|What time suits you best?|Quelle heure te convient le mieux ?|What time suits you|c||time|
+Does Monday work for you?|Lundi, ça te va ?|B1|5|5|Does Monday work for you?|Lundi, ça te va ?|Does Monday work for you?|w||pro,time|
+Let's meet at...|Retrouvons-nous à...|A2|5|4|Let's meet at the station at ten.|Retrouvons-nous à la gare à dix heures.|Let's meet at|c||fn_suggest|
+How about tomorrow?|Et demain, ça t'irait ?|A2|5|4|I can't today. How about tomorrow?|Je ne peux pas aujourd'hui. Et demain, ça t'irait ?|How about tomorrow?|c||fn_suggest|
+I'm looking for a job.|Je cherche du travail.|A2|4|4|I'm looking for a job in sales.|Je cherche du travail dans la vente.|I'm looking for a job|w||career|
+I work for...|Je travaille pour...|A2|5|5|I work for a small software company.|Je travaille pour une petite entreprise de logiciels.|I work for|w||pro,career|
+I'm in charge of...|Je suis responsable de...|B1|5|5|I'm in charge of the budget.|Je suis responsable du budget.|I'm in charge of|w||pro,management|
+I've been working here for...|Je travaille ici depuis...|B1|5|5|I've been working here for three years.|Je travaille ici depuis trois ans.|I've been working here for|w||pro,career|
+My job involves...|Mon travail consiste à...|B1|4|4|My job involves a lot of travelling.|Mon travail implique beaucoup de déplacements.|My job involves|w||pro,career|
+I have a meeting at...|J'ai une réunion à...|A2|5|4|I have a meeting at three.|J'ai une réunion à quinze heures.|I have a meeting at|w||pro,meetings|
+I'm on holiday.|Je suis en vacances.|A1|5|4|I'm on holiday until Monday.|Je suis en vacances jusqu'à lundi.|I'm on holiday|c||travel|
+I'm off today.|Je ne travaille pas aujourd'hui.|B1|4|3|I'm off today, so we can go out.|Je ne travaille pas aujourd'hui, donc on peut sortir.|I'm off today|w|i|work|
+I'm out of the office.|Je suis absent du bureau.|B1|4|5|I'm out of the office until Monday.|Je suis absent du bureau jusqu'à lundi.|I'm out of the office|w||pro,email|
+Can you send me...?|Tu peux m'envoyer... ?|A2|5|5|Can you send me the file?|Tu peux m'envoyer le fichier ?|Can you send me|w||pro,fn_request|
+Let me know if...|Dis-moi si...|A2|5|5|Let me know if the time changes.|Dis-moi si l'horaire change.|Let me know if|c||fn_request|
+Thanks for your help.|Merci pour ton aide.|A1|5|5|Thanks for your help with the move.|Merci pour ton aide pour le déménagement.|Thanks for your help|c||fn_react|
+Thanks for coming.|Merci d'être venu.|A2|5|4|Thanks for coming, it was great to see you.|Merci d'être venu, c'était super de te voir.|Thanks for coming|c||fn_end|
+Thanks for waiting.|Merci d'avoir attendu.|A2|5|3|Sorry, I'm here now. Thanks for waiting.|Désolé, me voilà. Merci d'avoir attendu.|Thanks for waiting|c||fn_react|
+What's the rush?|Pourquoi tant de hâte ?|B1|4|3|Calm down, what's the rush?|Calme-toi, pourquoi tant de hâte ?|what's the rush?|c|i|fn_react|
+There's no rush.|Rien ne presse.|B1|5|5|Reply when you can, there's no rush.|Réponds quand tu peux, rien ne presse.|there's no rush|c||time|
+It's getting late.|Il se fait tard.|A2|5|4|It's getting late, we should go.|Il se fait tard, nous devrions y aller.|It's getting late|c||time,fn_end|
+It's up to me.|C'est à moi de décider.|B1|4|3|It's up to me to tell them.|C'est à moi de le leur dire.|It's up to me|c||decision|
+It's your turn.|C'est ton tour.|A2|5|4|It's your turn to wash up.|C'est à ton tour de faire la vaisselle.|It's your turn|c||basics|
+It's on me.|C'est pour moi.|B1|5|5|Put your wallet away. It's on me.|Range ton portefeuille. C'est pour moi.|It's on me|c|i|food,money|
+Let's split the bill.|Partageons l'addition.|B1|5|4|Let's split the bill, it's easier.|Partageons l'addition, c'est plus simple.|Let's split the bill|d||food,money|
+Keep the change.|Gardez la monnaie.|A2|4|4|Here's ten euros. Keep the change.|Voilà dix euros. Gardez la monnaie.|Keep the change|d||money|
+I'm allergic to...|Je suis allergique à...|A2|5|5|I'm allergic to nuts.|Je suis allergique aux fruits à coque.|I'm allergic to|d||health,food|
+I'm a vegetarian.|Je suis végétarien.|A2|4|4|Is there any meat in this? I'm a vegetarian.|Il y a de la viande là-dedans ? Je suis végétarien.|I'm a vegetarian|d||food|
+I've got a sore throat.|J'ai mal à la gorge.|A2|5|5|I've got a sore throat and a cough.|J'ai mal à la gorge et je tousse.|I've got a sore throat|d||health|
+I've got a temperature.|J'ai de la fièvre.|A2|5|4|I've got a temperature and I feel awful.|J'ai de la fièvre et je me sens très mal.|I've got a temperature|d||health|
+I need to see a doctor.|Je dois voir un médecin.|A2|5|5|It really hurts. I need to see a doctor.|Ça fait vraiment mal. Je dois voir un médecin.|I need to see a doctor|d||health|
+Where does it hurt?|Où avez-vous mal ?|A2|4|4|Sit down, please. Where does it hurt?|Asseyez-vous. Où avez-vous mal ?|Where does it hurt?|d||health|
+How do I get to...?|Comment aller à... ?|A2|5|5|How do I get to the town hall from here?|Comment aller à la mairie d'ici ?|How do I get to|t||travel|
+Is it far from here?|C'est loin d'ici ?|A2|5|4|The beach? Is it far from here?|La plage ? C'est loin d'ici ?|Is it far from here?|t||travel|
+It's just around the corner.|C'est juste au coin de la rue.|A2|5|4|The bank? It's just around the corner.|La banque ? C'est juste au coin de la rue.|It's just around the corner|t||travel|
+You can't miss it.|Tu ne peux pas le rater.|A2|5|4|It's the big red building. You can't miss it.|C'est le grand bâtiment rouge. Tu ne peux pas le rater.|You can't miss it|t||travel|
+I'd like to check in.|Je voudrais m'enregistrer.|A2|4|4|Hello, I'd like to check in, please.|Bonjour, je voudrais m'enregistrer, s'il vous plaît.|I'd like to check in|t||travel|
+I have a reservation.|J'ai une réservation.|A2|5|5|I have a reservation in the name of Martin.|J'ai une réservation au nom de Martin.|I have a reservation|t||travel|
+Is breakfast included?|Le petit déjeuner est-il compris ?|A2|4|4|Is breakfast included in the price?|Le petit déjeuner est-il compris dans le prix ?|Is breakfast included|t||travel|
+@collocation
+apply for a job|postuler à un emploi|A2|5|5|I've applied for a job in Dublin.|J'ai postulé à un emploi à Dublin.|applied for a job|w||pro,career|
+quit a job|quitter un emploi|B1|4|4|She quit her job to travel.|Elle a quitté son emploi pour voyager.|quit her job|w||career|
+work overtime|faire des heures supplémentaires|B1|4|4|We had to work overtime all week.|Nous avons dû faire des heures sup toute la semaine.|work overtime|w||pro,work|
+earn a salary|toucher un salaire|B1|4|3|She earns a good salary.|Elle touche un bon salaire.|earns a good salary|w||pro,money|
+pay the rent|payer le loyer|A2|5|4|I pay the rent on the first of the month.|Je paie le loyer le premier du mois.|pay the rent|d||housing,money|
+borrow money|emprunter de l'argent|A2|5|4|I had to borrow money from my parents.|J'ai dû emprunter de l'argent à mes parents.|borrow money|d||money|
+spend money|dépenser de l'argent|A2|5|4|We spend too much money on eating out.|Nous dépensons trop d'argent au restaurant.|spend too much money|d||money|
+withdraw money|retirer de l'argent|B1|4|4|I need to withdraw some money.|Je dois retirer de l'argent.|withdraw some money|d||money|
+cash machine|distributeur de billets|A2|5|4|Is there a cash machine near here?|Il y a un distributeur près d'ici ?|cash machine|d||money|variant=UK ;; counterpart=ATM
+shopping centre|centre commercial|A2|4|3|There's a big shopping centre by the motorway.|Il y a un grand centre commercial près de l'autoroute.|shopping centre|d||shopping|variant=UK ;; counterpart=shopping mall
+car park|parking|A1|5|4|The car park is full.|Le parking est plein.|car park|t||transport|variant=UK ;; counterpart=parking lot
+traffic jam|embouteillage|A2|5|5|We were stuck in a traffic jam for an hour.|Nous sommes restés coincés dans un embouteillage pendant une heure.|traffic jam|t||transport|
+rush hour|heure de pointe|A2|5|4|Avoid the metro at rush hour.|Évite le métro à l'heure de pointe.|rush hour|t||transport|
+return ticket|billet aller-retour|A2|5|4|A return ticket to York, please.|Un aller-retour pour York, s'il vous plaît.|return ticket|t||travel|variant=UK ;; counterpart=round trip
+single room|chambre simple|A2|4|3|I'd like a single room for two nights.|Je voudrais une chambre simple pour deux nuits.|single room|t||travel|
+good weather|beau temps|A1|5|3|We had good weather all week.|Nous avons eu beau temps toute la semaine.|good weather|d||weather|
+bad weather|mauvais temps|A1|5|3|The flight was delayed by bad weather.|Le vol a été retardé par le mauvais temps.|bad weather|t||weather|
+high temperature|forte température|B1|3|2|These plants don't like high temperatures.|Ces plantes n'aiment pas les températures élevées.|high temperatures|d||weather|
+main course|plat principal|A2|5|4|What would you like as a main course?|Que désirez-vous comme plat principal ?|main course|d||food|
+side dish|accompagnement|B1|4|3|Would you like a side dish with that?|Vous voulez un accompagnement avec ça ?|side dish|d||food|
+soft drink|boisson sans alcool|A2|4|3|We serve wine, beer and soft drinks.|Nous servons du vin, de la bière et des boissons sans alcool.|soft drinks|d||food|
+sparkling water|eau gazeuse|A2|4|4|A bottle of sparkling water, please.|Une bouteille d'eau gazeuse, s'il vous plaît.|sparkling water|d||food|
+tap water|eau du robinet|A2|4|3|Is the tap water safe to drink?|L'eau du robinet est-elle potable ?|tap water|d||food|
+medium rare|à point|B1|3|3|Medium rare for me, please.|À point pour moi, s'il vous plaît.|Medium rare|d||food|
+daily life|vie quotidienne|A2|4|3|English is part of my daily life.|L'anglais fait partie de ma vie quotidienne.|daily life|c||basics|
+fall in love|tomber amoureux|A2|5|4|They fell in love in Paris.|Ils sont tombés amoureux à Paris.|fell in love|c||relationships|
+get in touch|prendre contact|B1|5|5|I'll get in touch next week.|Je prendrai contact la semaine prochaine.|get in touch|w||pro,communication|
+fall asleep|s'endormir (sans le vouloir)|A2|5|4|I fell asleep in front of the TV.|Je me suis endormi devant la télé.|fell asleep|d||daily_routine|
+@phrasal_verb
+check in|s'enregistrer|A2|5|5|You can check in online.|Tu peux t'enregistrer en ligne.|check in|t||travel|
+check out of|quitter (un hôtel)|B1|4|4|We checked out of the hotel at ten.|Nous avons quitté l'hôtel à dix heures.|checked out of|t||travel|
+pay for|payer (quelque chose)|A2|5|4|Who's going to pay for this?|Qui va payer ça ?|pay for|d||money|
+save up|mettre de l'argent de côté|B1|5|4|I'm saving up for a new laptop.|Je mets de l'argent de côté pour un nouvel ordinateur.|saving up|d||money|
+go out with|sortir avec (quelqu'un)|A2|5|4|She's going out with a colleague.|Elle sort avec un collègue.|going out with|c||relationships|
+break up|rompre|B1|5|5|They broke up last month.|Ils ont rompu le mois dernier.|broke up|c||relationships|
+make up with|se réconcilier avec|B1|4|3|Have you made up with your sister?|Tu t'es réconcilié avec ta sœur ?|made up with|c||relationships|
+ask out|proposer un rendez-vous|B1|4|3|He finally asked her out.|Il a fini par lui proposer un rendez-vous.|asked her out|c|i|relationships|
+pass out|s'évanouir|B1|4|3|It was so hot that she passed out.|Il faisait si chaud qu'elle s'est évanouie.|passed out|d||health|
+@connector
+as well as|ainsi que|B1|5|5|She speaks German as well as French.|Elle parle allemand ainsi que français.|as well as|c||fn_explain|
+apart from|à part|B1|5|5|Apart from that, everything's fine.|À part ça, tout va bien.|Apart from|c||fn_explain|
+except for|sauf, à l'exception de|B1|5|4|It was perfect, except for the weather.|C'était parfait, à part le temps.|except for|c||fn_explain|
+in case|au cas où (+ verbe)|B1|5|5|Take my number in case you get lost.|Prends mon numéro au cas où tu te perdrais.|in case|c||grammar|
+even if|même si (hypothèse)|B1|5|5|I'll go even if it rains.|J'irai même s'il pleut.|even if|c||fn_explain|
+not only ... but also|non seulement ... mais aussi|B1|4|4|She's not only clever but also kind.|Elle est non seulement intelligente, mais aussi gentille.|not only|c||fn_explain|
+either ... or|soit ... soit|B1|5|4|We can either eat here or go out.|On peut soit manger ici, soit sortir.|either|c||fn_compare|
+@idiom
+You can't have your cake and eat it.|On ne peut pas avoir le beurre et l'argent du beurre.|B2|4|3|You can't have your cake and eat it, I'm afraid.|On ne peut pas avoir le beurre et l'argent du beurre, malheureusement.|You can't have your cake and eat it|c||fn_opinion|
+A bird in the hand is worth two in the bush.|Un tiens vaut mieux que deux tu l'auras.|B2|3|2|Take the offer. A bird in the hand is worth two in the bush.|Accepte l'offre. Un tiens vaut mieux que deux tu l'auras.|A bird in the hand is worth two in the bush|c||decision|
+Don't put all your eggs in one basket.|Il ne faut pas mettre tous ses œufs dans le même panier.|B1|4|3|Diversify. Don't put all your eggs in one basket.|Diversifie. Il ne faut pas mettre tous ses œufs dans le même panier.|Don't put all your eggs in one basket|c||money,risk|
+There's no such thing as a free lunch.|On n'a rien pour rien.|B2|3|3|It looks free, but there's no such thing as a free lunch.|Ça a l'air gratuit, mais on n'a rien pour rien.|there's no such thing as a free lunch|c||money|
+Honesty is the best policy.|L'honnêteté est toujours la meilleure solution.|B1|3|2|Just tell her. Honesty is the best policy.|Dis-le-lui. L'honnêteté est toujours la meilleure solution.|Honesty is the best policy|c||fn_suggest|

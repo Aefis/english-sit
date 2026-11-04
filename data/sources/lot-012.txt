@@ -1,0 +1,200 @@
+# Lot 012 : B1 (émotions, jugements, conversations du quotidien, travail)
+@word
+fear|peur|B1||4|She has a fear of flying.|Elle a peur de l'avion.|fear|c||feelings|pos=n
+fit|aller (taille), en forme|A2||5|These jeans don't fit me.|Ce jean ne me va pas.|fit|d||clothes|pos=v
+generally|généralement|B1||5|I generally get up at seven.|En général, je me lève à sept heures.|generally|c||fn_nuance|pos=adv
+global|mondial|B1||4|It's a global problem.|C'est un problème mondial.|global|n||news|pos=adj
+judge|juge, juger|B1||3|Don't judge people too quickly.|Ne juge pas les gens trop vite.|judge|c||relationships|pos=v
+lady|dame|A2||3|An old lady asked me the way.|Une vieille dame m'a demandé son chemin.|lady|c||people|pos=n
+material|matériau, tissu|B1||4|What material is this jacket made of?|En quelle matière est cette veste ?|material|d||clothes|pos=n
+plus|plus, en plus|A2||4|It's sixty euros plus tax.|C'est soixante euros hors taxes.|plus|d||money|pos=prep
+regular|régulier, habituel|A2||5|She's one of our regular customers.|C'est une de nos clientes régulières.|regular|w||basics|pos=adj
+secretary|secrétaire|A2||3|Ask the secretary for an appointment.|Demande un rendez-vous à la secrétaire.|secretary|w||work|pos=n
+unit|unité|B1||3|Each unit costs five euros.|Chaque unité coûte cinq euros.|unit|w||business|pos=n
+worker|travailleur, employé|A2||4|The factory has two hundred workers.|L'usine compte deux cents ouvriers.|workers|w||work|pos=n
+annual|annuel|B1||4|The annual report comes out in March.|Le rapport annuel sort en mars.|annual|w||pro,reporting|pos=adj
+anymore|ne... plus|A2||5|I don't work there anymore.|Je ne travaille plus là-bas.|anymore|c||time|pos=adv
+bar|bar|A1||3|Let's meet at the bar.|Retrouvons-nous au bar.|bar|d||leisure|pos=n
+battle|bataille, combat|B1||3|It was a long battle against cancer.|Ce fut un long combat contre le cancer.|battle|n||news|pos=n
+brain|cerveau|A2||4|My brain isn't working this morning.|Mon cerveau ne fonctionne pas ce matin.|brain|c||body|pos=n
+degree|diplôme, degré|A2||5|She has a degree in law.|Elle a un diplôme de droit.|degree|w||career,learning|pos=n
+feature|fonctionnalité, caractéristique|B1||4|This phone has some great features.|Ce téléphone a de super fonctionnalités.|features|w||pro,technology|pos=n
+hurt|faire mal, blesser|A2||5|My back hurts.|J'ai mal au dos.|hurts|d||health|pos=v ;; forms=hurt
+image|image|A2||3|The company needs to improve its image.|L'entreprise doit améliorer son image.|image|w||business|pos=n
+insurance|assurance|A2||5|Does your insurance cover this?|Ton assurance couvre ça ?|insurance|d||money|pos=n
+majority|majorité|B1||3|The majority of people agree.|La majorité des gens sont d'accord.|majority|n||analysis|pos=n
+physical|physique|B1||3|He does a lot of physical work.|Il fait beaucoup de travail physique.|physical|d||health|pos=adj
+reach|atteindre, joindre|B1||5|You can reach me on this number.|Tu peux me joindre à ce numéro.|reach|c||communication|pos=v
+sports|sport (en général)|A1||4|He loves watching sports on TV.|Il adore regarder le sport à la télé.|sports|d||leisure|pos=n
+stupid|stupide, bête|A2||4|It was a stupid mistake.|C'était une erreur stupide.|stupid|c||description|pos=adj
+successful|réussi, qui a du succès|A2||5|The meeting was very successful.|La réunion a été très réussie.|successful|w||pro,description|pos=adj
+active|actif|A2||4|She's very active for her age.|Elle est très active pour son âge.|active|c||personality|pos=adj
+administration|administration|B1||3|She works in administration.|Elle travaille dans l'administration.|administration|w||pro,admin|pos=n
+approach|approche, s'approcher|B1||5|We need a different approach.|Il nous faut une approche différente.|approach|w||pro,analysis|pos=n
+cancer|cancer|B1||3|Smoking causes cancer.|Fumer provoque le cancer.|cancer|d||health|pos=n
+civil|civil|B1||3|He's a civil engineer.|Il est ingénieur civil.|civil|w||career|pos=adj
+dance|danser|A1||4|Do you want to dance?|Tu veux danser ?|dance|d||leisure|pos=v
+direction|direction, sens|A2||5|We're going in the wrong direction.|Nous allons dans la mauvaise direction.|direction|t||directions|pos=n
+independent|indépendant|B1||4|She's very independent.|Elle est très indépendante.|independent|c||personality|pos=adj
+master|maîtriser, maître|B1||4|It takes years to master a language.|Il faut des années pour maîtriser une langue.|master|c||learning|pos=v
+none|aucun|A2||4|None of us knew the answer.|Aucun de nous ne connaissait la réponse.|None|c||grammar|pos=pron
+ship|navire|A2||3|The ship left at dawn.|Le navire est parti à l'aube.|ship|t||transport|pos=n
+stock|stock|B1||4|We don't have it in stock.|Nous ne l'avons pas en stock.|stock|w||pro,business|pos=n
+wonder|se demander|B1||5|I wonder what she's doing now.|Je me demande ce qu'elle fait maintenant.|wonder|c||fn_hesitate|pos=v
+worst|le pire|A2||5|It was the worst day of my life.|C'était le pire jour de ma vie.|worst|c||description|pos=adj
+awesome|génial|A2||4|The concert was awesome!|Le concert était génial !|awesome|c|i|description,fn_react|pos=adj
+band|groupe (de musique)|A2||3|He plays in a rock band.|Il joue dans un groupe de rock.|band|d||leisure|pos=n
+cash|espèces, liquide|A2||5|I never carry cash.|Je n'ai jamais d'espèces sur moi.|cash|d||money|pos=n
+commercial|commercial|B1||3|It's a commercial building.|C'est un bâtiment commercial.|commercial|w||business|pos=adj
+effort|effort|A2||5|Thanks for making the effort.|Merci d'avoir fait l'effort.|effort|c||basics|pos=n
+multiple|multiple, plusieurs|B1||4|We've had multiple complaints.|Nous avons reçu plusieurs plaintes.|multiple|w||pro,analysis|pos=adj
+operation|opération|B1||4|He needs an operation on his knee.|Il doit se faire opérer du genou.|operation|d||health|pos=n
+organization|organisation|A2||4|She works for a non-profit organization.|Elle travaille pour une association.|organization|w||pro,business|pos=n ;; also=organisation
+secret|secret|A2||4|Can you keep it a secret?|Tu peux garder ça secret ?|secret|c||relationships|pos=n
+senior|supérieur, sénior|B1||4|She's a senior manager.|Elle est cadre supérieure.|senior|w||pro,career|pos=adj
+wear|porter (un vêtement)|A1||5|What are you wearing tonight?|Qu'est-ce que tu mets ce soir ?|wearing|d||clothes|pos=v ;; forms=wore, worn
+activity|activité|A2||4|There are plenty of activities for kids.|Il y a plein d'activités pour les enfants.|activities|d||leisure|pos=n
+address|adresse|A1||5|What's your email address?|Quelle est ton adresse e-mail ?|address|c||basics|pos=n
+analysis|analyse|B1||5|We need a detailed analysis.|Il nous faut une analyse détaillée.|analysis|w||pro,analysis|pos=n ;; forms=analyses
+Christmas|Noël|A1||3|We spend Christmas with my family.|Nous passons Noël en famille.|Christmas|c||calendar|pos=n
+colour|couleur|A1||5|What colour is your car?|De quelle couleur est ta voiture ?|colour|c||description,uk_us|pos=n ;; variant=UK ;; counterpart=color
+commission|commission|B1||3|She earns a commission on each sale.|Elle touche une commission sur chaque vente.|commission|w||pro,money|pos=n
+competition|concours, concurrence|A2||4|She won a photo competition.|Elle a gagné un concours photo.|competition|c||leisure|pos=n
+direct|direct|A2||4|Is there a direct flight to Boston?|Il y a un vol direct pour Boston ?|direct|t||travel|pos=adj
+dream|rêve, rêver|A2||5|It's my dream job.|C'est le travail de mes rêves.|dream|c||feelings|pos=n
+easily|facilement|A2||5|You can easily walk there.|Tu peux facilement y aller à pied.|easily|c||basics|pos=adv
+grand|grandiose|B1||2|It was a very grand hotel.|C'était un hôtel très luxueux.|grand|t||description|pos=adj
+literally|littéralement|B1||5|I literally just got here.|Je viens littéralement d'arriver.|literally|c|i|fn_nuance|pos=adv
+luck|chance (bonne fortune)|A2||5|Wish me luck!|Souhaite-moi bonne chance !|luck|c||feelings|pos=n
+marriage|mariage (union)|B1||3|They've had a long and happy marriage.|Ils ont eu un mariage long et heureux.|marriage|c||relationships|pos=n
+patient|patient|A2||4|You need to be patient with kids.|Il faut être patient avec les enfants.|patient|c||personality|pos=adj
+resources|ressources|B1||5|We don't have the resources for that.|Nous n'avons pas les ressources pour ça.|resources|w||pro,management|pos=n
+skin|peau|A2||4|She has very sensitive skin.|Elle a la peau très sensible.|skin|d||body|pos=n
+supposed|censé|B1||5|You're supposed to be at work.|Tu es censé être au travail.|supposed|c||grammar|pos=adj
+sweet|sucré, gentil|A1||4|This tea is too sweet.|Ce thé est trop sucré.|sweet|d||food|pos=adj
+thus|ainsi, donc|B2||4|Costs fell, thus increasing profits.|Les coûts ont baissé, ce qui a ainsi accru les bénéfices.|thus|a|f|fn_explain|pos=adv
+touch|toucher|A2||4|Don't touch the screen.|Ne touche pas à l'écran.|touch|d||basics|pos=v
+damage|dégâts, endommager|B1||5|The flood did a lot of damage.|L'inondation a fait beaucoup de dégâts.|damage|n||basics|pos=n
+directly|directement|A2||4|You can contact me directly.|Tu peux me contacter directement.|directly|w||communication|pos=adv
+disease|maladie|B1||4|It's a rare disease.|C'est une maladie rare.|disease|d||health|pos=n
+glad|content, ravi|A2||5|I'm glad you came.|Je suis content que tu sois venu.|glad|c||feelings|pos=adj
+grow|grandir, pousser|A2||5|Your children have grown so much!|Comme tes enfants ont grandi !|grown|c||basics|pos=v ;; forms=grew, grown
+machine|machine|A2||4|The washing machine is broken.|La machine à laver est en panne.|machine|d||housing|pos=n
+professor|professeur (d'université)|A2||3|She's a professor at Oxford.|Elle est professeure à Oxford.|professor|a||learning|pos=n
+sit|être assis|A1||5|We sat by the window.|Nous étions assis près de la fenêtre.|sat|c||basics|pos=v ;; forms=sat
+basic|de base|A2||5|I only have a basic knowledge of Spanish.|J'ai seulement des bases en espagnol.|basic|c||basics|pos=adj
+captain|capitaine|A2||2|He's the captain of the team.|C'est le capitaine de l'équipe.|captain|d||leisure|pos=n
+crime|crime, délit|A2||4|The crime rate has gone down.|Le taux de criminalité a baissé.|crime|n||news|pos=n
+effective|efficace|B1||5|This treatment is very effective.|Ce traitement est très efficace.|effective|w||pro,analysis|pos=adj
+fully|entièrement, pleinement|B1||5|The hotel is fully booked.|L'hôtel est complet.|fully|t||basics|pos=adv
+plant|plante, usine|A2||3|Don't forget to water the plants.|N'oublie pas d'arroser les plantes.|plants|d||nature|pos=n
+reality|réalité|B1||4|It's time to face reality.|Il est temps de regarder la réalité en face.|reality|c||basics|pos=n
+spot|endroit, repérer|B1||4|We found a great spot for a picnic.|Nous avons trouvé un super coin pour pique-niquer.|spot|t||places|pos=n
+worse|pire|A2||5|It could be worse.|Ça pourrait être pire.|worse|c||fn_compare|pos=adj
+block|bloquer, pâté de maisons|B1||4|The road is blocked.|La route est bloquée.|blocked|t||transport|pos=v
+broken|cassé|A2||5|The printer is broken again.|L'imprimante est encore en panne.|broken|w||basics|pos=adj
+comment|commentaire|B1||4|Do you have any comments?|Vous avez des commentaires ?|comments|w||pro,meetings|pos=n
+equipment|équipement, matériel|B1||4|All the equipment is provided.|Tout le matériel est fourni.|equipment|w||pro,work|pos=n
+nation|nation, pays|B1||3|The whole nation was watching.|Toute la nation regardait.|nation|n||news|pos=n
+primary|principal, primaire|B1||4|Our primary goal is safety.|Notre objectif principal est la sécurité.|primary|w||pro,project|pos=adj
+theory|théorie|B1||4|In theory, it should work.|En théorie, ça devrait marcher.|theory|c||analysis|pos=n
+agency|agence|B1||4|I booked it through a travel agency.|J'ai réservé via une agence de voyages.|agency|t||travel|pos=n
+catch|attraper|A2||5|Catch the ball!|Attrape le ballon !|Catch|d||basics|pos=v ;; forms=caught
+cell|cellule|B1||3|Cancer cells grow quickly.|Les cellules cancéreuses se développent rapidement.|cells|a||health|pos=n
+coast|côte|A2||4|We drove along the coast.|Nous avons longé la côte.|coast|t||nature|pos=n
+drug|médicament, drogue|B1||4|This drug has few side effects.|Ce médicament a peu d'effets secondaires.|drug|d||health|pos=n
+economy|économie|B1||5|The economy is growing again.|L'économie repart à la hausse.|economy|n||money|pos=n
+executive|cadre, dirigeant|B1||4|She's a senior executive at a bank.|C'est une cadre dirigeante dans une banque.|executive|w||pro,career|pos=n
+@chunk
+I'm really sorry about...|Je suis vraiment désolé pour...|B1|5|5|I'm really sorry about the mess.|Je suis vraiment désolé pour le désordre.|I'm really sorry about|c||fn_react|
+I'm worried about...|Je m'inquiète pour...|A2|5|5|I'm worried about my exams.|Je m'inquiète pour mes examens.|I'm worried about|c||feelings|
+I'm excited about...|J'ai hâte de, je suis enthousiaste à propos de...|A2|5|4|I'm excited about the trip.|J'ai très hâte de faire ce voyage.|I'm excited about|c||feelings|
+I'm interested in...|Je m'intéresse à...|A2|5|5|I'm interested in photography.|Je m'intéresse à la photographie.|I'm interested in|c||feelings|
+I'm good at...|Je suis doué pour...|A2|5|5|I'm good at maths.|Je suis bon en maths.|I'm good at|c||learning|
+I'm bad at...|Je suis nul en...|A2|5|4|I'm bad at remembering names.|Je suis nul pour retenir les noms.|I'm bad at|c|i|learning|
+I'm scared of...|J'ai peur de...|A2|5|4|I'm scared of spiders.|J'ai peur des araignées.|I'm scared of|c||feelings|
+I'm proud of you.|Je suis fier de toi.|A2|5|4|You worked so hard. I'm proud of you.|Tu as tellement travaillé. Je suis fier de toi.|I'm proud of you|c||feelings|
+I'm so sorry for your loss.|Toutes mes condoléances.|B1|4|4|I heard about your father. I'm so sorry for your loss.|J'ai appris pour ton père. Toutes mes condoléances.|I'm so sorry for your loss|c|f|feelings|
+I miss you.|Tu me manques.|A2|5|5|Come home soon, I miss you.|Reviens vite, tu me manques.|I miss you|c||feelings,false_friend|notes=Sujet et objet inversés par rapport au français.
+I love you.|Je t'aime.|A1|5|4|Good night, I love you.|Bonne nuit, je t'aime.|I love you|c||feelings|
+I feel great.|Je me sens super bien.|A2|5|3|I went for a run and now I feel great.|Je suis allé courir et maintenant je me sens super bien.|I feel great|c||feelings|
+I feel terrible.|Je me sens très mal.|A2|5|3|I feel terrible about what I said.|Je m'en veux de ce que j'ai dit.|I feel terrible|c||feelings|
+I don't care.|Ça m'est égal.|A2|5|5|Pizza or pasta? I don't care.|Pizza ou pâtes ? Ça m'est égal.|I don't care|c|i|fn_react|
+Who cares?|On s'en fiche.|A2|5|3|So he didn't like it. Who cares?|Donc ça ne lui a pas plu. On s'en fiche.|Who cares?|c|i|fn_react|
+I've had enough.|J'en ai assez.|B1|5|5|I've had enough of this noise.|J'en ai assez de ce bruit.|I've had enough|c||feelings|
+I'm starving.|Je meurs de faim.|A2|5|4|Is dinner ready? I'm starving.|Le dîner est prêt ? Je meurs de faim.|I'm starving|c|i|food|
+I'm exhausted.|Je suis épuisé.|B1|5|4|What a day. I'm exhausted.|Quelle journée. Je suis épuisé.|I'm exhausted|c||feelings|
+I'm broke.|Je suis fauché.|B1|5|4|I can't come out tonight, I'm broke.|Je ne peux pas sortir ce soir, je suis fauché.|I'm broke|c|i|money|
+I'm kidding.|C'est pour rire.|A2|5|4|Relax, I'm kidding.|Détends-toi, je plaisante.|I'm kidding|c|i|fn_react|
+I'm serious.|Je suis sérieux.|A2|5|4|I'm not joking, I'm serious.|Je ne plaisante pas, je suis sérieux.|I'm serious|c||fn_react|
+I mean it.|Je ne plaisante pas.|B1|5|4|Don't do that again. I mean it.|Ne refais pas ça. Je ne plaisante pas.|I mean it|c||fn_react|
+You're kidding!|Tu plaisantes !|A2|5|4|She's moving to Peru? You're kidding!|Elle part au Pérou ? Tu plaisantes !|You're kidding|c|i|fn_react|
+Calm down, it's OK.|Calme-toi, ça va.|A2|4|3|Calm down, it's OK, nobody's angry.|Calme-toi, ça va, personne n'est fâché.|Calm down, it's OK|c||fn_react|
+Don't be silly.|Ne sois pas bête.|A2|5|3|Pay me back? Don't be silly.|Te rembourser ? Ne sois pas bête.|Don't be silly|c|i|fn_react|
+Don't be late.|Ne sois pas en retard.|A1|5|3|We leave at eight, so don't be late.|On part à huit heures, alors ne sois pas en retard.|don't be late|c||time|
+Don't mention it.|Il n'y a pas de quoi.|A2|5|4|Thanks for the lift. Don't mention it.|Merci de m'avoir déposé. Il n'y a pas de quoi.|Don't mention it|c||fn_react|
+Don't get me wrong.|Comprends-moi bien.|B1|5|5|Don't get me wrong, I like him.|Comprends-moi bien, je l'aime bien.|Don't get me wrong|c||fn_clarify|
+Good question.|Bonne question.|A2|5|4|Why now? Good question.|Pourquoi maintenant ? Bonne question.|Good question|c||fn_react|
+Good job!|Bon travail !|A2|5|5|The report was great. Good job!|Le rapport était excellent. Bon travail !|Good job!|w||pro,fn_react|
+Nice job!|Beau travail !|A2|5|3|Nice job on the website!|Beau travail sur le site !|Nice job|c|i|fn_react|
+You look great.|Tu as l'air en pleine forme.|A2|5|3|Wow, you look great. Have you been away?|Waouh, tu as l'air en pleine forme. Tu étais parti ?|you look great|c||small_talk|
+You look tired.|Tu as l'air fatigué.|A2|5|3|You look tired. Are you sleeping OK?|Tu as l'air fatigué. Tu dors bien ?|You look tired|c||small_talk|
+It looks good.|Ça a l'air bien.|A2|5|3|The new website? It looks good.|Le nouveau site ? Il a l'air bien.|It looks good|c||fn_opinion|
+It sounds good to me.|Ça me semble bien.|A2|5|3|Lunch at one? It sounds good to me.|Déjeuner à treize heures ? Ça me semble bien.|It sounds good to me|c||fn_agree|
+It tastes great.|C'est délicieux.|A2|5|3|What's in this soup? It tastes great.|Qu'est-ce qu'il y a dans cette soupe ? C'est délicieux.|It tastes great|d||food|
+It smells good.|Ça sent bon.|A2|5|3|What are you cooking? It smells good.|Qu'est-ce que tu cuisines ? Ça sent bon.|It smells good|d||food|
+That's so kind of you.|C'est vraiment gentil de ta part.|A2|5|5|You remembered my birthday? That's so kind of you.|Tu t'es souvenu de mon anniversaire ? C'est vraiment gentil de ta part.|That's so kind of you|c||fn_react|
+What's wrong with...?|Qu'est-ce qui ne va pas avec... ?|A2|5|4|What's wrong with your car?|Qu'est-ce qui ne va pas avec ta voiture ?|What's wrong with|c||fn_clarify|
+What's the difference between...?|Quelle est la différence entre... ?|A2|5|5|What's the difference between these two models?|Quelle est la différence entre ces deux modèles ?|What's the difference between|c||fn_clarify,fn_compare|
+Which one do you prefer?|Lequel préfères-tu ?|A2|5|4|Red or blue? Which one do you prefer?|Rouge ou bleu ? Lequel préfères-tu ?|Which one do you prefer?|c||fn_opinion|
+Is it OK if...?|Est-ce que je peux... ? Ça irait si... ?|A2|5|5|Is it OK if I open the window?|Ça te dérange si j'ouvre la fenêtre ?|Is it OK if|c||fn_request|
+@collocation
+give someone a hand|donner un coup de main à quelqu'un|A2|5|5|Could you give me a hand with these bags?|Tu peux me donner un coup de main avec ces sacs ?|give me a hand|c||fn_request|
+give an example|donner un exemple|A2|5|4|Let me give an example.|Laisse-moi donner un exemple.|give an example|c||fn_explain|
+give an opinion|donner son avis|A2|5|4|I'd rather not give an opinion.|Je préfère ne pas donner mon avis.|give an opinion|c||fn_opinion|
+give a reason|donner une raison|A2|4|3|He left without giving a reason.|Il est parti sans donner de raison.|giving a reason|c||fn_explain|
+give a discount|faire une réduction|B1|4|4|Can you give me a discount?|Vous pouvez me faire une réduction ?|give me a discount|d||shopping|
+have an effect on|avoir un effet sur|B1|5|5|Stress has an effect on your health.|Le stress a un effet sur la santé.|has an effect on|c||analysis|
+have an argument|se disputer|B1|5|4|We had an argument about money.|Nous nous sommes disputés à propos d'argent.|had an argument|c||relationships|
+have a chat|discuter|A2|5|4|Let's have a chat over coffee.|Discutons autour d'un café.|have a chat|c||small_talk|
+have an accident|avoir un accident|A2|5|3|He had an accident on his way to work.|Il a eu un accident en allant au travail.|had an accident|n||safety|
+have trouble|avoir du mal|B1|5|5|I have trouble sleeping.|J'ai du mal à dormir.|have trouble|c||basics|
+have an appointment|avoir rendez-vous|A2|5|5|I have an appointment at the dentist.|J'ai rendez-vous chez le dentiste.|have an appointment|d||health|
+have a drink with|prendre un verre avec|A2|4|2|I had a drink with Sam after work.|J'ai pris un verre avec Sam après le travail.|had a drink with|c||leisure|
+lose your keys|perdre ses clés|A1|4|3|I'm always losing my keys.|Je perds tout le temps mes clés.|losing my keys|d||daily_routine|
+lose a game|perdre un match|A2|4|2|We lost the game in the last minute.|Nous avons perdu le match à la dernière minute.|lost the game|d||leisure|
+lose your job|perdre son emploi|A2|5|4|He lost his job last year.|Il a perdu son emploi l'année dernière.|lost his job|w||career|
+win a prize|gagner un prix|A2|4|3|She won a prize for her photos.|Elle a gagné un prix pour ses photos.|won a prize|d||leisure|
+win an election|remporter une élection|B1|4|3|Who do you think will win the election?|Qui va remporter l'élection, selon toi ?|win the election|n||politics|
+tell a joke|raconter une blague|A2|5|4|He's always telling jokes.|Il raconte tout le temps des blagues.|telling jokes|c||leisure|
+tell the time|lire l'heure|A2|3|2|My son is learning to tell the time.|Mon fils apprend à lire l'heure.|tell the time|d||learning|
+ask for help|demander de l'aide|A2|5|5|Don't be afraid to ask for help.|N'aie pas peur de demander de l'aide.|ask for help|c||fn_request|
+ask for directions|demander son chemin|A2|5|4|Let's stop and ask for directions.|Arrêtons-nous pour demander notre chemin.|ask for directions|t||travel|
+ask for advice|demander conseil|B1|5|4|I asked her for advice.|Je lui ai demandé conseil.|asked her for advice|c||fn_request|
+call the police|appeler la police|A2|5|3|Someone called the police.|Quelqu'un a appelé la police.|called the police|n||safety|
+change money|changer de l'argent|A2|4|3|Where can I change money?|Où est-ce que je peux changer de l'argent ?|change money|t||money|
+change trains|changer de train|A2|4|3|You have to change trains at Lyon.|Tu dois changer de train à Lyon.|change trains|t||transport|
+change the subject|changer de sujet|B1|5|4|He always changes the subject.|Il change toujours de sujet.|changes the subject|c||fn_topic_change|
+@phrasal_verb
+freak out|paniquer|B1|5|4|Don't freak out, it's only a scratch.|Ne panique pas, c'est juste une rayure.|freak out|c|i|feelings|
+open up|se confier, s'ouvrir|B1|4|3|It took him a long time to open up.|Il lui a fallu longtemps pour se confier.|open up|c||feelings|
+pull over|se garer sur le côté|B1|4|3|The police told us to pull over.|La police nous a dit de nous ranger sur le côté.|pull over|t||transport|
+run over|écraser (véhicule), dépasser|B1|4|3|The meeting ran over by an hour.|La réunion a duré une heure de plus que prévu.|ran over|w||pro,meetings|
+send back|renvoyer|A2|4|3|I sent the shoes back.|J'ai renvoyé les chaussures.|sent the shoes back|d||shopping|
+show off|frimer|B1|5|4|Stop showing off!|Arrête de frimer !|showing off|c|i|personality|
+shut up|se taire (familier)|A2|5|3|Oh, shut up!|Oh, tais-toi !|shut up|c|i|fn_react|
+switch on|allumer (un interrupteur)|A2|5|3|Switch on the light, please.|Allume la lumière, s'il te plaît.|Switch on|d||housing|
+switch off|éteindre (un interrupteur)|A2|5|3|Don't forget to switch off the oven.|N'oublie pas d'éteindre le four.|switch off|d||housing|
+@connector
+at the beginning|au commencement|A2|5|4|At the beginning, it was hard.|Au début, c'était difficile.|At the beginning|c||fn_narrate|
+to begin with|pour commencer|B1|5|5|To begin with, let's look at the costs.|Pour commencer, examinons les coûts.|To begin with|w||pro,fn_start|
+first of all|tout d'abord|A2|5|5|First of all, thank you for coming.|Tout d'abord, merci d'être venus.|First of all|c||fn_start|
+last but not least|enfin et surtout|B1|4|4|Last but not least, thanks to our sponsors.|Enfin et surtout, merci à nos sponsors.|Last but not least|w||pro,fn_end|
+all in all|tout compte fait|B1|5|4|All in all, it was a good year.|Dans l'ensemble, c'était une bonne année.|All in all|c||fn_end|
+on the whole|globalement|B1|5|5|On the whole, I'm happy with it.|Globalement, j'en suis content.|On the whole|c||fn_opinion|
+@idiom
+Bite the bullet.|Serrer les dents.|B2|4|4|It's expensive, but we'll have to bite the bullet.|C'est cher, mais il va falloir serrer les dents.|bite the bullet|c||decision|
+Hit the road.|Prendre la route.|B1|4|3|We should hit the road before the traffic gets bad.|Nous devrions prendre la route avant les embouteillages.|hit the road|c|i|travel|
+Hit the sack.|Aller au lit.|B1|3|2|I'm exhausted. Time to hit the sack.|Je suis épuisé. Il est temps d'aller au lit.|hit the sack|c|i|daily_routine|
+In hot water.|Dans le pétrin.|B2|3|3|He's in hot water with his boss.|Il est dans le pétrin avec son chef.|in hot water|c|i|work|
+Let the cat out of the bag.|Vendre la mèche.|B2|4|3|Who let the cat out of the bag about the party?|Qui a vendu la mèche pour la fête ?|let the cat out of the bag|c|i|relationships|
