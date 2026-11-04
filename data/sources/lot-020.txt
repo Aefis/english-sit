@@ -1,0 +1,206 @@
+# Lot 020 : B2-C1 (argumentation, nuance, analyse, vocabulaire soutenu)
+@word
+achievement|réussite, accomplissement|B1||5|It's a remarkable achievement.|C'est une réussite remarquable.|achievement|w||pro,career|pos=n
+asleep|endormi|A2||4|The kids are asleep.|Les enfants dorment.|asleep|d||daily_routine|pos=adj
+automatic|automatique|B1||4|We have an automatic backup every night.|Nous avons une sauvegarde automatique chaque nuit.|automatic|w||it,pro|pos=adj
+consent|consentement|B2||4|You need their written consent.|Il te faut leur consentement écrit.|consent|w|f|pro,rules|pos=n
+destruction|destruction|B2||3|The storm caused massive destruction.|La tempête a provoqué d'énormes destructions.|destruction|n||news|pos=n
+divorce|divorce|B1||3|They're getting a divorce.|Ils divorcent.|divorce|c||family|pos=n
+extraordinary|extraordinaire|B1||4|It was an extraordinary experience.|Ce fut une expérience extraordinaire.|extraordinary|c||description|pos=adj
+fate|destin|B2||3|Nobody knows what fate has in store.|Personne ne sait ce que le destin nous réserve.|fate|c||basics|pos=n
+frequency|fréquence|B2||3|The frequency of attacks has increased.|La fréquence des attaques a augmenté.|frequency|w||analysis|pos=n
+gene|gène|B2||2|This gene affects eye colour.|Ce gène influence la couleur des yeux.|gene|a||academic|pos=n
+headquarters|siège social|B1||5|The headquarters are in Geneva.|Le siège social est à Genève.|headquarters|w||pro,business|pos=n
+heritage|patrimoine|B2||3|It's part of our cultural heritage.|Cela fait partie de notre patrimoine culturel.|heritage|c||news|pos=n
+juice|jus|A1||3|A glass of orange juice, please.|Un verre de jus d'orange, s'il vous plaît.|juice|d||food|pos=n
+landscape|paysage|B1||4|The landscape here is stunning.|Le paysage ici est magnifique.|landscape|t||nature|pos=n
+logic|logique|B1||3|I can't follow your logic.|Je ne comprends pas ta logique.|logic|c||analysis|pos=n
+privacy|vie privée|B1||5|We take your privacy seriously.|Nous prenons votre vie privée au sérieux.|privacy|w||pro,rules|pos=n
+profit|bénéfice|B1||5|Our profits rose by ten percent.|Nos bénéfices ont augmenté de dix pour cent.|profits|w||pro,business|pos=n
+regard|considérer, égard|B2||4|I regard him as a friend.|Je le considère comme un ami.|regard|c|f|basics|pos=v
+script|script, scénario|B2||3|She wrote the script for the film.|Elle a écrit le scénario du film.|script|d||media|pos=n
+threatened|en danger|B1||3|Many species are threatened.|De nombreuses espèces sont menacées.|threatened|n||nature|pos=adj
+ambassador|ambassadeur|B2||2|He's the ambassador to France.|Il est ambassadeur en France.|ambassador|n||politics|pos=n
+chemistry|chimie|A2||3|She's studying chemistry.|Elle étudie la chimie.|chemistry|d||learning|pos=n
+consumption|consommation|B2||4|Energy consumption is rising.|La consommation d'énergie augmente.|consumption|n||pro,analysis|pos=n
+corruption|corruption|B2||3|He was accused of corruption.|Il a été accusé de corruption.|corruption|n||politics|pos=n
+cotton|coton|A2||3|It's a cotton shirt.|C'est une chemise en coton.|cotton|d||clothes|pos=n
+discount|réduction, remise|A2||5|Can I get a discount?|Je peux avoir une remise ?|discount|d||shopping|pos=n
+exception|exception|B1||4|There are no exceptions to this rule.|Il n'y a pas d'exception à cette règle.|exception|c||rules|pos=n
+exit|sortie|A2||4|Where's the nearest exit?|Où est la sortie la plus proche ?|exit|t||places|pos=n
+fancy|chic, avoir envie de|B1||5|Do you fancy a drink?|Tu as envie de boire un verre ?|fancy|c|i|fn_suggest|pos=v
+gorgeous|magnifique, splendide|B1||4|What a gorgeous day!|Quelle journée splendide !|gorgeous|c||description|pos=adj
+grateful|reconnaissant|B1||5|I'm very grateful for your help.|Je te suis très reconnaissant de ton aide.|grateful|c||feelings|pos=adj
+hero|héros|A2||3|He's my hero.|C'est mon héros.|hero|c||people|pos=n
+hole|trou|A2||3|There's a hole in my sock.|Il y a un trou dans ma chaussette.|hole|d||basics|pos=n
+impression|impression|B1||5|She made a great first impression.|Elle a fait une excellente première impression.|impression|c||relationships|pos=n
+indicate|indiquer|B1||5|The data indicates a strong trend.|Les données indiquent une forte tendance.|indicates|w||pro,analysis|pos=v
+input|contribution, saisie|B2||5|We'd value your input.|Votre avis nous serait précieux.|input|w||pro,communication|pos=n
+knock|frapper (à la porte)|A2||4|Someone's knocking at the door.|Quelqu'un frappe à la porte.|knocking|d||basics|pos=v
+leather|cuir|A2||3|I bought a leather jacket.|J'ai acheté une veste en cuir.|leather|d||clothes|pos=n
+luxury|luxe|B1||4|It's a luxury hotel.|C'est un hôtel de luxe.|luxury|t||description|pos=n
+manufacturer|fabricant|B1||4|Contact the manufacturer directly.|Contacte directement le fabricant.|manufacturer|w||pro,business|pos=n
+ought|devoir (conseil)|B1||3|You ought to call her.|Tu devrais l'appeler.|ought|c||grammar|pos=v
+poll|sondage|B1||3|The latest poll shows a tight race.|Le dernier sondage indique une course serrée.|poll|n||politics|pos=n
+stretch|s'étirer, étendue|B1||4|I need to stretch my legs.|J'ai besoin de me dégourdir les jambes.|stretch|d||health|pos=v
+tear|déchirer|B1||3|Be careful not to tear the paper.|Fais attention de ne pas déchirer le papier.|tear|d||basics|pos=v ;; forms=tore, torn
+tennis|tennis|A1||3|Do you play tennis?|Tu joues au tennis ?|tennis|d||leisure|pos=n
+absence|absence|B1||4|He made the decision in my absence.|Il a pris la décision en mon absence.|absence|w||work|pos=n
+athlete|athlète|A2||3|She's a professional athlete.|C'est une athlète professionnelle.|athlete|d||leisure|pos=n
+contribution|contribution|B2||5|Thank you for your contribution.|Merci pour votre contribution.|contribution|w||pro,communication|pos=n
+delicious|délicieux|A1||5|This cake is delicious.|Ce gâteau est délicieux.|delicious|d||food|pos=adj
+ease|facilité, soulager|B2||4|She did it with ease.|Elle l'a fait avec aisance.|ease|c||basics|pos=n
+flood|inondation|B1||3|The flood destroyed the bridge.|L'inondation a détruit le pont.|flood|n||weather|pos=n
+genetic|génétique|B2||2|It's a genetic disease.|C'est une maladie génétique.|genetic|d||health|pos=adj
+impressed|impressionné|B1||5|I was really impressed by her work.|J'ai été vraiment impressionné par son travail.|impressed|c||feelings|pos=adj
+instant|instantané, instant|B1||4|Would you like instant coffee?|Tu veux du café soluble ?|instant|d||food|pos=adj
+investor|investisseur|B1||4|We're looking for investors.|Nous cherchons des investisseurs.|investors|w||pro,money|pos=n
+punishment|punition|B1||3|It was a harsh punishment.|Ce fut une punition sévère.|punishment|c||rules|pos=n
+rapidly|rapidement (changement)|B1||4|The city is growing rapidly.|La ville se développe rapidement.|rapidly|n||analysis|pos=adv
+sum|somme|B1||3|They paid a large sum of money.|Ils ont versé une grosse somme d'argent.|sum|c||money|pos=n
+tail|queue|A2||2|The dog wagged its tail.|Le chien a remué la queue.|tail|d||animals|pos=n
+twin|jumeau|A2||3|She has a twin sister.|Elle a une sœur jumelle.|twin|c||family|pos=n
+upcoming|à venir, prochain|B2||5|Are you ready for the upcoming meeting?|Tu es prêt pour la réunion à venir ?|upcoming|w||pro,meetings|pos=adj
+alert|alerte, alerter|B1||3|I got an alert on my phone.|J'ai reçu une alerte sur mon téléphone.|alert|d||technology|pos=n
+boots|bottes|A1||3|Take your walking boots.|Prends tes chaussures de randonnée.|boots|d||clothes|pos=n
+brave|courageux|A2||4|That was very brave of you.|C'était très courageux de ta part.|brave|c||personality|pos=adj
+column|colonne|B1||3|Look at the second column.|Regarde la deuxième colonne.|column|w||pro,analysis|pos=n
+compensation|indemnisation|B2||4|You can claim compensation.|Tu peux demander une indemnisation.|compensation|w||pro,rules|pos=n
+conservation|préservation|B2||3|She works in nature conservation.|Elle travaille dans la préservation de la nature.|conservation|n||nature|pos=n
+difficulty|difficulté|B1||5|I'm having difficulty with this exercise.|J'ai du mal avec cet exercice.|difficulty|c||basics|pos=n
+elementary|élémentaire|A2||3|It's an elementary mistake.|C'est une erreur élémentaire.|elementary|c||description|pos=adj
+ethnic|ethnique|B2||2|The city has many ethnic groups.|La ville compte de nombreux groupes ethniques.|ethnic|n||news|pos=adj
+expense|dépense|B1||5|Keep your receipts for expenses.|Garde tes reçus pour tes notes de frais.|expenses|w||pro,money|pos=n
+fundamental|fondamental|B2||5|There's a fundamental difference.|Il y a une différence fondamentale.|fundamental|w||pro,analysis|pos=adj
+genius|génie|B1||3|You're a genius!|Tu es un génie !|genius|c||fn_react|pos=n
+guidance|conseils, orientation|B2||5|Thank you for your guidance.|Merci pour vos conseils.|guidance|w||pro,management|pos=n
+infection|infection|B1||3|It's a minor ear infection.|C'est une petite otite.|infection|d||health|pos=n
+intention|intention|B1||4|I had no intention of leaving.|Je n'avais aucune intention de partir.|intention|c||basics|pos=n
+knee|genou|A2||3|I hurt my knee playing football.|Je me suis fait mal au genou au foot.|knee|d||body|pos=n
+mechanical|mécanique|B1||3|There's a mechanical fault.|Il y a un défaut mécanique.|mechanical|t||technology|pos=adj
+participation|participation|B2||3|Thanks for your participation.|Merci pour votre participation.|participation|w|f|pro,meetings|pos=n
+precious|précieux|B1||3|Time is precious.|Le temps est précieux.|precious|c||description|pos=adj
+pregnancy|grossesse|B1||3|She had a difficult pregnancy.|Elle a eu une grossesse difficile.|pregnancy|d||health|pos=n
+pregnant|enceinte|A2||4|She's six months pregnant.|Elle est enceinte de six mois.|pregnant|d||health|pos=adj
+premium|premium, prime|B2||3|They charge a premium for this service.|Ils facturent un supplément pour ce service.|premium|w||pro,business|pos=n
+priest|prêtre|B1||2|The priest married them.|Le prêtre les a mariés.|priest|c||people|pos=n
+prominent|important, en vue|B2||4|She's a prominent lawyer.|C'est une avocate en vue.|prominent|n|f|description|pos=adj
+radical|radical|B2||3|We need a radical change.|Il nous faut un changement radical.|radical|w||analysis|pos=adj
+reward|récompense|B1||4|You deserve a reward.|Tu mérites une récompense.|reward|c||basics|pos=n
+satellite|satellite|B1||2|The signal comes from a satellite.|Le signal vient d'un satellite.|satellite|d||technology|pos=n
+shake|secouer|A2||4|Shake the bottle before use.|Secoue la bouteille avant usage.|Shake|d||basics|pos=v ;; forms=shook, shaken
+shore|rivage|B1||2|We walked along the shore.|Nous avons marché sur le rivage.|shore|t||nature|pos=n
+teen|ado|A2||3|She's in her early teens.|Elle a tout juste treize ou quatorze ans.|teens|c|i|people|pos=n
+trap|piège|B1||3|It's a trap!|C'est un piège !|trap|c||basics|pos=n
+uniform|uniforme|A2||3|The kids wear a school uniform.|Les enfants portent un uniforme scolaire.|uniform|d||clothes|pos=n
+wildlife|faune|B1||3|We came here to see the wildlife.|Nous sommes venus ici voir la faune.|wildlife|t||nature|pos=n
+wooden|en bois|A2||3|It's a small wooden house.|C'est une petite maison en bois.|wooden|d||description|pos=adj
+aggressive|agressif|B1||4|His tone was quite aggressive.|Son ton était assez agressif.|aggressive|c||personality|pos=adj
+apparent|apparent, évident|B2||4|For no apparent reason, it stopped.|Sans raison apparente, ça s'est arrêté.|apparent|c||fn_nuance|pos=adj
+courage|courage|B1||4|It takes courage to say no.|Il faut du courage pour dire non.|courage|c||personality|pos=n
+cure|guérir, remède|B1||3|There's no cure for it yet.|Il n'existe pas encore de remède.|cure|d||health|pos=n
+desperate|désespéré|B1||4|I'm desperate for a coffee.|Je meurs d'envie d'un café.|desperate|c|i|feelings|pos=adj
+diversity|diversité|B2||4|We value diversity in our team.|Nous valorisons la diversité dans notre équipe.|diversity|w||pro,management|pos=n
+frozen|gelé, surgelé|A2||3|The lake is frozen.|Le lac est gelé.|frozen|d||description|pos=adj
+humanity|humanité|B2||3|It's a crime against humanity.|C'est un crime contre l'humanité.|humanity|n||news|pos=n
+innovation|innovation|B2||5|We invest heavily in innovation.|Nous investissons beaucoup dans l'innovation.|innovation|w||pro,business|pos=n
+jacket|veste|A1||4|You'll need a jacket tonight.|Tu auras besoin d'une veste ce soir.|jacket|d||clothes|pos=n
+manual|manuel|B1||3|Read the user manual.|Lis le manuel d'utilisation.|manual|d||technology|pos=n
+ongoing|en cours|B2||5|The investigation is ongoing.|L'enquête est en cours.|ongoing|w||pro,project|pos=adj
+painful|douloureux|B1||4|The injury is very painful.|La blessure est très douloureuse.|painful|d||health|pos=adj
+preparation|préparation|B1||4|Good preparation is the key.|Une bonne préparation, c'est la clé.|preparation|w||pro,work|pos=n
+registration|inscription|B1||4|Registration closes on Friday.|Les inscriptions se terminent vendredi.|Registration|w||admin|pos=n
+tissue|mouchoir, tissu (corps)|B1||3|Do you have a tissue?|Tu as un mouchoir ?|tissue|d||health|pos=n
+versus|contre, par rapport à|B2||4|It's quality versus price.|C'est la qualité contre le prix.|versus|c||fn_compare|pos=prep
+virtual|virtuel|B1||4|We hold virtual meetings.|Nous organisons des réunions virtuelles.|virtual|w||pro,technology|pos=adj
+@chunk
+There's no doubt that...|Il ne fait aucun doute que...|B2|5|5|There's no doubt that the market is changing.|Il ne fait aucun doute que le marché évolue.|There's no doubt that|c||fn_opinion|
+It's widely believed that...|Il est largement admis que...|B2|5|4|It's widely believed that sleep improves memory.|Il est largement admis que le sommeil améliore la mémoire.|It's widely believed that|a|f|fn_opinion|
+There's growing evidence that...|Il y a de plus en plus de preuves que...|C1|4|4|There's growing evidence that diet affects mood.|Il y a de plus en plus de preuves que l'alimentation influe sur l'humeur.|There's growing evidence that|a|f|analysis|
+It could be argued that...|On pourrait soutenir que...|B2+|5|5|It could be argued that the policy has failed.|On pourrait soutenir que cette politique a échoué.|It could be argued that|a|f|fn_opinion,argument|
+One could argue that...|On pourrait dire que...|B2+|4|4|One could argue that prices are too high.|On pourrait dire que les prix sont trop élevés.|One could argue that|a|f|fn_opinion,argument|
+It's important to bear in mind that...|Il est important de garder à l'esprit que...|B2|5|5|It's important to bear in mind that these are estimates.|Il est important de garder à l'esprit que ce sont des estimations.|It's important to bear in mind that|w||pro,fn_explain|
+It's worth bearing in mind that...|Il faut garder à l'esprit que...|B2+|4|3|It's worth bearing in mind that nothing's decided.|Il faut garder à l'esprit que rien n'est décidé.|It's worth bearing in mind that|w||pro,fn_explain|
+It remains to be seen whether...|Reste à savoir si...|B2+|5|5|It remains to be seen whether the plan will work.|Reste à savoir si le plan fonctionnera.|It remains to be seen whether|w||pro,fn_nuance|
+What matters most is...|Ce qui compte le plus, c'est...|B2|5|5|What matters most is that everyone's safe.|Ce qui compte le plus, c'est que tout le monde soit sain et sauf.|What matters most is|c||fn_opinion|
+The key issue here is...|La question essentielle ici est...|B2|5|5|The key issue here is cost.|La question essentielle ici, c'est le coût.|The key issue here is|w||pro,analysis|
+The real question is...|La vraie question, c'est...|B2|5|4|The real question is who pays.|La vraie question, c'est qui paie.|The real question is|c||fn_opinion|
+To a large extent...|En grande partie...|B2|5|4|To a large extent, it depends on the weather.|Cela dépend en grande partie du temps.|To a large extent|c||fn_nuance|
+Up to a point...|Jusqu'à un certain point...|B2|4|3|Up to a point, that's true.|Jusqu'à un certain point, c'est vrai.|Up to a point|c||fn_nuance|
+As a general rule...|En règle générale...|B2|5|5|As a general rule, we reply within two days.|En règle générale, nous répondons sous deux jours.|As a general rule|w||pro,fn_nuance|
+In broad terms...|En gros, dans les grandes lignes...|B2+|4|4|In broad terms, the plan is sound.|Dans les grandes lignes, le plan tient la route.|In broad terms|w||pro,fn_nuance|
+In practical terms...|Concrètement...|B2|5|5|In practical terms, what does that mean?|Concrètement, qu'est-ce que ça veut dire ?|In practical terms|w||pro,fn_clarify|
+In real terms...|En valeur réelle...|C1|4|3|In real terms, wages have fallen.|En valeur réelle, les salaires ont baissé.|In real terms|n||pro,analysis|
+For the most part...|Pour la plupart...|B2|5|4|For the most part, the staff are happy.|Pour la plupart, les employés sont contents.|For the most part|c||fn_nuance|
+For what it's worth...|Pour ce que ça vaut...|B2|5|4|For what it's worth, I think you were right.|Pour ce que ça vaut, je pense que tu avais raison.|For what it's worth|c||fn_nuance|
+As it stands...|En l'état actuel des choses...|B2+|5|4|As it stands, we can't meet the deadline.|En l'état, nous ne pouvons pas respecter l'échéance.|As it stands|w||pro,fn_nuance|
+As things stand...|Dans l'état actuel des choses...|B2+|5|4|As things stand, the deal looks unlikely.|Dans l'état actuel des choses, l'accord semble improbable.|As things stand|w||pro,fn_nuance|
+At this stage...|À ce stade...|B2|5|5|At this stage, it's too early to say.|À ce stade, il est trop tôt pour le dire.|At this stage|w||pro,project|
+At the end of the week...|En fin de semaine...|A2|4|2|At the end of the week, I'm exhausted.|En fin de semaine, je suis épuisé.|At the end of the week|c||time|
+Bear with me.|Un instant, s'il vous plaît.|B2|5|5|Bear with me, I'm looking for the file.|Un instant, s'il vous plaît, je cherche le fichier.|Bear with me|w||pro,fn_hesitate|
+Let me rephrase that.|Laisse-moi reformuler.|B2|5|5|Sorry, let me rephrase that.|Pardon, laisse-moi reformuler.|let me rephrase that|c||fn_rephrase|
+Let me get this straight.|Que je comprenne bien.|B2|5|5|Let me get this straight: you resigned?|Que je comprenne bien : tu as démissionné ?|Let me get this straight|c||fn_clarify|
+Let me play devil's advocate.|Je me fais l'avocat du diable.|B2+|4|4|Let me play devil's advocate for a moment.|Je me fais l'avocat du diable un instant.|Let me play devil's advocate|w||pro,argument|
+If I may...|Si vous me le permettez...|B2|4|4|If I may, I'd like to add something.|Si vous me le permettez, j'aimerais ajouter quelque chose.|If I may|w|f|pro,fn_interrupt|
+If I could just come in here...|Si je peux me permettre d'intervenir...|B2+|4|4|If I could just come in here, I have a point.|Si je peux me permettre d'intervenir, j'ai une remarque.|If I could just come in here|w||pro,fn_interrupt|
+I can see both sides.|Je comprends les deux points de vue.|B2|5|4|I can see both sides of the argument.|Je comprends les deux points de vue.|I can see both sides|c||fn_nuance|
+I beg to differ.|Permettez-moi de ne pas être d'accord.|C1|4|4|I beg to differ on that point.|Permettez-moi de ne pas être d'accord sur ce point.|I beg to differ|w|f|pro,fn_disagree|
+I'd have to disagree there.|Là, je ne suis pas d'accord.|B2|5|4|I'd have to disagree there, I'm afraid.|Là, je ne suis pas d'accord, je le crains.|I'd have to disagree there|c||fn_disagree|
+I'm not entirely convinced.|Je ne suis pas entièrement convaincu.|B2|5|4|I'm not entirely convinced by the data.|Je ne suis pas entièrement convaincu par les données.|I'm not entirely convinced|c||fn_disagree|
+That doesn't necessarily follow.|Ce n'est pas forcément logique.|B2+|4|4|It's cheap, but that doesn't necessarily follow.|C'est bon marché, mais ce n'est pas forcément lié.|that doesn't necessarily follow|c||fn_disagree|
+That's a fair point.|C'est une remarque juste.|B2|5|5|That's a fair point, I hadn't thought about it.|C'est une remarque juste, je n'y avais pas pensé.|That's a fair point|c||fn_agree|
+That's easy to say.|C'est facile à dire.|B1|5|3|Just relax? That's easy to say.|Détends-toi, c'est facile à dire.|That's easy to say|c||fn_disagree|
+That's debatable.|Ça se discute.|B2|5|4|He's the best? That's debatable.|C'est le meilleur ? Ça se discute.|That's debatable|c||fn_disagree|
+That's open to debate.|Ça reste à débattre.|B2+|4|3|Whether it works is open to debate.|Son efficacité reste à débattre.|open to debate|w||pro,fn_nuance|
+That's a whole different story.|C'est une tout autre histoire.|B2|4|3|Hiring is one thing, keeping staff is a whole different story.|Embaucher est une chose, garder le personnel en est une autre.|a whole different story|c||fn_compare|
+@collocation
+draw a distinction|faire une distinction|B2+|4|4|We need to draw a distinction between the two.|Il faut faire une distinction entre les deux.|draw a distinction|a|f|analysis|
+make a distinction|établir une distinction|B2|4|3|She makes a distinction between price and value.|Elle établit une distinction entre prix et valeur.|makes a distinction|a||analysis|
+raise a question|soulever une question|B2|5|5|This raises an important question.|Cela soulève une question importante.|raises an important question|w||pro,analysis|
+raise an objection|soulever une objection|B2+|4|4|Nobody raised an objection.|Personne n'a soulevé d'objection.|raised an objection|w|f|pro,meetings|
+pose a threat|constituer une menace|B2+|4|4|This poses a serious threat to the business.|Cela constitue une menace sérieuse pour l'entreprise.|poses a serious threat|n|f|pro,risk|
+pose a challenge|représenter un défi|B2+|4|4|This poses a real challenge for us.|Cela représente un vrai défi pour nous.|poses a real challenge|w||pro,risk|
+take the lead|prendre la tête, mener|B2|5|5|Who's taking the lead on this?|Qui pilote ce dossier ?|taking the lead|w||pro,management|
+take the initiative|prendre l'initiative|B2|5|5|She took the initiative and called them.|Elle a pris l'initiative et les a appelés.|took the initiative|w||pro,management|
+take a stand|prendre position|B2+|4|4|It's time to take a stand on this issue.|Il est temps de prendre position sur cette question.|take a stand|w||pro,fn_opinion|
+take for granted|tenir pour acquis|B2|5|5|Don't take it for granted.|Ne considère pas ça comme acquis.|take it for granted|c||fn_nuance|
+take issue with|contester|C1|4|4|I take issue with that claim.|Je conteste cette affirmation.|take issue with|w|f|pro,fn_disagree|
+make a case for|plaider en faveur de|B2+|4|4|She made a strong case for hiring more staff.|Elle a plaidé avec force pour l'embauche de personnel.|made a strong case for|w||pro,argument|
+make a point of|tenir à|B2+|4|3|He made a point of thanking everyone.|Il a tenu à remercier tout le monde.|made a point of|c||basics|
+make allowances for|tenir compte de|C1|4|3|We have to make allowances for his age.|Il faut tenir compte de son âge.|make allowances for|c||fn_nuance|
+meet a need|répondre à un besoin|B2|5|4|Our service meets a real need.|Notre service répond à un vrai besoin.|meets a real need|w||pro,business|
+meet the criteria|remplir les critères|B2|5|4|Your application doesn't meet the criteria.|Votre candidature ne remplit pas les critères.|meet the criteria|w||pro,career|
+bridge the gap|combler l'écart|B2+|5|5|We need to bridge the gap between teams.|Nous devons combler l'écart entre les équipes.|bridge the gap|w||pro,management|
+close the gap|réduire l'écart|B2|4|3|We're starting to close the gap.|Nous commençons à réduire l'écart.|close the gap|w||pro,analysis|
+widen the gap|creuser l'écart|B2+|4|3|This policy will widen the gap.|Cette politique va creuser l'écart.|widen the gap|n||analysis|
+bear the cost|supporter le coût|B2+|4|4|Who will bear the cost?|Qui va supporter le coût ?|bear the cost|w||pro,money|
+carry weight|avoir du poids|B2+|4|4|Her opinion carries a lot of weight.|Son opinion a beaucoup de poids.|carries a lot of weight|w||pro,fn_nuance|
+exert pressure|exercer une pression|B2+|3|3|Investors are exerting pressure on the board.|Les investisseurs exercent une pression sur le conseil.|exerting pressure|n|f|pro,business|
+exercise caution|faire preuve de prudence|C1|4|4|We should exercise caution here.|Nous devrions faire preuve de prudence ici.|exercise caution|w|f|pro,risk|
+@phrasal_verb
+account for|expliquer, représenter|B2|5|5|Exports account for half of our sales.|Les exportations représentent la moitié de nos ventes.|account for|w||pro,analysis|
+act on|agir selon|B2|4|4|We acted on your advice.|Nous avons suivi tes conseils.|acted on|w||pro,decision|
+add up|avoir du sens|B2|5|4|His story doesn't add up.|Son histoire ne tient pas debout.|add up|c||analysis|
+allow for|prévoir, tenir compte de|B2|5|4|Allow for delays in your schedule.|Prévois des retards dans ton planning.|Allow for|w||pro,project|
+boil down to|se résumer à|B2+|5|5|It all boils down to money.|Tout se résume à l'argent.|boils down to|c||fn_explain|
+build on|s'appuyer sur|B2|5|5|Let's build on what we've achieved.|Appuyons-nous sur ce que nous avons accompli.|build on|w||pro,project|
+call into question|remettre en question|B2+|4|4|This calls our results into question.|Cela remet nos résultats en question.|calls our results into question|a|f|analysis|
+come down to|se résumer à, revenir à|B2|5|4|It comes down to trust.|Cela revient à une question de confiance.|comes down to|c||fn_explain|
+come up against|se heurter à|B2+|4|4|We came up against serious problems.|Nous nous sommes heurtés à de sérieux problèmes.|came up against|w||pro,project|
+draw on|puiser dans, s'appuyer sur|B2+|5|4|She drew on her years of experience.|Elle a puisé dans ses années d'expérience.|drew on|w||pro,career|
+dwell on|s'attarder sur, ressasser|B2+|4|3|Don't dwell on your mistakes.|Ne ressasse pas tes erreurs.|dwell on|c||feelings|
+factor in|intégrer dans le calcul|B2+|5|5|Have you factored in the extra cost?|As-tu pris en compte le coût supplémentaire ?|factored in|w||pro,analysis|
+@connector
+nonetheless|pourtant, malgré cela|B2+|5|4|It was risky; nonetheless, we went ahead.|C'était risqué ; néanmoins, nous avons continué.|nonetheless|w|f|pro,fn_nuance|
+moreover|en outre|B2|5|5|Moreover, the data is out of date.|De plus, les données sont périmées.|Moreover|w|f|pro,fn_explain|
+thereby|de ce fait|C1|4|3|He signed the deal, thereby ending the dispute.|Il a signé l'accord, mettant de ce fait fin au litige.|thereby|a|f|fn_explain|
+notwithstanding|nonobstant|C1|3|2|Notwithstanding the delay, the project succeeded.|Nonobstant le retard, le projet a réussi.|Notwithstanding|a|f|fn_nuance|
+insofar as|dans la mesure où|C1|4|3|It helps insofar as it reduces costs.|C'est utile dans la mesure où cela réduit les coûts.|insofar as|a|f|fn_nuance|
+inasmuch as|dans la mesure où (très soutenu)|C1|3|2|He's guilty inasmuch as he knew the truth.|Il est coupable dans la mesure où il connaissait la vérité.|inasmuch as|a|f|fn_nuance|
+on the grounds that|au motif que|B2+|4|4|It was rejected on the grounds that it was too expensive.|Cela a été rejeté au motif que c'était trop cher.|on the grounds that|w|f|pro,fn_explain|
+@idiom
+Play it by ear.|Improviser selon la situation.|B2|5|4|We don't have a plan, let's play it by ear.|Nous n'avons pas de plan, improvisons.|play it by ear|c|i|decision|
+Sit on the fence.|Ne pas prendre parti.|B2|4|4|You can't sit on the fence forever.|Tu ne peux pas éviter de choisir éternellement.|sit on the fence|c||decision|
+Move the goalposts.|Changer les règles du jeu.|B2+|4|4|The client keeps moving the goalposts.|Le client n'arrête pas de changer les règles du jeu.|moving the goalposts|w|i|pro,project|
+A double-edged sword.|Une arme à double tranchant.|B2+|4|4|Remote work is a double-edged sword.|Le télétravail est une arme à double tranchant.|a double-edged sword|c||fn_opinion|
+The tip of the iceberg.|La partie visible de l'iceberg.|B2|4|4|These complaints are just the tip of the iceberg.|Ces plaintes ne sont que la partie visible de l'iceberg.|the tip of the iceberg|c||analysis|

@@ -446,5 +446,19 @@
       "right"
     ],
     "reason": "Pluriel à sens propre : les droits."
+  },
+  {
+    "ids": [
+      "gene",
+      "embarrassed"
+    ],
+    "reason": "Faux doublon : gène et gêné, les accents diffèrent."
+  },
+  {
+    "ids": [
+      "tears",
+      "tear"
+    ],
+    "reason": "Larmes, et déchirer."
   }
 ]
