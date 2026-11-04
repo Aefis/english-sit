@@ -1,0 +1,96 @@
+# Lot 049 : A2-C1 (expressions pour nuancer, débattre, écrire et présenter ; loisirs et lieux ; connecteurs de précision)
+@chunk
+I'm in two minds about it.|J'hésite encore.|B2|4|4|Should I take the job? I'm in two minds about it.|Je devrais accepter le poste ? J'hésite encore.|I'm in two minds about it|c||decision|
+It's a bit of a grey area.|C'est un peu flou.|B2|4|3|Legally, it's a bit of a grey area.|Sur le plan juridique, c'est un peu flou.|a bit of a grey area|w||fn_nuance|
+It's not black and white.|Ce n'est pas tout noir ou tout blanc.|B2|4|4|This problem is not black and white.|Ce problème n'est pas tout noir ou tout blanc.|not black and white|c||fn_nuance|
+The jury's still out on...|On n'est pas encore fixé sur...|B2+|3|3|The jury's still out on the new system.|On n'est pas encore fixé sur le nouveau système.|The jury's still out on|w||fn_nuance|
+I wouldn't rule it out.|Je ne l'exclurais pas.|B2|4|4|A strike? I wouldn't rule it out.|Une grève ? Je ne l'exclurais pas.|I wouldn't rule it out|c||fn_nuance|
+I wouldn't bet on it.|Je n'y compterais pas.|B2|4|4|Will he say yes? I wouldn't bet on it.|Il va dire oui ? Je n'y compterais pas.|I wouldn't bet on it|c|i|fn_nuance|
+I wouldn't be surprised if...|Ça ne m'étonnerait pas que...|B1|5|5|I wouldn't be surprised if he quit.|Ça ne m'étonnerait pas qu'il démissionne.|I wouldn't be surprised if|c||fn_nuance|
+I'd be surprised if...|Ça m'étonnerait que...|B1|5|5|I'd be surprised if they came.|Ça m'étonnerait qu'ils viennent.|I'd be surprised if|c||fn_nuance|
+It wouldn't hurt to...|Ça ne ferait pas de mal de...|B1|4|4|It wouldn't hurt to call them.|Ça ne ferait pas de mal de les appeler.|It wouldn't hurt to|c||fn_suggest|
+It can't hurt to ask.|Demander ne coûte rien.|B1|4|4|They might say no, but it can't hurt to ask.|Ils diront peut-être non, mais demander ne coûte rien.|it can't hurt to ask|c||fn_suggest|
+You have nothing to lose.|Tu n'as rien à perdre.|B1|5|4|Apply for it, you have nothing to lose.|Postule, tu n'as rien à perdre.|you have nothing to lose|c||fn_suggest|
+It's worth a try.|Ça vaut le coup d'essayer.|B1|5|5|It may not work, but it's worth a try.|Ça ne marchera peut-être pas, mais ça vaut le coup d'essayer.|it's worth a try|c||fn_suggest|
+It's now or never.|C'est maintenant ou jamais.|B1|4|4|Tell her today. It's now or never.|Dis-le-lui aujourd'hui. C'est maintenant ou jamais.|It's now or never|c||decision|
+As you'd expect,...|Comme on pouvait s'y attendre,...|B2|4|4|As you'd expect, the price went up.|Comme on pouvait s'y attendre, le prix a augmenté.|As you'd expect|c||fn_nuance|
+Not surprisingly,...|Sans surprise,...|B2|4|4|Not surprisingly, the team lost.|Sans surprise, l'équipe a perdu.|Not surprisingly|c||fn_nuance|
+The trouble is,...|L'ennui, c'est que...|B1|5|5|I'd love to go. The trouble is, I have no money.|J'adorerais y aller. L'ennui, c'est que je n'ai pas d'argent.|The trouble is|c||fn_nuance|
+The catch is...|Le hic, c'est que...|B2|4|4|It's cheap, but the catch is you can't cancel.|C'est bon marché, mais le hic, c'est qu'on ne peut pas annuler.|the catch is|c|i|fn_nuance|
+The downside is...|Le bémol, c'est que...|B1|5|5|The downside is that it takes longer.|Le bémol, c'est que ça prend plus de temps.|The downside is|c||fn_nuance|
+The idea is to...|L'idée, c'est de...|B1|5|5|The idea is to save money.|L'idée, c'est d'économiser de l'argent.|The idea is to|c||fn_explain|
+The aim is to...|L'objectif est de...|B1|5|5|The aim is to finish by June.|L'objectif est de finir d'ici juin.|The aim is to|w||fn_explain,pro|
+My point is...|Là où je veux en venir, c'est que...|B1|5|5|My point is that we need more time.|Là où je veux en venir, c'est qu'il nous faut plus de temps.|My point is|c||fn_clarify|
+My concern is...|Ma préoccupation, c'est...|B2|5|5|My concern is the cost.|Ma préoccupation, c'est le coût.|My concern is|w||fn_nuance,pro|
+My guess is that...|Je suppose que...|B1|5|4|My guess is that he forgot.|Je suppose qu'il a oublié.|My guess is that|c||fn_nuance|
+I get the impression that...|J'ai l'impression que...|B1|5|5|I get the impression that he's unhappy.|J'ai l'impression qu'il n'est pas content.|I get the impression that|c||fn_nuance|
+Part of the problem is...|Une partie du problème vient de...|B2|4|4|Part of the problem is the lack of staff.|Une partie du problème vient du manque de personnel.|Part of the problem is|w||fn_explain|
+On a more serious note,...|Plus sérieusement,...|B2|4|4|On a more serious note, we need to talk about money.|Plus sérieusement, nous devons parler d'argent.|On a more serious note|c||fn_topic_change|
+On a personal note,...|À titre personnel,...|B2|4|3|On a personal note, I'd like to thank you.|À titre personnel, j'aimerais vous remercier.|On a personal note|w||fn_topic_change|
+Be honest with me.|Sois honnête avec moi.|A2|5|4|Be honest with me, is it good?|Sois honnête avec moi, c'est bien ?|Be honest with me|c||relationships|
+Let's be honest.|Soyons honnêtes.|B1|5|5|Let's be honest, it wasn't a success.|Soyons honnêtes, ça n'a pas été un succès.|Let's be honest|c||fn_nuance|
+Let's be realistic.|Soyons réalistes.|B1|5|5|Let's be realistic, we can't finish by Friday.|Soyons réalistes, nous ne pouvons pas finir d'ici vendredi.|Let's be realistic|w||fn_nuance|
+Let's not get carried away.|Ne nous emballons pas.|B2|4|4|It's a good start, but let's not get carried away.|C'est un bon début, mais ne nous emballons pas.|let's not get carried away|c||fn_nuance|
+There's no easy answer.|Il n'y a pas de réponse simple.|B1|5|4|It's a good question, but there's no easy answer.|C'est une bonne question, mais il n'y a pas de réponse simple.|there's no easy answer|c||fn_nuance|
+It's more complicated than that.|C'est plus compliqué que ça.|B1|5|5|I can't just leave. It's more complicated than that.|Je ne peux pas partir comme ça. C'est plus compliqué que ça.|It's more complicated than that|c||fn_nuance|
+That's a separate issue.|C'est une autre question.|B2|4|4|That's a separate issue, let's discuss it later.|C'est une autre question, parlons-en plus tard.|That's a separate issue|w||fn_nuance,pro|
+Research shows that...|Les recherches montrent que...|B1|5|4|Research shows that exercise helps you sleep.|Les recherches montrent que le sport aide à dormir.|Research shows that|a||academic|
+The evidence suggests that...|Les données suggèrent que...|B2|5|4|The evidence suggests that prices will fall.|Les données suggèrent que les prix vont baisser.|The evidence suggests that|a|f|academic|
+It is generally accepted that...|Il est généralement admis que...|B2+|4|3|It is generally accepted that smoking is harmful.|Il est généralement admis que le tabac est nocif.|It is generally accepted that|a|f|academic|
+It should be noted that...|Il convient de noter que...|B2+|4|4|It should be noted that these figures are provisional.|Il convient de noter que ces chiffres sont provisoires.|It should be noted that|a|f|academic,writing|
+There is no evidence that...|Rien ne prouve que...|B2|5|4|There is no evidence that it works.|Rien ne prouve que ça fonctionne.|There is no evidence that|a||academic|
+This is largely because...|C'est en grande partie parce que...|B2|4|4|This is largely because of rising costs.|C'est en grande partie à cause de la hausse des coûts.|This is largely because|a||fn_explain|
+That's not to say that...|Ça ne veut pas dire que...|B2|4|4|That's not to say that it's a bad idea.|Ça ne veut pas dire que c'est une mauvaise idée.|That's not to say that|c||fn_nuance|
+This goes to show that...|Cela montre bien que...|B2|4|4|This goes to show that hard work pays off.|Cela montre bien que le travail paie.|This goes to show that|c||fn_explain|
+Which brings me to my next point.|Ce qui m'amène à mon point suivant.|B2|4|4|Costs are rising, which brings me to my next point.|Les coûts augmentent, ce qui m'amène à mon point suivant.|which brings me to my next point|w||presentations,pro|
+To conclude, I'd like to...|Pour conclure, j'aimerais...|B1|5|5|To conclude, I'd like to thank the team.|Pour conclure, j'aimerais remercier l'équipe.|To conclude, I'd like to|w||presentations,pro|
+Thank you for listening.|Merci de votre écoute.|A2|5|5|That's all from me. Thank you for listening.|C'est tout pour moi. Merci de votre écoute.|Thank you for listening|w||presentations,pro|
+Let's take a look at...|Regardons...|B1|5|5|Let's take a look at the results.|Regardons les résultats.|Let's take a look at|w||presentations,pro|
+The key takeaway is...|Le point essentiel à retenir est...|B2|5|5|The key takeaway is that customers want speed.|Le point essentiel à retenir est que les clients veulent de la rapidité.|The key takeaway is|w||presentations,pro|
+I'll come back to that later.|J'y reviendrai plus tard.|B1|5|5|Good question, I'll come back to that later.|Bonne question, j'y reviendrai plus tard.|I'll come back to that later|w||presentations,pro|
+I'll keep this short.|Je vais faire court.|B1|5|4|I know you're busy, so I'll keep this short.|Je sais que vous êtes occupés, alors je vais faire court.|I'll keep this short|w||presentations,pro|
+@collocation
+go to the cinema|aller au cinéma|A1|5|4|Shall we go to the cinema tonight?|On va au cinéma ce soir ?|go to the cinema|d||leisure|
+go to a concert|aller à un concert|A2|5|3|They went to a concert in Paris.|Ils sont allés à un concert à Paris.|went to a concert|d||leisure|
+book tickets|réserver des billets|A2|5|4|I'll book the tickets online.|Je vais réserver les billets en ligne.|book the tickets|d||leisure|
+watch a series|regarder une série|A2|5|4|We're watching a series on Netflix.|Nous regardons une série sur Netflix.|watching a series|d||leisure|
+listen to a podcast|écouter un podcast|A2|5|4|I listen to a podcast on the way to work.|J'écoute un podcast sur le chemin du travail.|listen to a podcast|d||leisure|
+play video games|jouer aux jeux vidéo|A2|5|4|My son plays video games too much.|Mon fils joue trop aux jeux vidéo.|plays video games|d||leisure|
+play cards|jouer aux cartes|A2|4|3|We played cards all evening.|Nous avons joué aux cartes toute la soirée.|played cards|d||leisure|
+take up a hobby|se mettre à un loisir|B1|4|4|You should take up a hobby.|Tu devrais te mettre à un loisir.|take up a hobby|d||leisure|
+learn to drive|apprendre à conduire|A2|5|4|I learned to drive at twenty-five.|J'ai appris à conduire à vingt-cinq ans.|learned to drive|d||transport|
+learn a language|apprendre une langue|A2|5|5|It takes years to learn a language.|Il faut des années pour apprendre une langue.|learn a language|d||learning|
+visit a museum|visiter un musée|A2|5|4|We visited a museum in the morning.|Nous avons visité un musée le matin.|visited a museum|t||travel,leisure|
+go to the beach|aller à la plage|A1|5|4|Let's go to the beach this afternoon.|Allons à la plage cet après-midi.|go to the beach|t||leisure|
+get some sleep|dormir un peu|A2|5|5|You look tired, get some sleep.|Tu as l'air fatigué, dors un peu.|get some sleep|d||daily_routine|
+get some fresh air|prendre l'air|B1|5|5|I need to go out and get some fresh air.|J'ai besoin de sortir prendre l'air.|get some fresh air|d||daily_routine|
+have a picnic|faire un pique-nique|A2|4|3|We had a picnic by the lake.|Nous avons fait un pique-nique au bord du lac.|had a picnic|d||leisure|
+have a barbecue|faire un barbecue|A2|4|3|We're having a barbecue on Sunday.|Nous faisons un barbecue dimanche.|having a barbecue|d||leisure|
+go out for dinner|sortir dîner|A2|5|4|Let's go out for dinner on Friday.|Sortons dîner vendredi.|go out for dinner|d||food,leisure|
+stay up late|veiller tard|A2|5|5|I stayed up late to watch the game.|J'ai veillé tard pour regarder le match.|stayed up late|d||daily_routine|
+thick fog|un brouillard épais|B1|3|3|The flight was cancelled because of thick fog.|Le vol a été annulé à cause d'un brouillard épais.|thick fog|d||weather|
+a mild winter|un hiver doux|B1|4|3|We've had a mild winter this year.|Nous avons eu un hiver doux cette année.|a mild winter|d||weather|
+a stray dog|un chien errant|B1|3|3|She adopted a stray dog.|Elle a adopté un chien errant.|a stray dog|d||animals|
+a wild animal|un animal sauvage|A2|4|3|Don't feed wild animals.|Ne nourris pas les animaux sauvages.|wild animals|d||animals,nature|
+a national park|un parc national|A2|4|3|We camped in a national park.|Nous avons campé dans un parc national.|a national park|t||nature,travel|
+a sandy beach|une plage de sable|A2|4|3|There's a lovely sandy beach near the hotel.|Il y a une belle plage de sable près de l'hôtel.|sandy beach|t||nature,travel|
+a stunning view|une vue magnifique|B1|4|4|There's a stunning view from the top.|Il y a une vue magnifique du sommet.|a stunning view|t||travel|
+a quiet street|une rue calme|A2|4|3|I live in a quiet street near the park.|J'habite dans une rue calme près du parc.|a quiet street|d||housing,places|
+a lively atmosphere|une ambiance animée|B1|4|4|The bar has a lively atmosphere.|Le bar a une ambiance animée.|a lively atmosphere|t||places|
+a local shop|un commerce de proximité|A2|4|3|I buy my bread at a local shop.|J'achète mon pain dans un commerce de proximité.|a local shop|d||shopping,places|
+@connector
+at best|au mieux|B2|5|4|At best, we'll finish in June.|Au mieux, nous finirons en juin.|At best|c||fn_nuance|
+at worst|au pire|B2|4|4|At worst, we lose a day.|Au pire, nous perdons une journée.|At worst|c||fn_nuance|
+at most|tout au plus|B1|5|4|It'll take an hour at most.|Ça prendra une heure tout au plus.|at most|c||fn_nuance|
+at the latest|au plus tard|A2|5|5|Send it by Friday at the latest.|Envoie-le vendredi au plus tard.|at the latest|w||time,pro|
+at the earliest|au plus tôt|B1|5|4|We can start in May at the earliest.|Nous pouvons commencer en mai au plus tôt.|at the earliest|w||time,pro|
+on average|en moyenne|B1|5|5|On average, we sell fifty a day.|En moyenne, nous en vendons cinquante par jour.|On average|w||analysis,pro|
+in a row|d'affilée|B1|5|5|It rained for five days in a row.|Il a plu cinq jours d'affilée.|in a row|c||time|
+on and off|par intermittence|B2|4|3|It's been raining on and off all day.|Il pleut par intermittence toute la journée.|on and off|c||time|
+so to speak|pour ainsi dire|B2|4|3|He's the boss, so to speak.|C'est le chef, pour ainsi dire.|so to speak|c||fn_rephrase|
+for good|pour de bon|B1|5|4|He's left the country for good.|Il a quitté le pays pour de bon.|for good|c||time|
+for sure|c'est sûr|A2|5|4|It's going to be hard, for sure.|Ça va être difficile, c'est sûr.|for sure|c|i|fn_agree|
+at all times|en permanence|B1|5|4|Keep your passport with you at all times.|Gardez votre passeport sur vous en permanence.|at all times|d||rules|
+in the sense that|dans le sens où|B2|4|4|It's better, in the sense that it's faster.|C'est mieux, dans le sens où c'est plus rapide.|in the sense that|c||fn_clarify|
+to the extent that|dans la mesure où|B2+|4|3|It's useful to the extent that it saves time.|C'est utile dans la mesure où ça fait gagner du temps.|to the extent that|a|f|fn_nuance|
+not that|non pas que|B2|4|3|I didn't go. Not that I wanted to.|Je n'y suis pas allé. Non pas que j'en aie eu envie.|Not that|c||fn_nuance|

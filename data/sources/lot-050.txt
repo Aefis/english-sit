@@ -1,0 +1,71 @@
+# Lot 050 : A1-A2 (questions, réponses et consignes très courantes du quotidien, priorité haute)
+@chunk
+Where are you going?|Où vas-tu ?|A1|5|5|Where are you going? It's late.|Où vas-tu ? Il est tard.|Where are you going|c||basics|
+Where have you been?|Où étais-tu ?|A2|5|5|Where have you been? I've been calling you.|Où étais-tu ? Je t'appelle depuis tout à l'heure.|Where have you been|c||basics|
+Did you have a good time?|Tu t'es bien amusé ?|A2|5|5|Did you have a good time at the party?|Tu t'es bien amusé à la fête ?|Did you have a good time|c||small_talk|
+How was the trip?|Comment s'est passé le voyage ?|A2|5|5|Welcome back! How was the trip?|Bon retour ! Comment s'est passé le voyage ?|How was the trip|c||small_talk,travel|
+Did you sleep well?|Tu as bien dormi ?|A1|5|5|You look great! Did you sleep well?|Tu as bonne mine ! Tu as bien dormi ?|Did you sleep well|c||daily_routine|
+Are you hungry?|Tu as faim ?|A1|5|5|Are you hungry? I can make a sandwich.|Tu as faim ? Je peux faire un sandwich.|Are you hungry|c||food|
+Are you ready?|Tu es prêt ?|A1|5|5|Are you ready? We're leaving in five minutes.|Tu es prêt ? Nous partons dans cinq minutes.|Are you ready|c||basics|
+What are you looking for?|Qu'est-ce que tu cherches ?|A2|5|5|What are you looking for? Your keys?|Qu'est-ce que tu cherches ? Tes clés ?|What are you looking for|c||basics|
+What are you talking about?|De quoi tu parles ?|A2|5|5|What are you talking about? I never said that.|De quoi tu parles ? Je n'ai jamais dit ça.|What are you talking about|c||fn_clarify|
+What are you doing?|Qu'est-ce que tu fais ?|A1|5|5|What are you doing? Stop it!|Qu'est-ce que tu fais ? Arrête !|What are you doing|c||basics|
+What did you do at the weekend?|Qu'as-tu fait ce week-end ?|A2|5|5|So, what did you do at the weekend?|Alors, qu'as-tu fait ce week-end ?|what did you do at the weekend|c||small_talk|
+When are you leaving?|Quand pars-tu ?|A2|5|5|When are you leaving for Spain?|Quand pars-tu en Espagne ?|When are you leaving|c||basics|
+When did you arrive?|Quand es-tu arrivé ?|A2|5|4|When did you arrive in London?|Quand es-tu arrivé à Londres ?|When did you arrive|c||basics|
+When's your birthday?|C'est quand, ton anniversaire ?|A1|5|4|When's your birthday? In May?|C'est quand, ton anniversaire ? En mai ?|When's your birthday|c||small_talk|
+Why did you do that?|Pourquoi as-tu fait ça ?|A2|5|5|Why did you do that? I told you not to.|Pourquoi as-tu fait ça ? Je t'avais dit de ne pas le faire.|Why did you do that|c||basics|
+Why is that?|Pourquoi ça ?|A2|5|4|You don't like it? Why is that?|Tu n'aimes pas ça ? Pourquoi ça ?|Why is that|c||fn_clarify|
+Is that all?|C'est tout ?|A1|5|5|Is that all? Nothing else?|C'est tout ? Rien d'autre ?|Is that all|d||basics,shopping|
+Is it open?|C'est ouvert ?|A1|5|4|Is it open on Mondays?|C'est ouvert le lundi ?|Is it open|d||basics|
+Is it free?|C'est gratuit ?|A1|5|4|Is it free for children?|C'est gratuit pour les enfants ?|Is it free|d||basics|
+Is it ready?|C'est prêt ?|A1|5|4|Is it ready? I'm so hungry.|C'est prêt ? J'ai tellement faim.|Is it ready|c||basics|
+Can I come in?|Je peux entrer ?|A1|5|5|Hello, can I come in?|Bonjour, je peux entrer ?|can I come in|c||basics|
+Can I sit here?|Je peux m'asseoir ici ?|A1|5|5|Excuse me, can I sit here?|Excusez-moi, je peux m'asseoir ici ?|can I sit here|c||basics|
+Can I use your phone?|Je peux utiliser ton téléphone ?|A1|5|5|My battery's dead. Can I use your phone?|Je n'ai plus de batterie. Je peux utiliser ton téléphone ?|Can I use your phone|c||phone|
+Can I use the bathroom?|Je peux utiliser les toilettes ?|A2|5|5|Sorry, can I use the bathroom?|Pardon, je peux utiliser les toilettes ?|can I use the bathroom|c||basics|
+Can I open the window?|Je peux ouvrir la fenêtre ?|A1|5|4|It's hot in here. Can I open the window?|Il fait chaud ici. Je peux ouvrir la fenêtre ?|Can I open the window|c||basics|
+Can I see it?|Je peux le voir ?|A1|5|4|Is that your new phone? Can I see it?|C'est ton nouveau téléphone ? Je peux le voir ?|Can I see it|c||basics|
+Can I leave early today?|Je peux partir tôt aujourd'hui ?|A2|4|4|I have a dentist's appointment. Can I leave early today?|J'ai rendez-vous chez le dentiste. Je peux partir tôt aujourd'hui ?|Can I leave early today|w||work,pro|
+Can we talk about this?|On peut en parler ?|A2|5|5|Please don't go. Can we talk about this?|S'il te plaît, ne pars pas. On peut en parler ?|Can we talk about this|c||relationships|
+Can we go now?|On peut y aller maintenant ?|A1|5|4|I'm tired. Can we go now?|Je suis fatigué. On peut y aller maintenant ?|Can we go now|c||basics|
+Do you need anything?|Tu as besoin de quelque chose ?|A2|5|5|I'm going to the shop. Do you need anything?|Je vais au magasin. Tu as besoin de quelque chose ?|Do you need anything|c||basics|
+Do you have a pen?|Tu as un stylo ?|A1|5|4|Sorry, do you have a pen?|Pardon, tu as un stylo ?|do you have a pen|c||basics|
+Do you have time?|Tu as le temps ?|A1|5|5|Do you have time to help me?|Tu as le temps de m'aider ?|Do you have time|c||basics|
+Do you have children?|Tu as des enfants ?|A1|5|4|Do you have children? How old are they?|Tu as des enfants ? Quel âge ont-ils ?|Do you have children|c||family,small_talk|
+Do you like it?|Ça te plaît ?|A1|5|5|It's a present. Do you like it?|C'est un cadeau. Ça te plaît ?|Do you like it|c||basics|
+Do you remember?|Tu te souviens ?|A1|5|5|We met in Rome. Do you remember?|Nous nous sommes rencontrés à Rome. Tu te souviens ?|Do you remember|c||basics|
+Do you understand?|Tu comprends ?|A1|5|5|It's a bit difficult. Do you understand?|C'est un peu difficile. Tu comprends ?|Do you understand|c||fn_clarify|
+Does it hurt?|Ça fait mal ?|A1|5|5|Does it hurt when I touch it?|Ça fait mal quand je touche ?|Does it hurt|d||health|
+Did you enjoy it?|Ça t'a plu ?|A2|5|5|You saw the film? Did you enjoy it?|Tu as vu le film ? Ça t'a plu ?|Did you enjoy it|c||small_talk|
+Did it work?|Ça a marché ?|A2|5|5|You tried again? Did it work?|Tu as réessayé ? Ça a marché ?|Did it work|c||basics|
+Did you get my message?|Tu as eu mon message ?|A2|5|5|Did you get my message about tonight?|Tu as eu mon message pour ce soir ?|Did you get my message|c||phone|
+Have you eaten?|Tu as mangé ?|A2|5|5|Have you eaten? There's some soup left.|Tu as mangé ? Il reste de la soupe.|Have you eaten|c||food|
+Have you finished?|Tu as fini ?|A2|5|5|Have you finished with the computer?|Tu as fini avec l'ordinateur ?|Have you finished|c||basics|
+Have you decided?|Vous avez choisi ?|A2|5|4|Have you decided, or do you need more time?|Vous avez choisi, ou il vous faut encore du temps ?|Have you decided|t||food|
+Have you got everything?|Tu as tout ?|A2|5|4|Have you got everything? Keys, phone, wallet?|Tu as tout ? Clés, téléphone, portefeuille ?|Have you got everything|c||basics|
+Will you be there?|Tu seras là ?|A2|5|5|Will you be there on Saturday?|Tu seras là samedi ?|Will you be there|c||basics|
+Would you like a coffee?|Tu veux un café ?|A1|5|5|Would you like a coffee before you go?|Tu veux un café avant de partir ?|Would you like a coffee|c||food|
+Yes, please.|Oui, s'il te plaît.|A1|5|5|More tea? Yes, please.|Encore du thé ? Oui, s'il te plaît.|Yes, please|c||basics|
+Yes, of course.|Oui, bien sûr.|A1|5|5|Can I sit here? Yes, of course.|Je peux m'asseoir ici ? Oui, bien sûr.|Yes, of course|c||basics|
+Sure, no problem.|Bien sûr, pas de problème.|A2|5|5|Can you help me? Sure, no problem.|Tu peux m'aider ? Bien sûr, pas de problème.|Sure, no problem|c||basics|
+Just a little.|Juste un peu.|A1|5|4|Do you speak Spanish? Just a little.|Tu parles espagnol ? Juste un peu.|Just a little|c||basics|
+Not today.|Pas aujourd'hui.|A1|5|4|Are you working? Not today.|Tu travailles ? Pas aujourd'hui.|Not today|c||basics|
+Not very.|Pas très.|A2|4|3|Is it far? Not very.|C'est loin ? Pas très.|Not very|c||basics|
+Here's my number.|Voici mon numéro.|A1|5|5|Here's my number, call me tomorrow.|Voici mon numéro, appelle-moi demain.|Here's my number|c||phone|
+This way, please.|Par ici, s'il vous plaît.|A2|5|5|Your table is ready. This way, please.|Votre table est prête. Par ici, s'il vous plaît.|This way, please|d||basics|
+Follow me.|Suivez-moi.|A1|5|5|Follow me, it's on the second floor.|Suivez-moi, c'est au deuxième étage.|Follow me|d||basics|
+Come with me.|Viens avec moi.|A1|5|5|Come with me, I'll show you.|Viens avec moi, je vais te montrer.|Come with me|c||basics|
+Wait for me.|Attends-moi.|A1|5|5|Wait for me, I'm coming!|Attends-moi, j'arrive !|Wait for me|c||basics|
+Wait here.|Attends ici.|A1|5|4|Wait here, I'll get the car.|Attends ici, je vais chercher la voiture.|Wait here|c||basics|
+Look at this.|Regarde ça.|A1|5|5|Look at this, it's so funny.|Regarde ça, c'est trop drôle.|Look at this|c||basics|
+Listen to me.|Écoute-moi.|A1|5|5|Listen to me, it's important.|Écoute-moi, c'est important.|Listen to me|c||basics|
+Call me.|Appelle-moi.|A1|5|5|Call me when you get there.|Appelle-moi quand tu arrives.|Call me|c||phone|
+Text me.|Envoie-moi un SMS.|A2|5|5|Text me when you're home.|Envoie-moi un SMS quand tu es rentré.|Text me|c|i|phone|
+Show me.|Montre-moi.|A1|5|5|Show me how it works.|Montre-moi comment ça marche.|Show me|c||basics|
+Don't move.|Ne bouge pas.|A1|5|4|Don't move, there's a bee on your arm.|Ne bouge pas, il y a une abeille sur ton bras.|Don't move|c||basics|
+Don't touch it.|N'y touche pas.|A1|5|4|Don't touch it, it's hot.|N'y touche pas, c'est chaud.|Don't touch it|c||basics,safety|
+Don't go.|Ne pars pas.|A1|5|4|Don't go, stay a little longer.|Ne pars pas, reste encore un peu.|Don't go|c||basics|
+Be quiet.|Tais-toi.|A1|5|4|Be quiet, the baby's asleep.|Tais-toi, le bébé dort.|Be quiet|c||basics|
+Turn it off.|Éteins-le.|A2|5|4|The TV is too loud. Turn it off.|La télé est trop forte. Éteins-la.|Turn it off|c||basics|
+Close the door, please.|Ferme la porte, s'il te plaît.|A1|5|4|It's cold, close the door, please.|Il fait froid, ferme la porte, s'il te plaît.|close the door, please|c||basics|

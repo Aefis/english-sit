@@ -1,0 +1,85 @@
+# Lot 048 : A2-B2 (raconter, donner son avis, décrire, parler de ses projets, quotidien oral)
+@chunk
+It all started when...|Tout a commencé quand...|B1|4|4|It all started when I lost my job.|Tout a commencé quand j'ai perdu mon emploi.|It all started when|c||fn_narrate|
+The other day,...|L'autre jour,...|A2|5|5|The other day, I saw Anna at the market.|L'autre jour, j'ai vu Anna au marché.|The other day|c||fn_narrate|
+A few years ago,...|Il y a quelques années,...|A2|5|5|A few years ago, I lived in Dublin.|Il y a quelques années, j'habitais à Dublin.|A few years ago|c||fn_narrate|
+When I was a kid,...|Quand j'étais petit,...|A2|5|5|When I was a kid, we went to the sea every summer.|Quand j'étais petit, nous allions à la mer chaque été.|When I was a kid|c|i|fn_narrate|
+Last time I...|La dernière fois que j'ai...|A2|5|4|Last time I went there, it was closed.|La dernière fois que j'y suis allé, c'était fermé.|Last time I|c||fn_narrate|
+I'll never forget...|Je n'oublierai jamais...|B1|5|4|I'll never forget that summer.|Je n'oublierai jamais cet été-là.|I'll never forget|c||fn_narrate|
+Guess who I saw.|Devine qui j'ai vu.|A2|4|4|Guess who I saw at the airport.|Devine qui j'ai vu à l'aéroport.|Guess who I saw|c||fn_narrate|
+I ran into...|Je suis tombé sur...|B1|5|5|I ran into Tom at the supermarket.|Je suis tombé sur Tom au supermarché.|I ran into|c||fn_narrate|
+And that's when...|Et c'est là que...|B1|5|4|And that's when the lights went out.|Et c'est là que les lumières se sont éteintes.|And that's when|c||fn_narrate|
+That's when I realised...|C'est là que j'ai compris...|B1|5|4|That's when I realised I'd lost my passport.|C'est là que j'ai compris que j'avais perdu mon passeport.|That's when I realised|c||fn_narrate|
+By the time I got there,...|Quand je suis arrivé,...|B1|5|4|By the time I got there, everyone had left.|Quand je suis arrivé, tout le monde était parti.|By the time I got there|c||fn_narrate|
+I almost forgot.|J'ai failli oublier.|A2|5|5|Oh, I almost forgot, here are your keys.|Ah, j'ai failli oublier, voici tes clés.|I almost forgot|c||fn_topic_change|
+I nearly missed...|J'ai failli rater...|B1|5|4|I nearly missed my flight this morning.|J'ai failli rater mon vol ce matin.|I nearly missed|c||fn_narrate|
+I ended up...|J'ai fini par...|B1|5|5|I ended up taking a taxi.|J'ai fini par prendre un taxi.|I ended up|c||fn_narrate|
+I managed to...|J'ai réussi à...|B1|5|5|I managed to fix it on my own.|J'ai réussi à le réparer tout seul.|I managed to|c||fn_narrate|
+I couldn't help laughing.|Je n'ai pas pu m'empêcher de rire.|B1|4|4|He looked so funny that I couldn't help laughing.|Il avait l'air si drôle que je n'ai pas pu m'empêcher de rire.|I couldn't help laughing|c||fn_narrate|
+I couldn't believe my eyes.|Je n'en croyais pas mes yeux.|B1|4|4|When I saw the bill, I couldn't believe my eyes.|Quand j'ai vu l'addition, je n'en croyais pas mes yeux.|I couldn't believe my eyes|c||fn_narrate|
+It was a nightmare.|C'était un cauchemar.|A2|5|5|The flight home was a nightmare.|Le vol du retour a été un cauchemar.|was a nightmare|c||fn_narrate|
+It was a disaster.|C'était une catastrophe.|A2|5|4|The dinner was a disaster.|Le dîner a été une catastrophe.|was a disaster|c||fn_narrate|
+I reckon...|À mon avis,...|B1|5|4|I reckon it'll rain later.|À mon avis, il va pleuvoir plus tard.|I reckon|c|i|fn_opinion|
+Personally, I think...|Personnellement, je pense que...|A2|5|5|Personally, I think it's too expensive.|Personnellement, je pense que c'est trop cher.|Personally, I think|c||fn_opinion|
+What I like about ... is...|Ce que j'aime dans..., c'est...|B1|5|5|What I like about this city is the food.|Ce que j'aime dans cette ville, c'est la cuisine.|What I like about|c||fn_opinion|
+The best thing about ... is...|Le mieux avec..., c'est...|B1|5|4|The best thing about working here is the people.|Le mieux avec ce travail, c'est les gens.|The best thing about|c||fn_opinion|
+The worst thing about ... is...|Le pire avec..., c'est...|B1|5|4|The worst thing about my job is the commute.|Le pire avec mon travail, c'est le trajet.|The worst thing about|c||fn_opinion|
+I've never thought about it that way.|Je n'y avais jamais pensé sous cet angle.|B1|4|4|That's true, I've never thought about it that way.|C'est vrai, je n'y avais jamais pensé sous cet angle.|I've never thought about it that way|c||fn_opinion|
+It depends how you look at it.|Ça dépend du point de vue.|B1|4|4|Is it good news? It depends how you look at it.|C'est une bonne nouvelle ? Ça dépend du point de vue.|It depends how you look at it|c||fn_opinion|
+I'm not too keen on...|Je ne raffole pas de...|B1|5|5|I'm not too keen on seafood.|Je ne raffole pas des fruits de mer.|I'm not too keen on|c||fn_opinion|
+I'm really keen to...|J'ai très envie de...|B1|4|4|I'm really keen to try that new restaurant.|J'ai très envie d'essayer ce nouveau restaurant.|I'm really keen to|c||fn_opinion|
+I hate it when...|Je déteste quand...|A2|5|5|I hate it when people are late.|Je déteste quand les gens sont en retard.|I hate it when|c||fn_opinion|
+I love it when...|J'adore quand...|A2|5|4|I love it when it snows.|J'adore quand il neige.|I love it when|c||fn_opinion|
+It's not for me.|Ce n'est pas pour moi.|A2|5|4|I tried yoga, but it's not for me.|J'ai essayé le yoga, mais ce n'est pas pour moi.|it's not for me|c||fn_opinion|
+It's overrated.|C'est surfait.|B2|4|3|Everyone loves that film, but I think it's overrated.|Tout le monde adore ce film, mais je trouve que c'est surfait.|it's overrated|c||fn_opinion|
+It's not as bad as I thought.|Ce n'est pas aussi mal que je le pensais.|B1|5|4|The food here is not as bad as I thought.|La nourriture ici n'est pas aussi mauvaise que je le pensais.|not as bad as I thought|c||fn_opinion|
+That's not how I see it.|Ce n'est pas comme ça que je le vois.|B1|5|4|Sorry, but that's not how I see it.|Désolé, mais ce n'est pas comme ça que je le vois.|that's not how I see it|c||fn_disagree|
+I totally agree.|Je suis complètement d'accord.|A2|5|5|I totally agree with you on that.|Je suis complètement d'accord avec toi là-dessus.|I totally agree|c||fn_agree|
+I completely disagree.|Je ne suis absolument pas d'accord.|B1|5|4|I'm sorry, but I completely disagree.|Je suis désolé, mais je ne suis absolument pas d'accord.|I completely disagree|c||fn_disagree|
+You can't be serious.|Tu ne peux pas être sérieux.|B1|5|4|You paid how much? You can't be serious.|Tu as payé combien ? Tu ne peux pas être sérieux.|You can't be serious|c||fn_react|
+That's not true.|Ce n'est pas vrai.|A2|5|5|That's not true, I never said that.|Ce n'est pas vrai, je n'ai jamais dit ça.|That's not true|c||fn_disagree|
+Are you saying that...?|Tu veux dire que... ?|B1|5|5|Are you saying that it's my fault?|Tu veux dire que c'est ma faute ?|Are you saying that|c||fn_clarify|
+What makes you say that?|Qu'est-ce qui te fait dire ça ?|B1|5|5|What makes you say that? Did something happen?|Qu'est-ce qui te fait dire ça ? Il s'est passé quelque chose ?|What makes you say that|c||fn_clarify|
+What's your opinion on...?|Quelle est ton opinion sur... ?|A2|5|4|What's your opinion on the new law?|Quelle est ton opinion sur la nouvelle loi ?|What's your opinion on|c||fn_opinion|
+Don't you think?|Tu ne trouves pas ?|A2|5|5|It's a bit expensive, don't you think?|C'est un peu cher, tu ne trouves pas ?|don't you think|c||fn_opinion|
+He's about my age.|Il a à peu près mon âge.|A2|4|4|He's about my age, maybe a bit older.|Il a à peu près mon âge, peut-être un peu plus.|He's about my age|c||description|
+He's in his thirties.|Il a la trentaine.|B1|5|4|He's in his thirties and he works in a bank.|Il a la trentaine et il travaille dans une banque.|He's in his thirties|c||description|
+What does she look like?|Elle est comment physiquement ?|A2|5|5|What does she look like? Is she tall?|Elle est comment physiquement ? Elle est grande ?|What does she look like|c||description|
+What's he like?|Il est comment ?|A2|5|5|What's he like, your new boss?|Il est comment, ton nouveau patron ?|What's he like|c||description|
+What's it like living in...?|Comment c'est, de vivre à... ?|B1|5|5|What's it like living in London?|Comment c'est, de vivre à Londres ?|What's it like living in|c||small_talk|
+It's a nice area.|C'est un quartier agréable.|A2|4|4|It's a nice area, with lots of parks.|C'est un quartier agréable, avec beaucoup de parcs.|It's a nice area|c||housing|
+It's about the size of...|C'est à peu près de la taille de...|B1|4|4|It's about the size of a phone.|C'est à peu près de la taille d'un téléphone.|It's about the size of|c||description|
+It's made of...|C'est fait en...|A2|5|4|It's made of wood.|C'est fait en bois.|It's made of|c||description|
+It looks a bit like...|Ça ressemble un peu à...|A2|5|5|It looks a bit like a big spoon.|Ça ressemble un peu à une grande cuillère.|It looks a bit like|c||description|
+It's used for...|Ça sert à...|A2|5|5|It's used for cutting wood.|Ça sert à couper du bois.|It's used for|c||description|
+What's it for?|Ça sert à quoi ?|A2|5|5|What's this button? What's it for?|C'est quoi ce bouton ? Ça sert à quoi ?|What's it for|c||description|
+She's the kind of person who...|C'est le genre de personne qui...|B1|5|4|She's the kind of person who always helps.|C'est le genre de personne qui aide toujours.|She's the kind of person who|c||description|
+It's the kind of place where...|C'est le genre d'endroit où...|B1|5|4|It's the kind of place where everyone knows you.|C'est le genre d'endroit où tout le monde te connaît.|It's the kind of place where|c||description|
+I'm planning to...|Je prévois de...|A2|5|5|I'm planning to visit my parents in May.|Je prévois de rendre visite à mes parents en mai.|I'm planning to|c||decision|
+I'm hoping to...|J'espère...|B1|5|5|I'm hoping to finish by Friday.|J'espère finir d'ici vendredi.|I'm hoping to|c||decision|
+We'll see.|On verra.|A2|5|5|Can we go? We'll see.|On peut y aller ? On verra.|We'll see|c||decision|
+We'll see how it goes.|On verra comment ça se passe.|B1|5|5|Let's try it and we'll see how it goes.|Essayons et on verra comment ça se passe.|we'll see how it goes|c||decision|
+I haven't decided yet.|Je n'ai pas encore décidé.|A2|5|5|Are you going? I haven't decided yet.|Tu y vas ? Je n'ai pas encore décidé.|I haven't decided yet|c||decision|
+It's too early to say.|Il est trop tôt pour le dire.|B1|5|5|Will it work? It's too early to say.|Est-ce que ça va marcher ? Il est trop tôt pour le dire.|It's too early to say|c||decision|
+I'll see what I can do.|Je vais voir ce que je peux faire.|B1|5|5|Leave it with me, I'll see what I can do.|Laisse-moi ça, je vais voir ce que je peux faire.|I'll see what I can do|c||decision|
+If all goes well,...|Si tout va bien,...|B1|5|5|If all goes well, we'll move in June.|Si tout va bien, nous déménagerons en juin.|If all goes well|c||decision|
+With a bit of luck,...|Avec un peu de chance,...|B1|5|4|With a bit of luck, we'll get there on time.|Avec un peu de chance, nous arriverons à l'heure.|With a bit of luck|c||decision|
+I can't wait to...|J'ai hâte de...|A2|5|5|I can't wait to see you.|J'ai hâte de te voir.|I can't wait to|c||feelings|
+I don't have any plans.|Je n'ai rien de prévu.|A2|5|5|I don't have any plans this weekend.|Je n'ai rien de prévu ce week-end.|I don't have any plans|c||small_talk|
+I've just got home.|Je viens de rentrer.|A2|5|4|I've just got home, can I call you later?|Je viens de rentrer, je peux t'appeler plus tard ?|I've just got home|c||daily_routine|
+I'm about to leave.|Je suis sur le point de partir.|A2|5|4|I'm about to leave, do you need anything?|Je suis sur le point de partir, tu as besoin de quelque chose ?|I'm about to leave|c||daily_routine|
+I usually get up at...|Je me lève généralement à...|A2|5|4|During the week, I usually get up at seven.|En semaine, je me lève généralement à sept heures.|I usually get up at|c||daily_routine|
+I went to bed late.|Je me suis couché tard.|A2|5|3|I went to bed late, so I'm tired.|Je me suis couché tard, alors je suis fatigué.|I went to bed late|c||daily_routine|
+I've got a lot to do.|J'ai beaucoup à faire.|A2|5|5|I can't talk now, I've got a lot to do.|Je ne peux pas parler maintenant, j'ai beaucoup à faire.|I've got a lot to do|c||daily_routine|
+I don't have time right now.|Je n'ai pas le temps pour l'instant.|A2|5|5|Sorry, I don't have time right now.|Désolé, je n'ai pas le temps pour l'instant.|I don't have time right now|c||daily_routine|
+I'm in the middle of something.|Je suis en plein milieu de quelque chose.|B1|5|5|Can I call you back? I'm in the middle of something.|Je peux te rappeler ? Je suis en plein milieu de quelque chose.|I'm in the middle of something|c||daily_routine|
+It slipped my mind.|Ça m'est sorti de la tête.|B1|5|5|Sorry, it completely slipped my mind.|Désolé, ça m'est complètement sorti de la tête.|slipped my mind|c||fn_react|
+I completely forgot.|J'ai complètement oublié.|A2|5|5|Oh no, I completely forgot your birthday.|Oh non, j'ai complètement oublié ton anniversaire.|I completely forgot|c||fn_react|
+I'll do it later.|Je le ferai plus tard.|A2|5|4|Not now, I'll do it later.|Pas maintenant, je le ferai plus tard.|I'll do it later|c||daily_routine|
+Give me a second.|Donne-moi une seconde.|A2|5|5|Give me a second, I'm nearly done.|Donne-moi une seconde, j'ai presque fini.|Give me a second|c||basics|
+Hang on a second.|Attends une seconde.|B1|5|5|Hang on a second, I'll get my coat.|Attends une seconde, je prends mon manteau.|Hang on a second|c|i|basics|
+I'll be right with you.|Je suis à vous tout de suite.|B1|5|5|I'll be right with you, sir.|Je suis à vous tout de suite, monsieur.|I'll be right with you|d||basics,pro|
+I'm coming.|J'arrive.|A2|5|5|I'm coming, wait for me!|J'arrive, attends-moi !|I'm coming|c||basics|
+Mind the step.|Attention à la marche.|A2|4|4|Mind the step when you go in.|Attention à la marche en entrant.|Mind the step|d||safety|
+Can I get past?|Je peux passer ?|A2|4|4|Excuse me, can I get past?|Pardon, je peux passer ?|can I get past|d||transport|
+After you.|Après vous.|A2|5|4|After you, I'm in no hurry.|Après vous, je ne suis pas pressé.|After you|c||basics|

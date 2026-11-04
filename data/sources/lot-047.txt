@@ -1,0 +1,82 @@
+# Lot 047 : A2-B2 (anglais professionnel en phrases : e-mails, réunions, suivi de projet, entretien, téléphone, service client)
+@chunk
+Thanks for reaching out.|Merci de m'avoir contacté.|B1|5|5|Thanks for reaching out, I'd be happy to help.|Merci de m'avoir contacté, je serai ravi de vous aider.|Thanks for reaching out|w||email,pro|
+I'm following up on...|Je fais suite à...|B1|5|5|I'm following up on my email from last week.|Je fais suite à mon e-mail de la semaine dernière.|I'm following up on|w||email,pro|
+Please see attached.|Veuillez trouver ci-joint le document.|B1|5|4|Please see attached for the full report.|Veuillez trouver ci-joint le rapport complet.|Please see attached|w|f|email,pro|
+As promised, here is...|Comme promis, voici...|B1|5|5|As promised, here is the updated file.|Comme promis, voici le fichier mis à jour.|As promised, here is|w||email,pro|
+Thanks for your quick reply.|Merci pour ta réponse rapide.|B1|5|5|Thanks for your quick reply, that's perfect.|Merci pour ta réponse rapide, c'est parfait.|Thanks for your quick reply|w||email,pro|
+I look forward to your reply.|Je reste dans l'attente de votre réponse.|B1|5|5|Thank you, I look forward to your reply.|Merci, je reste dans l'attente de votre réponse.|look forward to your reply|w|f|email,pro|
+Hope you had a good weekend.|J'espère que tu as passé un bon week-end.|A2|5|4|Hi Tom, hope you had a good weekend.|Salut Tom, j'espère que tu as passé un bon week-end.|hope you had a good weekend|w||email,small_talk|
+Many thanks.|Mille mercis.|B1|5|4|Many thanks for your help with this.|Mille mercis pour ton aide.|Many thanks|w||email,pro|
+To whom it may concern|À qui de droit|B2|3|3|To whom it may concern: I am writing about my order.|À qui de droit : je vous écris au sujet de ma commande.|To whom it may concern|w|f|email|
+I am writing to apply for...|Je vous écris pour postuler à...|B1|4|4|I am writing to apply for the position of sales manager.|Je vous écris pour postuler au poste de responsable commercial.|I am writing to apply for|w|f|email,career|
+Please confirm receipt.|Merci d'accuser réception.|B2|4|3|Please confirm receipt of this email.|Merci d'accuser réception de cet e-mail.|Please confirm receipt|w|f|email,pro|
+Sorry for the confusion.|Désolé pour la confusion.|B1|5|4|Sorry for the confusion, the meeting is at ten.|Désolé pour la confusion, la réunion est à dix heures.|Sorry for the confusion|w||email,pro|
+Thanks for flagging this.|Merci de l'avoir signalé.|B2|5|4|Thanks for flagging this, I'll fix it today.|Merci de l'avoir signalé, je vais corriger ça aujourd'hui.|Thanks for flagging this|w||email,pro|
+I'll forward it to you.|Je te le transfère.|B1|5|4|I don't have the answer, but I'll forward it to you.|Je n'ai pas la réponse, mais je te le transfère.|I'll forward it to you|w||email,pro|
+Shall we get started?|On commence ?|B1|5|5|It's ten o'clock. Shall we get started?|Il est dix heures. On commence ?|Shall we get started|w||meetings,pro|
+Is everyone here?|Tout le monde est là ?|A2|5|4|Is everyone here? Let's start.|Tout le monde est là ? Commençons.|Is everyone here|w||meetings,pro|
+Thanks for joining.|Merci de vous être connectés.|B1|5|4|Hi everyone, thanks for joining.|Bonjour à tous, merci de vous être connectés.|thanks for joining|w||meetings,pro|
+Can I jump in here?|Je peux intervenir ?|B1|5|5|Sorry, can I jump in here?|Désolé, je peux intervenir ?|can I jump in here|w||meetings,fn_interrupt,pro|
+Sorry, you go ahead.|Pardon, vas-y.|B1|5|4|Oh, sorry, you go ahead.|Oh, pardon, vas-y.|sorry, you go ahead|w||meetings,pro|
+Could you go back a slide?|Tu peux revenir à la diapo d'avant ?|B1|4|4|Could you go back a slide, please?|Tu peux revenir à la diapo d'avant, s'il te plaît ?|Could you go back a slide|w||presentations,pro|
+I need to drop off.|Je dois quitter l'appel.|B1|4|4|Sorry, I need to drop off in five minutes.|Désolé, je dois quitter l'appel dans cinq minutes.|I need to drop off|w||meetings,pro|
+I have to jump on another call.|Je dois passer à un autre appel.|B2|4|4|Sorry, I have to jump on another call.|Désolé, je dois passer à un autre appel.|I have to jump on another call|w|i|meetings,pro|
+Let's park that for now.|Mettons ça de côté pour l'instant.|B2|4|4|Good question, but let's park that for now.|Bonne question, mais mettons ça de côté pour l'instant.|let's park that for now|w||meetings,pro|
+So, the next steps are...|Donc, les prochaines étapes sont...|B1|5|5|So, the next steps are to call the client and update the plan.|Donc, les prochaines étapes sont d'appeler le client et de mettre à jour le plan.|So, the next steps are|w||meetings,pro|
+Any other business?|D'autres points à aborder ?|B1|4|4|Any other business before we finish?|D'autres points à aborder avant de terminer ?|Any other business|w||meetings,pro|
+Any final thoughts?|Une dernière remarque ?|B1|4|4|Any final thoughts before we wrap up?|Une dernière remarque avant de conclure ?|Any final thoughts|w||meetings,pro|
+I'll send out the notes.|J'enverrai le compte rendu.|B1|5|4|I'll send out the notes after the meeting.|J'enverrai le compte rendu après la réunion.|I'll send out the notes|w||meetings,pro|
+Same time next week?|Même heure la semaine prochaine ?|A2|5|4|Thanks, everyone. Same time next week?|Merci à tous. Même heure la semaine prochaine ?|Same time next week|w||meetings,pro|
+I'd like to build on what Tom said.|J'aimerais rebondir sur ce qu'a dit Tom.|B2|4|4|I'd like to build on what Tom said about costs.|J'aimerais rebondir sur ce qu'a dit Tom à propos des coûts.|I'd like to build on what Tom said|w||meetings,pro|
+That's a good starting point.|C'est un bon point de départ.|B1|5|4|That's a good starting point, thanks.|C'est un bon point de départ, merci.|That's a good starting point|w||meetings,pro|
+Let's not lose sight of...|Ne perdons pas de vue...|B2|4|4|Let's not lose sight of the main goal.|Ne perdons pas de vue l'objectif principal.|Let's not lose sight of|w||meetings,pro|
+What are your thoughts?|Qu'en penses-tu ?|B1|5|5|What are your thoughts on the new design?|Que penses-tu du nouveau design ?|What are your thoughts|w||meetings,fn_opinion,pro|
+Does anyone disagree?|Quelqu'un n'est pas d'accord ?|B1|4|3|Does anyone disagree with this?|Quelqu'un n'est pas d'accord avec ça ?|Does anyone disagree|w||meetings,pro|
+Let's take a vote.|Votons.|B1|4|3|We can't agree, so let's take a vote.|Nous ne sommes pas d'accord, alors votons.|let's take a vote|w||meetings,pro|
+We're on track.|Nous sommes dans les temps.|B1|5|5|Don't worry, we're on track for June.|Ne t'inquiète pas, nous sommes dans les temps pour juin.|we're on track|w||project,pro|
+We've hit a snag.|Nous avons rencontré un problème.|B2|4|4|We've hit a snag with the new supplier.|Nous avons rencontré un problème avec le nouveau fournisseur.|We've hit a snag|w|i|project,pro|
+There's been a delay.|Il y a eu un retard.|A2|5|5|There's been a delay with the delivery.|Il y a eu un retard de livraison.|There's been a delay|w||project,pro|
+It's taking longer than expected.|Ça prend plus de temps que prévu.|B1|5|5|Sorry, it's taking longer than expected.|Désolé, ça prend plus de temps que prévu.|it's taking longer than expected|w||project,pro|
+It's almost done.|C'est presque fini.|A2|5|5|The report? It's almost done.|Le rapport ? C'est presque fini.|It's almost done|w||project,pro|
+It's been sorted.|C'est réglé.|B1|5|4|The problem with the printer? It's been sorted.|Le problème d'imprimante ? C'est réglé.|It's been sorted|w|i|project,pro|
+It's ready for review.|C'est prêt à être relu.|B1|5|4|The contract is ready for review.|Le contrat est prêt à être relu.|ready for review|w||project,pro|
+Can you double-check this?|Tu peux revérifier ça ?|B1|5|5|Can you double-check this before I send it?|Tu peux revérifier ça avant que je l'envoie ?|Can you double-check this|w||project,pro|
+I'll double-check.|Je vais revérifier.|B1|5|5|I think it's Tuesday, but I'll double-check.|Je crois que c'est mardi, mais je vais revérifier.|I'll double-check|w||project,pro|
+I need your input.|J'ai besoin de ton retour.|B1|5|5|I need your input on this slide.|J'ai besoin de ton retour sur cette diapo.|I need your input|w||project,pro|
+I need your sign-off.|J'ai besoin de ta validation.|B2|5|4|I need your sign-off before we launch.|J'ai besoin de ta validation avant le lancement.|I need your sign-off|w||project,pro|
+What's the priority?|Quelle est la priorité ?|B1|5|5|We can't do everything. What's the priority?|Nous ne pouvons pas tout faire. Quelle est la priorité ?|What's the priority|w||project,pro|
+What's blocking you?|Qu'est-ce qui te bloque ?|B1|4|4|What's blocking you on this task?|Qu'est-ce qui te bloque sur cette tâche ?|What's blocking you|w||project,pro|
+I'm waiting on...|J'attends...|B1|5|4|I'm waiting on the figures from finance.|J'attends les chiffres du service financier.|I'm waiting on|w||project,pro|
+Who's responsible for this?|Qui est responsable de ça ?|A2|5|4|Who's responsible for this budget?|Qui est responsable de ce budget ?|Who's responsible for|w||project,pro|
+We'll have to push back the deadline.|Nous allons devoir repousser la date limite.|B1|5|5|We'll have to push back the deadline by a week.|Nous allons devoir repousser la date limite d'une semaine.|We'll have to push back the deadline|w||project,pro|
+Can we extend the deadline?|On peut prolonger le délai ?|B1|5|4|Can we extend the deadline to Friday?|On peut prolonger le délai jusqu'à vendredi ?|Can we extend the deadline|w||project,pro|
+I'm applying for the position of...|Je postule au poste de...|B1|5|4|I'm applying for the position of project manager.|Je postule au poste de chef de projet.|I'm applying for the position of|w||career,pro|
+I have experience in...|J'ai de l'expérience en...|A2|5|5|I have experience in customer service.|J'ai de l'expérience en service client.|I have experience in|w||career,pro|
+My main strength is...|Mon principal point fort, c'est...|B1|5|5|My main strength is my attention to detail.|Mon principal point fort, c'est mon souci du détail.|My main strength is|w||career,pro|
+I'm looking for a new challenge.|Je cherche un nouveau défi.|B1|5|5|I like my job, but I'm looking for a new challenge.|J'aime mon travail, mais je cherche un nouveau défi.|I'm looking for a new challenge|w||career,pro|
+I enjoy working with people.|J'aime travailler avec les gens.|A2|4|4|I enjoy working with people, that's why I chose sales.|J'aime travailler avec les gens, c'est pourquoi j'ai choisi la vente.|I enjoy working with people|w||career,pro|
+What would a typical day look like?|À quoi ressemblerait une journée type ?|B1|4|4|What would a typical day look like in this job?|À quoi ressemblerait une journée type à ce poste ?|What would a typical day look like|w||career,pro|
+When can I expect to hear from you?|Quand aurai-je de vos nouvelles ?|B1|4|4|Thank you. When can I expect to hear from you?|Merci. Quand aurai-je de vos nouvelles ?|When can I expect to hear from you|w||career,pro|
+Is there room for growth?|Y a-t-il des possibilités d'évolution ?|B2|4|4|Is there room for growth in this role?|Y a-t-il des possibilités d'évolution à ce poste ?|Is there room for growth|w||career,pro|
+Is remote work possible?|Le télétravail est-il possible ?|B1|5|4|Is remote work possible in this position?|Le télétravail est-il possible à ce poste ?|Is remote work possible|w||career,pro|
+Do you have any questions for us?|Avez-vous des questions à nous poser ?|B1|5|4|Before we finish, do you have any questions for us?|Avant de terminer, avez-vous des questions à nous poser ?|do you have any questions for us|w||career,pro|
+Let me transfer you.|Je vous transfère.|B1|5|4|Let me transfer you to the sales team.|Je vous transfère au service commercial.|Let me transfer you|w||phone,pro|
+Could I have your order number?|Puis-je avoir votre numéro de commande ?|B1|5|4|Could I have your order number, please?|Puis-je avoir votre numéro de commande, s'il vous plaît ?|Could I have your order number|w||phone,pro|
+Could I put you on hold?|Puis-je vous mettre en attente ?|B1|5|4|Could I put you on hold for a moment?|Puis-je vous mettre en attente un instant ?|Could I put you on hold|w||phone,pro|
+Thanks for holding.|Merci d'avoir patienté.|B1|5|4|Thanks for holding, how can I help?|Merci d'avoir patienté, comment puis-je vous aider ?|Thanks for holding|w||phone,pro|
+We'll send you a replacement.|Nous vous enverrons un produit de remplacement.|B1|4|4|We're sorry, we'll send you a replacement today.|Nous sommes désolés, nous vous enverrons un produit de remplacement aujourd'hui.|we'll send you a replacement|w||business,pro|
+I'll pass on your message.|Je transmettrai votre message.|B1|5|5|He's out, but I'll pass on your message.|Il est sorti, mais je transmettrai votre message.|I'll pass on your message|w||phone,pro|
+He's not available at the moment.|Il n'est pas disponible pour le moment.|A2|5|5|I'm sorry, he's not available at the moment.|Je suis désolé, il n'est pas disponible pour le moment.|he's not available at the moment|w||phone,pro|
+She's in a meeting.|Elle est en réunion.|A2|5|4|She's in a meeting until three.|Elle est en réunion jusqu'à trois heures.|She's in a meeting|w||phone,pro|
+Could you ask him to call me back?|Pourriez-vous lui demander de me rappeler ?|A2|5|5|Could you ask him to call me back, please?|Pourriez-vous lui demander de me rappeler, s'il vous plaît ?|Could you ask him to call me back|w||phone,pro|
+I'm calling about...|Je vous appelle au sujet de...|A2|5|5|I'm calling about your advert.|Je vous appelle au sujet de votre annonce.|I'm calling about|w||phone,pro|
+I'm calling from...|Je vous appelle de la part de...|A2|5|4|I'm calling from Lyon Bank.|Je vous appelle de la part de Lyon Bank.|I'm calling from|w||phone,pro|
+Sorry, wrong number.|Désolé, mauvais numéro.|A2|4|4|Sorry, wrong number, have a good day.|Désolé, mauvais numéro, bonne journée.|Sorry, wrong number|c||phone|
+I can't hear you.|Je ne t'entends pas.|A2|5|5|I can't hear you, it's very noisy here.|Je ne t'entends pas, il y a beaucoup de bruit ici.|I can't hear you|c||phone,meetings|
+The line is bad.|La ligne est mauvaise.|A2|4|4|The line is bad, I'll call you back.|La ligne est mauvaise, je te rappelle.|The line is bad|c||phone|
+I'll call you back in five minutes.|Je te rappelle dans cinq minutes.|A2|5|5|I'm driving, I'll call you back in five minutes.|Je conduis, je te rappelle dans cinq minutes.|I'll call you back in five minutes|c||phone|
+Great job on...|Beau travail sur...|B1|5|5|Great job on the presentation yesterday.|Beau travail sur la présentation d'hier.|Great job on|w||management,pro|
+I was impressed by...|J'ai été impressionné par...|B1|5|4|I was impressed by your report.|J'ai été impressionné par ton rapport.|I was impressed by|w||management,pro|
+It would be better if...|Ce serait mieux si...|B1|5|5|It would be better if you told him first.|Ce serait mieux si tu le lui disais d'abord.|It would be better if|w||fn_suggest,pro|
+Can I make a suggestion?|Je peux faire une suggestion ?|A2|5|5|Can I make a suggestion? Let's start earlier.|Je peux faire une suggestion ? Commençons plus tôt.|Can I make a suggestion|w||fn_suggest,pro|

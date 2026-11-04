@@ -1755,5 +1755,187 @@
       "would-you-like-me-to"
     ],
     "reason": "Invitation et proposition."
+  },
+  {
+    "ids": [
+      "thats-what-i-thought",
+      "what-are-your-thoughts"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "keep-someone-in-the-loop",
+      "keep-someone-updated"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "follow-up",
+      "im-following-up-on"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "you-did-a-great-job-on-this",
+      "great-job-on"
+    ],
+    "reason": "Phrase et amorce."
+  },
+  {
+    "ids": [
+      "with-a-bit-of-luck",
+      "hopefully"
+    ],
+    "reason": "Tournure et adverbe."
+  },
+  {
+    "ids": [
+      "it-slipped-my-mind",
+      "i-forgot"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "the-best-thing-about-is",
+      "the-worst-thing-about-is"
+    ],
+    "reason": "Sens opposés."
+  },
+  {
+    "ids": [
+      "end-up",
+      "i-ended-up"
+    ],
+    "reason": "Verbe et amorce."
+  },
+  {
+    "ids": [
+      "i-cant-wait",
+      "i-cant-wait-to"
+    ],
+    "reason": "Exclamation et amorce."
+  },
+  {
+    "ids": [
+      "do-you-have-any-plans",
+      "i-dont-have-any-plans"
+    ],
+    "reason": "Question et réponse."
+  },
+  {
+    "ids": [
+      "i-reckon",
+      "in-my-opinion"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "i-get-the-impression-that",
+      "i-have-a-feeling"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "lets-be-realistic",
+      "lets-face-it"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "its-more-complicated-than-that",
+      "theres-more-to-it-than-that"
+    ],
+    "reason": "Synonymes d'usage."
+  },
+  {
+    "ids": [
+      "to-the-extent-that",
+      "insofar-as"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "as-expected",
+      "as-youd-expect"
+    ],
+    "reason": "Constructions différentes."
+  },
+  {
+    "ids": [
+      "rule-out",
+      "i-wouldnt-rule-it-out"
+    ],
+    "reason": "Verbe et réplique figée."
+  },
+  {
+    "ids": [
+      "lets-come-back-to-this-later",
+      "ill-come-back-to-that-later"
+    ],
+    "reason": "Suggestion et engagement."
+  },
+  {
+    "ids": [
+      "i-wouldnt-be-surprised-if",
+      "id-be-surprised-if"
+    ],
+    "reason": "Sens opposés."
+  },
+  {
+    "ids": [
+      "is-that-all",
+      "thats-all"
+    ],
+    "reason": "Question et affirmation."
+  },
+  {
+    "ids": [
+      "does-it-hurt",
+      "it-hurts"
+    ],
+    "reason": "Question et affirmation."
+  },
+  {
+    "ids": [
+      "have-a-good-time",
+      "did-you-have-a-good-time"
+    ],
+    "reason": "Collocation et question figée."
+  },
+  {
+    "ids": [
+      "get-a-message",
+      "did-you-get-my-message"
+    ],
+    "reason": "Collocation et question figée."
+  },
+  {
+    "ids": [
+      "get-the-message",
+      "did-you-get-my-message"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "where-was-i-going-with-this",
+      "where-are-you-going"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "turn-off",
+      "turn-it-off"
+    ],
+    "reason": "Verbe et consigne."
   }
 ]
