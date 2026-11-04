@@ -1,0 +1,203 @@
+# Lot 013 : B1 (société, numérique, déplacements, réunions, gestion du temps)
+@word
+hall|hall, salle|A2||3|The meeting is in the main hall.|La réunion a lieu dans la grande salle.|hall|w||places|pos=n
+politics|politique (vie publique)|B1||4|I'm not interested in politics.|La politique ne m'intéresse pas.|politics|n||politics|pos=n
+status|statut, état|B1||4|Can you give me a status update?|Tu peux me faire un point sur l'avancement ?|status|w||pro,project|pos=n
+trial|procès, essai|B1||3|The free trial lasts thirty days.|L'essai gratuit dure trente jours.|trial|d||technology|pos=n
+truly|vraiment, sincèrement|B1||3|I'm truly sorry.|Je suis sincèrement désolé.|truly|c|f|feelings|pos=adv
+app|appli|A2||5|There's an app for that.|Il existe une appli pour ça.|app|d||technology|pos=n
+application|candidature, demande|B1||5|I've sent my application.|J'ai envoyé ma candidature.|application|w||pro,career|pos=n
+complex|complexe|B1||4|It's a very complex issue.|C'est une question très complexe.|complex|w||pro,analysis|pos=adj
+condition|état, condition|B1||4|The car is in good condition.|La voiture est en bon état.|condition|c||description|pos=n
+division|division, service|B1||3|She runs the European division.|Elle dirige la division européenne.|division|w||pro,business|pos=n
+freedom|liberté|B1||4|We have a lot of freedom at work.|Nous avons beaucoup de liberté au travail.|freedom|c||basics|pos=n
+heat|chaleur|A2||4|I can't stand this heat.|Je ne supporte pas cette chaleur.|heat|d||weather|pos=n
+located|situé|B1||4|The hotel is located near the port.|L'hôtel est situé près du port.|located|t||places|pos=adj
+location|emplacement, lieu|B1||4|It's a great location for a shop.|C'est un excellent emplacement pour un magasin.|location|w||places|pos=n ;; notes=Faux ami : ne veut pas dire « location » (rent).
+murder|meurtre|B1||3|He was charged with murder.|Il a été accusé de meurtre.|murder|n||news|pos=n
+queen|reine|A2||3|The Queen gave a speech.|La reine a fait un discours.|Queen|n||news|pos=n
+actual|réel, véritable|B1||4|What's the actual cost?|Quel est le coût réel ?|actual|w||false_friend|pos=adj ;; notes=Faux ami : « réel », pas « actuel ».
+attempt|tentative, essayer|B1||4|He failed at the first attempt.|Il a échoué à la première tentative.|attempt|c||basics|pos=n
+channel|chaîne|A2||4|What channel is the match on?|Sur quelle chaîne est le match ?|channel|d||media|pos=n
+distance|distance|A2||4|The hotel is within walking distance.|L'hôtel est accessible à pied.|distance|t||places|pos=n
+exchange|échanger, échange|A2||4|Can I exchange this for a smaller size?|Je peux l'échanger contre une taille plus petite ?|exchange|d||shopping|pos=v
+fat|gras, gros|A2||3|This cheese is low in fat.|Ce fromage est pauvre en matières grasses.|fat|d||food|pos=n
+mobile|portable, mobile|A2||4|I'll call you on your mobile.|Je t'appellerai sur ton portable.|mobile|c||phone|pos=n
+powerful|puissant|B1||4|It's a very powerful computer.|C'est un ordinateur très puissant.|powerful|c||description|pos=adj
+prior|préalable|B2||3|No prior experience is required.|Aucune expérience préalable n'est exigée.|prior|w|f|pro,career|pos=adj
+protection|protection|B1||3|Wear eye protection.|Porte des lunettes de protection.|protection|w||safety|pos=n
+religious|religieux|B1||3|He's very religious.|Il est très croyant.|religious|c||description|pos=adj
+ride|monter, aller à (vélo, cheval)|A2||4|I ride my bike to work.|Je vais au travail à vélo.|ride|d||transport|pos=v ;; forms=rode, ridden
+royal|royal|A2||2|The royal family lives here.|La famille royale vit ici.|royal|n||news|pos=adj
+screen|écran|A2||5|My screen is frozen.|Mon écran est figé.|screen|w||technology|pos=n
+serve|servir|A2||4|Breakfast is served until ten.|Le petit déjeuner est servi jusqu'à dix heures.|served|t||food|pos=v
+species|espèce|B1||3|This species is in danger.|Cette espèce est en danger.|species|a||nature|pos=n
+speech|discours|B1||4|She gave a great speech.|Elle a fait un excellent discours.|speech|c||communication|pos=n
+traffic|circulation|A2||5|The traffic is terrible today.|La circulation est horrible aujourd'hui.|traffic|t||transport|pos=n
+whom|que, à qui (soutenu)|B2||2|To whom should I address this?|À qui dois-je adresser ceci ?|whom|w|f|grammar|pos=pron
+wonderful|merveilleux|A2||5|We had a wonderful time.|Nous avons passé un moment merveilleux.|wonderful|c||description|pos=adj
+animal|animal|A1||4|Do you have any animals at home?|Tu as des animaux à la maison ?|animals|d||animals|pos=n
+begin|débuter, commencer|A1||5|The film begins at eight.|Le film commence à huit heures.|begins|c||time|pos=v ;; forms=began, begun
+bottom|bas, fond|A2||4|Sign at the bottom of the page.|Signe en bas de la page.|bottom|w||places|pos=n
+demand|demande, exiger|B1||4|There's a huge demand for nurses.|Il y a une énorme demande d'infirmiers.|demand|w||pro,business|pos=n ;; notes=Faux ami : le verbe signifie « exiger ».
+engine|moteur|A2||3|The engine won't start.|Le moteur ne démarre pas.|engine|t||transport|pos=n
+everybody|tout le monde (familier)|A1||4|Hi, everybody!|Salut tout le monde !|everybody|c|i|basics|pos=pron
+famous|célèbre|A1||5|She's a famous actress.|C'est une actrice célèbre.|famous|c||description|pos=adj
+investment|investissement|B1||4|It's a good investment.|C'est un bon investissement.|investment|w||pro,money|pos=n
+lie|mentir, s'allonger|A2||4|Don't lie to me.|Ne me mens pas.|lie|c||relationships|pos=v
+partner|partenaire, conjoint|A2||5|Is your partner coming tonight?|Ton conjoint vient ce soir ?|partner|c||relationships|pos=n
+square|place, carré|A2||3|We met in the main square.|Nous nous sommes retrouvés sur la grand-place.|square|t||places|pos=n
+structure|structure|B1||4|We need to change the structure of the team.|Nous devons changer la structure de l'équipe.|structure|w||pro,management|pos=n
+traditional|traditionnel|A2||4|We had a traditional English breakfast.|Nous avons pris un petit déjeuner anglais traditionnel.|traditional|d||food|pos=adj
+twice|deux fois|A1||5|I've told you twice already.|Je te l'ai déjà dit deux fois.|twice|c||numbers|pos=adv
+brand|marque|B1||5|Which brand do you recommend?|Quelle marque recommandes-tu ?|brand|w||pro,business|pos=n
+cent|centime|A2||3|It costs ninety cents.|Ça coûte quatre-vingt-dix centimes.|cents|d||money|pos=n
+count|compter|A1||4|Count to ten before you answer.|Compte jusqu'à dix avant de répondre.|Count|c||numbers|pos=v
+critical|essentiel, critique|B1||5|Timing is critical.|Le timing est essentiel.|critical|w||pro,project|pos=adj
+digital|numérique|B1||5|We're moving to digital documents.|Nous passons aux documents numériques.|digital|w||pro,technology|pos=adj
+fresh|frais|A2||5|The fish is very fresh.|Le poisson est très frais.|fresh|d||food|pos=adj
+mental|mental|B1||4|Mental health is important.|La santé mentale est importante.|Mental|d||health|pos=adj
+mostly|surtout, principalement|A2||5|The team is mostly young.|L'équipe est principalement jeune.|mostly|c||fn_nuance|pos=adv
+owner|propriétaire|A2||4|Who's the owner of this car?|Qui est le propriétaire de cette voiture ?|owner|c||housing|pos=n
+remain|rester, demeurer|B1||4|Please remain seated.|Veuillez rester assis.|remain|t|f|basics|pos=v
+scale|échelle|B1||4|On a scale of one to ten, how was it?|Sur une échelle de un à dix, c'était comment ?|scale|c||analysis|pos=n
+score|score, marquer|A2||4|What's the score?|Quel est le score ?|score|d||leisure|pos=n
+separate|séparé, distinct|A2||4|We have separate bedrooms.|Nous avons des chambres séparées.|separate|d||description|pos=adj
+smart|intelligent, malin|A2||5|She's really smart.|Elle est vraiment intelligente.|smart|c||personality|pos=adj
+surface|surface|B1||3|Clean the surface with a damp cloth.|Nettoyez la surface avec un chiffon humide.|surface|d||housing|pos=n
+throw|lancer, jeter|A2||5|Don't throw it away.|Ne le jette pas.|throw|d||basics|pos=v ;; forms=threw, thrown
+wedding|mariage (cérémonie)|A2||5|They invited us to their wedding.|Ils nous ont invités à leur mariage.|wedding|c||family|pos=n
+click|cliquer|A1||5|Click on the link below.|Clique sur le lien ci-dessous.|Click|w||technology|pos=v
+faith|foi|B1||3|I have faith in you.|J'ai foi en toi.|faith|c||feelings|pos=n
+fashion|mode|A2||4|She works in fashion.|Elle travaille dans la mode.|fashion|d||clothes|pos=n
+generation|génération|B1||4|The younger generation sees things differently.|La jeune génération voit les choses autrement.|generation|c||people|pos=n
+hill|colline|A2||3|Our house is on a hill.|Notre maison est sur une colline.|hill|t||nature|pos=n
+metal|métal|A2||3|The door is made of metal.|La porte est en métal.|metal|d||basics|pos=n
+profile|profil|B1||4|Update your profile on the site.|Mets à jour ton profil sur le site.|profile|w||technology,career|pos=n
+pull|tirer|A2||4|Pull the door, don't push it.|Tire la porte, ne la pousse pas.|Pull|d||basics|pos=v
+push|pousser|A2||4|Push the button to start.|Appuie sur le bouton pour démarrer.|Push|d||basics|pos=v
+seat|siège, place assise|A2||5|Is this your seat?|C'est votre place ?|seat|t||transport|pos=n
+target|objectif chiffré, cible|B1||5|We hit our sales target.|Nous avons atteint notre objectif de ventes.|target|w||pro,business|pos=n
+agent|agent|A2||3|Speak to your travel agent.|Adresse-toi à ton agent de voyages.|agent|t||travel|pos=n
+authority|autorité|B1||4|She has no authority over me.|Elle n'a aucune autorité sur moi.|authority|w||management|pos=n
+basis|base, fondement|B1||4|We meet on a weekly basis.|Nous nous réunissons toutes les semaines.|basis|w||pro,time|pos=n
+draw|dessiner|A1||4|Can you draw me a map?|Tu peux me dessiner un plan ?|draw|d||leisure|pos=v ;; forms=drew, drawn
+enter|entrer, saisir|A2||5|Enter your password.|Saisis ton mot de passe.|Enter|w||technology|pos=v
+foundation|fondation, base|B1||3|He set up a charitable foundation.|Il a créé une fondation caritative.|foundation|n||business|pos=n
+leader|dirigeant, chef|A2||5|She's a natural leader.|C'est une leader née.|leader|w||pro,management|pos=n
+prime|principal, de premier ordre|B1||3|It's a prime location.|C'est un emplacement de premier ordre.|prime|w||description|pos=adj
+ring|sonner, bague|A2||4|The phone's ringing.|Le téléphone sonne.|ringing|d||phone|pos=v ;; forms=rang, rung
+rise|monter, hausse|B1||4|Prices are rising.|Les prix augmentent.|rising|n||money|pos=v ;; forms=rose, risen
+silver|argent (métal)|A2||3|She wore a silver necklace.|Elle portait un collier en argent.|silver|d||clothes|pos=n
+supply|fournir, approvisionnement|B1||4|We supply hotels across the region.|Nous fournissons les hôtels de la région.|supply|w||pro,business|pos=v
+adult|adulte|A1||3|Two adults and one child, please.|Deux adultes et un enfant, s'il vous plaît.|adults|t||people|pos=n
+artist|artiste|A1||3|She's a talented artist.|C'est une artiste talentueuse.|artist|c||leisure|pos=n
+edition|édition|B1||2|This is the second edition.|C'est la deuxième édition.|edition|d||media|pos=n
+engineering|ingénierie|B1||3|She studied engineering.|Elle a étudié l'ingénierie.|engineering|w||career|pos=n
+grade|note, niveau|B1||4|She gets good grades at school.|Elle a de bonnes notes à l'école.|grades|d||learning|pos=n
+institute|institut|B1||2|He works at a research institute.|Il travaille dans un institut de recherche.|institute|a||learning|pos=n
+prison|prison|A2||3|He spent ten years in prison.|Il a passé dix ans en prison.|prison|n||news|pos=n
+somebody|quelqu'un (familier)|A1||4|Somebody's coming.|Il y a quelqu'un qui arrive.|Somebody|c|i|basics|pos=pron ;; sense=variante familière
+stone|pierre|A2||3|The walls are made of stone.|Les murs sont en pierre.|stone|t||basics|pos=n
+strength|force|B1||4|Her main strength is her patience.|Sa grande force, c'est sa patience.|strength|w||pro,personality|pos=n
+user|utilisateur|B1||5|The app has a million users.|L'appli compte un million d'utilisateurs.|users|w||pro,it|pos=n
+wild|sauvage|A2||4|We saw wild animals in Kenya.|Nous avons vu des animaux sauvages au Kenya.|wild|t||nature|pos=adj
+winner|gagnant|A2||3|She was the winner of the race.|C'est elle qui a gagné la course.|winner|c||leisure|pos=n
+bet|parier|B1||5|I bet you ten euros.|Je te parie dix euros.|bet|c||basics|pos=v ;; forms=bet
+camp|camp, camper|A2||3|We camped by the lake.|Nous avons campé au bord du lac.|camped|t||leisure|pos=v
+correct|correct, corriger|A2||5|That's the correct answer.|C'est la bonne réponse.|correct|c||basics|pos=adj
+firm|entreprise, société|B1||4|She works for a law firm.|Elle travaille dans un cabinet d'avocats.|firm|w||pro,business|pos=n
+indeed|en effet, vraiment|B1||5|It was a difficult year indeed.|Ce fut en effet une année difficile.|indeed|c||fn_agree|pos=adv
+@chunk
+Can we talk?|On peut parler ?|A2|5|5|Can we talk? It's important.|On peut parler ? C'est important.|Can we talk?|c||fn_request|
+I'd like to talk to you about...|J'aimerais te parler de...|B1|5|5|I'd like to talk to you about your contract.|J'aimerais te parler de ton contrat.|I'd like to talk to you about|w||pro,fn_start|
+I need your advice.|J'ai besoin de ton avis.|B1|5|5|I need your advice on something.|J'ai besoin de ton avis sur quelque chose.|I need your advice|c||fn_request|
+What would you recommend?|Que recommanderais-tu ?|B1|5|5|We have a free day. What would you recommend?|Nous avons une journée de libre. Que recommanderais-tu ?|What would you recommend?|c||fn_request|
+What do you suggest?|Que suggères-tu ?|B1|5|5|We've tried everything. What do you suggest?|Nous avons tout essayé. Que suggères-tu ?|What do you suggest?|c||fn_request|
+I suggest we...|Je suggère que nous...|B1|5|5|I suggest we start with the budget.|Je suggère que nous commencions par le budget.|I suggest we|w||pro,fn_suggest|
+We could always...|On pourrait toujours...|B1|5|4|We could always take the train instead.|On pourrait toujours prendre le train à la place.|We could always|c||fn_suggest|
+Have you thought about...?|As-tu pensé à... ?|B1|5|4|Have you thought about changing jobs?|As-tu pensé à changer de travail ?|Have you thought about|c||fn_suggest|
+If I were you, I'd...|À ta place, je...|B1|5|5|If I were you, I'd call them.|À ta place, je les appellerais.|If I were you, I'd|c||fn_suggest|
+It might be better to...|Il vaudrait peut-être mieux...|B1|5|5|It might be better to wait until Monday.|Il vaudrait peut-être mieux attendre lundi.|It might be better to|c||fn_suggest|
+You'd better...|Tu ferais mieux de...|B1|5|5|You'd better leave now.|Tu ferais mieux de partir maintenant.|You'd better|c||fn_suggest|
+You might want to...|Tu devrais peut-être...|B1|5|4|You might want to check that again.|Tu devrais peut-être revérifier ça.|You might want to|c||fn_suggest|
+Are you available on...?|Es-tu disponible le... ?|B1|5|5|Are you available on Tuesday morning?|Es-tu disponible mardi matin ?|Are you available on|w||pro,time|
+Can we move the meeting?|On peut déplacer la réunion ?|B1|5|5|Can we move the meeting to Thursday?|On peut déplacer la réunion à jeudi ?|Can we move the meeting|w||pro,meetings|
+I'm sorry, I'm in a meeting.|Désolé, je suis en réunion.|A2|5|4|I'm sorry, I'm in a meeting. Can I call you back?|Désolé, je suis en réunion. Je peux te rappeler ?|I'm sorry, I'm in a meeting|w||pro,phone|
+Let's get back to work.|Remettons-nous au travail.|B1|4|3|OK, break's over. Let's get back to work.|Bon, la pause est finie. Remettons-nous au travail.|Let's get back to work|w||work|
+Let's go through this together.|Passons ça en revue ensemble.|B1|4|4|It's complicated. Let's go through this together.|C'est compliqué. Passons ça en revue ensemble.|Let's go through this together|w||pro,meetings|
+I'll send it over.|Je te l'envoie.|B1|4|4|The file is ready. I'll send it over now.|Le fichier est prêt. Je te l'envoie maintenant.|I'll send it over|w||pro,email|
+Could you take a look at...?|Tu pourrais regarder... ?|B1|5|5|Could you take a look at my CV?|Tu pourrais regarder mon CV ?|Could you take a look at|w||pro,fn_request|
+It's on the agenda.|C'est à l'ordre du jour.|B1|4|3|Don't worry, it's on the agenda for Friday.|Ne t'inquiète pas, c'est à l'ordre du jour de vendredi.|it's on the agenda|w||pro,meetings|
+We're running out of time.|Nous manquons de temps.|B1|5|5|We're running out of time, let's decide.|Nous manquons de temps, décidons.|We're running out of time|w||pro,meetings|
+We're behind schedule.|Nous sommes en retard sur le planning.|B1|5|5|We're two weeks behind schedule.|Nous avons deux semaines de retard sur le planning.|behind schedule|w||pro,project|
+We're on schedule.|Nous respectons le calendrier.|B1|5|4|Don't worry, we're on schedule.|Ne t'inquiète pas, nous respectons le calendrier.|we're on schedule|w||pro,project|
+That's exactly what I think.|C'est exactement ce que je pense.|B1|5|4|You're right, that's exactly what I think.|Tu as raison, c'est exactement ce que je pense.|that's exactly what I think|c||fn_agree|
+I agree up to a point.|Je suis d'accord jusqu'à un certain point.|B1|5|5|I agree up to a point, but it's expensive.|Je suis d'accord jusqu'à un certain point, mais c'est cher.|I agree up to a point|c||fn_disagree|
+I'm with you on that.|Je suis de ton avis.|B1|5|4|Too many meetings? I'm with you on that.|Trop de réunions ? Je suis de ton avis.|I'm with you on that|c||fn_agree|
+Definitely not.|Certainement pas.|B1|5|4|Should we tell him? Definitely not.|On devrait lui dire ? Certainement pas.|Definitely not|c||fn_disagree|
+It's possible.|C'est possible.|A2|5|3|Will it rain? It's possible.|Il va pleuvoir ? C'est possible.|It's possible|c||fn_nuance|
+It's impossible.|C'est impossible.|A2|5|3|Finish it by Monday? It's impossible.|Le finir d'ici lundi ? C'est impossible.|It's impossible|c||fn_disagree|
+It's hard to believe.|C'est difficile à croire.|B1|5|4|It's hard to believe it's been ten years.|C'est difficile à croire que ça fait dix ans.|It's hard to believe|c||fn_react|
+It's better than nothing.|C'est mieux que rien.|A2|5|4|It's small, but it's better than nothing.|C'est petit, mais c'est mieux que rien.|it's better than nothing|c||fn_opinion|
+It depends.|Ça dépend.|A2|5|5|Are you coming? It depends.|Tu viens ? Ça dépend.|It depends|c||fn_hesitate|id=it-depends ;; sense=réponse seule
+It happens.|Ça arrive.|A2|5|4|Don't worry about it, it happens.|Ne t'en fais pas, ça arrive.|it happens|c||fn_react|
+It happens to everyone.|Ça arrive à tout le monde.|A2|5|3|You forgot? It happens to everyone.|Tu as oublié ? Ça arrive à tout le monde.|It happens to everyone|c||fn_react|
+It can't be helped.|On n'y peut rien.|B1|4|4|The flight's cancelled. It can't be helped.|Le vol est annulé. On n'y peut rien.|It can't be helped|c||fn_react|
+That's life.|C'est la vie.|A2|5|4|I lost the match. Oh well, that's life.|J'ai perdu le match. Tant pis, c'est la vie.|that's life|c||fn_react|
+Oh well.|Bon, tant pis.|A2|5|4|They've sold out. Oh well.|Il n'y en a plus. Bon, tant pis.|Oh well|c|i|fn_react|
+Never again.|Plus jamais.|A2|5|3|I tried skydiving once. Never again.|J'ai essayé le parachutisme une fois. Plus jamais.|Never again|c||fn_react|
+Once more.|Encore une fois.|A2|5|3|Let's try it once more.|Essayons encore une fois.|once more|c||basics|
+@collocation
+hold a meeting|tenir une réunion|B1|5|5|We hold a meeting every Monday.|Nous tenons une réunion tous les lundis.|hold a meeting|w||pro,meetings|
+chair a meeting|présider une réunion|B2|4|4|She'll chair the meeting tomorrow.|Elle présidera la réunion demain.|chair the meeting|w|f|pro,meetings|
+schedule a meeting|programmer une réunion|B1|5|5|Let's schedule a meeting for next week.|Programmons une réunion pour la semaine prochaine.|schedule a meeting|w||pro,meetings|
+cancel a meeting|annuler une réunion|B1|5|4|They cancelled the meeting at the last minute.|Ils ont annulé la réunion à la dernière minute.|cancelled the meeting|w||pro,meetings|
+write a report|rédiger un rapport|B1|5|5|I have to write a report by Friday.|Je dois rédiger un rapport d'ici vendredi.|write a report|w||pro,reporting|
+send a reminder|envoyer un rappel|B1|5|4|I'll send a reminder to the team.|J'enverrai un rappel à l'équipe.|send a reminder|w||pro,email|
+reply to an email|répondre à un e-mail|B1|5|5|I still haven't replied to her email.|Je n'ai toujours pas répondu à son e-mail.|replied to her email|w||pro,email|
+attach a file|joindre un fichier|B1|5|5|Don't forget to attach the file.|N'oublie pas de joindre le fichier.|attach the file|w||pro,email|
+share a screen|partager un écran|B1|5|4|Can you share your screen?|Tu peux partager ton écran ?|share your screen|w||pro,it|
+join a call|rejoindre un appel|B1|5|4|I'll join the call in five minutes.|Je rejoins l'appel dans cinq minutes.|join the call|w||pro,meetings|
+update a document|mettre à jour un document|B1|4|4|I've updated the document.|J'ai mis à jour le document.|updated the document|w||pro,project|
+sign a contract|signer un contrat|B1|5|5|We signed the contract this morning.|Nous avons signé le contrat ce matin.|signed the contract|w||pro,business|
+win a contract|remporter un contrat|B1|4|4|We won the contract in the end.|Nous avons finalement remporté le contrat.|won the contract|w||pro,business|
+hire staff|embaucher du personnel|B1|5|4|We're hiring new staff this year.|Nous embauchons du personnel cette année.|hiring new staff|w||pro,management|
+manage a team|gérer une équipe|B1|5|5|She manages a team of ten.|Elle gère une équipe de dix personnes.|manages a team|w||pro,management|
+run a meeting|animer une réunion|B1|5|4|Who's running the meeting today?|Qui anime la réunion aujourd'hui ?|running the meeting|w||pro,meetings|
+work closely with|travailler en étroite collaboration avec|B1|5|5|I work closely with the sales team.|Je travaille en étroite collaboration avec l'équipe commerciale.|work closely with|w||pro,work|
+business trip|voyage d'affaires|A2|5|5|I'm on a business trip this week.|Je suis en voyage d'affaires cette semaine.|business trip|w||pro,travel|
+business card|carte de visite|A2|4|3|Here's my business card.|Voici ma carte de visite.|business card|w||pro,small_talk|
+job interview|entretien d'embauche|A2|5|5|I have a job interview on Tuesday.|J'ai un entretien d'embauche mardi.|job interview|w||pro,career|
+team meeting|réunion d'équipe|A2|5|4|We have a team meeting every morning.|Nous avons une réunion d'équipe chaque matin.|team meeting|w||pro,meetings|
+sales team|équipe commerciale|B1|5|3|Please contact our sales team.|Veuillez contacter notre équipe commerciale.|sales team|w||pro,business|
+annual leave|congés annuels|B1|4|4|I have five days of annual leave left.|Il me reste cinq jours de congés.|annual leave|w||pro,work|
+sick leave|arrêt maladie|B1|5|4|She's on sick leave this week.|Elle est en arrêt maladie cette semaine.|sick leave|w||pro,health|
+working hours|heures de travail|A2|5|4|What are your working hours?|Quels sont tes horaires de travail ?|working hours|w||pro,work|
+@phrasal_verb
+bring forward|avancer (une date)|B1|5|5|Can we bring the meeting forward to Monday?|On peut avancer la réunion à lundi ?|bring the meeting forward|w||pro,meetings|
+bring in|faire appel à, faire entrer|B1|4|4|We brought in an expert.|Nous avons fait appel à un expert.|brought in|w||pro,management|
+cut off|couper (appel, accès)|B1|5|4|We got cut off in the middle of the call.|Nous avons été coupés au milieu de l'appel.|cut off|c||phone|
+fill someone in|mettre quelqu'un au courant|B1|5|5|Can you fill me in on the meeting?|Tu peux me mettre au courant de la réunion ?|fill me in|w||pro,communication|
+hand in|remettre, rendre|B1|5|5|Hand in your report by Friday.|Rends ton rapport d'ici vendredi.|Hand in|w||pro,work|
+hand out|distribuer|B1|4|4|She handed out the documents.|Elle a distribué les documents.|handed out|w||pro,meetings|
+hold up|retarder|B1|5|4|Sorry, I was held up in traffic.|Désolé, j'ai été retardé dans les embouteillages.|held up|t||time|
+key in|saisir (au clavier)|B1|3|2|Key in your PIN.|Saisis ton code.|Key in|d||technology|
+log out|se déconnecter|A2|5|4|Remember to log out.|Pense à te déconnecter.|log out|w||technology,pro|
+put through|passer (au téléphone)|B1|4|4|I'll put you through to sales.|Je vous passe le service commercial.|put you through|w||pro,phone|
+set off|partir, se mettre en route|B1|5|4|We set off at dawn.|Nous nous sommes mis en route à l'aube.|set off|t||travel|
+take down|noter, retirer|B1|4|3|I took down his number.|J'ai noté son numéro.|took down|w||basics|
+@connector
+in addition to|en plus de|B1|5|4|In addition to the salary, you get a car.|En plus du salaire, tu as une voiture.|In addition to|w||pro,fn_explain|
+thanks to|grâce à|A2|5|5|We won thanks to you.|Nous avons gagné grâce à toi.|thanks to|c||fn_explain|
+due to|à cause de (soutenu)|B1|5|5|The match was cancelled due to rain.|Le match a été annulé en raison de la pluie.|due to|w||pro,fn_explain|
+according to|selon, d'après|A2|5|5|According to the forecast, it'll rain.|D'après la météo, il va pleuvoir.|According to|c||fn_explain|
+in spite of|en dépit de|B1|5|5|We went out in spite of the rain.|Nous sommes sortis malgré la pluie.|in spite of|c||fn_explain|
+rather than|plutôt que|B1|5|5|Let's walk rather than take the bus.|Marchons plutôt que de prendre le bus.|rather than|c||fn_compare|
+compared to|par rapport à|B1|5|5|Sales are up compared to last year.|Les ventes sont en hausse par rapport à l'année dernière.|compared to|w||pro,fn_compare|
+@idiom
+Get the ball rolling.|Lancer les choses.|B2|4|4|Let's get the ball rolling with a quick intro.|Lançons les choses avec une brève présentation.|get the ball rolling|w|i|pro,meetings|
+Think outside the box.|Sortir des sentiers battus.|B2|4|4|We need to think outside the box on this one.|Il faut sortir des sentiers battus sur ce coup-là.|think outside the box|w||pro,analysis|
+Touch base.|Faire le point rapidement.|B2|4|4|Let's touch base on Friday.|Faisons un point rapide vendredi.|touch base|w|i|pro,communication|
+Back to the drawing board.|Il faut tout reprendre à zéro.|B2|4|3|The client said no, so it's back to the drawing board.|Le client a dit non, donc retour à la case départ.|back to the drawing board|w|i|pro,project|
+A win-win situation.|Une situation gagnant-gagnant.|B2|4|4|It's a win-win situation for both companies.|C'est une situation gagnant-gagnant pour les deux entreprises.|a win-win situation|w||pro,business|

@@ -243,5 +243,117 @@
       "have-an-appointment"
     ],
     "reason": "Prendre un rendez-vous, et avoir un rendez-vous."
+  },
+  {
+    "ids": [
+      "hang-out",
+      "hand-out"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "i-cant-help-it",
+      "it-cant-be-helped"
+    ],
+    "reason": "Je n'y peux rien, et on n'y peut rien : sujets différents."
+  },
+  {
+    "ids": [
+      "can-i-help-you",
+      "it-cant-be-helped"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "put-off",
+      "cut-off"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "get-off",
+      "set-off"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "sign-a-contract",
+      "win-a-contract"
+    ],
+    "reason": "Actions différentes."
+  },
+  {
+    "ids": [
+      "demanding",
+      "demand"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "beginning",
+      "begin"
+    ],
+    "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "onto",
+      "sure"
+    ],
+    "reason": "Faux doublon : sur et sûr, les accents diffèrent."
+  },
+  {
+    "ids": [
+      "thats-not-what-i-meant",
+      "what-i-meant-was"
+    ],
+    "reason": "Mise au point, et reformulation."
+  },
+  {
+    "ids": [
+      "the-good-news-is",
+      "good-news"
+    ],
+    "reason": "Amorce de phrase, et collocation."
+  },
+  {
+    "ids": [
+      "the-bad-news-is",
+      "bad-news"
+    ],
+    "reason": "Amorce de phrase, et collocation."
+  },
+  {
+    "ids": [
+      "get-out",
+      "let-out"
+    ],
+    "reason": "Sens différents."
+  },
+  {
+    "ids": [
+      "i-have-no-idea",
+      "i-had-no-idea"
+    ],
+    "reason": "Présent : je ne sais pas ; passé : je ne m'en doutais pas."
+  },
+  {
+    "ids": [
+      "keep-up",
+      "keep-up-with"
+    ],
+    "reason": "Suivre le rythme, et se tenir au courant."
+  },
+  {
+    "ids": [
+      "surprised",
+      "surprise"
+    ],
+    "reason": "Adjectif à part entière."
   }
 ]

@@ -1,0 +1,206 @@
+# Lot 014 : B1-B2 (nuances, objets, santé, société, opinions)
+@word
+spirit|esprit, moral|B1||3|The team spirit is great here.|L'esprit d'équipe est excellent ici.|spirit|w||work|pos=n
+till|jusqu'à (familier)|A2||4|I work till six.|Je travaille jusqu'à six heures.|till|c|i|time|pos=prep
+apart|séparé, à part|B1||4|We live two kilometres apart.|Nous habitons à deux kilomètres l'un de l'autre.|apart|c||basics|pos=adv
+dinner|le dîner, repas du soir|A1||5|What's for dinner?|Qu'est-ce qu'on mange ce soir ?|dinner|d||food|pos=n
+dollar|dollar|A1||3|It costs ten dollars.|Ça coûte dix dollars.|dollars|d||money|pos=n
+function|fonction|B1||3|This function isn't available.|Cette fonction n'est pas disponible.|function|w||it,pro|pos=n
+gift|cadeau (soutenu), don|A2||4|She has a gift for languages.|Elle a un don pour les langues.|gift|c||personality|pos=n
+herself|elle-même|A2||3|She built it herself.|Elle l'a construit elle-même.|herself|c||grammar|pos=pron
+himself|lui-même|A2||3|He told me himself.|Il me l'a dit lui-même.|himself|c||grammar|pos=pron
+themselves|eux-mêmes|B1||3|They did it all by themselves.|Ils ont tout fait eux-mêmes.|themselves|c||grammar|pos=pron
+itself|lui-même, elle-même (chose)|B1||3|The machine turns itself off.|La machine s'éteint toute seule.|itself|c||grammar|pos=pron
+item|article, point|B1||5|Let's move to the next item.|Passons au point suivant.|item|w||pro,meetings|pos=n
+nor|ni|B1||4|He didn't call, nor did he write.|Il n'a pas appelé, et il n'a pas écrit non plus.|nor|c|f|grammar|pos=conj
+produce|produire|B1||4|This region produces great wine.|Cette région produit un excellent vin.|produces|n||business|pos=v
+shut|fermer (d'un coup)|A2||4|Shut the door behind you.|Ferme la porte derrière toi.|Shut|d||basics|pos=v ;; forms=shut
+wood|bois|A2||3|The table is made of wood.|La table est en bois.|wood|d||basics|pos=n
+birth|naissance|A2||3|What's your date of birth?|Quelle est ta date de naissance ?|birth|w||admin|pos=n
+bridge|pont|A2||4|We walked across the bridge.|Nous avons traversé le pont à pied.|bridge|t||places|pos=n
+concept|concept|B1||4|The concept is simple.|Le concept est simple.|concept|w||analysis|pos=n
+copy|copier, copie|A2||5|Can you make a copy of this?|Tu peux faire une copie de ceci ?|copy|w||work|pos=n
+dear|cher (formule de lettre)|A1||4|I started with "Dear Mr Smith".|J'ai commencé par « Cher Monsieur Smith ».|Dear|w||pro,email|pos=adj
+host|hôte, animateur|B1||3|Our host made us feel at home.|Notre hôte nous a mis à l'aise.|host|c||people|pos=n
+journal|revue, journal intime|B1||3|She published it in a medical journal.|Elle l'a publié dans une revue médicale.|journal|a||academic|pos=n
+leadership|leadership, direction|B1||5|He showed real leadership.|Il a fait preuve d'un vrai leadership.|leadership|w||pro,management|pos=n
+length|longueur|A2||3|What's the length of the pool?|Quelle est la longueur de la piscine ?|length|d||description|pos=n
+neither|aucun des deux, non plus|B1||5|Neither of them speaks English.|Aucun des deux ne parle anglais.|Neither|c||grammar|pos=pron
+onto|sur|A2||3|The cat jumped onto the table.|Le chat a sauté sur la table.|onto|d||grammar|pos=prep
+possibly|peut-être, éventuellement|A2||4|Could you possibly help me?|Tu pourrais éventuellement m'aider ?|possibly|c||fn_nuance|pos=adv
+setting|cadre, réglage|B1||3|Check your privacy settings.|Vérifie tes paramètres de confidentialité.|settings|d||technology|pos=n
+alive|vivant, en vie|A2||4|Is he still alive?|Est-il encore en vie ?|alive|c||basics|pos=adj
+balance|équilibre, solde|B1||5|I'd like to check my balance.|Je voudrais vérifier mon solde.|balance|d||money|pos=n
+birthday|anniversaire|A1||5|When's your birthday?|C'est quand, ton anniversaire ?|birthday|c||calendar|pos=n
+boss|patron, chef|A2||5|I have to ask my boss.|Je dois demander à mon chef.|boss|w||work|pos=n
+card|carte|A1||5|I left my card at home.|J'ai laissé ma carte à la maison.|card|d||money|pos=n
+connection|connexion, lien|B1||5|The connection is really bad.|La connexion est vraiment mauvaise.|connection|w||technology|pos=n
+stick|coller, bâton|B1||4|Stick the label on the box.|Colle l'étiquette sur le carton.|Stick|d||basics|pos=v ;; forms=stuck
+vehicle|véhicule|B1||3|Please stay in your vehicle.|Merci de rester dans votre véhicule.|vehicle|t|f|transport|pos=n
+volume|volume|B1||3|Can you turn the volume down?|Tu peux baisser le volume ?|volume|d||technology|pos=n
+wake|réveiller, se réveiller|A2||4|Don't wake the baby.|Ne réveille pas le bébé.|wake|d||daily_routine|pos=v ;; forms=woke, woken
+aid|aide (humanitaire)|B1||3|The country needs food aid.|Le pays a besoin d'aide alimentaire.|aid|n||news|pos=n
+beauty|beauté|A2||3|The beauty of this city surprised me.|La beauté de cette ville m'a surpris.|beauty|t||description|pos=n
+billion|milliard|A2||4|The company is worth a billion dollars.|L'entreprise vaut un milliard de dollars.|billion|n||numbers|pos=det
+conversation|conversation|A2||5|We had a long conversation.|Nous avons eu une longue conversation.|conversation|c||communication|pos=n
+corner|coin|A2||4|There's a café on the corner.|Il y a un café au coin.|corner|t||places|pos=n
+criminal|criminel|B1||3|He has a criminal record.|Il a un casier judiciaire.|criminal|n||rules|pos=adj
+cultural|culturel|B1||3|There are many cultural differences.|Il y a beaucoup de différences culturelles.|cultural|c||news|pos=adj
+file|fichier, dossier|A2||5|I can't open the file.|Je n'arrive pas à ouvrir le fichier.|file|w||pro,it|pos=n
+fly|voler (avion), prendre l'avion|A2||5|We're flying to Rome tomorrow.|Nous prenons l'avion pour Rome demain.|flying|t||travel|pos=v ;; forms=flew, flown
+guide|guide|A2||4|Our guide spoke perfect French.|Notre guide parlait parfaitement français.|guide|t||travel|pos=n
+investigation|enquête|B1||4|There will be an investigation.|Il y aura une enquête.|investigation|n||news|pos=n
+roll|rouler|B1||3|The ball rolled under the car.|Le ballon a roulé sous la voiture.|rolled|d||basics|pos=v
+surprise|surprise|A2||4|It was a nice surprise.|C'était une belle surprise.|surprise|c||feelings|pos=n
+technical|technique|B1||5|We're having technical problems.|Nous avons des problèmes techniques.|technical|w||pro,it|pos=adj
+thought|pensée, idée|B1||4|That's an interesting thought.|C'est une idée intéressante.|thought|c||basics|pos=n
+unique|unique|B1||4|This place is really unique.|Cet endroit est vraiment unique.|unique|t||description|pos=adj
+variety|variété|B1||4|There's a good variety of dishes.|Il y a une belle variété de plats.|variety|d||food|pos=n
+violence|violence|B1||3|There was no violence.|Il n'y a pas eu de violence.|violence|n||news|pos=n
+weapon|arme|B1||3|He was carrying a weapon.|Il portait une arme.|weapon|n||news|pos=n
+yours|le tien, la tienne|A2||4|Is this yours?|C'est à toi ?|yours|c||grammar|pos=pron
+youth|jeunesse|B1||3|He spent his youth in Italy.|Il a passé sa jeunesse en Italie.|youth|c||time|pos=n
+dry|sec, sécher|A2||4|My hair is still wet, I need to dry it.|J'ai encore les cheveux mouillés, je dois les sécher.|dry|d||basics|pos=v
+edge|bord|B1||3|Don't stand too close to the edge.|Ne reste pas trop près du bord.|edge|t||places|pos=n
+evil|mal, mauvais|B1||2|He's the evil character in the film.|C'est le méchant du film.|evil|d||description|pos=adj
+forever|pour toujours|A2||4|I can't wait forever.|Je ne peux pas attendre éternellement.|forever|c||time|pos=adv
+funds|fonds|B1||4|We've run out of funds.|Nous n'avons plus de fonds.|funds|w||pro,money|pos=n
+iron|repasser, fer|A2||3|I need to iron this shirt.|Je dois repasser cette chemise.|iron|d||housing|pos=v
+magazine|magazine|A1||3|I read it in a magazine.|Je l'ai lu dans un magazine.|magazine|d||media|pos=n
+parliament|parlement|B1||3|Parliament voted against it.|Le Parlement a voté contre.|Parliament|n||politics|pos=n
+reference|référence|B1||4|What's the reference number?|Quel est le numéro de référence ?|reference|w||pro,admin|pos=n
+religion|religion|B1||3|We never talk about religion.|Nous ne parlons jamais de religion.|religion|c||news|pos=n
+somewhere|quelque part|A2||5|I left it somewhere.|Je l'ai laissé quelque part.|somewhere|c||places|pos=adv
+web|web|A2||3|I found it on the web.|Je l'ai trouvé sur le web.|web|d||technology|pos=n
+bay|baie|B1||2|We sailed across the bay.|Nous avons traversé la baie en voilier.|bay|t||nature|pos=n
+blog|blog|A2||3|She writes a travel blog.|Elle tient un blog de voyage.|blog|d||technology|pos=n
+core|cœur, essentiel|B1||4|It's the core of the problem.|C'est le cœur du problème.|core|w||pro,analysis|pos=n
+description|description|A2||3|Can you give me a description of him?|Tu peux me le décrire ?|description|c||basics|pos=n
+excellent|excellent|A1||5|That's excellent news.|C'est une excellente nouvelle.|excellent|c||description|pos=adj
+guard|gardien, garder|B1||3|Ask the security guard.|Demande à l'agent de sécurité.|guard|d||safety|pos=n
+medicine|médicament, médecine|A2||5|Did you take your medicine?|Tu as pris ton médicament ?|medicine|d||health|pos=n
+nuclear|nucléaire|B1||3|France relies on nuclear energy.|La France dépend de l'énergie nucléaire.|nuclear|n||news|pos=adj
+port|port|A2||3|The ship arrived in port.|Le navire est arrivé au port.|port|t||places|pos=n
+presence|présence|B1||3|Your presence is required.|Votre présence est requise.|presence|w|f|pro,meetings|pos=n
+reaction|réaction|B1||4|What was his reaction?|Comment a-t-il réagi ?|reaction|c||feelings|pos=n
+shoot|tirer, tourner (film)|B1||3|They shot the film in Morocco.|Ils ont tourné le film au Maroc.|shot|n||leisure|pos=v ;; forms=shot
+solid|solide|B1||4|We need solid evidence.|Il nous faut des preuves solides.|solid|w||analysis|pos=adj
+sport|sport|A1||5|What's your favourite sport?|Quel est ton sport préféré ?|sport|c||leisure|pos=n
+stress|stress|A2||5|I'm under a lot of stress.|Je suis très stressé.|stress|c||feelings,health|pos=n
+taste|goûter, goût|A2||5|This tastes delicious.|C'est délicieux.|tastes|d||food|pos=v
+victory|victoire|B1||3|It was an easy victory.|Ce fut une victoire facile.|victory|n||leisure|pos=n
+assistant|assistant|A2||3|Ask my assistant to book it.|Demande à mon assistant de le réserver.|assistant|w||work|pos=n
+citizen|citoyen|B1||3|She's a French citizen.|Elle est citoyenne française.|citizen|n||politics|pos=n
+classic|classique|A2||3|It's a classic film.|C'est un classique du cinéma.|classic|d||leisure|pos=adj
+clothes|vêtements|A1||5|I need to buy some new clothes.|Je dois m'acheter de nouveaux vêtements.|clothes|d||clothes|pos=n
+electric|électrique|A2||4|She drives an electric car.|Elle conduit une voiture électrique.|electric|t||transport|pos=adj
+festival|festival|A2||3|We went to a music festival.|Nous sommes allés à un festival de musique.|festival|d||leisure|pos=n
+fuel|carburant|B1||3|Fuel prices keep going up.|Le prix du carburant ne cesse d'augmenter.|Fuel|t||transport|pos=n
+ill|souffrant, malade (UK)|A2||5|She's been ill for a week.|Elle est malade depuis une semaine.|ill|d||health|pos=adj
+initial|initial, premier|B1||4|My initial reaction was to say no.|Ma première réaction a été de dire non.|initial|c||basics|pos=adj
+kick|donner un coup de pied|A2||3|He kicked the ball over the fence.|Il a envoyé le ballon par-dessus la clôture.|kicked|d||leisure|pos=v
+mail|courrier|A2||4|Has the mail come yet?|Le courrier est déjà arrivé ?|mail|d||communication|pos=n
+massive|énorme, massif|B1||4|It's a massive improvement.|C'est une énorme amélioration.|massive|c||description|pos=adj
+pair|paire|A1||4|I bought a pair of jeans.|J'ai acheté un jean.|pair|d||clothes|pos=n
+plenty|plein, largement assez|A2||5|We have plenty of time.|Nous avons largement le temps.|plenty|c||basics|pos=pron
+prince|prince|A2||2|The prince visited the hospital.|Le prince a visité l'hôpital.|prince|n||news|pos=n
+proper|vrai, correct|B1||5|We need a proper meal.|Il nous faut un vrai repas.|proper|c||basics|pos=adj ;; notes=Faux ami : ne veut pas dire « propre ».
+quarter|quart, trimestre|A2||4|Sales rose in the last quarter.|Les ventes ont augmenté au dernier trimestre.|quarter|w||pro,reporting|pos=n
+session|séance|B1||4|We have a training session on Monday.|Nous avons une séance de formation lundi.|session|w||pro,learning|pos=n
+shape|forme|A2||4|I'm in bad shape.|Je ne suis pas en forme.|shape|d||health|pos=n
+sky|ciel|A1||3|The sky is clear tonight.|Le ciel est dégagé ce soir.|sky|d||nature|pos=n
+transfer|transfert, virement|B1||4|I made a bank transfer this morning.|J'ai fait un virement ce matin.|transfer|d||money|pos=n
+willing|prêt à, disposé à|B1||5|I'm willing to help.|Je suis disposé à aider.|willing|c||fn_suggest|pos=adj
+zone|zone|B1||3|This is a no-parking zone.|C'est une zone interdite au stationnement.|zone|t||transport|pos=n
+@chunk
+In my experience...|D'après mon expérience...|B1|5|5|In my experience, people don't read long emails.|D'après mon expérience, les gens ne lisent pas les longs e-mails.|In my experience|c||fn_opinion|
+As far as I can tell...|Pour autant que je sache...|B1|4|4|As far as I can tell, it's fine.|Pour autant que je puisse en juger, ça va.|As far as I can tell|c||fn_nuance|
+To be precise...|Pour être précis...|B1|4|4|To be precise, it's forty-two percent.|Pour être précis, c'est quarante-deux pour cent.|To be precise|w||fn_clarify,pro|
+What I'd like to know is...|Ce que j'aimerais savoir, c'est...|B1|4|4|What I'd like to know is who approved this.|Ce que j'aimerais savoir, c'est qui a approuvé ça.|What I'd like to know is|c||fn_request|
+The problem is...|Le problème, c'est que...|A2|5|5|The problem is we don't have enough time.|Le problème, c'est que nous n'avons pas assez de temps.|The problem is|c||fn_explain|
+The main reason is...|La raison principale, c'est...|B1|5|4|The main reason is the cost.|La raison principale, c'est le coût.|The main reason is|c||fn_explain|
+The good news is...|La bonne nouvelle, c'est que...|B1|5|5|The good news is we're on budget.|La bonne nouvelle, c'est que nous respectons le budget.|The good news is|c||fn_explain|
+The bad news is...|La mauvaise nouvelle, c'est que...|B1|5|4|The bad news is the flight's full.|La mauvaise nouvelle, c'est que le vol est complet.|The bad news is|c||fn_explain|
+The funny thing is...|Le plus drôle, c'est que...|B1|4|3|The funny thing is, she never knew.|Le plus drôle, c'est qu'elle n'a jamais su.|The funny thing is|c||fn_narrate|
+Believe it or not...|Crois-le ou non...|B1|5|4|Believe it or not, I've never seen the sea.|Crois-le ou non, je n'ai jamais vu la mer.|Believe it or not|c||fn_narrate|
+To make matters worse...|Pour ne rien arranger...|B1|4|4|To make matters worse, it started to rain.|Pour ne rien arranger, il s'est mis à pleuvoir.|To make matters worse|c||fn_narrate|
+As I said...|Comme je l'ai dit...|A2|5|4|As I said, the office is closed on Friday.|Comme je l'ai dit, le bureau est fermé vendredi.|As I said|c||fn_explain|
+As you can see...|Comme vous pouvez le voir...|B1|5|5|As you can see, sales went up in June.|Comme vous pouvez le voir, les ventes ont augmenté en juin.|As you can see|w||pro,presentations|
+I'd like to start by...|J'aimerais commencer par...|B1|5|5|I'd like to start by thanking the team.|J'aimerais commencer par remercier l'équipe.|I'd like to start by|w||pro,presentations|
+Let's start with...|Commençons par...|A2|5|5|Let's start with the good news.|Commençons par la bonne nouvelle.|Let's start with|w||pro,fn_start|
+Let me give you an example.|Laissez-moi vous donner un exemple.|B1|5|4|Let me give you an example from last year.|Laissez-moi vous donner un exemple de l'an dernier.|Let me give you an example|c||fn_explain|
+Let me show you.|Laisse-moi te montrer.|A2|5|4|It's easy. Let me show you.|C'est facile. Laisse-moi te montrer.|Let me show you|c||fn_explain|
+Let me finish.|Laisse-moi finir.|B1|5|4|Wait, let me finish.|Attends, laisse-moi finir.|let me finish|c||fn_interrupt|
+Can I say something?|Je peux dire quelque chose ?|A2|5|4|Excuse me, can I say something?|Excusez-moi, je peux dire quelque chose ?|can I say something?|c||fn_interrupt|
+Could I just say...|Si je peux me permettre...|B1|4|4|Could I just say that I disagree?|Si je peux me permettre, je ne suis pas d'accord.|Could I just say|c||fn_interrupt|
+Sorry, go on.|Pardon, continue.|B1|5|4|Oh, you were speaking. Sorry, go on.|Oh, tu parlais. Pardon, continue.|Sorry, go on|c||fn_interrupt|
+Can you give me an example?|Tu peux me donner un exemple ?|A2|5|4|I don't see what you mean. Can you give me an example?|Je ne vois pas ce que tu veux dire. Tu peux me donner un exemple ?|Can you give me an example?|c||fn_clarify|
+Can you be more specific?|Tu peux être plus précis ?|B1|5|5|Which problem? Can you be more specific?|Quel problème ? Tu peux être plus précis ?|Can you be more specific?|c||fn_clarify|
+Do you mean...?|Tu veux dire... ?|A2|5|5|Do you mean next Friday?|Tu veux dire vendredi prochain ?|Do you mean|c||fn_clarify|
+So you're saying...|Donc, tu es en train de dire que...|B1|5|5|So you're saying we should wait?|Donc, tu dis que nous devrions attendre ?|So you're saying|c||fn_clarify|
+What I meant was...|Ce que je voulais dire, c'est...|B1|5|5|What I meant was that it's too early.|Ce que je voulais dire, c'est que c'est trop tôt.|What I meant was|c||fn_rephrase|
+I didn't mean to...|Je ne voulais pas...|B1|5|5|I didn't mean to upset you.|Je ne voulais pas te contrarier.|I didn't mean to|c||fn_react|
+I didn't know that.|Je ne savais pas.|A2|5|4|Really? I didn't know that.|Ah bon ? Je ne savais pas.|I didn't know that|c||fn_react|
+I had no idea.|Je ne m'en doutais pas du tout.|B1|5|4|You're moving? I had no idea.|Tu déménages ? Je ne m'en doutais pas.|I had no idea|c||fn_react|
+I can imagine.|J'imagine bien.|B1|5|4|That must have been hard. I can imagine.|Ça a dû être dur. J'imagine bien.|I can imagine|c||fn_react|
+That must be hard.|Ça doit être dur.|B1|5|4|You work nights? That must be hard.|Tu travailles de nuit ? Ça doit être dur.|That must be hard|c||fn_react|
+That must have been...|Ça a dû être...|B1|5|4|That must have been awful.|Ça a dû être horrible.|That must have been|c||fn_react|
+You must be tired.|Tu dois être fatigué.|A2|5|3|After that flight, you must be tired.|Après ce vol, tu dois être fatigué.|you must be tired|c||fn_react|
+You must be joking.|Tu plaisantes, j'espère.|B1|5|4|Fifty euros for this? You must be joking.|Cinquante euros pour ça ? Tu plaisantes, j'espère.|You must be joking|c|i|fn_react|
+You can say that again.|Tu l'as dit !|B1|4|4|This weather is terrible. You can say that again.|Ce temps est horrible. Tu l'as dit !|You can say that again|c|i|fn_agree|
+You've got a point there.|Là, tu marques un point.|B1|4|3|You've got a point there, I hadn't considered that.|Là, tu marques un point, je n'y avais pas pensé.|You've got a point there|c||fn_agree|
+You could be right.|Tu as peut-être raison.|B1|5|4|You could be right, let's check.|Tu as peut-être raison, vérifions.|You could be right|c||fn_nuance|
+You may be right, but...|Tu as peut-être raison, mais...|B1|5|5|You may be right, but I'm not convinced.|Tu as peut-être raison, mais je ne suis pas convaincu.|You may be right, but|c||fn_disagree|
+I see your point, but...|Je comprends ton point de vue, mais...|B1|5|5|I see your point, but it's too risky.|Je comprends ton point de vue, mais c'est trop risqué.|I see your point, but|c||fn_disagree|
+I'm not saying that...|Je ne dis pas que...|B1|5|4|I'm not saying that it's wrong.|Je ne dis pas que c'est faux.|I'm not saying that|c||fn_clarify|
+I wasn't expecting that.|Je ne m'attendais pas à ça.|B1|5|4|Wow, I wasn't expecting that.|Waouh, je ne m'attendais pas à ça.|I wasn't expecting that|c||fn_react|
+That's not fair.|Ce n'est pas juste.|A2|5|5|He gets more than me? That's not fair.|Il touche plus que moi ? Ce n'est pas juste.|That's not fair|c||fn_disagree|
+That's up to them.|C'est à eux de voir.|B1|4|3|Whether they accept is up to them.|C'est à eux de voir s'ils acceptent.|up to them|c||decision|
+@collocation
+bitterly cold|glacial|B2|4|3|It was bitterly cold that morning.|Il faisait un froid glacial ce matin-là.|bitterly cold|d||weather|
+extremely important|extrêmement important|B1|5|4|It's extremely important to arrive on time.|Il est extrêmement important d'arriver à l'heure.|extremely important|c||fn_nuance|
+really good|vraiment bon|A1|5|2|This pasta is really good.|Ces pâtes sont vraiment bonnes.|really good|c||description|
+pretty good|plutôt bon|A2|5|4|My Spanish is pretty good.|Mon espagnol est plutôt bon.|pretty good|c|i|fn_nuance|
+quite good|assez bon|A2|5|3|The food was quite good.|La cuisine était assez bonne.|quite good|c||fn_nuance|
+absolutely right|tout à fait raison|B1|5|4|She was absolutely right about the price.|Elle avait tout à fait raison pour le prix.|absolutely right|c||fn_agree|
+perfectly normal|parfaitement normal|B1|4|3|Don't worry, that's perfectly normal.|Ne t'inquiète pas, c'est parfaitement normal.|perfectly normal|c||fn_nuance|
+totally different|totalement différent|B1|5|3|The new version is totally different.|La nouvelle version est totalement différente.|totally different|c||fn_compare|
+slightly different|légèrement différent|B1|5|4|Our approach is slightly different.|Notre approche est légèrement différente.|slightly different|c||fn_compare|
+a slight problem|un petit problème|B1|4|4|We have a slight problem with the booking.|Nous avons un petit problème avec la réservation.|a slight problem|c||fn_nuance|
+a serious problem|un problème grave|B1|5|4|This could become a serious problem.|Cela pourrait devenir un problème grave.|a serious problem|c||basics|
+a major problem|un problème majeur|B1|5|3|Security is a major problem here.|La sécurité est un problème majeur ici.|a major problem|c||basics|
+good news|bonne nouvelle|A2|5|4|I've got some good news.|J'ai une bonne nouvelle.|good news|c||basics|notes=News est indénombrable : pas de « a news ».
+bad news|mauvaise nouvelle|A2|5|4|I'm afraid I've got bad news.|J'ai bien peur d'avoir une mauvaise nouvelle.|bad news|c||basics|
+heavy snow|fortes chutes de neige|B1|4|3|Heavy snow closed the roads.|De fortes chutes de neige ont fermé les routes.|Heavy snow|n||weather|
+strong wind|vent fort|A2|4|3|There's a strong wind today.|Il y a un vent fort aujourd'hui.|strong wind|d||weather|
+hard work|travail acharné|B1|5|4|All that hard work paid off.|Tout ce travail acharné a payé.|hard work|w||work|
+easy to use|facile à utiliser|A2|5|4|The app is really easy to use.|L'appli est vraiment facile à utiliser.|easy to use|c||technology|
+long way|long chemin|A2|4|3|It's a long way to the coast.|Il y a beaucoup de route jusqu'à la côte.|long way|t||travel|
+great deal|beaucoup, grande quantité|B1|4|3|We've learned a great deal.|Nous avons beaucoup appris.|great deal|c||fn_nuance|
+wide range|large éventail|B1|5|4|We sell a wide range of products.|Nous vendons un large éventail de produits.|wide range|w||pro,business|
+deep sleep|sommeil profond|B1|3|2|He fell into a deep sleep.|Il a sombré dans un sommeil profond.|deep sleep|d||health|
+in good shape|en bonne forme|B1|5|3|He's in good shape for his age.|Il est en forme pour son âge.|in good shape|c||health|
+@phrasal_verb
+give in|céder|B1|5|4|She finally gave in and said yes.|Elle a fini par céder et dire oui.|gave in|c||decision|
+give back|rendre|A2|5|4|I'll give it back tomorrow.|Je te le rends demain.|give it back|c||basics|
+give away|donner, révéler|B1|4|3|We gave away all our old clothes.|Nous avons donné tous nos vieux vêtements.|gave away|c||basics|
+keep on|continuer à|B1|5|4|She keeps on asking the same question.|Elle n'arrête pas de poser la même question.|keeps on|c||basics|
+keep up|suivre le rythme|B1|5|4|Slow down, I can't keep up.|Ralentis, je n'arrive pas à suivre.|keep up|c||basics|
+keep up with|se tenir au courant de|B1|5|4|It's hard to keep up with the news.|C'est difficile de suivre l'actualité.|keep up with|c||news|
+let in|laisser entrer|A2|4|3|Can you let the dog in?|Tu peux faire entrer le chien ?|let the dog in|d||basics|
+let out|laisser sortir|A2|4|2|Let me out of here!|Laisse-moi sortir d'ici !|Let me out|c||basics|
+mix up|confondre|B1|5|4|I always mix up those two words.|Je confonds toujours ces deux mots.|mix up|c||learning|
+pass on|transmettre|B1|5|4|I'll pass on the message.|Je transmettrai le message.|pass on|w||pro,communication|
+pop in|passer rapidement|B1|4|3|I'll pop in on my way home.|Je passerai rapidement en rentrant.|pop in|c|i|relationships|
+run through|passer en revue|B1|4|4|Let's run through the main points.|Passons en revue les points principaux.|run through|w||pro,meetings|
+@connector
+in my view|selon moi|B2|5|4|In my view, this is a mistake.|À mon sens, c'est une erreur.|In my view|w||pro,fn_opinion|
+personally|personnellement|A2|5|5|Personally, I prefer the first option.|Personnellement, je préfère la première option.|Personally|c||fn_opinion|
+frankly|franchement (plus direct)|B1|5|4|Frankly, I'm disappointed.|Franchement, je suis déçu.|Frankly|c||fn_opinion|
+clearly|manifestement|B1|5|4|Clearly, something went wrong.|Manifestement, quelque chose a mal tourné.|Clearly|c||fn_explain|
+@idiom
+Beat around the bush.|Tourner autour du pot.|B2|5|4|Stop beating around the bush and tell me.|Arrête de tourner autour du pot et dis-le-moi.|beating around the bush|c||communication|
+Spill the beans.|Vendre la mèche, tout raconter.|B2|4|3|Come on, spill the beans!|Allez, raconte tout !|spill the beans|c|i|communication|
+See eye to eye.|Être du même avis.|B2|4|4|We don't always see eye to eye.|Nous ne sommes pas toujours du même avis.|see eye to eye|c||fn_agree|
+Blow your mind.|Époustoufler.|B2|4|2|That film will blow your mind.|Ce film va t'époustoufler.|blow your mind|c|i|fn_react|
+Have a lot on your plate.|Avoir beaucoup à faire.|B2|4|4|I have a lot on my plate this week.|J'ai beaucoup à faire cette semaine.|have a lot on my plate|w|i|work|

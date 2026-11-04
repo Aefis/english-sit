@@ -25,7 +25,6 @@ insurance|assurance|A2||5|Does your insurance cover this?|Ton assurance couvre �
 majority|majorité|B1||3|The majority of people agree.|La majorité des gens sont d'accord.|majority|n||analysis|pos=n
 physical|physique|B1||3|He does a lot of physical work.|Il fait beaucoup de travail physique.|physical|d||health|pos=adj
 reach|atteindre, joindre|B1||5|You can reach me on this number.|Tu peux me joindre à ce numéro.|reach|c||communication|pos=v
-sports|sport (en général)|A1||4|He loves watching sports on TV.|Il adore regarder le sport à la télé.|sports|d||leisure|pos=n
 stupid|stupide, bête|A2||4|It was a stupid mistake.|C'était une erreur stupide.|stupid|c||description|pos=adj
 successful|réussi, qui a du succès|A2||5|The meeting was very successful.|La réunion a été très réussie.|successful|w||pro,description|pos=adj
 active|actif|A2||4|She's very active for her age.|Elle est très active pour son âge.|active|c||personality|pos=adj
@@ -190,7 +189,7 @@ at the beginning|au commencement|A2|5|4|At the beginning, it was hard.|Au début
 to begin with|pour commencer|B1|5|5|To begin with, let's look at the costs.|Pour commencer, examinons les coûts.|To begin with|w||pro,fn_start|
 first of all|tout d'abord|A2|5|5|First of all, thank you for coming.|Tout d'abord, merci d'être venus.|First of all|c||fn_start|
 last but not least|enfin et surtout|B1|4|4|Last but not least, thanks to our sponsors.|Enfin et surtout, merci à nos sponsors.|Last but not least|w||pro,fn_end|
-all in all|tout compte fait|B1|5|4|All in all, it was a good year.|Dans l'ensemble, c'était une bonne année.|All in all|c||fn_end|
+all in all|en résumé, au bout du compte|B1|5|4|All in all, it was a good year.|Dans l'ensemble, c'était une bonne année.|All in all|c||fn_end|
 on the whole|globalement|B1|5|5|On the whole, I'm happy with it.|Globalement, j'en suis content.|On the whole|c||fn_opinion|
 @idiom
 Bite the bullet.|Serrer les dents.|B2|4|4|It's expensive, but we'll have to bite the bullet.|C'est cher, mais il va falloir serrer les dents.|bite the bullet|c||decision|
