@@ -1,6 +1,6 @@
 # English SIT
 
-Flashcards pour passer de « je reconnais ce mot » à « je l'utilise en parlant ». Prototype de 100 éléments, de A1 à C1.
+Flashcards pour passer de « je reconnais ce mot » à « je l'utilise en parlant ». Plus de 7 500 éléments, de A1 à C1, publiés par lots contrôlés.
 
 **Site : <https://aefis.github.io/english-sit/>**
 

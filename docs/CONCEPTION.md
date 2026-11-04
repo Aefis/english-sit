@@ -1,6 +1,6 @@
 # Conception : English SIT
 
-Réponse aux points 1 à 8 du §29 du cahier des charges. Le prototype de 100 éléments (point 9) est dans le dépôt. La génération massive (point 10) attend ta validation.
+Réponse aux points 1 à 8 du §29 du cahier des charges. Le prototype de 100 éléments (point 9) a été validé. La base s'étend depuis par lots contrôlés (point 10), dans `data/sources/` et `data/batches/`.
 
 ## 1. Analyse du cahier des charges
 
