@@ -1,0 +1,175 @@
+# Lot 031 : B1-B2+ (phrasal verbs de J à Z, idiomes courants)
+@phrasal_verb
+jot down|noter rapidement|B1|5|4|Let me jot down your number.|Laisse-moi noter ton numéro rapidement.|jot down|c||writing|
+jump at|sauter sur (occasion)|B2|4|3|I'd jump at the chance.|Je sauterais sur l'occasion.|jump at|c||decision|
+keep away|tenir à l'écart|A2|4|3|Keep away from the edge.|Reste à l'écart du bord.|Keep away|c||safety|
+keep out|empêcher d'entrer|B1|3|2|Keep out! Private property.|Défense d'entrer ! Propriété privée.|Keep out|d||rules|
+kick in|commencer à agir|B2|5|3|The medicine should kick in soon.|Le médicament devrait bientôt faire effet.|kick in|d|i|health|
+kick out|mettre à la porte|B1|4|3|They kicked him out of the bar.|Ils l'ont mis à la porte du bar.|kicked him out|c|i|basics|
+knock down|démolir, renverser|B1|4|3|They knocked down the old factory.|Ils ont démoli la vieille usine.|knocked down|n||basics|
+knock out|assommer, éliminer|B1|4|2|The boxer knocked him out.|Le boxeur l'a mis K.-O.|knocked him out|d||leisure|
+knock over|renverser|A2|4|3|I knocked over my coffee.|J'ai renversé mon café.|knocked over|d||basics|
+lead up to|précéder, mener à|B2|4|3|Tension grew in the days leading up to the election.|La tension a monté dans les jours précédant l'élection.|leading up to|n||time|
+leave behind|laisser derrière soi, oublier|B1|5|4|I left my phone behind.|J'ai oublié mon téléphone.|left my phone behind|c||basics|
+let off|dispenser, pardonner|B2|3|2|They let him off with a warning.|Ils l'ont laissé partir avec un avertissement.|let him off|c||rules|
+level off|se stabiliser|B2+|4|4|Sales have levelled off.|Les ventes se sont stabilisées.|levelled off|w||pro,analysis|
+lie down|s'allonger|A2|5|4|I need to lie down for a bit.|J'ai besoin de m'allonger un peu.|lie down|d||health|
+line up|faire la queue, aligner|A2|4|3|People were lining up outside.|Les gens faisaient la queue dehors.|lining up|d||basics|
+live off|vivre de|B1|4|3|He lives off his savings.|Il vit de ses économies.|lives off|c||money|
+live on|vivre avec (somme)|B1|4|3|We live on one salary.|Nous vivons avec un seul salaire.|live on|c||money|
+live with|supporter, vivre avec|B1|4|3|I can live with that.|Je peux m'en accommoder.|live with|c||fn_nuance|
+lock up|fermer à clé|A2|4|3|Don't forget to lock up.|N'oublie pas de tout fermer à clé.|lock up|d||housing|
+log off|se déconnecter (variante)|A2|3|2|Remember to log off at the end of the day.|Pense à te déconnecter en fin de journée.|log off|w||technology|
+look ahead|regarder vers l'avenir|B1|5|3|Let's look ahead to next year.|Tournons-nous vers l'année prochaine.|look ahead|w||time|
+look out for|surveiller, guetter|B1|5|4|Look out for his email.|Guette son e-mail.|Look out for|c||basics|
+look over|parcourir, vérifier|B1|5|4|Can you look over my CV?|Tu peux relire mon CV ?|look over|w||pro,work|
+lose out|être perdant|B2|4|3|Small companies lose out.|Les petites entreprises sont perdantes.|lose out|w||business|
+make up for|compenser, rattraper|B1|5|5|How can I make up for it?|Comment puis-je me rattraper ?|make up for|c||relationships|
+mark down|baisser le prix de|B2|3|2|All coats are marked down by half.|Tous les manteaux sont à moitié prix.|marked down|d||shopping|
+measure up|être à la hauteur|B2|3|3|Will he measure up to the job?|Sera-t-il à la hauteur du poste ?|measure up|w||career|
+meet up|se retrouver|A2|5|5|Let's meet up for a coffee.|Retrouvons-nous pour un café.|meet up|c||relationships|
+mess up|gâcher, foirer|B1|5|5|I really messed up.|J'ai vraiment tout gâché.|messed up|c|i|fn_react|
+mess around|traîner, faire l'idiot|B1|4|3|Stop messing around.|Arrête de faire l'idiot.|messing around|c|i|personality|
+move away|s'éloigner, déménager loin|A2|4|3|We moved away when I was ten.|Nous sommes partis ailleurs quand j'avais dix ans.|moved away|c||housing|
+nod off|s'endormir, piquer du nez|B2|3|2|I nodded off during the film.|J'ai piqué du nez pendant le film.|nodded off|d|i|daily_routine|
+pack up|faire ses bagages, ranger|A2|4|3|Pack up your things, we're leaving.|Range tes affaires, nous partons.|Pack up|t||travel|
+pass away|décéder|B1|5|4|His father passed away last year.|Son père est décédé l'année dernière.|passed away|c||family|
+pass up|laisser passer (occasion)|B2|4|3|Don't pass up this opportunity.|Ne laisse pas passer cette occasion.|pass up|c||decision|
+patch up|réparer, se réconcilier|B2|4|3|They've patched up their relationship.|Ils ont recollé les morceaux.|patched up|c||relationships|
+pick out|choisir, repérer|B1|5|3|She picked out a nice dress.|Elle a choisi une jolie robe.|picked out|d||shopping|
+pile up|s'accumuler|B1|5|4|The emails are piling up.|Les e-mails s'accumulent.|piling up|w||work|
+play along|faire semblant de jouer le jeu|B2|3|2|I decided to play along.|J'ai décidé de jouer le jeu.|play along|c||relationships|
+play down|minimiser|B2|5|4|He played down the problem.|Il a minimisé le problème.|played down|n||communication|
+polish off|finir, venir à bout de|B2|3|2|He polished off the whole cake.|Il a englouti tout le gâteau.|polished off|d|i|food|
+pop up|surgir, apparaître|B1|5|4|New shops keep popping up.|De nouveaux magasins n'arrêtent pas de surgir.|popping up|c|i|basics|
+press ahead|continuer résolument|B2+|4|3|We're pressing ahead with the plan.|Nous poursuivons le projet résolument.|pressing ahead|w||pro,project|
+pull down|démolir, baisser|B1|3|2|They pulled down the old cinema.|Ils ont démoli le vieux cinéma.|pulled down|n||basics|
+pull together|se serrer les coudes|B2|4|3|We need to pull together.|Nous devons nous serrer les coudes.|pull together|w||work|
+push through|faire passer, imposer|B2|4|3|They pushed through the reform.|Ils ont fait passer la réforme.|pushed through|n||politics|
+put across|faire passer (idée)|B2|5|4|She put her ideas across well.|Elle a bien fait passer ses idées.|put her ideas across|w||pro,communication|
+put aside|économiser, mettre de côté|B1|5|4|We put aside some money every month.|Nous mettons de l'argent de côté chaque mois.|put aside|d||money|
+put back|remettre, reporter|B1|5|4|Put it back where you found it.|Remets-le où tu l'as trouvé.|Put it back|d||basics|
+put down to|attribuer à|B2|4|3|I put it down to stress.|Je mets ça sur le compte du stress.|put it down to|c||fn_explain|
+rack up|accumuler|B2|3|3|We racked up huge debts.|Nous avons accumulé d'énormes dettes.|racked up|n||money|
+reach out|tendre la main, contacter|B2|5|5|I'll reach out to the client today.|Je contacterai le client aujourd'hui.|reach out|w||pro,communication|
+read up on|se documenter sur|B2|5|4|I need to read up on this topic.|Je dois me documenter sur ce sujet.|read up on|c||learning|
+rein in|freiner, maîtriser|C1|3|3|We have to rein in spending.|Nous devons freiner les dépenses.|rein in|w||pro,money|
+root out|éradiquer|B2+|3|3|We must root out corruption.|Nous devons éradiquer la corruption.|root out|n||politics|
+rub off|déteindre, s'effacer|B2|3|2|Her energy rubs off on everyone.|Son énergie déteint sur tout le monde.|rubs off|c||feelings|
+run by|soumettre (idée)|B2|5|5|Can I run this by you?|Je peux te soumettre ça ?|run this by|w|i|pro,fn_request|id=run-by
+rush into|se précipiter dans|B1|4|3|Don't rush into a decision.|Ne te précipite pas dans ta décision.|rush into|c||decision|
+scrape through|réussir de justesse|B2|3|2|He scraped through the exam.|Il a réussi l'examen de justesse.|scraped through|d|i|learning|
+screw up|gâcher, foirer (familier)|B2|4|3|I screwed up the presentation.|J'ai foiré la présentation.|screwed up|c|i|fn_react|
+see off|accompagner (au départ)|B1|3|2|They saw me off at the airport.|Ils m'ont accompagné à l'aéroport.|saw me off|t||travel|
+see through|percer à jour|B2|4|3|I can see through your excuses.|Je vois clair dans tes excuses.|see through|c||relationships|
+see to|se charger de|B1|4|3|I'll see to it.|Je m'en occupe.|see to it|c||fn_react|
+sell out|être épuisé (stock, billets)|B1|5|4|The tickets sold out in an hour.|Les billets se sont vendus en une heure.|sold out|d||shopping|
+send in|envoyer, soumettre|B1|4|3|Send in your application by Friday.|Envoie ta candidature d'ici vendredi.|Send in|w||career|
+send out|envoyer (en nombre)|B1|4|3|We sent out the invitations.|Nous avons envoyé les invitations.|sent out|c||communication|
+set about|se mettre à|B2|4|3|We set about cleaning the house.|Nous nous sommes mis à nettoyer la maison.|set about|c||basics|
+set back|retarder, coûter|B2|4|3|The strike set us back a week.|La grève nous a retardés d'une semaine.|set us back|w||pro,project|
+set in|s'installer, commencer|B2|3|2|Winter has set in.|L'hiver s'est installé.|set in|c||time|
+set out|se mettre en route, exposer|B1|4|4|We set out our goals in the plan.|Nous avons exposé nos objectifs dans le plan.|set out|w||pro,project|
+settle for|se contenter de|B2|5|4|Don't settle for less.|Ne te contente pas de moins.|settle for|c||decision|
+settle in|s'installer, s'adapter|B1|5|4|Are you settling in OK?|Tu t'adaptes bien ?|settling in|c||relationships|
+shake off|se défaire de|B2|3|2|I can't shake off this cold.|Je n'arrive pas à me débarrasser de ce rhume.|shake off|d||health|
+shake up|réorganiser, secouer|B2|4|4|The new boss shook up the team.|Le nouveau patron a réorganisé l'équipe.|shook up|w||pro,management|
+shop around|comparer les prix|B1|5|3|It's worth shopping around.|Ça vaut le coup de comparer les prix.|shopping around|d||shopping|
+show around|faire visiter|A2|5|4|Let me show you around.|Laisse-moi te faire visiter.|show you around|c||small_talk|
+shrug off|ignorer, ne pas s'en faire de|B2|3|2|She shrugged off the criticism.|Elle a ignoré la critique.|shrugged off|c||feelings|
+shut down|fermer, arrêter|B1|5|4|Shut down your computer before you leave.|Éteins ton ordinateur avant de partir.|Shut down|w||technology|
+single out|distinguer, cibler|B2|3|3|Why was I singled out?|Pourquoi est-ce moi qui ai été visé ?|singled out|c||relationships|
+sit back|se détendre, rester passif|B1|4|3|Sit back and relax.|Installe-toi et détends-toi.|Sit back|c||leisure|
+sit in on|assister à (en observateur)|B2|4|4|Can I sit in on the meeting?|Je peux assister à la réunion ?|sit in on|w||pro,meetings|
+sit through|subir jusqu'au bout|B2|3|2|We had to sit through a long speech.|Nous avons dû subir un long discours.|sit through|c||basics|
+size up|jauger|B2|3|2|She sized up the situation quickly.|Elle a vite jaugé la situation.|sized up|c||analysis|
+sleep in|faire la grasse matinée|B1|5|4|I slept in on Sunday.|J'ai fait la grasse matinée dimanche.|slept in|d||daily_routine|
+slip up|se tromper|B1|4|3|Someone slipped up.|Quelqu'un s'est trompé.|slipped up|c|i|fn_react|
+smooth over|arranger, aplanir|B2+|3|3|She smoothed over the argument.|Elle a arrangé la dispute.|smoothed over|w||communication|
+snap up|sauter sur, acheter vite|B2|3|2|The tickets were snapped up.|Les billets se sont arrachés.|snapped up|d||shopping|
+speak out|prendre la parole, dénoncer|B2|4|3|She spoke out against the plan.|Elle s'est élevée contre le projet.|spoke out|n||communication|
+speed up|aller plus vite, accélérer|A2|5|5|Can we speed up the process?|Peut-on accélérer le processus ?|speed up|w||pro,project|
+spell out|expliquer clairement|B2|5|4|Let me spell it out for you.|Laisse-moi t'expliquer ça clairement.|spell it out|c||fn_clarify|
+spice up|pimenter|B2|3|2|We need to spice up the presentation.|Il faut pimenter la présentation.|spice up|w||presentations|
+stand down|se retirer|B2+|3|3|The chairman stood down.|Le président s'est retiré.|stood down|n|f|career|
+stand for|signifier, représenter|B1|5|4|What does it stand for?|Qu'est-ce que ça veut dire ?|stand for|c||basics|
+stand in|assurer un remplacement|B2|4|4|Could you stand in for me?|Tu pourrais me remplacer ?|stand in|w||work|
+stand up to|tenir tête à|B2|4|3|She stood up to her boss.|Elle a tenu tête à son chef.|stood up to|c||relationships|
+start out|débuter|B1|4|3|She started out as a nurse.|Elle a débuté comme infirmière.|started out|w||career|
+start over|recommencer à zéro|A2|5|4|Let's start over.|Recommençons à zéro.|start over|c||basics|
+stay behind|rester (après les autres)|B1|3|2|I stayed behind to help.|Je suis resté pour aider.|stayed behind|w||basics|
+stay out|rester dehors, ne pas rentrer|A2|3|2|We stayed out all night.|Nous sommes restés dehors toute la nuit.|stayed out|c||leisure|
+step aside|s'écarter, laisser la place|B2|3|3|It's time to step aside.|Il est temps de laisser la place.|step aside|w||career|
+step down|quitter ses fonctions|B2|5|4|The CEO is stepping down.|Le PDG démissionne.|stepping down|n||career|
+step in|intervenir|B2|5|4|The manager had to step in.|Le responsable a dû intervenir.|step in|w||pro,management|
+step up|intensifier, se montrer à la hauteur|B2|5|4|We need to step up our efforts.|Nous devons intensifier nos efforts.|step up|w||pro,management|
+stem from|provenir de|B2+|5|4|The problem stems from poor planning.|Le problème provient d'une mauvaise planification.|stems from|w||pro,analysis|
+stick around|rester dans les parages|B1|4|3|Stick around, we'll need you.|Reste dans les parages, nous aurons besoin de toi.|Stick around|c|i|basics|
+stick out|dépasser, ressortir|B1|4|3|She always sticks out in a crowd.|Elle ressort toujours dans la foule.|sticks out|c||basics|
+stick with|rester fidèle à|B1|5|3|Let's stick with the plan.|Restons fidèles au plan.|stick with|c||decision|
+stir up|attiser, provoquer|B2|3|3|He's always stirring up trouble.|Il provoque toujours des problèmes.|stirring up|c||basics|
+stock up|faire des provisions|B1|4|3|We stocked up on food.|Nous avons fait des provisions.|stocked up|d||shopping|
+stop by|passer (rapidement, US)|A2|3|2|I'll stop by after work.|Je passerai après le travail.|stop by|c||relationships|
+storm out|sortir en colère|B2|3|2|She stormed out of the meeting.|Elle a quitté la réunion en colère.|stormed out|c||feelings|
+stress out|stresser|B1|5|4|This project is stressing me out.|Ce projet me stresse.|stressing me out|c|i|feelings|
+strike up|engager (conversation)|B2|3|3|He struck up a conversation.|Il a engagé la conversation.|struck up|c||small_talk|
+stumble upon|tomber par hasard sur|B2|3|3|I stumbled upon this site.|Je suis tombé sur ce site par hasard.|stumbled upon|c||basics|
+tag along|suivre, accompagner|B1|4|3|Can I tag along?|Je peux venir avec vous ?|tag along|c|i|relationships|
+take aback|prendre de court|B2|4|3|I was taken aback by his reply.|J'ai été pris de court par sa réponse.|taken aback|c||feelings|
+take away|emporter, retirer|A2|5|4|Can we take this away?|On peut emporter ça ?|take this away|d||food|
+take out on|passer ses nerfs sur|B2|4|3|Don't take it out on me.|Ne passe pas tes nerfs sur moi.|take it out on|c||feelings|
+take to|prendre goût à|B2|3|2|He took to the new job quickly.|Il s'est vite fait à son nouveau poste.|took to|c||basics|
+talk back|répondre (insolemment)|B1|3|2|Don't talk back to your mother.|Ne réponds pas à ta mère.|talk back|c||family|
+tap into|exploiter|B2+|5|4|We want to tap into this market.|Nous voulons exploiter ce marché.|tap into|w||pro,business|
+team up|faire équipe|B1|5|4|We've teamed up with a local charity.|Nous avons fait équipe avec une association locale.|teamed up|w||pro,business|
+tell apart|distinguer|B1|5|3|I can't tell the twins apart.|Je n'arrive pas à distinguer les jumeaux.|tell the twins apart|c||basics|
+tick off|cocher, agacer|B2|4|3|Tick off each item on the list.|Coche chaque élément de la liste.|Tick off|w||work|
+top up|recharger, compléter|B1|4|3|I need to top up my phone.|Je dois recharger mon téléphone.|top up|d||technology|
+touch on|aborder brièvement|B2|5|4|I'd like to touch on two points.|J'aimerais aborder brièvement deux points.|touch on|w||pro,presentations|
+track down|retrouver, dénicher|B1|5|4|I finally tracked down the file.|J'ai enfin retrouvé le fichier.|tracked down|w||basics|
+trade in|échanger, reprendre|B2|3|2|I traded in my old car.|J'ai fait reprendre ma vieille voiture.|traded in|d||money|
+trip over|trébucher sur|A2|4|3|I tripped over the cable.|J'ai trébuché sur le câble.|tripped over|d||basics|
+try out|essayer, tester|A2|5|4|Let's try out the new restaurant.|Essayons le nouveau restaurant.|try out|c||basics|
+tune in|se mettre à l'écoute|B1|3|2|Tune in at eight.|Soyez à l'écoute à vingt heures.|Tune in|d||media|
+turn away|refuser, renvoyer|B1|4|3|They turned us away at the door.|Ils nous ont refusé l'entrée.|turned us away|d||basics|
+turn back|faire demi-tour|A2|4|3|It's too late to turn back.|Il est trop tard pour faire demi-tour.|turn back|t||directions|
+turn out|se révéler|B1|5|5|It turned out to be a mistake.|Il s'est avéré que c'était une erreur.|turned out|c||fn_narrate|
+turn to|se tourner vers|B1|5|4|I don't know who to turn to.|Je ne sais pas vers qui me tourner.|turn to|c||relationships|
+use up|épuiser, utiliser tout|A2|4|3|We've used up all the milk.|Nous avons utilisé tout le lait.|used up|d||basics|
+walk away|s'en aller, renoncer|B1|5|4|Sometimes it's best to walk away.|Parfois, il vaut mieux s'en aller.|walk away|c||decision|
+walk out|sortir, faire grève|B1|4|3|She walked out of the meeting.|Elle a quitté la réunion.|walked out|c||basics|
+water down|édulcorer|B2+|4|3|The law was watered down.|La loi a été édulcorée.|watered down|n||politics|
+wear off|s'estomper, disparaître|B1|4|3|The effects will wear off soon.|Les effets vont bientôt s'estomper.|wear off|d||health|
+weed out|éliminer, écarter|B2+|4|4|We weed out weak candidates.|Nous écartons les candidats faibles.|weed out|w||pro,career|
+win over|convaincre, rallier|B2|5|4|She won over the whole team.|Elle a rallié toute l'équipe.|won over|w||pro,communication|
+wind down|se détendre, ralentir|B1|5|4|I read to wind down at night.|Je lis pour me détendre le soir.|wind down|d||leisure|
+work towards|œuvrer à|B2|5|4|We're working towards the same goal.|Nous œuvrons au même objectif.|working towards|w||pro,project|
+wrap up|terminer, conclure|B1|5|5|Let's wrap up the meeting.|Terminons la réunion.|wrap up|w||pro,meetings|
+write back|répondre (par écrit)|A2|5|4|She wrote back the same day.|Elle a répondu le jour même.|wrote back|c||communication|
+write up|rédiger|B1|5|4|I'll write up the notes tonight.|Je rédigerai les notes ce soir.|write up|w||pro,writing|
+zero in on|se concentrer sur|B2+|4|3|Let's zero in on the main issue.|Concentrons-nous sur la question principale.|zero in on|w||pro,analysis|
+zip up|fermer (fermeture éclair)|A2|3|2|Zip up your jacket.|Ferme ta veste.|Zip up|d||clothes|
+zoom in|zoomer|A2|4|3|Zoom in on the map.|Fais un zoom sur le plan.|Zoom in|d||technology|
+@idiom
+Cut someone some slack.|Être indulgent avec quelqu'un.|B2|4|3|Cut him some slack, he's new.|Sois indulgent avec lui, il est nouveau.|Cut him some slack|c|i|relationships|
+Dead in the water.|Voué à l'échec.|B2+|3|3|The project is dead in the water.|Le projet est voué à l'échec.|dead in the water|w|i|pro,project|
+Do the trick.|Faire l'affaire.|B1|5|4|This tool should do the trick.|Cet outil devrait faire l'affaire.|do the trick|c|i|basics|
+Down to earth.|Les pieds sur terre.|B1|4|3|She's very down to earth.|Elle a les pieds sur terre.|down to earth|c||personality|
+Drive a hard bargain.|Être dur en affaires.|B2|3|3|She drives a hard bargain.|Elle est dure en affaires.|drives a hard bargain|w||pro,business|
+Drop the ball.|Commettre une bourde, rater.|B2|4|4|Someone dropped the ball on this.|Quelqu'un a raté le coche là-dessus.|dropped the ball|w|i|pro,work|
+Eat your words.|Ravaler ses paroles.|B2|3|3|He had to eat his words.|Il a dû ravaler ses paroles.|eat his words|c|i|communication|
+Fall on deaf ears.|Tomber dans l'oreille d'un sourd.|B2|3|3|My advice fell on deaf ears.|Mes conseils sont tombés dans l'oreille d'un sourd.|fell on deaf ears|c||communication|
+Fingers crossed.|Je croise les doigts.|B1|5|4|Fingers crossed for tomorrow!|Je croise les doigts pour demain !|Fingers crossed|c|i|feelings|
+Food for thought.|Matière à réflexion.|B2|4|3|That gives us food for thought.|Cela nous donne matière à réflexion.|food for thought|c||analysis|
+From scratch.|À partir de zéro.|B1|5|5|We started from scratch.|Nous avons commencé à partir de zéro.|from scratch|w||pro,project|
+Get the picture.|Comprendre la situation.|B1|4|3|Do you get the picture?|Tu vois le tableau ?|get the picture|c|i|communication|
+Give someone a hard time.|Mener la vie dure à quelqu'un.|B1|4|3|My boss gives me a hard time.|Mon chef me mène la vie dure.|gives me a hard time|c|i|relationships|
+Go bananas.|Péter un plomb.|B1|3|2|The crowd went bananas.|La foule est devenue folle.|went bananas|c|i|feelings|
+Go down the drain.|Être gaspillé.|B2|3|3|All that money went down the drain.|Tout cet argent a été gaspillé.|went down the drain|c|i|money|
+Go from bad to worse.|Aller de mal en pis.|B1|5|4|Things went from bad to worse.|Les choses sont allées de mal en pis.|went from bad to worse|c||fn_narrate|
+Go to great lengths.|Se donner beaucoup de mal.|B2|4|3|They went to great lengths to help.|Ils se sont donné beaucoup de mal pour aider.|went to great lengths|c||basics|
+Hard to swallow.|Difficile à avaler.|B1|3|2|That news is hard to swallow.|Cette nouvelle est difficile à avaler.|hard to swallow|c||feelings|
+Have the last word.|Avoir le dernier mot.|B1|4|3|She always has the last word.|Elle a toujours le dernier mot.|has the last word|c||communication|
+Hit the jackpot.|Décrocher le jackpot.|B1|3|3|We hit the jackpot with this deal.|Nous avons décroché le jackpot avec cet accord.|hit the jackpot|c|i|money|
+Hit the roof.|Sortir de ses gonds.|B2|3|3|My dad hit the roof.|Mon père est sorti de ses gonds.|hit the roof|c|i|feelings|
+Hold your horses.|Doucement, attends.|B2|3|3|Hold your horses, we're not ready.|Doucement, nous ne sommes pas prêts.|Hold your horses|c|i|fn_interrupt|
