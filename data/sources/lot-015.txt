@@ -1,0 +1,193 @@
+# Lot 015 : A1-B1 (mots-outils : prépositions, modaux, pronoms, adverbes, questions)
+@word
+in|dans, en|A1||5|My keys are in my bag.|Mes clés sont dans mon sac.|in|c||grammar|pos=prep
+on|sur (contact)|A1||5|Your phone is on the table.|Ton téléphone est sur la table.|on|c||grammar|pos=prep
+at|à (un lieu, une heure)|A1||5|I'll meet you at the station.|Je te retrouve à la gare.|at|c||grammar|pos=prep
+to|à, vers|A1||5|We're going to Spain.|Nous allons en Espagne.|to|c||grammar|pos=prep
+for|pour, pendant|A1||5|This present is for you.|Ce cadeau est pour toi.|for|c||grammar|pos=prep
+with|avec|A1||5|Do you want to come with me?|Tu veux venir avec moi ?|with|c||grammar|pos=prep
+from|de, depuis|A1||5|She's from Canada.|Elle vient du Canada.|from|c||grammar|pos=prep
+of|de|A1||5|I'd like a cup of tea.|Je voudrais une tasse de thé.|of|c||grammar|pos=prep
+about|à propos de, environ|A1||5|What's the book about?|De quoi parle le livre ?|about|c||grammar|pos=prep
+by|par, en (moyen)|A1||5|I usually go by metro.|Je prends généralement le métro.|by|c||grammar|pos=prep
+under|sous|A1||5|The cat is under the bed.|Le chat est sous le lit.|under|d||grammar|pos=prep
+over|au-dessus de, plus de|A2||4|There were over fifty people there.|Il y avait plus de cinquante personnes.|over|c||grammar|pos=prep
+through|à travers, par|A2||5|We drove through the tunnel.|Nous avons traversé le tunnel en voiture.|through|t||grammar|pos=prep
+without|sans|A1||5|I can't do it without you.|Je ne peux pas le faire sans toi.|without|c||grammar|pos=prep
+against|contre|A2||5|I'm against this idea.|Je suis contre cette idée.|against|c||grammar|pos=prep
+during|pendant|A2||5|Don't use your phone during the meeting.|N'utilise pas ton téléphone pendant la réunion.|during|c||grammar,time|pos=prep
+after|après|A1||5|Let's go out after dinner.|Sortons après le dîner.|after|c||grammar,time|pos=prep
+into|dans (mouvement)|A2||5|She walked into the room.|Elle est entrée dans la pièce.|into|c||grammar|pos=prep
+out|dehors, sorti|A1||5|She's out at the moment.|Elle est sortie pour le moment.|out|c||grammar|pos=adv
+up|vers le haut, levé|A1||5|Are you up yet?|Tu es levé ?|up|c||grammar|pos=adv
+down|vers le bas|A1||5|Go down the stairs and turn left.|Descends l'escalier et tourne à gauche.|down|t||grammar|pos=adv
+off|éteint, absent|A2||5|The lights are off.|Les lumières sont éteintes.|off|d||grammar|pos=adv
+can|pouvoir, savoir faire|A1||5|I can swim.|Je sais nager.|can|c||grammar|pos=v ;; forms=could
+will|futur (auxiliaire)|A1||5|I'll help you tomorrow.|Je t'aiderai demain.|I'll|c||grammar|pos=v ;; notes=Souvent contracté : I'll, you'll, we'll.
+would|conditionnel (auxiliaire)|A2||5|What would you do?|Que ferais-tu ?|would|c||grammar|pos=v
+could|pourrait, pouvait|A2||5|I could help you tonight.|Je pourrais t'aider ce soir.|could|c||grammar|pos=v
+should|devrait|A2||5|We should leave soon.|Nous devrions partir bientôt.|should|c||grammar|pos=v
+must|devoir (obligation forte)|A2||5|You must wear a seat belt.|Tu dois attacher ta ceinture.|must|c||grammar|pos=v
+might|pourrait (éventualité)|A2||5|It might rain later.|Il se peut qu'il pleuve plus tard.|might|c||grammar,fn_nuance|pos=v
+shall|futur (soutenu), proposition|B1||3|Shall I open the window?|Veux-tu que j'ouvre la fenêtre ?|Shall|c|f|grammar|pos=v
+let|laisser, permettre|A2||5|Let me carry that.|Laisse-moi porter ça.|Let|c||basics|pos=v ;; forms=let
+set|régler, mettre|B1||5|I set my alarm for six.|J'ai réglé mon réveil sur six heures.|set|d||basics|pos=v ;; forms=set
+what|que, quoi, quel|A1||5|What are you doing?|Qu'est-ce que tu fais ?|What|c||grammar|pos=pron
+where|où (lieu)|A1||5|Where are you going?|Où vas-tu ?|Where|c||grammar|pos=adv
+why|pourquoi|A1||5|Why are you laughing?|Pourquoi tu ris ?|Why|c||grammar|pos=adv
+how|comment|A1||5|How did you find out?|Comment tu l'as su ?|How|c||grammar|pos=adv
+here|ici|A1||5|Come here for a second.|Viens ici une seconde.|here|c||basics|pos=adv
+there|là, là-bas|A1||5|I've never been there.|Je n'y suis jamais allé.|there|c||basics|pos=adv
+now|maintenant|A1||5|I can't talk now.|Je ne peux pas parler maintenant.|now|c||time|pos=adv
+very|très|A1||5|Thank you, that's very kind.|Merci, c'est très aimable.|very|c||basics|pos=adv
+more|plus|A1||5|Would you like some more coffee?|Tu veux encore du café ?|more|c||basics|pos=adv
+most|la plupart, le plus|A2||5|Most people work on Mondays.|La plupart des gens travaillent le lundi.|Most|c||basics|pos=det
+much|beaucoup (indénombrable)|A1||5|I don't have much time.|Je n'ai pas beaucoup de temps.|much|c||grammar|pos=det
+less|moins|A2||5|I should eat less sugar.|Je devrais manger moins de sucre.|less|c||grammar|pos=adv
+only|seulement, ne... que|A1||5|I only have five euros.|Je n'ai que cinq euros.|only|c||basics|pos=adv
+just|juste, venir de|A2||5|I've just arrived.|Je viens d'arriver.|just|c||basics|pos=adv
+even|même|A2||5|Even my boss agrees.|Même mon chef est d'accord.|Even|c||basics|pos=adv
+well|bien|A1||5|She speaks English very well.|Elle parle très bien anglais.|well|c||basics|pos=adv
+ago|il y a (temps)|A1||5|I arrived an hour ago.|Je suis arrivé il y a une heure.|ago|c||time|pos=adv
+far|loin|A1||5|It's not far.|Ce n'est pas loin.|far|t||directions|pos=adv
+else|d'autre|A2||5|Who else is coming?|Qui d'autre vient ?|else|c||basics|pos=adv
+once|une fois|A1||5|I've only been there once.|Je n'y suis allé qu'une fois.|once|c||numbers|pos=adv
+though|quand même, pourtant|B1||5|It's nice, though.|C'est sympa, quand même.|though|c|i|fn_nuance|pos=adv
+rather|plutôt|B1||5|It's rather cold in here.|Il fait plutôt froid ici.|rather|c||fn_nuance|pos=adv
+either|non plus|A2||5|I don't like it either.|Je n'aime pas ça non plus.|either|c||grammar|pos=adv ;; sense=dans une négation
+ever|déjà, jamais (question)|A2||5|Do you ever go to the theatre?|Tu vas parfois au théâtre ?|ever|c||grammar|pos=adv
+own|propre (à soi)|A2||5|I'd love my own office.|J'aimerais avoir mon propre bureau.|own|c||basics|pos=adj
+same|même, pareil|A1||5|We have the same phone.|Nous avons le même téléphone.|same|c||fn_compare|pos=adj
+such|tel, si|B1||5|It was such a good film.|C'était un si bon film.|such|c||grammar|pos=det
+several|plusieurs|A2||5|I've called her several times.|Je l'ai appelée plusieurs fois.|several|c||basics|pos=det
+other|autre|A1||5|Where are the other guests?|Où sont les autres invités ?|other|c||basics|pos=det
+one|un, une|A1||5|I have one question.|J'ai une question.|one|c||numbers|pos=det
+third|troisième|A1||4|Take the third street on the right.|Prends la troisième rue à droite.|third|t||numbers|pos=adj
+fourth|quatrième|A1||3|He finished fourth.|Il a terminé quatrième.|fourth|d||numbers|pos=adj
+fifth|cinquième|A1||3|We're on the fifth floor.|Nous sommes au cinquième étage.|fifth|d||numbers|pos=adj
+twelve|douze|A1||3|I'll see you at twelve.|On se voit à midi.|twelve|c||numbers|pos=det
+thirty|trente|A1||3|It takes thirty minutes.|Ça prend trente minutes.|thirty|c||numbers|pos=det
+forty|quarante|A1||3|She's forty this year.|Elle a quarante ans cette année.|forty|c||numbers|pos=det
+fifty|cinquante|A1||3|I paid fifty euros.|J'ai payé cinquante euros.|fifty|c||numbers|pos=det
+zero|zéro|A1||3|The temperature is below zero.|La température est en dessous de zéro.|zero|c||numbers|pos=det
+dozen|douzaine|A2||3|I bought a dozen eggs.|J'ai acheté une douzaine d'œufs.|dozen|d||numbers|pos=n
+us|nous (complément)|A1||5|Come with us!|Viens avec nous !|us|c||grammar|pos=pron
+him|lui, le (masculin)|A1||5|I saw him yesterday.|Je l'ai vu hier.|him|c||grammar|pos=pron
+me|me, moi|A1||5|Can you hear me?|Tu m'entends ?|me|c||grammar|pos=pron
+she|elle|A1||5|She's my sister.|C'est ma sœur.|She|c||grammar|pos=pron
+he|il|A1||5|He's a doctor.|Il est médecin.|He|c||grammar|pos=pron
+we|nous|A1||5|We're late.|Nous sommes en retard.|We|c||grammar|pos=pron
+you|tu, vous|A1||5|Are you hungry?|Tu as faim ?|you|c||grammar|pos=pron
+it|il, elle, ça (chose)|A1||5|It's a nice car.|C'est une belle voiture.|It|c||grammar|pos=pron
+my|mon, ma, mes|A1||5|This is my coat.|C'est mon manteau.|my|c||grammar|pos=det ;; sense=possessif, 1re personne
+your|ton, ta, tes, votre|A1||5|Is this your bag?|C'est ton sac ?|your|c||grammar|pos=det ;; sense=possessif, 2e personne
+its|son, sa, ses (chose)|A2||4|The hotel has its own beach.|L'hôtel a sa propre plage.|its|c||grammar|pos=det
+ourselves|nous-mêmes|B1||3|We painted the house ourselves.|Nous avons peint la maison nous-mêmes.|ourselves|c||grammar|pos=pron
+whoever|quiconque|B1||3|Whoever did this must be punished.|Quiconque a fait cela doit être puni.|Whoever|c||grammar|pos=pron
+whatever|peu importe, quoi que|B1||5|Whatever you decide is fine with me.|Quoi que tu décides, ça me va.|Whatever|c||basics|pos=pron
+whenever|chaque fois que, quand tu veux|B1||4|Come over whenever you like.|Passe quand tu veux.|whenever|c||basics|pos=adv
+wherever|où que|B1||3|Sit wherever you like.|Assieds-toi où tu veux.|wherever|c||basics|pos=adv
+anywhere|n'importe où, nulle part|A2||5|I can't find it anywhere.|Je ne le trouve nulle part.|anywhere|c||places|pos=adv
+everywhere|partout|A2||5|I've looked everywhere.|J'ai cherché partout.|everywhere|c||places|pos=adv
+nowhere|nulle part|B1||4|We're going nowhere.|Nous n'avançons pas.|nowhere|c||places|pos=adv
+anybody|n'importe qui, quelqu'un (familier)|A2||3|Don't tell anybody.|Ne le dis à personne.|anybody|c|i|basics|pos=pron
+somehow|d'une manière ou d'une autre|B1||5|We'll get there somehow.|On y arrivera d'une manière ou d'une autre.|somehow|c||basics|pos=adv
+somewhat|quelque peu|B2||4|I was somewhat disappointed.|J'ai été quelque peu déçu.|somewhat|c|f|fn_nuance|pos=adv
+alright|d'accord, ça va|A2||4|Are you alright?|Ça va ?|alright|c|i|small_talk|pos=adv
+hey|hé, salut|A1||4|Hey, wait for me!|Hé, attends-moi !|Hey|c|i|small_talk|pos=adv
+oh|oh, ah|A1||3|Oh, I see.|Ah, je vois.|Oh|c|i|fn_react|pos=adv
+wow|waouh|A2||4|Wow, that's beautiful!|Waouh, c'est magnifique !|Wow|c|i|fn_react|pos=adv
+yeah|ouais|A1||4|Yeah, that's fine.|Ouais, ça me va.|Yeah|c|i|fn_agree|pos=adv
+@chunk
+as ... as|aussi ... que|A2|5|5|She's as tall as her brother.|Elle est aussi grande que son frère.|as tall as|c||grammar,fn_compare|
+more ... than|plus ... que|A2|5|5|This one is more expensive than that one.|Celui-ci est plus cher que celui-là.|more expensive than|c||grammar,fn_compare|
+less ... than|moins ... que|A2|5|4|It's less difficult than I thought.|C'est moins difficile que je ne le pensais.|less difficult than|c||grammar,fn_compare|
+the same as|pareil que|A2|5|5|Your phone is the same as mine.|Ton téléphone est le même que le mien.|the same as|c||fn_compare|
+different from|différent de|A2|5|5|London is very different from Paris.|Londres est très différent de Paris.|different from|c||fn_compare|
+too much|trop (indénombrable)|A1|5|5|I ate too much.|J'ai trop mangé.|too much|c||grammar|
+too many|trop de (dénombrable)|A2|5|4|There are too many people here.|Il y a trop de monde ici.|too many|c||grammar|
+not enough|pas assez|A1|5|5|There's not enough time.|Il n'y a pas assez de temps.|not enough|c||grammar|
+so much|tellement, autant|A2|5|5|Thank you so much!|Merci infiniment !|so much|c||basics|
+so many|tant de|A2|5|4|There are so many tourists here.|Il y a tant de touristes ici.|so many|c||basics|
+more and more|toujours plus|A2|5|5|More and more people work from home.|De plus en plus de gens télétravaillent.|More and more|c||fn_compare|
+less and less|de moins en moins|B1|5|4|I watch TV less and less.|Je regarde de moins en moins la télé.|less and less|c||fn_compare|
+one by one|un par un|A2|4|3|Let's take them one by one.|Prenons-les un par un.|one by one|c||basics|
+each other|l'un l'autre|A2|5|5|They love each other.|Ils s'aiment.|each other|c||grammar|
+one another|les uns les autres|B1|4|3|We all help one another here.|Ici, nous nous aidons tous les uns les autres.|one another|c|f|grammar|
+all day|toute la journée|A1|5|4|It rained all day.|Il a plu toute la journée.|all day|c||time|
+all the time|tout le temps|A2|5|5|He talks all the time.|Il parle tout le temps.|all the time|c||time|
+all over|partout dans|B1|5|4|We've been all over Italy.|Nous avons visité toute l'Italie.|all over|c||basics|
+all right|bon, d'accord|A2|5|4|All right, let's start.|D'accord, commençons.|All right|c||fn_agree|
+a long time|longtemps|A1|5|5|I waited a long time.|J'ai attendu longtemps.|a long time|c||time|
+by myself|tout seul|A2|5|4|I did it by myself.|Je l'ai fait tout seul.|by myself|c||grammar|
+on my own|seul, par moi-même|B1|5|5|I live on my own.|Je vis seul.|on my own|c||grammar|
+at all|du tout|A2|5|5|I don't like it at all.|Je n'aime pas ça du tout.|at all|c||grammar|
+at once|tout de suite|B1|4|3|Come here at once!|Viens ici tout de suite !|at once|c||time|
+at the end of|à la fin de|A2|5|4|We'll decide at the end of the month.|Nous déciderons à la fin du mois.|at the end of|c||time|
+at the back|au fond|A2|4|3|We sat at the back.|Nous nous sommes assis au fond.|at the back|c||places|
+at the top|en haut|A2|4|3|Your name is at the top.|Ton nom est en haut.|at the top|c||places|
+in front of|devant|A1|5|5|The bus stops in front of the school.|Le bus s'arrête devant l'école.|in front of|c||places|
+next to|à côté de|A1|5|5|Sit next to me.|Assieds-toi à côté de moi.|next to|c||places|
+opposite the|en face de|A2|4|3|The bank is opposite the station.|La banque est en face de la gare.|opposite the|t||places|
+on the left|à gauche|A1|5|4|It's the second door on the left.|C'est la deuxième porte à gauche.|on the left|t||directions|
+on the right|à droite|A1|5|4|You'll see it on the right.|Tu le verras à droite.|on the right|t||directions|
+out of|hors de|A2|5|4|He's out of the office.|Il est absent du bureau.|out of|c||grammar|
+because of you|à cause de toi|A2|4|2|We're late because of you.|Nous sommes en retard à cause de toi.|because of you|c||fn_explain|
+instead of me|à ma place|B1|4|3|Can you go instead of me?|Tu peux y aller à ma place ?|instead of me|c||basics|
+It's me.|C'est moi.|A1|5|4|Open the door, it's me.|Ouvre la porte, c'est moi.|it's me|c||basics|
+It's mine.|C'est à moi.|A2|5|3|Give it back, it's mine.|Rends-le-moi, c'est à moi.|it's mine|c||basics|
+There isn't any...|Il n'y a pas de...|A1|5|4|There isn't any milk left.|Il n'y a plus de lait.|There isn't any|c||grammar|
+There's nothing to...|Il n'y a rien à...|A2|5|3|There's nothing to do here.|Il n'y a rien à faire ici.|There's nothing to|c||grammar|
+There's something wrong with...|Il y a un problème avec...|A2|5|5|There's something wrong with my phone.|Il y a un problème avec mon téléphone.|There's something wrong with|c||basics|
+There used to be...|Il y avait autrefois...|B1|5|4|There used to be a cinema here.|Il y avait un cinéma ici autrefois.|There used to be|c||grammar,fn_narrate|
+I can't...|Je ne peux pas...|A1|5|4|I can't come tonight.|Je ne peux pas venir ce soir.|I can't|c||grammar|
+I won't...|Je ne vais pas..., je refuse de...|A2|5|4|I won't tell anyone.|Je ne le dirai à personne.|I won't|c||grammar|
+I didn't...|Je n'ai pas...|A1|5|4|I didn't sleep very well.|Je n'ai pas très bien dormi.|I didn't|c||grammar|
+I've just...|Je viens juste de...|A2|5|5|I've just finished work.|Je viens de finir le travail.|I've just|c||grammar|
+I've already...|J'ai déjà...|A2|5|4|I've already told you.|Je te l'ai déjà dit.|I've already|c||grammar|
+@collocation
+get up late|se lever tard|A2|4|2|I got up late on Sunday.|Je me suis levé tard dimanche.|got up late|d||daily_routine|
+be born|naître|A2|5|4|Where were you born?|Où es-tu né ?|were you born|c||small_talk|
+be careful with|faire attention à|A2|5|4|Be careful with that glass.|Fais attention à ce verre.|careful with|c||safety|
+be interested in|être intéressé par|A2|5|3|Are you interested in history?|Tu t'intéresses à l'histoire ?|interested in|c||feelings|
+be tired of|en avoir assez de|B1|5|3|I'm tired of this job.|J'en ai assez de ce travail.|tired of|c||feelings|
+be sorry for|être désolé pour|A2|5|3|I'm sorry for the delay.|Je suis désolé pour le retard.|sorry for|c||fn_react|
+be right|avoir raison|A1|5|5|You were right about the weather.|Tu avais raison pour la météo.|were right|c||basics|
+be wrong|avoir tort|A1|5|5|Maybe I was wrong.|J'ai peut-être eu tort.|was wrong|c||basics|
+be thirty|avoir trente ans|A1|5|4|She'll be thirty next month.|Elle aura trente ans le mois prochain.|be thirty|c||small_talk,false_friend|notes=En anglais on « est » un âge : pas de « have ».
+be cold|avoir froid|A1|5|3|Are you cold? I can close the window.|Tu as froid ? Je peux fermer la fenêtre.|Are you cold|c||feelings|
+be in a hurry|être pressé|A2|5|4|Sorry, I can't stop, I'm in a hurry today.|Désolé, je ne peux pas m'arrêter, je suis pressé aujourd'hui.|in a hurry today|c||time|
+be on time|être à l'heure|A2|5|4|Please try to be on time.|Essaie d'être à l'heure, s'il te plaît.|be on time|c||time|
+be away|être absent|A2|5|3|I'll be away next week.|Je serai absent la semaine prochaine.|be away|c||work|
+be back|être de retour|A1|5|5|I'll be back at five.|Je serai de retour à dix-sept heures.|be back|c||time|
+be over|être fini|A2|5|4|The holidays are over.|Les vacances sont finies.|are over|c||time|
+be able to|être capable de|A2|5|5|Will you be able to come?|Tu pourras venir ?|be able to|c||grammar|
+be supposed to|être censé|B1|5|5|I'm supposed to be at work.|Je suis censé être au travail.|supposed to|c||grammar|id=be-supposed-to
+be going to|aller (futur proche)|A1|5|4|It's going to rain.|Il va pleuvoir.|going to|c||grammar|
+have to|devoir|A1|5|5|We have to leave now.|Nous devons partir maintenant.|have to|c||grammar|
+used to|avoir l'habitude de (passé)|A2|5|5|We used to live in Rome.|Avant, nous vivions à Rome.|used to|c||grammar|
+@phrasal_verb
+come round|passer (à la maison)|B1|4|3|Come round for dinner on Friday.|Passe dîner vendredi.|Come round|c|i|relationships|
+get by|se débrouiller|B1|5|5|I can get by in Spanish.|Je me débrouille en espagnol.|get by|c||learning|
+go around|circuler, faire le tour|B1|4|3|There's a virus going around.|Il y a un virus qui circule.|going around|c||health|
+go without|se passer de|B1|4|3|I can't go without coffee.|Je ne peux pas me passer de café.|go without|c||basics|
+go with|aller avec|A2|5|4|This shirt goes with your eyes.|Cette chemise va bien avec tes yeux.|goes with|c||clothes|
+get away|partir, s'échapper|B1|5|4|I need to get away for a few days.|J'ai besoin de partir quelques jours.|get away|c||leisure|
+hang on|attendre, patienter|A2|5|4|Hang on, I'm coming.|Attends, j'arrive.|Hang on|c|i|fn_interrupt|
+turn around|se retourner, faire demi-tour|A2|4|3|Turn around and go back to the bridge.|Fais demi-tour et retourne au pont.|Turn around|t||directions|
+turn into|se transformer en|B1|4|4|The hobby turned into a business.|Le passe-temps s'est transformé en entreprise.|turned into|c||basics|
+come back from|revenir de|A2|4|2|We've just come back from Spain.|Nous revenons d'Espagne.|come back from|c||travel|
+go past|passer devant|A2|4|2|Go past the church and turn right.|Passe devant l'église et tourne à droite.|Go past|t||directions|
+@connector
+but also|mais aussi|B1|5|3|It's cheap but also very good.|C'est bon marché mais aussi très bon.|but also|c||fn_explain|
+or else|sinon, ou bien|B1|4|3|Hurry up, or else we'll miss the bus.|Dépêche-toi, sinon on va rater le bus.|or else|c||fn_explain|
+and so on|et ainsi de suite|B1|5|4|We sell pens, paper and so on.|Nous vendons des stylos, du papier et ainsi de suite.|and so on|c||fn_explain|
+and then|et puis|A1|5|4|We had lunch, and then we left.|Nous avons déjeuné, et puis nous sommes partis.|and then|c||fn_narrate|
+so far so good|jusqu'ici tout va bien|B1|4|4|The new job? So far so good.|Le nouveau poste ? Jusqu'ici tout va bien.|So far so good|c||fn_react|
+as a matter of fact|en réalité, d'ailleurs|B1|4|4|As a matter of fact, I've met her.|À vrai dire, je l'ai déjà rencontrée.|As a matter of fact|c||fn_explain|
+to sum up|pour résumer|B1|5|5|To sum up, we need more staff.|Pour résumer, il nous faut plus de personnel.|To sum up|w||pro,fn_end|
+@idiom
+Easy come, easy go.|Ce qui vient facilement repart facilement.|B1|3|2|I lost my winnings. Easy come, easy go.|J'ai perdu mes gains. Ce qui vient facilement repart facilement.|Easy come, easy go|c||money|
+First come, first served.|Premier arrivé, premier servi.|B1|4|3|Seats aren't reserved. First come, first served.|Les places ne sont pas réservées. Premier arrivé, premier servi.|First come, first served|c||basics|
+Live and learn.|On apprend à tout âge.|B1|3|2|I lost the file. Oh well, live and learn.|J'ai perdu le fichier. Bon, on apprend à tout âge.|live and learn|c||learning|
+Out of order.|Hors service.|A2|5|4|The lift is out of order.|L'ascenseur est hors service.|out of order|d||technology|

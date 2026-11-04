@@ -355,5 +355,40 @@
       "surprise"
     ],
     "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "evening",
+      "even"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "setting",
+      "set"
+    ],
+    "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "yours",
+      "your"
+    ],
+    "reason": "Pronom possessif distinct."
+  },
+  {
+    "ids": [
+      "willing",
+      "will"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "freak-out",
+      "break-out"
+    ],
+    "reason": "Sans rapport."
   }
 ]

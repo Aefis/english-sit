@@ -1,0 +1,211 @@
+# Lot 016 : B1-B2 (mots courants : santé, loi, émotions, objets, études)
+@word
+circle|cercle|A2||3|We sat in a circle.|Nous nous sommes assis en cercle.|circle|c||basics|pos=n
+concert|concert|A1||3|We went to a concert last night.|Nous sommes allés à un concert hier soir.|concert|d||leisure|pos=n
+crash|accident, s'écraser, planter|B1||4|My computer keeps crashing.|Mon ordinateur plante sans arrêt.|crashing|w||technology|pos=v
+depth|profondeur|B1||3|We discussed it in depth.|Nous en avons discuté en profondeur.|depth|w||analysis|pos=n
+electronic|électronique|B1||3|We sent an electronic invoice.|Nous avons envoyé une facture électronique.|electronic|w||technology|pos=adj
+existence|existence|B1||2|Nobody knew about its existence.|Personne ne connaissait son existence.|existence|c||basics|pos=n
+expression|expression|B1||4|It's a common expression in English.|C'est une expression courante en anglais.|expression|c||learning|pos=n
+factory|usine|A2||4|He works in a car factory.|Il travaille dans une usine automobile.|factory|w||work|pos=n
+joy|joie|B1||3|She jumped with joy.|Elle a sauté de joie.|joy|c||feelings|pos=n
+legislation|législation|B2||3|New legislation comes into force in May.|Une nouvelle législation entre en vigueur en mai.|legislation|n|f|rules,pro|pos=n
+maintenance|entretien, maintenance|B1||4|The lift is closed for maintenance.|L'ascenseur est fermé pour maintenance.|maintenance|w||pro,technology|pos=n
+mate|pote, ami|A2||4|He's an old mate of mine.|C'est un vieux pote à moi.|mate|c|i|relationships|pos=n
+nearby|à proximité|B1||5|Is there a pharmacy nearby?|Il y a une pharmacie à proximité ?|nearby|t||places|pos=adv
+origin|origine|B1||3|What's the origin of this word?|Quelle est l'origine de ce mot ?|origin|c||learning|pos=n
+panel|panel, jury|B1||3|A panel of experts reviewed the plan.|Un groupe d'experts a examiné le projet.|panel|w||pro,meetings|pos=n
+personality|personnalité|A2||4|She has a strong personality.|Elle a une forte personnalité.|personality|c||personality|pos=n
+relief|soulagement|B1||4|It was a huge relief.|Ce fut un immense soulagement.|relief|c||feelings|pos=n
+resistance|résistance|B1||3|There's a lot of resistance to the change.|Il y a beaucoup de résistance au changement.|resistance|w||pro,management|pos=n
+retail|commerce de détail|B1||3|She works in retail.|Elle travaille dans le commerce.|retail|w||pro,business|pos=n
+roof|toit|A2||3|The roof is leaking.|Le toit fuit.|roof|d||housing|pos=n
+shame|honte, dommage|B1||4|What a shame!|Quel dommage !|shame|c||fn_react|pos=n
+tip|conseil, pourboire|A2||5|Thanks for the tip.|Merci pour le conseil.|tip|c||basics|pos=n
+absolute|absolu|B1||3|That's absolute nonsense.|C'est du grand n'importe quoi.|absolute|c||fn_nuance|pos=adj
+advertising|publicité|B1||4|He works in advertising.|Il travaille dans la publicité.|advertising|w||pro,business|pos=n
+cable|câble|A2||3|I need a charging cable.|J'ai besoin d'un câble de chargement.|cable|d||technology|pos=n
+calm|calme|A2||5|Stay calm, everything's fine.|Reste calme, tout va bien.|calm|c||feelings|pos=adj
+client|client (services)|B1||5|I'm meeting a client at three.|Je vois un client à quinze heures.|client|w||pro,business|pos=n
+constant|constant|B1||3|The noise is constant.|Le bruit est constant.|constant|c||description|pos=adj
+dumb|bête, stupide (US)|B1||3|That was a dumb question.|C'était une question bête.|dumb|c|i|description|pos=adj
+exciting|passionnant|A2||5|That's really exciting news.|C'est une nouvelle vraiment passionnante.|exciting|c||feelings|pos=adj
+expansion|expansion|B1||3|The company is planning an expansion.|L'entreprise prévoit une expansion.|expansion|w||pro,business|pos=n
+heavily|fortement, abondamment|B1||4|It's raining heavily.|Il pleut abondamment.|heavily|d||basics|pos=adv
+incident|incident|B1||3|There was an incident at the airport.|Il y a eu un incident à l'aéroport.|incident|n||news|pos=n
+print|imprimer|A2||5|Can you print this for me?|Tu peux imprimer ça pour moi ?|print|w||technology|pos=v
+sight|vue, vision|B1||3|He lost his sight in an accident.|Il a perdu la vue dans un accident.|sight|d||health|pos=n
+sing|chanter|A1||4|She sings in a choir.|Elle chante dans une chorale.|sings|d||leisure|pos=v ;; forms=sang, sung
+wet|mouillé|A2||4|My shoes are wet.|Mes chaussures sont mouillées.|wet|d||description|pos=adj
+worldwide|dans le monde entier|B1||4|The brand is known worldwide.|La marque est connue dans le monde entier.|worldwide|w||business|pos=adv
+anniversary|anniversaire (événement)|B1||3|It's our wedding anniversary today.|C'est notre anniversaire de mariage aujourd'hui.|anniversary|c||family|pos=n
+attractive|séduisant, attrayant|B1||4|It's an attractive offer.|C'est une offre attrayante.|attractive|w||description|pos=adj
+broad|large, vaste|B1||3|She has a broad knowledge of history.|Elle a une vaste connaissance de l'histoire.|broad|c||description|pos=adj
+burn|brûler|A2||4|I burned my hand on the oven.|Je me suis brûlé la main sur le four.|burned|d||basics|pos=v
+cake|gâteau|A1||4|Who wants some cake?|Qui veut du gâteau ?|cake|d||food|pos=n
+constantly|constamment|B1||4|He's constantly on his phone.|Il est constamment sur son téléphone.|constantly|c||time|pos=adv
+contest|concours|B1||3|She won a singing contest.|Elle a gagné un concours de chant.|contest|d||leisure|pos=n
+fee|frais, honoraires|B1||4|There's a small fee for late payment.|Il y a de légers frais en cas de retard de paiement.|fee|d||money|pos=n
+height|hauteur, taille|A2||3|What's your height?|Tu mesures combien ?|height|c||description|pos=n
+hidden|caché|B1||3|Watch out for hidden costs.|Attention aux coûts cachés.|hidden|d||money|pos=adj
+loud|fort (son)|A2||4|The music is too loud.|La musique est trop forte.|loud|d||description|pos=adj
+motor|moteur (électrique)|B1||2|The motor needs replacing.|Le moteur doit être remplacé.|motor|d||technology|pos=n
+peak|sommet, pic|B1||3|Sales reach their peak in December.|Les ventes atteignent leur pic en décembre.|peak|w||pro,analysis|pos=n
+portion|portion|B1||3|The portions here are huge.|Les portions sont énormes ici.|portions|d||food|pos=n
+pound|livre (monnaie, poids)|A2||4|It costs twenty pounds.|Ça coûte vingt livres.|pounds|d||money|pos=n
+protein|protéine|B1||2|Eggs are a good source of protein.|Les œufs sont une bonne source de protéines.|protein|d||food|pos=n
+raw|cru|B1||3|Don't eat raw chicken.|Ne mange pas de poulet cru.|raw|d||food|pos=adj
+reform|réforme|B1||4|The government wants to reform the system.|Le gouvernement veut réformer le système.|reform|n||politics|pos=v
+retirement|retraite|B1||4|She's looking forward to her retirement.|Elle a hâte de prendre sa retraite.|retirement|c||career|pos=n
+sample|échantillon|B1||4|Can I have a free sample?|Je peux avoir un échantillon gratuit ?|sample|d||shopping|pos=n
+secondary|secondaire|B1||3|She teaches at a secondary school.|Elle enseigne dans un collège.|secondary|d||learning|pos=adj
+solar|solaire|B1||3|We've installed solar panels.|Nous avons installé des panneaux solaires.|solar|d||housing|pos=adj
+ultimate|ultime|B1||3|Our ultimate goal is to win.|Notre but ultime est de gagner.|ultimate|c||basics|pos=adj
+unknown|inconnu|B1||3|The cause is still unknown.|La cause est encore inconnue.|unknown|n||basics|pos=adj
+automatically|automatiquement|B1||4|The system saves automatically.|Le système enregistre automatiquement.|automatically|w||technology|pos=adv
+battery|batterie, pile|A2||5|My battery's almost dead.|Ma batterie est presque à plat.|battery|c||technology|pos=n
+blind|aveugle|A2||3|He's been blind since birth.|Il est aveugle depuis sa naissance.|blind|c||health|pos=adj
+breath|souffle, respiration|A2||4|Take a deep breath.|Respire profondément.|breath|d||health|pos=n
+brief|bref|B1||4|I'll be brief.|Je serai bref.|brief|w||pro,presentations|pos=adj
+chest|poitrine|B1||3|I have a chest infection.|J'ai une infection pulmonaire.|chest|d||health|pos=n
+decade|décennie|B1||4|Prices have doubled in a decade.|Les prix ont doublé en dix ans.|decade|c||time|pos=n
+expert|expert|A2||5|We need to ask an expert.|Nous devons consulter un expert.|expert|w||pro,work|pos=n
+external|externe|B1||4|We hired an external consultant.|Nous avons embauché un consultant externe.|external|w||pro,management|pos=adj
+fantasy|imaginaire, fantaisie|B1||2|It's a fantasy novel.|C'est un roman de fantasy.|fantasy|d||leisure|pos=n
+grab|attraper, prendre|B1||5|Let's grab something to eat.|Allons manger un morceau.|grab|c|i|basics|pos=v
+immediate|immédiat|B1||4|We need an immediate answer.|Il nous faut une réponse immédiate.|immediate|w||pro,time|pos=adj
+introduction|introduction, présentation|A2||3|Let me start with a short introduction.|Laissez-moi commencer par une brève introduction.|introduction|w||presentations|pos=n
+license|permis (US)|B1||4|Can I see your driver's license?|Je peux voir votre permis de conduire ?|license|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=licence
+paint|peindre|A1||4|We painted the kitchen white.|Nous avons peint la cuisine en blanc.|painted|d||housing|pos=v
+pilot|pilote|A2||3|He's an airline pilot.|Il est pilote de ligne.|pilot|t||transport|pos=n
+pink|rose|A1||3|She wore a pink dress.|Elle portait une robe rose.|pink|d||colours|pos=adj
+yellow|jaune|A1||3|The walls are yellow.|Les murs sont jaunes.|yellow|d||colours|pos=adj
+orange|orange|A1||3|Would you like an orange?|Tu veux une orange ?|orange|d||food|pos=n
+brown|marron|A1||3|He has brown eyes.|Il a les yeux marron.|brown|d||colours|pos=adj
+grey|gris|A1||3|The sky is grey today.|Le ciel est gris aujourd'hui.|grey|d||colours|pos=adj ;; variant=UK ;; counterpart=gray
+purple|violet|A2||3|She dyed her hair purple.|Elle s'est teint les cheveux en violet.|purple|d||colours|pos=adj
+principal|principal, proviseur|B1||3|The principal reason is cost.|La raison principale est le coût.|principal|w||basics|pos=adj
+registered|enregistré, inscrit|B1||3|Are you registered to vote?|Tu es inscrit sur les listes électorales ?|registered|d||admin|pos=adj
+singer|chanteur|A1||3|She's a famous singer.|C'est une chanteuse célèbre.|singer|c||leisure|pos=n
+smoking|tabac, fait de fumer|A2||3|Smoking is bad for your health.|Fumer est mauvais pour la santé.|Smoking|d||health|pos=n ;; notes=Faux ami : le vêtement se dit dinner jacket.
+theatre|théâtre|A1||3|We went to the theatre on Saturday.|Nous sommes allés au théâtre samedi.|theatre|d||leisure|pos=n ;; variant=UK ;; counterpart=theater
+therapy|thérapie|B1||3|She's in therapy.|Elle suit une thérapie.|therapy|d||health|pos=n
+witness|témoin|B1||3|Were there any witnesses?|Y a-t-il eu des témoins ?|witnesses|n||rules|pos=n
+adopt|adopter|B1||3|They adopted a little girl.|Ils ont adopté une petite fille.|adopted|c||family|pos=v
+aim|but, viser|B1||5|Our aim is to double sales.|Notre but est de doubler les ventes.|aim|w||pro,project|pos=n
+campus|campus|B1||3|She lives on campus.|Elle habite sur le campus.|campus|d||learning|pos=n
+cap|casquette|A2||3|He was wearing a baseball cap.|Il portait une casquette de baseball.|cap|d||clothes|pos=n
+childhood|enfance|A2||4|I had a happy childhood.|J'ai eu une enfance heureuse.|childhood|c||time|pos=n
+comedy|comédie|A2||3|I love a good comedy.|J'adore les bonnes comédies.|comedy|d||leisure|pos=n
+comparison|comparaison|B1||4|By comparison, this one is cheap.|En comparaison, celui-ci est bon marché.|comparison|c||fn_compare|pos=n
+defeat|défaite, battre|B1||3|It was their first defeat.|C'était leur première défaite.|defeat|n||leisure|pos=n
+democracy|démocratie|B1||3|Democracy is fragile.|La démocratie est fragile.|Democracy|n||politics|pos=n
+entitled|intitulé, avoir droit à|B2||4|You're entitled to a refund.|Tu as droit à un remboursement.|entitled|w|f|rules,pro|pos=adj
+exact|exact|A2||4|What's the exact time?|Quelle est l'heure exacte ?|exact|c||basics|pos=adj
+lock|verrouiller, serrure|A2||4|Did you lock the car?|Tu as verrouillé la voiture ?|lock|d||housing|pos=v
+musical|musical, comédie musicale|A2||3|We saw a musical in London.|Nous avons vu une comédie musicale à Londres.|musical|d||leisure|pos=n
+plastic|plastique|A2||4|We need to use less plastic.|Il faut utiliser moins de plastique.|plastic|n||nature|pos=n
+quote|citer, devis|B1||4|Can you send me a quote?|Tu peux m'envoyer un devis ?|quote|w||pro,business|pos=n
+suspect|suspect, soupçonner|B1||4|I suspect he's lying.|Je soupçonne qu'il ment.|suspect|c||fn_nuance|pos=v
+swear|jurer|B1||4|I swear I didn't touch it.|Je te jure que je n'y ai pas touché.|swear|c||fn_react|pos=v ;; forms=swore, sworn
+technique|méthode, procédé|B1||3|She's learning a new technique.|Elle apprend une nouvelle technique.|technique|w||learning|pos=n
+tie|cravate, attacher|A2||3|You don't have to wear a tie.|Tu n'es pas obligé de porter une cravate.|tie|d||clothes|pos=n
+trend|tendance|B1||5|It's a growing trend.|C'est une tendance croissante.|trend|w||pro,analysis|pos=n
+valuable|précieux, de valeur|B1||5|Thanks for your valuable feedback.|Merci pour vos retours précieux.|valuable|w||pro,description|pos=adj
+wealth|richesse|B1||3|He made his wealth in oil.|Il a fait fortune dans le pétrole.|wealth|n||money|pos=n
+wise|sage|B1||3|That was a wise decision.|C'était une sage décision.|wise|c||personality|pos=adj
+@chunk
+What's on your mind?|À quoi tu penses ?|B1|5|4|You look worried. What's on your mind?|Tu as l'air inquiet. À quoi penses-tu ?|What's on your mind?|c||fn_clarify|
+What are you doing here?|Qu'est-ce que tu fais là ?|A1|5|3|Hi! What are you doing here?|Salut ! Qu'est-ce que tu fais là ?|What are you doing here?|c||small_talk|
+What brings you here?|Qu'est-ce qui t'amène ?|B1|4|3|What brings you here today?|Qu'est-ce qui t'amène aujourd'hui ?|What brings you here|c||small_talk|
+What took you so long?|Pourquoi tu as mis autant de temps ?|B1|5|4|Finally! What took you so long?|Enfin ! Pourquoi tu as mis autant de temps ?|What took you so long?|c|i|time|
+How come?|Comment ça se fait ?|B1|5|5|You're not coming? How come?|Tu ne viens pas ? Comment ça se fait ?|How come?|c|i|fn_clarify|
+How did it go?|Comment ça s'est passé ?|A2|5|5|You had your interview? How did it go?|Tu as passé ton entretien ? Comment ça s'est passé ?|How did it go?|c||fn_clarify|
+How's work?|Comment ça va au boulot ?|A2|5|4|Hi Tom! How's work?|Salut Tom ! Comment ça va au boulot ?|How's work?|c|i|small_talk|
+How's the family?|Comment va la famille ?|A2|4|3|Long time no see! How's the family?|Ça fait longtemps ! Comment va la famille ?|How's the family?|c||small_talk|
+How was your weekend?|Tu as passé un bon week-end ?|A2|5|5|Good morning! How was your weekend?|Bonjour ! Tu as passé un bon week-end ?|How was your weekend?|c||small_talk|
+Are you doing anything this weekend?|Tu fais quelque chose ce week-end ?|A2|5|4|Are you doing anything this weekend?|Tu fais quelque chose ce week-end ?|Are you doing anything this weekend?|c||small_talk|
+Do you want a hand?|Tu veux un coup de main ?|A2|5|3|That looks hard. Do you want a hand?|Ça a l'air difficile. Tu veux un coup de main ?|Do you want a hand?|c||fn_suggest|
+Do you have a minute?|Tu as une minute ?|A2|5|5|Do you have a minute? I need to ask you something.|Tu as une minute ? J'ai quelque chose à te demander.|Do you have a minute?|c||fn_request|
+Do you have any plans?|Tu as des projets ?|A2|4|3|Do you have any plans for the summer?|Tu as des projets pour l'été ?|Do you have any plans|c||small_talk|
+Are you free tomorrow?|Tu es libre demain ?|A2|5|3|Are you free tomorrow? I need your help.|Tu es libre demain ? J'ai besoin de ton aide.|Are you free tomorrow?|c||time|
+Are you coming?|Tu viens ?|A1|5|4|We're leaving now. Are you coming?|On part maintenant. Tu viens ?|Are you coming?|c||basics|
+Are you kidding me?|Tu te moques de moi ?|B1|5|4|You crashed my car? Are you kidding me?|Tu as eu un accident avec ma voiture ? Tu te moques de moi ?|Are you kidding me?|c|i|fn_react|
+Are you serious?|Tu es sérieux ?|A2|5|4|You quit your job? Are you serious?|Tu as quitté ton travail ? Tu es sérieux ?|Are you serious?|c||fn_react|
+Any ideas?|Des idées ?|A2|5|4|We need a name for the project. Any ideas?|Il nous faut un nom pour le projet. Des idées ?|Any ideas?|c||fn_request|
+Any news?|Des nouvelles ?|A2|5|3|Any news from the hospital?|Des nouvelles de l'hôpital ?|Any news|c||fn_clarify|
+Anything to drink?|Quelque chose à boire ?|A2|4|3|Anything to drink with your meal?|Quelque chose à boire avec votre repas ?|Anything to drink|d||food|
+Is it true that...?|Est-ce vrai que... ?|A2|5|3|Is it true that you're leaving?|C'est vrai que tu pars ?|Is it true that|c||fn_clarify|
+Is something wrong?|Il y a un problème ?|A2|5|4|You're very quiet. Is something wrong?|Tu es très silencieux. Il y a un problème ?|Is something wrong?|c||fn_clarify|
+Let's see.|Voyons.|A2|5|3|Let's see. What do we need?|Voyons. De quoi avons-nous besoin ?|Let's see|c||fn_hesitate|
+Let's try again.|Essayons encore.|A2|5|3|It didn't work. Let's try again.|Ça n'a pas marché. Essayons encore.|Let's try again|c||basics|
+Let's keep in touch.|Restons en contact.|A2|5|4|It was great to meet you. Let's keep in touch.|Ravi de t'avoir rencontré. Restons en contact.|Let's keep in touch|c||fn_end|
+Let's talk later.|On en reparle plus tard.|A2|5|4|I'm in a rush. Let's talk later.|Je suis pressé. On en reparle plus tard.|Let's talk later|c||fn_end|
+Let's call it a night.|Arrêtons là pour ce soir.|B1|4|3|It's midnight. Let's call it a night.|Il est minuit. Arrêtons là pour ce soir.|Let's call it a night|c|i|fn_end|
+Let's have a look.|Regardons ça.|A2|5|3|Your car won't start? Let's have a look.|Ta voiture ne démarre pas ? Regardons ça.|Let's have a look|c||fn_suggest|
+Let's hope so.|Espérons-le.|A2|5|3|Will it be ready on time? Let's hope so.|Ce sera prêt à temps ? Espérons-le.|Let's hope so|c||fn_react|
+Let's not forget...|N'oublions pas...|B1|5|3|Let's not forget the budget.|N'oublions pas le budget.|Let's not forget|w||pro,meetings|
+Let's not...|Ne... pas (proposition)|B1|5|3|Let's not argue about this.|Ne nous disputons pas à ce sujet.|Let's not|c||fn_suggest|
+That was close.|On l'a échappé belle.|B1|5|4|We nearly missed it. That was close.|On a failli le rater. On l'a échappé belle.|That was close|c|i|fn_react|
+That was fun.|C'était sympa.|A2|5|3|That was fun. Let's do it again.|C'était sympa. On recommence.|That was fun|c||fn_react|
+That's it.|C'est ça, c'est tout.|A2|5|4|That's it, we're finished.|C'est bon, nous avons fini.|That's it|c||fn_end|
+That's the thing.|C'est bien ça le problème.|B1|5|4|That's the thing, nobody told me.|C'est bien ça le problème, personne ne m'a rien dit.|That's the thing|c|i|fn_explain|
+That's better.|C'est mieux.|A2|5|3|Move it to the left. That's better.|Déplace-le vers la gauche. C'est mieux.|That's better|c||fn_react|
+That's terrible.|C'est terrible.|A2|5|3|Your bag was stolen? That's terrible.|On t'a volé ton sac ? C'est terrible.|That's terrible|c||fn_react|
+That's wonderful!|C'est merveilleux !|A2|5|3|You're having a baby? That's wonderful!|Vous attendez un bébé ? C'est merveilleux !|That's wonderful!|c||fn_react|
+That's interesting.|C'est intéressant.|A2|5|4|That's interesting. Tell me more.|C'est intéressant. Dis-m'en plus.|That's interesting|c||fn_react|
+Tell me more.|Dis-m'en plus.|A2|5|4|You met someone? Tell me more.|Tu as rencontré quelqu'un ? Dis-m'en plus.|Tell me more|c||fn_request|
+@collocation
+pay a visit|rendre visite|B1|4|3|I paid a visit to my old school.|J'ai rendu visite à mon ancienne école.|paid a visit|c||basics|
+pay a fine|payer une amende|B1|4|3|I had to pay a fine.|J'ai dû payer une amende.|pay a fine|d||rules|
+pay a compliment|faire un compliment|B1|4|3|He paid me a nice compliment.|Il m'a fait un joli compliment.|paid me a nice compliment|c||relationships|
+pay the price|payer le prix|B1|5|3|We're paying the price for that mistake.|Nous payons le prix de cette erreur.|paying the price|c||basics|
+pay close attention|prêter une attention particulière|B1|5|4|Pay close attention to the details.|Prête une attention particulière aux détails.|Pay close attention|w||pro,work|
+catch a bus|prendre un bus|A2|4|2|I caught a bus to the centre.|J'ai pris un bus pour le centre.|caught a bus|t||transport|
+catch fire|prendre feu|B1|4|3|The car caught fire on the motorway.|La voiture a pris feu sur l'autoroute.|caught fire|n||safety|
+catch someone's attention|attirer l'attention de quelqu'un|B1|4|3|The poster caught my attention.|L'affiche a attiré mon attention.|caught my attention|c||communication|
+follow the rules|respecter les règles|A2|5|4|You need to follow the rules.|Tu dois respecter les règles.|follow the rules|c||rules|
+follow instructions|suivre les consignes|A2|5|4|Just follow the instructions on the box.|Suis juste les consignes sur la boîte.|follow the instructions|c||rules|
+follow advice|suivre un conseil|B1|5|3|I followed your advice and it worked.|J'ai suivi ton conseil et ça a marché.|followed your advice|c||fn_request|
+run a marathon|courir un marathon|A2|4|2|She ran a marathon last year.|Elle a couru un marathon l'an dernier.|ran a marathon|d||leisure|
+run a risk|courir un risque|B1|4|3|We run a risk of losing customers.|Nous courons le risque de perdre des clients.|run a risk|w||pro,risk|
+run late|être en retard|B1|5|4|The train is running late.|Le train est en retard.|running late|t||time|
+wear a seat belt|attacher sa ceinture|A2|4|3|Always wear a seat belt.|Attache toujours ta ceinture.|wear a seat belt|t||safety|
+wear glasses|porter des lunettes|A2|5|3|I've worn glasses since I was six.|Je porte des lunettes depuis l'âge de six ans.|worn glasses|d||clothes|
+wear a suit|porter un costume|A2|4|3|He has to wear a suit to work.|Il doit porter un costume pour aller travailler.|wear a suit|w||clothes|
+cross the road|traverser la route|A2|5|3|Be careful when you cross the road with the kids.|Fais attention en traversant la route avec les enfants.|cross the road|t||safety|
+cross the border|passer la frontière|B1|4|3|We crossed the border at night.|Nous avons passé la frontière de nuit.|crossed the border|t||travel|
+charge a phone|charger un téléphone|A2|5|4|Where can I charge my phone?|Où est-ce que je peux charger mon téléphone ?|charge my phone|d||technology|
+download an app|télécharger une appli|A2|5|4|You need to download the app first.|Tu dois d'abord télécharger l'appli.|download the app|d||technology|
+install software|installer un logiciel|B1|5|3|I can't install this software.|Je n'arrive pas à installer ce logiciel.|install this software|w||it,pro|
+reset a password|réinitialiser un mot de passe|B1|5|4|I need to reset my password.|Je dois réinitialiser mon mot de passe.|reset my password|w||it,pro|
+save a file|enregistrer un fichier|A2|5|4|Don't forget to save the file.|N'oublie pas d'enregistrer le fichier.|save the file|w||it,pro|
+delete a file|supprimer un fichier|A2|5|3|I deleted the file by mistake.|J'ai supprimé le fichier par erreur.|deleted the file|w||it,pro|
+open a file|ouvrir un fichier|A2|5|3|I can't open this file on my phone.|Je n'arrive pas à ouvrir ce fichier sur mon téléphone.|open this file|w||it,pro|
+@phrasal_verb
+back down|céder, faire marche arrière|B2|4|3|Neither side will back down.|Aucun des deux camps ne veut céder.|back down|c||decision|
+blow up|exploser, gonfler|B1|4|3|The car blew up.|La voiture a explosé.|blew up|n||news|
+break in|entrer par effraction|B1|4|3|Someone broke in last night.|Quelqu'un est entré par effraction hier soir.|broke in|n||safety|
+break into|cambrioler|B1|4|3|They broke into my car.|Ils ont forcé ma voiture.|broke into|n||safety|
+break out|éclater (guerre, incendie)|B1|4|3|A fire broke out in the kitchen.|Un incendie s'est déclaré dans la cuisine.|broke out|n||news|
+bring back|rapporter, rappeler|B1|5|4|This song brings back memories.|Cette chanson rappelle des souvenirs.|brings back|c||feelings|
+bring together|réunir|B1|5|4|The event brought together fifty experts.|L'événement a réuni cinquante experts.|brought together|w||pro,meetings|
+call for|nécessiter, réclamer|B2|5|4|This calls for a celebration!|Ça se fête !|calls for|c||basics|
+call in|passer, appeler (un expert)|B1|4|3|We had to call in a plumber.|Nous avons dû faire appel à un plombier.|call in|d||housing|
+care about|se soucier de|B1|5|4|I care about you.|Tu comptes pour moi.|care about|c||feelings|
+carry away|emporter, s'emballer|B1|4|2|I got carried away and spent too much.|Je me suis emballé et j'ai trop dépensé.|got carried away|c||feelings|
+catch up|rattraper|B1|5|5|I'll catch up with you later.|Je vous rattrape plus tard.|catch up|c||time|
+@connector
+as if|comme si|B1|5|5|He acted as if nothing had happened.|Il a fait comme si de rien n'était.|as if|c||fn_compare|
+as though|comme si (soutenu)|B2|4|3|It looks as though it's going to rain.|On dirait qu'il va pleuvoir.|as though|c||fn_compare|
+assuming that|en supposant que|B1|4|4|Assuming that all goes well, we'll finish in May.|En supposant que tout se passe bien, nous finirons en mai.|Assuming that|w||pro,fn_nuance|
+whether|si (alternative)|B1|5|5|I don't know whether she's coming.|Je ne sais pas si elle vient.|whether|c||fn_nuance|
+as soon as you can|dès que tu peux|B1|5|4|Call me as soon as you can.|Appelle-moi dès que tu peux.|as soon as you can|c||time|
+now that|maintenant que|B1|5|4|Now that you mention it, I remember.|Maintenant que tu le dis, je m'en souviens.|Now that|c||time|
+even so|malgré tout|B1|5|4|It was expensive. Even so, we bought it.|C'était cher. Malgré tout, nous l'avons acheté.|Even so|c||fn_nuance|
+@idiom
+Cry over spilled milk.|Pleurer sur ce qui est fait.|B2|3|2|It's done. There's no use crying over spilled milk.|C'est fait. Inutile de pleurer sur ce qui est fait.|crying over spilled milk|c||fn_react|
+Drop someone a line.|Envoyer un petit mot à quelqu'un.|B1|4|3|Drop me a line when you get there.|Envoie-moi un petit mot quand tu y seras.|Drop me a line|c|i|communication|
+Feel under pressure.|Se sentir sous pression.|B1|5|4|I feel under pressure at work.|Je me sens sous pression au travail.|feel under pressure|w||work|
+Go with the flow.|Suivre le mouvement.|B1|4|3|No plans today. Let's just go with the flow.|Pas de projets aujourd'hui. Suivons le mouvement.|go with the flow|c|i|decision|
+Keep your fingers crossed.|Croiser les doigts.|A2|5|4|Keep your fingers crossed for me.|Croise les doigts pour moi.|Keep your fingers crossed|c||feelings|
