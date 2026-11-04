@@ -516,5 +516,40 @@
       "swim"
     ],
     "reason": "Nom de sport à part entière."
+  },
+  {
+    "ids": [
+      "tell-the-time",
+      "time-will-tell"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "nuanced",
+      "nuance"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "what-would-be-the-next-steps",
+      "whats-the-next-step"
+    ],
+    "reason": "Registres différents."
+  },
+  {
+    "ids": [
+      "break-up",
+      "youre-breaking-up"
+    ],
+    "reason": "Rompre, et problème de connexion."
+  },
+  {
+    "ids": [
+      "pull-over",
+      "mull-over"
+    ],
+    "reason": "Sans rapport."
   }
 ]

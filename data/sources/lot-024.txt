@@ -61,13 +61,13 @@ notably|notamment|B2+||5|Prices rose, notably in Paris.|Les prix ont augmenté, 
 notify|avertir, notifier|B2||5|We'll notify you by email.|Nous vous avertirons par e-mail.|notify|w|f|pro,email|pos=v
 notion|notion, idée|B2||3|I reject the notion that money is everything.|Je rejette l'idée que l'argent soit tout.|notion|c||analysis|pos=n
 novel|roman, nouveau|B1||4|I'm reading a great novel.|Je lis un excellent roman.|novel|d||leisure|pos=n
-nuance|nuance|B2+||3|The translation loses all the nuance.|La traduction perd toute la nuance.|nuance|c||communication|pos=n
+nuance|subtilité, nuance|B2+||3|The translation loses all the nuance.|La traduction perd toute la nuance.|nuance|c||communication|pos=n
 obligation|obligation|B2||4|You're under no obligation to buy.|Vous n'êtes pas obligé d'acheter.|obligation|w|f|pro,rules|pos=n
 obscure|obscur, peu connu|C1||3|It's an obscure reference.|C'est une référence obscure.|obscure|c||description|pos=adj
 obsolete|obsolète|B2+||5|This technology is now obsolete.|Cette technologie est maintenant obsolète.|obsolete|w||pro,technology|pos=adj
 obstacle|obstacle|B2||5|Money is the main obstacle.|L'argent est le principal obstacle.|obstacle|w||pro,project|pos=n
 offset|compenser|C1||4|Higher sales offset the costs.|La hausse des ventes a compensé les coûts.|offset|w|f|pro,money|pos=v
-omit|omettre|B2+||3|He omitted one key fact.|Il a omis un fait essentiel.|omitted|w|f|basics|pos=v
+omit|passer sous silence|B2+||3|He omitted one key fact.|Il a omis un fait essentiel.|omitted|w|f|basics|pos=v
 onset|début, apparition|C1||2|Treat it at the onset of symptoms.|Traitez-le dès l'apparition des symptômes.|onset|a|f|health|pos=n
 optimal|optimal|B2+||4|It's the optimal solution.|C'est la solution optimale.|optimal|w||pro,analysis|pos=adj
 optimistic|optimiste|B2||5|I'm fairly optimistic.|Je suis assez optimiste.|optimistic|c||feelings|pos=adj
@@ -82,7 +82,6 @@ overlap|chevauchement, se chevaucher|B2+||5|Our roles overlap a bit.|Nos rôles 
 overrated|surestimé|B2||3|This restaurant is overrated.|Ce restaurant est surestimé.|overrated|c|i|fn_opinion|pos=adj
 oversee|superviser|B2+||5|She oversees all our projects.|Elle supervise tous nos projets.|oversees|w||pro,management|pos=v ;; forms=oversaw, overseen
 oversight|oubli, supervision|C1||4|It was an oversight on my part.|C'était un oubli de ma part.|oversight|w||pro,fn_react|pos=n
-overwhelm|submerger, accabler|B2+||4|The team is overwhelmed with work.|L'équipe est submergée de travail.|overwhelmed|w||pro,feelings|pos=v
 overwhelming|écrasant, accablant|B2+||4|The response was overwhelming.|La réaction a été écrasante.|overwhelming|c||description|pos=adj
 paradox|paradoxe|C1||3|It's a strange paradox.|C'est un étrange paradoxe.|paradox|a||analysis|pos=n
 paramount|primordial|C1||4|Safety is paramount.|La sécurité est primordiale.|paramount|w|f|pro,analysis|pos=adj
@@ -91,15 +90,15 @@ peer|pair, collègue|B2||4|She's respected by her peers.|Elle est respectée par
 pending|en attente|B2||5|The decision is still pending.|La décision est toujours en attente.|pending|w||pro,project|pos=adj
 perceive|percevoir|B2+||4|How do customers perceive us?|Comment les clients nous perçoivent-ils ?|perceive|w||pro,analysis|pos=v
 persistent|persistant|B2||4|She has a persistent cough.|Elle a une toux persistante.|persistent|d||health|pos=adj
-pertinent|pertinent|C1||3|That's a pertinent question.|C'est une question pertinente.|pertinent|w|f|pro,fn_clarify|pos=adj
+pertinent|à propos, pertinent|C1||3|That's a pertinent question.|C'est une question pertinente.|pertinent|w|f|pro,fn_clarify|pos=adj
 pivotal|crucial, charnière|C1||4|This was a pivotal moment.|Ce fut un moment charnière.|pivotal|n|f|analysis|pos=adj
 plausible|plausible|B2+||4|That's a plausible explanation.|C'est une explication plausible.|plausible|a||analysis|pos=adj
 plummet|chuter|B2+||4|Share prices plummeted.|Le cours des actions a chuté.|plummeted|n||pro,analysis|pos=v
-ponder|réfléchir à|C1||3|She pondered the question.|Elle a réfléchi à la question.|pondered|c|f|decision|pos=v
+ponder|méditer sur|C1||3|She pondered the question.|Elle a réfléchi à la question.|pondered|c|f|decision|pos=v
 portfolio|portefeuille, book|B2||4|She showed me her portfolio.|Elle m'a montré son portfolio.|portfolio|w||pro,career|pos=n
 pragmatic|pragmatique|B2+||5|We need to be pragmatic.|Nous devons être pragmatiques.|pragmatic|w||pro,personality|pos=adj
 precaution|précaution|B2||4|Take precautions against fire.|Prends des précautions contre l'incendie.|precautions|w||pro,safety|pos=n
-precedent|précédent|C1||4|It sets a dangerous precedent.|Cela crée un dangereux précédent.|precedent|w|f|pro,rules|pos=n
+precedent|un précédent (fait passé)|C1||4|It sets a dangerous precedent.|Cela crée un dangereux précédent.|precedent|w|f|pro,rules|pos=n
 predecessor|prédécesseur|B2+||3|My predecessor left me a lot of work.|Mon prédécesseur m'a laissé beaucoup de travail.|predecessor|w||pro,career|pos=n
 predominantly|majoritairement|C1||3|Our clients are predominantly young.|Nos clients sont majoritairement jeunes.|predominantly|w|f|pro,analysis|pos=adv
 preliminary|préliminaire|B2+||4|These are only preliminary results.|Ce ne sont que des résultats préliminaires.|preliminary|w||pro,analysis|pos=adj
@@ -110,14 +109,14 @@ prevalent|répandu, courant|C1||3|This view is prevalent among young people.|Ce 
 proactive|proactif|B2+||5|We need to be more proactive.|Nous devons être plus proactifs.|proactive|w||pro,management|pos=adj
 probe|enquêter, enquête|C1||3|Police are probing the incident.|La police enquête sur l'incident.|probing|n||news|pos=v
 proficient|compétent, maîtrisant|B2+||4|She's proficient in three languages.|Elle maîtrise trois langues.|proficient|w||pro,career|pos=adj
-profound|profond|B2+||4|It had a profound effect on me.|Cela a eu un effet profond sur moi.|profound|c|f|feelings|pos=adj
-prolong|prolonger|B2+||3|This will only prolong the crisis.|Cela ne fera que prolonger la crise.|prolong|n|f|analysis|pos=v
+profound|profond (effet, sentiment)|B2+||4|It had a profound effect on me.|Cela a eu un effet profond sur moi.|profound|c|f|feelings|pos=adj
+prolong|faire durer|B2+||3|This will only prolong the crisis.|Cela ne fera que prolonger la crise.|prolong|n|f|analysis|pos=v
 prompt|rapide, inciter|B2+||5|Thanks for your prompt reply.|Merci pour ta réponse rapide.|prompt|w||pro,email|pos=adj
 proportion|proportion|B2||4|A large proportion of our sales are online.|Une grande proportion de nos ventes se fait en ligne.|proportion|w||pro,analysis|pos=n
 prospect|perspective, prospect|B2+||4|There's little prospect of change.|Il y a peu de perspectives de changement.|prospect|w||pro,analysis|pos=n
 provision|fourniture, disposition|C1||3|The contract has a provision for this.|Le contrat prévoit une disposition à ce sujet.|provision|w|f|pro,rules|pos=n
 proximity|proximité|C1||3|It's chosen for its proximity to the port.|Il a été choisi pour sa proximité avec le port.|proximity|w|f|places|pos=n
-prudent|prudent|C1||3|It would be prudent to wait.|Il serait prudent d'attendre.|prudent|w|f|pro,risk|pos=adj
+prudent|sage, prudent (soutenu)|C1||3|It would be prudent to wait.|Il serait prudent d'attendre.|prudent|w|f|pro,risk|pos=adj
 punctual|ponctuel|B2||4|Please be punctual.|Soyez ponctuels, s'il vous plaît.|punctual|w||pro,personality|pos=adj
 @chunk
 It goes against...|Cela va à l'encontre de...|B2+|5|4|It goes against everything we believe in.|Cela va à l'encontre de tout ce à quoi nous croyons.|It goes against|c||fn_disagree|
@@ -156,11 +155,10 @@ In view of...|Compte tenu de...|B2+|5|5|In view of the costs, we should wait.|Co
 In the wake of...|Dans le sillage de...|C1|4|4|In the wake of the crisis, prices fell.|À la suite de la crise, les prix ont baissé.|In the wake of|n||analysis|
 In the event of...|En cas de...|B2|5|5|In the event of fire, use the stairs.|En cas d'incendie, utilisez les escaliers.|In the event of|w|f|pro,safety|
 In the absence of...|En l'absence de...|B2+|4|4|In the absence of data, we can only guess.|En l'absence de données, nous ne pouvons que supposer.|In the absence of|w|f|pro,analysis|
-In the long run...|À long terme...|B2|5|5|In the long run, it'll save us money.|À long terme, cela nous fera économiser de l'argent.|In the long run|c||time|
+In the long run...|Sur la durée...|B2|5|5|In the long run, it'll save us money.|À long terme, cela nous fera économiser de l'argent.|In the long run|c||time|
 In the near future...|Dans un avenir proche...|B1|5|4|We'll open a new office in the near future.|Nous ouvrirons un nouveau bureau dans un avenir proche.|in the near future|w||time|
 In the foreseeable future...|Dans un avenir prévisible...|B2+|4|4|Nothing will change in the foreseeable future.|Rien ne changera dans un avenir prévisible.|in the foreseeable future|w|f|pro,time|
 For the time being...|Pour le moment...|B2|5|5|For the time being, we'll stay here.|Pour le moment, nous restons ici.|For the time being|c||time|
-For the foreseeable future...|Pour l'avenir immédiat...|B2+|3|3|Prices will stay high for the foreseeable future.|Les prix resteront élevés pour l'avenir prévisible.|for the foreseeable future|w|f|pro,time|
 Over the past few years...|Au cours des dernières années...|B1|5|5|Over the past few years, the city has changed.|Au cours des dernières années, la ville a changé.|Over the past few years|c||time|
 Over the next few weeks...|Au cours des prochaines semaines...|B1|5|4|Over the next few weeks, we'll test the app.|Au cours des prochaines semaines, nous testerons l'appli.|Over the next few weeks|w||pro,time|
 Time will tell.|L'avenir nous le dira.|B2|5|4|Will it work? Time will tell.|Est-ce que ça marchera ? L'avenir nous le dira.|Time will tell|c||fn_nuance|
@@ -172,9 +170,9 @@ adapt to change|s'adapter au changement|B2|5|4|Small firms adapt to change quick
 address an issue|s'attaquer à une question|B2|5|5|We must address this issue now.|Nous devons nous attaquer à cette question maintenant.|address this issue|w||pro,work|
 tackle a problem|s'attaquer à un problème|B2|5|5|How should we tackle this problem?|Comment devrions-nous nous attaquer à ce problème ?|tackle this problem|w||pro,work|
 overcome an obstacle|surmonter un obstacle|B2|5|4|We overcame every obstacle.|Nous avons surmonté tous les obstacles.|overcame every obstacle|w||pro,project|
-pursue a career|poursuivre une carrière|B2|5|4|She decided to pursue a career in law.|Elle a décidé de faire carrière dans le droit.|pursue a career|w||pro,career|
+pursue a career|poursuivre une carrière|B2|5|4|She went on to pursue a career in finance.|Elle a ensuite fait carrière dans la finance.|pursue a career|w||pro,career|
 pursue a goal|poursuivre un objectif|B2|5|3|We all pursue the same goal.|Nous poursuivons tous le même objectif.|pursue the same goal|w||pro,project|
-seek advice|demander conseil (soutenu)|B2|5|4|You should seek legal advice.|Tu devrais demander conseil à un juriste.|seek legal advice|w|f|rules|
+seek advice|demander conseil (soutenu)|B2|5|4|Always seek expert advice first.|Demande toujours d'abord conseil à un expert.|seek expert advice|w|f|rules|
 seek approval|demander une approbation|B2|5|3|We must seek approval from the board.|Nous devons demander l'approbation du conseil.|seek approval|w|f|pro,decision|
 gain insight|mieux comprendre|B2+|5|4|We gained insight into customer needs.|Nous avons mieux compris les besoins des clients.|gained insight|w||pro,analysis|
 gain momentum|prendre de l'ampleur|B2+|5|4|The campaign is gaining momentum.|La campagne prend de l'ampleur.|gaining momentum|w||pro,business|
@@ -203,15 +201,12 @@ hold off|attendre, retarder|B2|5|4|Let's hold off on the decision.|Attendons pou
 hold on to|garder, s'accrocher à|B2|4|3|Hold on to your receipt.|Garde ton reçu.|Hold on to|c||basics|
 kick off|lancer, démarrer|B2|5|5|Let's kick off the meeting.|Commençons la réunion.|kick off|w|i|pro,meetings|
 lash out|s'en prendre violemment|C1|3|2|He lashed out at his critics.|Il s'en est pris violemment à ses détracteurs.|lashed out|n||communication|
-lean on|s'appuyer sur|B2|4|3|You can always lean on your friends.|Tu peux toujours t'appuyer sur tes amis.|lean on|c||relationships|
+lean on|compter sur (soutien)|B2|4|3|You can always lean on your friends.|Tu peux toujours t'appuyer sur tes amis.|lean on|c||relationships|
 @connector
-inasmuch|dans la mesure (rare)|C1|1|1|It matters inasmuch as it's legal.|Cela importe dans la mesure où c'est légal.|inasmuch|a|f|fn_nuance|
 as opposed to|par opposition à|B2|5|5|We use data as opposed to guesswork.|Nous utilisons des données plutôt que des suppositions.|as opposed to|w||pro,fn_compare|
 by the same token|de la même manière|C1|4|3|By the same token, we should be careful.|De la même manière, nous devrions être prudents.|By the same token|w|f|fn_compare|
 for that matter|d'ailleurs, à vrai dire|B2+|4|3|I don't like him, or his brother for that matter.|Je ne l'aime pas, ni son frère d'ailleurs.|for that matter|c||fn_explain|
-if anything|voire, au contraire|B2+|3|2|It was better, if anything.|C'était plutôt mieux, si quelque chose.|if anything|c||fn_nuance|id=if-anything-conn ;; sense=connecteur
 in effect|en réalité, de fait|B2+|4|4|It is, in effect, a pay cut.|C'est, de fait, une baisse de salaire.|in effect|w||pro,fn_explain|
-on the contrary, ...|bien au contraire|B2|4|2|It wasn't boring. On the contrary, I loved it.|Ce n'était pas ennuyeux. Bien au contraire, j'ai adoré.|On the contrary|c||fn_disagree|id=on-the-contrary-oral ;; sense=réponse orale
 @idiom
 Have a foot in the door.|Avoir un pied dans la place.|B2|4|4|This internship gets you a foot in the door.|Ce stage te permet de mettre un pied dans la place.|a foot in the door|w||pro,career|
 Read between the lines.|Lire entre les lignes.|B2|5|4|You have to read between the lines.|Il faut lire entre les lignes.|read between the lines|c||communication|

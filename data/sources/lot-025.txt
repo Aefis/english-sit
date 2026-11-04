@@ -1,0 +1,206 @@
+# Lot 025 : B2+-C1 (mots soutenus Q-Z, finance, presse, tendances, gestion)
+@word
+quota|quota|B2+||3|We've reached our quota.|Nous avons atteint notre quota.|quota|w||pro,business|pos=n
+rationale|justification, logique|C1||5|What's the rationale behind this decision?|Quelle est la logique derrière cette décision ?|rationale|w|f|pro,decision|pos=n
+realm|domaine, royaume|C1||2|It's not outside the realm of possibility.|Ce n'est pas hors du champ des possibles.|realm|a|f|analysis|pos=n
+reassure|rassurer|B2||5|I tried to reassure her.|J'ai essayé de la rassurer.|reassure|c||feelings|pos=v
+rebound|repartir à la hausse|B2+||3|Sales rebounded in the spring.|Les ventes ont rebondi au printemps.|rebounded|w||pro,analysis|pos=v
+recession|récession|B2||4|The country is in recession.|Le pays est en récession.|recession|n||money,pro|pos=n
+reciprocal|réciproque|C1||3|We have a reciprocal agreement.|Nous avons un accord réciproque.|reciprocal|w|f|pro,business|pos=adj
+reconcile|concilier, rapprocher|C1||4|It's hard to reconcile work and family.|Il est difficile de concilier travail et famille.|reconcile|c|f|fn_nuance|pos=v
+rectify|rectifier|C1||4|We'll rectify the error at once.|Nous rectifierons l'erreur immédiatement.|rectify|w|f|pro,work|pos=v
+redundant|licencié, superflu|B2+||4|He was made redundant last year.|Il a été licencié l'année dernière.|redundant|w||pro,career|pos=adj
+refine|affiner|B2+||4|We need to refine our strategy.|Nous devons affiner notre stratégie.|refine|w||pro,project|pos=v
+refrain|s'abstenir|C1||3|Please refrain from smoking.|Veuillez vous abstenir de fumer.|refrain|w|f|rules|pos=v
+refund|remboursement, rembourser|B1||5|I'd like a full refund.|Je voudrais un remboursement intégral.|refund|d||shopping|pos=n
+rehearse|répéter (un spectacle, un discours)|B2||3|She rehearsed her speech all night.|Elle a répété son discours toute la nuit.|rehearsed|w||presentations|pos=v
+reimburse|rembourser (frais)|B2+||5|We'll reimburse your travel costs.|Nous vous rembourserons vos frais de déplacement.|reimburse|w|f|pro,money|pos=v
+reiterate|réitérer|C1||4|I'd like to reiterate my thanks.|Je tiens à réitérer mes remerciements.|reiterate|w|f|pro,communication|pos=v
+relocate|déménager, délocaliser|B2+||4|The firm relocated to Berlin.|L'entreprise s'est installée à Berlin.|relocated|w||pro,business|pos=v
+remedy|remède, remédier|B2+||3|We're trying to remedy the situation.|Nous essayons de remédier à la situation.|remedy|w|f|pro,work|pos=v
+remuneration|rémunération|C1||3|The remuneration package is generous.|La rémunération proposée est généreuse.|remuneration|w|f|pro,career|pos=n
+render|rendre (+ adjectif, soutenu)|C1||3|The new law renders it illegal.|La nouvelle loi rend cela illégal.|renders|w|f|rules|pos=v
+renowned|renommé|B2+||3|She's a renowned surgeon.|C'est une chirurgienne renommée.|renowned|c|f|description|pos=adj
+repercussion|répercussion|C1||3|This could have serious repercussions.|Cela pourrait avoir de graves répercussions.|repercussions|n|f|analysis|pos=n
+replicate|reproduire|C1||3|Nobody has replicated the study.|Personne n'a reproduit l'étude.|replicated|a|f|academic|pos=v
+resilient|résilient, résistant|B2+||5|Our team is very resilient.|Notre équipe est très résiliente.|resilient|w||pro,personality|pos=adj
+resilience|résilience|B2+||4|She showed great resilience.|Elle a fait preuve d'une grande résilience.|resilience|w||pro,personality|pos=n
+resolution|résolution|B2||4|The picture has a high resolution.|L'image a une haute résolution.|resolution|w||technology|pos=n
+resume|reprendre|B2+||4|The talks will resume on Monday.|Les négociations reprendront lundi.|resume|w|f|pro,meetings|pos=v
+retrieve|récupérer|B2+||4|I can't retrieve the file.|Je n'arrive pas à récupérer le fichier.|retrieve|w||pro,it|pos=v
+revamp|remanier|B2+||4|We're revamping the website.|Nous remanions le site web.|revamping|w||pro,project|pos=v
+rigorous|rigoureux|B2+||4|We carry out rigorous testing.|Nous effectuons des tests rigoureux.|rigorous|w||pro,analysis|pos=adj
+robust|robuste, solide|B2+||5|We need a robust plan.|Il nous faut un plan solide.|robust|w||pro,analysis|pos=adj
+rudimentary|rudimentaire|C1||2|He has a rudimentary knowledge of German.|Il a des connaissances rudimentaires en allemand.|rudimentary|c|f|learning|pos=adj
+safeguard|sauvegarder, protéger|B2+||4|We need to safeguard our data.|Nous devons protéger nos données.|safeguard|w||pro,risk|pos=v
+salient|principal, marquant|C1||3|Here are the salient points.|Voici les points marquants.|salient|w|f|pro,analysis|pos=adj
+scarce|peu abondant|B2+||4|Water is scarce here.|L'eau est rare ici.|scarce|n||nature|pos=adj
+sceptical|sceptique|B2||5|I'm sceptical about the results.|Je suis sceptique quant aux résultats.|sceptical|c||fn_nuance,uk_us|pos=adj ;; variant=UK ;; counterpart=skeptical
+seamless|fluide, sans accroc|B2+||5|The handover was seamless.|La passation s'est déroulée sans accroc.|seamless|w||pro,project|pos=adj
+sentiment|sentiment|B2+||3|Public sentiment has changed.|Le sentiment du public a changé.|sentiment|n||analysis|pos=n
+severe|grave, sévère|B2||4|There are severe delays on the line.|Il y a de graves retards sur la ligne.|severe|t||description|pos=adj
+shortcoming|défaut, lacune|B2+||4|Every system has its shortcomings.|Chaque système a ses défauts.|shortcomings|w||pro,analysis|pos=n
+shrink|rétrécir, diminuer|B2||4|Our market is shrinking.|Notre marché rétrécit.|shrinking|w||pro,analysis|pos=v ;; forms=shrank, shrunk
+skew|fausser|C1||3|A few big orders skewed the data.|Quelques grosses commandes ont faussé les données.|skewed|w||pro,analysis|pos=v
+slump|chute, s'effondrer|B2+||3|There's been a slump in sales.|Les ventes se sont effondrées.|slump|n||pro,analysis|pos=n
+soar|monter en flèche|B2+||5|Prices have soared this year.|Les prix ont monté en flèche cette année.|soared|n||pro,analysis|pos=v
+sophisticated|sophistiqué|B2||4|It's a very sophisticated system.|C'est un système très sophistiqué.|sophisticated|w||description|pos=adj
+spark|susciter, déclencher (une réaction)|B2+||4|The decision sparked protests.|La décision a déclenché des manifestations.|sparked|n||basics|pos=v
+speculate|spéculer|B2+||3|I don't want to speculate.|Je ne veux pas faire de spéculations.|speculate|c||fn_nuance|pos=v
+spur|stimuler, inciter|C1||3|Low prices spurred demand.|Les prix bas ont stimulé la demande.|spurred|n|f|pro,analysis|pos=v
+stagnant|stagnant|C1||3|Wages have been stagnant for years.|Les salaires stagnent depuis des années.|stagnant|n|f|pro,analysis|pos=adj
+stance|position, prise de position|B2+||4|What's your stance on this?|Quelle est ta position là-dessus ?|stance|w||pro,fn_opinion|pos=n
+steady|stable, régulier|B2||5|We've seen steady growth.|Nous avons connu une croissance régulière.|steady|w||pro,analysis|pos=adj
+steep|raide, abrupt|B2||4|It's a steep climb.|C'est une montée raide.|steep|t||description|pos=adj
+stipulate|stipuler|C1||3|The contract stipulates a notice period.|Le contrat stipule une période de préavis.|stipulates|w|f|pro,rules|pos=v
+streamline|rationaliser, simplifier|B2+||5|We need to streamline the process.|Nous devons simplifier le processus.|streamline|w||pro,project|pos=v
+stringent|strict, rigoureux|C1||3|There are stringent safety rules.|Il existe des règles de sécurité strictes.|stringent|w|f|pro,rules|pos=adj
+subsidy|subvention|B2+||3|Farmers receive a subsidy.|Les agriculteurs reçoivent une subvention.|subsidy|n||money|pos=n
+subtle|subtil|B2||4|There's a subtle difference.|Il y a une différence subtile.|subtle|c||fn_nuance|pos=adj
+succinct|succinct|C1||3|Please keep it succinct.|Sois succinct, s'il te plaît.|succinct|w|f|pro,writing|pos=adj
+supersede|supplanter|C1||2|This version supersedes the old one.|Cette version remplace l'ancienne.|supersedes|w|f|pro,it|pos=v
+supplement|supplément, compléter|B2||3|I take a vitamin supplement.|Je prends un complément vitaminé.|supplement|d||health|pos=n
+surge|hausse soudaine|B2+||4|There's been a surge in demand.|Il y a eu une brusque hausse de la demande.|surge|n||pro,analysis|pos=n
+surpass|dépasser|B2+||4|Sales surpassed all expectations.|Les ventes ont dépassé toutes les attentes.|surpassed|w|f|pro,analysis|pos=v
+surplus|excédent|B2+||3|We have a budget surplus.|Nous avons un excédent budgétaire.|surplus|w||pro,money|pos=n
+susceptible|sujet à, sensible|C1||3|Older people are more susceptible to the flu.|Les personnes âgées sont plus sujettes à la grippe.|susceptible|d|f|health,false_friend|pos=adj ;; notes=Faux ami : ne veut pas dire « susceptible » (touchy).
+synergy|synergie|B2+||3|There's real synergy between the teams.|Il y a une vraie synergie entre les équipes.|synergy|w||pro,management|pos=n
+tangible|tangible, concret|B2+||5|We need tangible results.|Il nous faut des résultats concrets.|tangible|w||pro,analysis|pos=adj
+tedious|fastidieux|B2+||4|It's a tedious job.|C'est un travail fastidieux.|tedious|w||description|pos=adj
+tenacious|tenace|C1||3|She's a tenacious negotiator.|C'est une négociatrice tenace.|tenacious|w|f|pro,personality|pos=adj
+tension|tension|B2||4|You can feel the tension in the office.|On sent la tension au bureau.|tension|w||feelings|pos=n
+tentative|provisoire, hésitant|C1||4|We've set a tentative date.|Nous avons fixé une date provisoire.|tentative|w||pro,time,false_friend|pos=adj ;; notes=Faux ami : une tentative = attempt.
+tenure|mandat, durée de poste|C1||2|During her tenure, sales doubled.|Pendant son mandat, les ventes ont doublé.|tenure|w|f|pro,career|pos=n
+terminate|mettre fin à|B2+||4|They terminated the agreement.|Ils ont mis fin à l'accord.|terminated|w|f|pro,rules|pos=v
+testimony|témoignage|C1||3|Her testimony was crucial.|Son témoignage a été crucial.|testimony|n|f|rules|pos=n
+threshold|seuil|B2+||5|We've reached the threshold.|Nous avons atteint le seuil.|threshold|w||pro,analysis|pos=n
+thrive|prospérer|B2+||5|Small shops are thriving here.|Les petits commerces prospèrent ici.|thriving|n||pro,business|pos=v
+timely|opportun, en temps utile|B2+||4|Thanks for the timely reminder.|Merci pour ce rappel opportun.|timely|w||pro,time|pos=adj
+tolerate|tolérer|B2||4|We don't tolerate bad behaviour.|Nous ne tolérons pas les mauvais comportements.|tolerate|w||rules|pos=v
+tolerance|tolérance|B2||3|We have zero tolerance for fraud.|Nous avons une tolérance zéro pour la fraude.|tolerance|w||rules|pos=n
+trait|trait de caractère|B2+||3|Patience is a good trait.|La patience est une bonne qualité.|trait|c||personality|pos=n
+transparent|transparent|B2||5|We want to be transparent with our staff.|Nous voulons être transparents avec notre personnel.|transparent|w||pro,management|pos=adj
+trivial|insignifiant|B2+||4|It's only a trivial matter.|Ce n'est qu'une question insignifiante.|trivial|c||fn_nuance,false_friend|pos=adj ;; notes=Faux ami : veut dire « insignifiant », pas « vulgaire ».
+turnover|chiffre d'affaires, rotation|B2+||5|Staff turnover is very high.|La rotation du personnel est très élevée.|turnover|w||pro,management|pos=n
+ubiquitous|omniprésent|C1||3|Smartphones are now ubiquitous.|Les smartphones sont maintenant omniprésents.|ubiquitous|n|f|technology|pos=adj
+unanimous|unanime|B2+||4|The decision was unanimous.|La décision a été unanime.|unanimous|w||pro,decision|pos=adj
+underestimate|sous-estimer|B2||5|Don't underestimate the risk.|Ne sous-estime pas le risque.|underestimate|w||pro,risk|pos=v
+underlying|sous-jacent|B2+||5|What's the underlying problem?|Quel est le problème sous-jacent ?|underlying|w||pro,analysis|pos=adj
+undertake|entreprendre|B2+||4|We'll undertake a full review.|Nous entreprendrons un examen complet.|undertake|w|f|pro,project|pos=v ;; forms=undertook, undertaken
+unprecedented|sans précédent|B2+||5|It's an unprecedented situation.|C'est une situation sans précédent.|unprecedented|n||analysis|pos=adj
+unreliable|peu fiable|B2||5|The train service is unreliable.|Le service ferroviaire est peu fiable.|unreliable|t||description|pos=adj
+unwilling|peu disposé|B2||3|He's unwilling to compromise.|Il n'est pas disposé à faire de compromis.|unwilling|w||fn_nuance|pos=adj
+uphold|maintenir, faire respecter|C1||3|We uphold high standards.|Nous maintenons des normes élevées.|uphold|w|f|pro,rules|pos=v
+utilize|utiliser (soutenu)|B2+||3|We need to utilize our resources better.|Nous devons mieux utiliser nos ressources.|utilize|w|f|pro,management|pos=v ;; also=utilise
+validate|valider|B2+||4|We need to validate these results.|Nous devons valider ces résultats.|validate|w||pro,analysis|pos=v
+viable|viable|B2+||5|It's not a viable solution.|Ce n'est pas une solution viable.|viable|w||pro,analysis|pos=adj
+vicinity|environs|C1||3|There are no hotels in the vicinity.|Il n'y a pas d'hôtels dans les environs.|vicinity|t|f|places|pos=n
+vigilant|vigilant|C1||3|Stay vigilant.|Restez vigilants.|vigilant|w|f|safety|pos=adj
+volatile|instable, volatil|B2+||4|The market is very volatile.|Le marché est très instable.|volatile|n||pro,risk|pos=adj
+voluntary|volontaire, bénévole|B2||4|Attendance is voluntary.|La participation est volontaire.|voluntary|w||rules|pos=adj
+waive|renoncer à, annuler|C1||3|They agreed to waive the fee.|Ils ont accepté de renoncer aux frais.|waive|w|f|pro,money|pos=v
+wary|méfiant|B2+||4|I'm wary of cheap offers.|Je me méfie des offres bon marché.|wary|c||feelings|pos=adj
+whereby|par lequel|C1||4|It's a system whereby staff can vote.|C'est un système par lequel le personnel peut voter.|whereby|w|f|pro,grammar|pos=adv
+withhold|retenir, ne pas communiquer|C1||3|They withheld important information.|Ils ont retenu des informations importantes.|withheld|w|f|pro,communication|pos=v ;; forms=withheld
+yield|donner, rapporter|C1||4|The tests yielded good results.|Les tests ont donné de bons résultats.|yielded|a|f|pro,analysis|pos=v
+workshop|atelier|B1||5|We ran a workshop on leadership.|Nous avons organisé un atelier sur le leadership.|workshop|w||pro,learning|pos=n
+workplace|lieu de travail|B1||5|We want a safer workplace.|Nous voulons un lieu de travail plus sûr.|workplace|w||pro,work|pos=n
+wallet|portefeuille|A2||4|I've lost my wallet.|J'ai perdu mon portefeuille.|wallet|d||money|pos=n
+timeline|calendrier, chronologie|B2||5|What's the timeline for this?|Quel est le calendrier pour cela ?|timeline|w||pro,project|pos=n
+@chunk
+Sales are up.|Les ventes sont en hausse.|B1|5|4|Sales are up by ten percent this quarter.|Les ventes sont en hausse de dix pour cent ce trimestre.|Sales are up|w||pro,reporting|
+Sales are down.|Les ventes sont en baisse.|B1|5|4|Sales are down compared to last year.|Les ventes sont en baisse par rapport à l'an dernier.|Sales are down|w||pro,reporting|
+The figures show that...|Les chiffres montrent que...|B1|5|5|The figures show that demand is rising.|Les chiffres montrent que la demande augmente.|The figures show that|w||pro,reporting|
+According to the data...|D'après les données...|B1|5|4|According to the data, most users are young.|D'après les données, la plupart des utilisateurs sont jeunes.|According to the data|w||pro,reporting|
+There was a sharp rise in...|Il y a eu une forte hausse de...|B2|5|4|There was a sharp rise in energy prices.|Il y a eu une forte hausse des prix de l'énergie.|There was a sharp rise in|w||pro,reporting|
+It peaked in...|Cela a atteint un pic en...|B2|4|4|It peaked in June and then fell.|Cela a atteint un pic en juin, puis a baissé.|It peaked in|w||pro,reporting|
+It remained stable.|Cela est resté stable.|B1|5|3|Demand remained stable throughout the year.|La demande est restée stable toute l'année.|remained stable|w||pro,reporting|
+It fell by...|Cela a baissé de...|B1|5|4|Revenue fell by five percent.|Le chiffre d'affaires a baissé de cinq pour cent.|fell by|w||pro,reporting|
+It rose by...|Cela a augmenté de...|B1|5|4|Profit rose by twelve percent.|Le bénéfice a augmenté de douze pour cent.|rose by|w||pro,reporting|
+It accounts for...|Cela représente...|B2|5|4|It accounts for a third of our revenue.|Cela représente un tiers de notre chiffre d'affaires.|It accounts for|w||pro,reporting|
+By the end of the quarter...|D'ici la fin du trimestre...|B1|5|3|We'll finish by the end of the quarter.|Nous aurons fini d'ici la fin du trimestre.|by the end of the quarter|w||pro,reporting|
+Year on year...|D'une année sur l'autre...|B2|4|4|Sales grew five percent year on year.|Les ventes ont augmenté de cinq pour cent d'une année sur l'autre.|year on year|w||pro,reporting|
+Let's look at the numbers.|Regardons les chiffres.|B1|5|4|Before we decide, let's look at the numbers.|Avant de décider, regardons les chiffres.|let's look at the numbers|w||pro,meetings|
+Let's break this down.|Décomposons cela.|B2|5|4|It's a big project. Let's break this down.|C'est un gros projet. Décomposons cela.|Let's break this down|w||pro,meetings|
+Let's go around the table.|Faisons un tour de table.|B2|5|4|Let's go around the table and introduce ourselves.|Faisons un tour de table pour nous présenter.|Let's go around the table|w||pro,meetings|
+Does anyone have any questions?|Est-ce que quelqu'un a des questions ?|B1|5|4|That's all from me. Does anyone have any questions?|C'est tout pour moi. Est-ce que quelqu'un a des questions ?|Does anyone have any questions?|w||pro,meetings|
+Are we all on the same page?|Sommes-nous tous d'accord ?|B2|5|4|Before we finish, are we all on the same page?|Avant de finir, sommes-nous tous d'accord ?|are we all on the same page?|w||pro,meetings|
+Who's taking the minutes?|Qui prend le compte rendu ?|B2|4|4|Before we start, who's taking the minutes?|Avant de commencer, qui prend le compte rendu ?|who's taking the minutes?|w||pro,meetings|
+Let's recap.|Récapitulons.|B2|5|5|Let's recap what we've agreed.|Récapitulons ce sur quoi nous nous sommes mis d'accord.|Let's recap|w||pro,meetings|
+What's the next step?|Quelle est la prochaine étape ?|B1|5|5|OK, what's the next step?|Bon, quelle est la prochaine étape ?|what's the next step?|w||pro,project|
+Who's going to take this on?|Qui va s'en charger ?|B1|5|4|It's urgent. Who's going to take this on?|C'est urgent. Qui va s'en charger ?|Who's going to take this on?|w||pro,project|
+Can we agree on...?|Pouvons-nous nous mettre d'accord sur... ?|B1|5|4|Can we agree on a date?|Pouvons-nous nous mettre d'accord sur une date ?|Can we agree on|w||pro,decision|
+I'd like to hear your thoughts.|J'aimerais connaître votre avis.|B1|5|4|I'd like to hear your thoughts on the budget.|J'aimerais connaître votre avis sur le budget.|I'd like to hear your thoughts|w||pro,meetings|
+I'd like to add something.|J'aimerais ajouter quelque chose.|B1|5|3|Before we move on, I'd like to add something.|Avant de passer à la suite, j'aimerais ajouter quelque chose.|I'd like to add something|w||pro,meetings|
+Thank you all for coming.|Merci à tous d'être venus.|B1|5|4|Thank you all for coming today.|Merci à tous d'être venus aujourd'hui.|Thank you all for coming|w||pro,meetings|
+Let's get down to business.|Passons aux choses sérieuses.|B2|5|5|We're all here, so let's get down to business.|Nous sommes tous là, alors passons aux choses sérieuses.|let's get down to business|w||pro,meetings|
+We're out of time.|Nous n'avons plus de temps.|B1|5|3|Sorry, we're out of time for today.|Désolé, nous n'avons plus de temps aujourd'hui.|we're out of time|w||pro,meetings|
+Can you hear me OK?|Vous m'entendez bien ?|A2|5|5|Can you hear me OK? I'll turn on my camera.|Vous m'entendez bien ? Je vais allumer ma caméra.|Can you hear me OK?|w||pro,meetings|
+You're on mute.|Vous êtes en sourdine.|B1|5|5|Sorry, you're on mute.|Désolé, votre micro est coupé.|you're on mute|w||pro,meetings|
+Can everyone see my screen?|Tout le monde voit mon écran ?|B1|5|5|Can everyone see my screen now?|Tout le monde voit mon écran maintenant ?|Can everyone see my screen|w||pro,meetings|
+You're breaking up.|Tu coupes, ta connexion saute.|B1|5|4|Sorry, you're breaking up. Can you repeat that?|Désolé, ta connexion saute. Tu peux répéter ?|you're breaking up|w||pro,meetings|
+Sorry, I was on mute.|Désolé, mon micro était coupé.|B1|5|4|Sorry, I was on mute the whole time.|Désolé, mon micro était coupé tout ce temps.|Sorry, I was on mute|w||pro,meetings|
+Let me share my screen.|Je vais partager mon écran.|B1|5|4|Let me share my screen so you can see it.|Je vais partager mon écran pour que vous puissiez voir.|Let me share my screen|w||pro,meetings|
+I'll drop the link in the chat.|Je mets le lien dans le chat.|B1|5|4|I'll drop the link in the chat now.|Je mets le lien dans le chat tout de suite.|I'll drop the link in the chat|w|i|pro,meetings|
+Should we start or wait for the others?|On commence ou on attend les autres ?|B1|4|3|It's ten past. Should we start or wait for the others?|Il est dix passé. On commence ou on attend les autres ?|Should we start or wait for the others?|w||pro,meetings|
+I have a hard stop at...|Je dois absolument partir à...|B2|4|4|Just so you know, I have a hard stop at three.|Juste pour info, je dois absolument partir à quinze heures.|I have a hard stop at|w|i|pro,meetings|
+Let's circle back to this.|On y reviendra.|B2|4|3|We're short of time. Let's circle back to this.|Le temps presse. On y reviendra.|Let's circle back to this|w|i|pro,meetings|
+It's on my radar.|C'est dans mon viseur.|B2|4|3|Don't worry, it's on my radar.|Ne t'inquiète pas, je l'ai en tête.|it's on my radar|w|i|pro,project|
+It's on my to-do list.|C'est sur ma liste de choses à faire.|B1|5|3|I haven't forgotten, it's on my to-do list.|Je n'ai pas oublié, c'est sur ma liste.|it's on my to-do list|w||pro,project|
+I'm swamped.|Je suis débordé.|B2|5|5|I can't help this week, I'm swamped.|Je ne peux pas aider cette semaine, je suis débordé.|I'm swamped|w|i|pro,work|
+I'm snowed under.|Je croule sous le travail.|B2|4|4|I'm snowed under at the moment.|Je croule sous le travail en ce moment.|I'm snowed under|w|i|pro,work|
+I've got a lot on at the moment.|J'ai beaucoup à faire en ce moment.|B1|5|4|Sorry, I've got a lot on at the moment.|Désolé, j'ai beaucoup à faire en ce moment.|I've got a lot on at the moment|w|i|pro,work|
+I don't have the bandwidth.|Je n'ai pas la disponibilité.|B2+|4|3|I don't have the bandwidth for another project.|Je n'ai pas la disponibilité pour un autre projet.|I don't have the bandwidth|w|i|pro,work|
+Can we push this back?|On peut repousser ça ?|B2|5|4|I'm not ready. Can we push this back?|Je ne suis pas prêt. On peut repousser ça ?|Can we push this back?|w||pro,time|
+@collocation
+meet a target|atteindre une cible chiffrée|B1|5|3|We didn't meet our target this month.|Nous n'avons pas atteint notre cible ce mois-ci.|meet our target|w||pro,business|
+take the minutes|rédiger le compte rendu|B2|5|4|Can you take the minutes?|Tu peux rédiger le compte rendu ?|take the minutes|w||pro,meetings|
+circulate the agenda|diffuser l'ordre du jour|B2|4|3|I'll circulate the agenda tomorrow.|Je diffuserai l'ordre du jour demain.|circulate the agenda|w||pro,meetings|
+take questions|répondre aux questions|B1|5|3|I'll take questions at the end.|Je répondrai aux questions à la fin.|take questions|w||pro,presentations|
+open the meeting|ouvrir la réunion|B1|4|3|I'd like to open the meeting with a few words.|J'aimerais ouvrir la réunion par quelques mots.|open the meeting|w||pro,meetings|
+close the meeting|clore la réunion|B1|4|3|I'd like to close the meeting now.|J'aimerais clore la réunion maintenant.|close the meeting|w||pro,meetings|
+cost a lot|coûter cher|A2|5|3|This phone cost a lot.|Ce téléphone a coûté cher.|cost a lot|c||money|
+bring a project to a close|achever un projet|B2+|3|3|We finally brought the project to a close.|Nous avons enfin achevé le projet.|brought the project to a close|w||pro,project|
+lead a project|piloter un projet|B1|5|5|I'm leading a project in Asia.|Je pilote un projet en Asie.|leading a project|w||pro,project|
+manage a project|gérer un projet|B1|5|4|She manages a project with a big budget.|Elle gère un projet au budget important.|manages a project|w||pro,project|
+complete a project|mener à bien un projet|B1|5|4|We completed the project on time.|Nous avons mené à bien le projet dans les temps.|completed the project|w||pro,project|
+on budget|dans le budget|B2|5|4|We finished on time and on budget.|Nous avons fini dans les temps et dans le budget.|on budget|w||pro,money|
+ahead of schedule|en avance sur le planning|B1|5|4|We're two days ahead of schedule.|Nous avons deux jours d'avance sur le planning.|ahead of schedule|w||pro,project|
+under pressure|sous pression|B1|5|4|We're under a lot of pressure.|Nous sommes sous forte pression.|under a lot of pressure|w||pro,work|
+under review|en cours d'examen|B2|5|4|Your application is under review.|Votre candidature est en cours d'examen.|under review|w||pro,admin|
+under control|sous contrôle|B1|5|4|Everything's under control.|Tout est sous contrôle.|under control|c||fn_react|
+under way|lancé, en marche|B2|5|4|Work is already under way.|Les travaux sont déjà en cours.|under way|w||pro,project|
+in charge|aux commandes|B1|5|4|Who's in charge here?|Qui est le responsable ici ?|in charge|w||work|
+in progress|en cours (d'avancement)|B1|5|3|Your order is in progress.|Votre commande est en cours.|in progress|w||pro,project|
+in stock|en stock|B1|5|3|Do you have this in stock?|Vous avez ça en stock ?|in stock|d||shopping|
+in advance|à l'avance|B1|5|5|Please book in advance.|Merci de réserver à l'avance.|in advance|c||time|
+in person|en personne|B1|5|4|I'd rather talk in person.|Je préfère parler en personne.|in person|c||communication|
+in detail|en détail|B1|5|4|Let's discuss it in detail.|Discutons-en en détail.|in detail|w||communication|
+on behalf of|au nom de (variante)|B2|5|3|I'd like to thank you on behalf of the team.|Je voudrais vous remercier au nom de l'équipe.|on behalf of|w|f|pro,presentations|
+on purpose|exprès|B1|5|5|He didn't do it on purpose.|Il ne l'a pas fait exprès.|on purpose|c||basics|
+@phrasal_verb
+live up to|être à la hauteur de|B2|5|5|The film didn't live up to the hype.|Le film n'a pas été à la hauteur de sa réputation.|live up to|c||fn_opinion|
+map out|planifier en détail|B2+|4|4|Let's map out the next six months.|Planifions les six prochains mois.|map out|w||pro,project|
+mull over|réfléchir longuement à|B2+|4|3|I need to mull it over.|Il faut que j'y réfléchisse.|mull it over|c||decision|
+nail down|fixer, arrêter|B2+|4|4|Let's nail down a date.|Fixons une date.|nail down|w|i|pro,decision|
+opt for|opter pour|B2|5|4|We opted for the cheaper model.|Nous avons opté pour le modèle le moins cher.|opted for|w||pro,decision|
+opt out|se retirer, refuser de participer|B2|5|4|You can opt out at any time.|Tu peux te désinscrire à tout moment.|opt out|w||rules|
+pan out|se dérouler, aboutir|B2+|4|3|Let's see how it pans out.|Voyons comment ça se passe.|pans out|c|i|fn_nuance|
+pencil in|prévoir provisoirement|B2+|4|4|Let's pencil in Tuesday.|Disons mardi, sous réserve.|pencil in|w|i|pro,time|
+pin down|cerner, définir|B2+|4|4|It's hard to pin down the cause.|Il est difficile de cerner la cause.|pin down|w||pro,analysis|
+pitch in|mettre la main à la pâte|B2|4|3|Everybody pitched in to help.|Tout le monde a mis la main à la pâte.|pitched in|c|i|work|
+plough through|avancer laborieusement dans|B2+|3|2|I ploughed through the report.|J'ai lu le rapport laborieusement.|ploughed through|w||work|
+@connector
+as a consequence|en conséquence de quoi|B2|5|4|Prices rose and, as a consequence, sales fell.|Les prix ont augmenté et, en conséquence, les ventes ont baissé.|as a consequence|w||pro,fn_explain|
+in turn|à son tour|B2|5|4|This, in turn, led to higher prices.|Cela a, à son tour, fait monter les prix.|in turn|w||pro,fn_explain|
+to that end|à cette fin|C1|4|3|To that end, we've hired a consultant.|À cette fin, nous avons embauché un consultant.|To that end|w|f|pro,fn_explain|
+on the basis of|sur la base de|B2|5|4|We decided on the basis of the data.|Nous avons décidé sur la base des données.|on the basis of|w||pro,fn_explain|
+with respect to|en ce qui concerne (soutenu)|B2+|4|4|With respect to pricing, nothing has changed.|En matière de tarifs, rien n'a changé.|With respect to|w|f|pro,fn_topic_change|
+in terms of cost|en termes de coût|B2|4|2|In terms of cost, the second option is better.|En termes de coût, la seconde option est meilleure.|In terms of cost|w||pro,fn_compare|
+on account of|en raison de (soutenu)|B2+|4|3|The event was delayed on account of the storm.|L'événement a été retardé en raison de la tempête.|on account of|w|f|fn_explain|
+@idiom
+A drop in the ocean.|Une goutte d'eau dans la mer.|B2|4|4|This donation is a drop in the ocean.|Ce don est une goutte d'eau dans la mer.|a drop in the ocean|c||fn_nuance|
+Between a rock and a hard place.|Entre le marteau et l'enclume.|B2|4|4|I'm between a rock and a hard place.|Je suis entre le marteau et l'enclume.|between a rock and a hard place|c||decision|
+Burn the midnight oil.|Travailler tard dans la nuit.|B2|3|3|We burned the midnight oil to finish it.|Nous avons travaillé tard dans la nuit pour finir.|burned the midnight oil|w|i|work|
+Cut your losses.|Limiter les dégâts.|B2|4|4|It's time to cut your losses and move on.|Il est temps de limiter les dégâts et de passer à autre chose.|cut your losses|w||pro,decision|
+Learn the ropes.|Apprendre les ficelles.|B2|5|4|It took me a month to learn the ropes.|Il m'a fallu un mois pour apprendre les ficelles du métier.|learn the ropes|w||pro,career|
