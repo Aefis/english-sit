@@ -551,5 +551,19 @@
       "mull-over"
     ],
     "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "retired",
+      "retire"
+    ],
+    "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "drawing",
+      "draw"
+    ],
+    "reason": "Nom à part entière."
   }
 ]

@@ -1,0 +1,224 @@
+# Lot 026 : A2-B2 (vie pratique, logement, santé, numérique, voyages)
+@word
+accommodation|hébergement|B1||5|The price includes accommodation.|Le prix comprend l'hébergement.|accommodation|t||travel|pos=n
+adorable|adorable|B1||3|Your dog is adorable.|Ton chien est adorable.|adorable|c||description|pos=adj
+ambulance|ambulance|A2||3|She was taken away by ambulance.|Elle a été emmenée en ambulance.|ambulance|d||health|pos=n
+assure|assurer, garantir|B2||4|I can assure you it's safe.|Je peux t'assurer que c'est sans danger.|assure|w||pro,communication|pos=v
+cheat|tricher|B1||4|He cheated in the exam.|Il a triché à l'examen.|cheated|c||learning|pos=v
+cheer|acclamer, encourager|B1||3|The crowd cheered loudly.|La foule a acclamé bruyamment.|cheered|d||leisure|pos=v
+cigarette|cigarette|A2||3|He smokes twenty cigarettes a day.|Il fume vingt cigarettes par jour.|cigarettes|d||health|pos=n
+compact|compact|B1||2|It's a small, compact car.|C'est une petite voiture compacte.|compact|t||description|pos=adj
+deficit|déficit|B2||4|The country has a huge deficit.|Le pays a un énorme déficit.|deficit|n||money,pro|pos=n
+demo|démo|B1||4|Can I see a demo of the product?|Je peux voir une démo du produit ?|demo|w||pro,business|pos=n
+demonstration|démonstration, manifestation|B1||3|There was a demonstration in the city centre.|Il y a eu une manifestation dans le centre-ville.|demonstration|n||politics|pos=n
+detection|détection|B2||2|Early detection saves lives.|Une détection précoce sauve des vies.|detection|d||health|pos=n
+doll|poupée|A2||2|She loves playing with dolls.|Elle adore jouer à la poupée.|dolls|d||family|pos=n
+elder|aîné|B1||3|My elder sister is a doctor.|Ma sœur aînée est médecin.|elder|c||family|pos=adj
+grocery|épicerie|A2||4|I need to do the grocery shopping.|Je dois faire les courses.|grocery|d||shopping|pos=n
+halfway|à mi-chemin|B1||4|We're halfway through the project.|Nous sommes à mi-parcours du projet.|halfway|w||pro,project|pos=adv
+heels|talons|A2||2|She can't walk in high heels.|Elle ne sait pas marcher avec des talons hauts.|heels|d||clothes|pos=n
+indication|indication, signe|B2||4|There's no indication of a problem.|Rien n'indique qu'il y ait un problème.|indication|w||analysis|pos=n
+instance|cas, exemple|B2||4|In this instance, we made an exception.|Dans ce cas précis, nous avons fait une exception.|instance|w|f|analysis|pos=n
+intensive|intensif|B1||4|I'm doing an intensive English course.|Je suis un cours d'anglais intensif.|intensive|d||learning|pos=adj
+interactive|interactif|B1||3|It's a very interactive workshop.|C'est un atelier très interactif.|interactive|w||technology|pos=adj
+intimate|intime|B2||2|It's a small, intimate restaurant.|C'est un petit restaurant intime.|intimate|c||description|pos=adj
+laundry|linge, lessive|A2||4|I have a pile of laundry to do.|J'ai une pile de linge à laver.|laundry|d||housing|pos=n
+observe|observer|B1||4|We observed a sharp drop in demand.|Nous avons observé une forte baisse de la demande.|observed|a||analysis|pos=v
+password|mot de passe|A2||5|Don't share your password.|Ne partage pas ton mot de passe.|password|w||technology|pos=n
+presumably|vraisemblablement|B2||5|Presumably, he forgot.|Il a vraisemblablement oublié.|Presumably|c||fn_nuance|pos=adv
+pulse|pouls|B1||2|The nurse took my pulse.|L'infirmière a pris mon pouls.|pulse|d||health|pos=n
+rational|rationnel|B2||4|There must be a rational explanation.|Il doit y avoir une explication rationnelle.|rational|c||analysis|pos=adj
+rope|corde|A2||2|We need a longer rope.|Il nous faut une corde plus longue.|rope|d||basics|pos=n
+shout|crier|A2||5|Stop shouting at me!|Arrête de me crier dessus !|shouting|c||communication|pos=v
+smartphone|smartphone|A2||4|I got a new smartphone.|J'ai un nouveau smartphone.|smartphone|d||technology|pos=n
+spectacular|grandiose, à couper le souffle|B1||4|The view was spectacular.|La vue était spectaculaire.|spectacular|t||description|pos=adj
+subscription|abonnement|B1||5|I've cancelled my subscription.|J'ai résilié mon abonnement.|subscription|d||technology|pos=n
+technological|technologique|B2||3|We've seen huge technological progress.|Nous avons connu d'immenses progrès technologiques.|technological|n||technology|pos=adj
+temporarily|temporairement|B1||4|The service is temporarily unavailable.|Le service est temporairement indisponible.|temporarily|w||time|pos=adv
+unhappy|malheureux, mécontent|A2||4|She's unhappy at work.|Elle n'est pas heureuse au travail.|unhappy|c||feelings|pos=adj
+accomplish|accomplir|B2||4|What did you accomplish this week?|Qu'as-tu accompli cette semaine ?|accomplish|w||pro,project|pos=v
+apology|excuses|B1||5|I owe you an apology.|Je te dois des excuses.|apology|c||fn_react|pos=n
+beg|supplier, mendier|B1||3|He begged me to stay.|Il m'a supplié de rester.|begged|c||relationships|pos=v
+comeback|retour|B2||2|The band made a comeback last year.|Le groupe a fait son retour l'an dernier.|comeback|d||leisure|pos=n
+cope|faire face|B1||5|I can't cope with all this work.|Je n'arrive pas à faire face à tout ce travail.|cope|w||feelings|pos=v
+crop|récolte, culture|B1||2|The crop failed this year.|La récolte a été mauvaise cette année.|crop|n||nature|pos=n
+declare|déclarer|B1||4|You must declare it at customs.|Tu dois le déclarer à la douane.|declare|t||rules|pos=v
+designer|créateur, designer|A2||3|She's a fashion designer.|C'est une créatrice de mode.|designer|c||career|pos=n
+detect|détecter|B1||4|The system detected an error.|Le système a détecté une erreur.|detected|w||it,pro|pos=v
+diesel|diesel|A2||2|Is the car petrol or diesel?|La voiture est essence ou diesel ?|diesel|t||transport|pos=n
+dimension|dimension|B1||3|What are the dimensions of the room?|Quelles sont les dimensions de la pièce ?|dimensions|d||description|pos=n
+dot|point|A2||2|My email address has a dot in it.|Mon adresse e-mail contient un point.|dot|c||technology|pos=n
+effectiveness|efficacité (d'une méthode)|B2||4|We measure the effectiveness of each ad.|Nous mesurons l'efficacité de chaque publicité.|effectiveness|w||pro,analysis|pos=n
+exceptional|exceptionnel|B2||4|She's an exceptional student.|C'est une étudiante exceptionnelle.|exceptional|c||description|pos=adj
+foul|faute, infect|B1||3|The player committed a foul.|Le joueur a commis une faute.|foul|d||leisure|pos=n
+graph|graphique (courbe)|B1||3|This graph shows the trend.|Ce graphique montre la tendance.|graph|w||pro,presentations|pos=n
+hack|pirater|B1||4|Someone hacked my account.|Quelqu'un a piraté mon compte.|hacked|w||technology|pos=v
+ignorant|ignorant|B1||2|He's ignorant about politics.|Il ne connaît rien à la politique.|ignorant|c||personality|pos=adj
+lamp|lampe|A1||3|Turn on the lamp.|Allume la lampe.|lamp|d||housing|pos=n
+limitation|limite, restriction|B2||4|We know the limitations of this study.|Nous connaissons les limites de cette étude.|limitations|w||pro,analysis|pos=n
+measurement|mesure|B1||3|Take the measurements of the window.|Prends les mesures de la fenêtre.|measurements|d||numbers|pos=n
+medieval|médiéval|B1||2|It's a medieval castle.|C'est un château médiéval.|medieval|t||places|pos=adj
+oven|four|A2||3|Put it in the oven for an hour.|Mets-le au four pendant une heure.|oven|d||food|pos=n
+passport|passeport|A1||5|Don't forget your passport.|N'oublie pas ton passeport.|passport|t||travel|pos=n
+pill|comprimé|A2||3|Take one pill a day.|Prends un comprimé par jour.|pill|d||health|pos=n
+planet|planète|A2||4|We must protect the planet.|Nous devons protéger la planète.|planet|n||nature|pos=n
+rabbit|lapin|A1||2|The kids have a pet rabbit.|Les enfants ont un lapin.|rabbit|d||animals|pos=n
+retire|prendre sa retraite|A2||4|She'll retire next year.|Elle prendra sa retraite l'année prochaine.|retire|w||career|pos=v
+rhythm|rythme (musique)|B1||2|I can't keep the rhythm.|Je n'arrive pas à suivre le rythme.|rhythm|d||leisure|pos=n
+sibling|frère ou sœur|B1||4|Do you have any siblings?|Tu as des frères et sœurs ?|siblings|c||family|pos=n
+slim|mince|A2||3|She's tall and slim.|Elle est grande et élancée.|slim|c||description|pos=adj
+someday|un jour|A2||3|I'd like to go there someday.|J'aimerais y aller un jour.|someday|c||time|pos=adv
+spam|courrier indésirable|A2||4|Check your spam folder.|Regarde dans tes courriers indésirables.|spam|w||technology|pos=n
+stack|pile|B1||3|There's a stack of papers on my desk.|Il y a une pile de papiers sur mon bureau.|stack|w||basics|pos=n
+subway|métro (US)|A2||3|We took the subway downtown.|Nous avons pris le métro pour aller au centre-ville.|subway|t||transport,uk_us|pos=n ;; variant=US ;; counterpart=underground
+supportive|encourageant, solidaire|B2||4|My family has been very supportive.|Ma famille m'a beaucoup soutenu.|supportive|c||relationships|pos=adj
+symbol|symbole|A2||3|What does this symbol mean?|Que signifie ce symbole ?|symbol|c||basics|pos=n
+tablet|tablette, comprimé|A2||3|My son has a tablet.|Mon fils a une tablette.|tablet|d||technology|pos=n
+tent|tente|A2||3|We slept in a tent.|Nous avons dormi sous une tente.|tent|t||leisure|pos=n
+thesis|thèse, mémoire|B2||3|She's writing her thesis.|Elle écrit sa thèse.|thesis|a||academic|pos=n
+tide|marée|B1||2|The tide is coming in.|La marée monte.|tide|t||nature|pos=n
+withdraw|retirer, se retirer|B2||4|He withdrew from the race.|Il s'est retiré de la course.|withdrew|n||basics|pos=v ;; forms=withdrew, withdrawn
+audit|audit|B2||4|We have an audit next week.|Nous avons un audit la semaine prochaine.|audit|w||pro,money|pos=n
+authentic|authentique|B2||4|It's an authentic Italian restaurant.|C'est un authentique restaurant italien.|authentic|t||description|pos=adj
+backwards|en arrière|A2||3|She took a step backwards.|Elle a fait un pas en arrière.|backwards|c||directions|pos=adv
+blonde|blond|A2||3|She has long blonde hair.|Elle a de longs cheveux blonds.|blonde|c||description|pos=adj
+collar|col|A2||2|The collar is too tight.|Le col est trop serré.|collar|d||clothes|pos=n
+creepy|flippant, inquiétant|B1||3|That house is really creepy.|Cette maison est vraiment flippante.|creepy|c|i|feelings|pos=adj
+donate|faire un don|B1||3|We donated our old clothes.|Nous avons fait don de nos vieux vêtements.|donated|c||news|pos=v
+drawing|dessin|A2||3|That's a beautiful drawing.|C'est un beau dessin.|drawing|d||leisure|pos=n
+echo|écho|B1||2|There's an echo on the line.|Il y a de l'écho sur la ligne.|echo|w||phone|pos=n
+gloves|gants|A2||3|Don't forget your gloves.|N'oublie pas tes gants.|gloves|d||clothes|pos=n
+immigrant|immigré|B1||3|Her parents were immigrants.|Ses parents étaient immigrés.|immigrants|n||news|pos=n
+intermediate|intermédiaire|B1||4|I'm at intermediate level.|J'ai un niveau intermédiaire.|intermediate|c||learning|pos=adj
+invention|invention|A2||3|The phone was a great invention.|Le téléphone a été une grande invention.|invention|c||technology|pos=n
+magnificent|magnifique, grandiose|B1||3|We saw a magnificent sunset.|Nous avons vu un magnifique coucher de soleil.|magnificent|t||description|pos=adj
+nut|fruit à coque, noix|A2||3|She's allergic to nuts.|Elle est allergique aux fruits à coque.|nuts|d||food|pos=n
+pipeline|oléoduc, projets en cours|B2||4|We have ten deals in the pipeline.|Nous avons dix affaires en préparation.|pipeline|w||pro,business|pos=n
+placement|stage|B1||4|I'm doing a work placement in London.|Je fais un stage à Londres.|placement|w||career|pos=n
+shallow|peu profond, superficiel|B1||3|The water is shallow here.|L'eau est peu profonde ici.|shallow|t||description|pos=adj
+sketch|esquisse, croquis|B1||3|She drew a quick sketch.|Elle a dessiné un rapide croquis.|sketch|w||leisure|pos=n
+soda|soda|A2||3|Would you like a soda?|Tu veux un soda ?|soda|d||food|pos=n
+spite|dépit|B2||2|He did it out of spite.|Il l'a fait par dépit.|spite|c||feelings|pos=n
+sponsor|parrainer, sponsor|B2||3|A bank sponsors the event.|Une banque parraine l'événement.|sponsors|w||pro,business|pos=v
+strengthen|consolider, renforcer|B2||5|This will strengthen our position.|Cela va renforcer notre position.|strengthen|w||pro,business|pos=v
+sunset|coucher de soleil|A2||3|We watched the sunset from the beach.|Nous avons regardé le coucher de soleil depuis la plage.|sunset|t||nature|pos=n
+transform|transformer|B2||4|The internet has transformed our lives.|Internet a transformé nos vies.|transformed|c||technology|pos=v
+slight|léger|B1||4|I have a slight headache.|J'ai un léger mal de tête.|slight|d||fn_nuance|pos=adj
+unemployment|chômage|B1||4|Unemployment is falling.|Le chômage baisse.|Unemployment|n||work|pos=n
+useless|inutile, nul|A2||5|This app is useless.|Cette appli ne sert à rien.|useless|c||fn_opinion|pos=adj
+twist|tordre, rebondissement|B1||3|I twisted my ankle.|Je me suis tordu la cheville.|twisted|d||health|pos=v
+consultant|consultant|B2||4|We hired a consultant.|Nous avons embauché un consultant.|consultant|w||pro,career|pos=n
+combine|combiner|B1||4|She combines work and study.|Elle combine travail et études.|combines|c||basics|pos=v
+courtesy|courtoisie|B2||3|It's a matter of courtesy.|C'est une question de courtoisie.|courtesy|c|f|relationships|pos=n
+embassy|ambassade|A2||3|Contact the French embassy.|Contacte l'ambassade de France.|embassy|t||travel|pos=n
+guilt|culpabilité|B2||3|He felt a lot of guilt.|Il ressentait beaucoup de culpabilité.|guilt|c||feelings|pos=n
+helicopter|hélicoptère|A2||2|A helicopter flew over the town.|Un hélicoptère a survolé la ville.|helicopter|n||transport|pos=n
+homework|devoirs|A1||4|Have you done your homework?|Tu as fait tes devoirs ?|homework|d||learning|pos=n
+keen|enthousiaste, désireux|B1||5|She's very keen to learn.|Elle a très envie d'apprendre.|keen|c||feelings|pos=adj
+miracle|miracle|B1||3|It's a miracle nobody was hurt.|C'est un miracle que personne n'ait été blessé.|miracle|c||basics|pos=n
+mud|boue|A2||2|My boots are covered in mud.|Mes bottes sont couvertes de boue.|mud|d||nature|pos=n
+observation|observation|B2||3|That's an interesting observation.|C'est une observation intéressante.|observation|c||analysis|pos=n
+phenomenon|phénomène|B2||4|It's a global phenomenon.|C'est un phénomène mondial.|phenomenon|n||analysis|pos=n ;; forms=phenomena
+precise|précis|B1||5|Can you be more precise?|Peux-tu être plus précis ?|precise|c||fn_clarify|pos=adj
+profession|profession, métier|B1||4|Teaching is a difficult profession.|L'enseignement est un métier difficile.|profession|c||career|pos=n
+reportedly|paraît-il|B2||4|He's reportedly leaving the company.|Il quitterait l'entreprise, paraît-il.|reportedly|n||fn_nuance|pos=adv
+sandwich|sandwich|A1||4|I'll just have a sandwich.|Je vais juste prendre un sandwich.|sandwich|d||food|pos=n
+ski|skier, ski|A2||3|Can you ski?|Tu sais skier ?|ski|d||leisure|pos=v
+surgeon|chirurgien|B1||3|He's a heart surgeon.|Il est chirurgien cardiaque.|surgeon|d||health|pos=n
+theft|vol (délit)|B1||3|I reported the theft to the police.|J'ai signalé le vol à la police.|theft|n||rules|pos=n
+visa|visa|A2||4|Do I need a visa?|Ai-je besoin d'un visa ?|visa|t||travel|pos=n
+@chunk
+Is there a bus to...?|Y a-t-il un bus pour... ?|A2|5|4|Is there a bus to the airport?|Y a-t-il un bus pour l'aéroport ?|Is there a bus to|t||transport|
+When's the next train?|À quelle heure est le prochain train ?|A2|5|4|When's the next train to Oxford?|À quelle heure est le prochain train pour Oxford ?|When's the next train|t||transport|
+Do I have to change?|Est-ce que je dois changer ?|A2|4|3|Is it direct or do I have to change?|C'est direct ou est-ce que je dois changer ?|do I have to change?|t||transport|
+Can you tell me when to get off?|Vous pouvez me dire quand descendre ?|A2|4|4|Can you tell me when to get off, please?|Vous pouvez me dire quand descendre, s'il vous plaît ?|Can you tell me when to get off|t||transport|
+Could you call me a taxi?|Vous pourriez m'appeler un taxi ?|A2|4|4|Could you call me a taxi, please?|Vous pourriez m'appeler un taxi, s'il vous plaît ?|Could you call me a taxi|t||transport|
+Take me to this address, please.|Emmenez-moi à cette adresse, s'il vous plaît.|A2|4|4|Good evening. Take me to this address, please.|Bonsoir. Emmenez-moi à cette adresse, s'il vous plaît.|Take me to this address, please|t||transport|
+Stop here, please.|Arrêtez-vous ici, s'il vous plaît.|A2|4|3|Stop here, please. This is fine.|Arrêtez-vous ici, s'il vous plaît. C'est bien.|Stop here, please|t||transport|
+How much is a ticket to...?|Combien coûte un billet pour... ?|A2|4|4|How much is a ticket to Edinburgh?|Combien coûte un billet pour Édimbourg ?|How much is a ticket to|t||transport|
+I'd like a window seat.|Je voudrais une place côté fenêtre.|A2|4|4|I'd like a window seat if possible.|Je voudrais une place côté fenêtre, si possible.|I'd like a window seat|t||travel|
+Can I bring this on board?|Je peux prendre ça à bord ?|B1|4|3|Can I bring this on board with me?|Je peux prendre ça à bord avec moi ?|Can I bring this on board|t||travel|
+Where do I collect my luggage?|Où est-ce que je récupère mes bagages ?|A2|4|3|Where do I collect my luggage, please?|Où est-ce que je récupère mes bagages, s'il vous plaît ?|Where do I collect my luggage|t||travel|
+We're fully booked.|Nous sommes complets.|B1|5|4|Sorry, we're fully booked tonight.|Désolé, nous sommes complets ce soir.|we're fully booked|t||travel|
+What time is check-out?|À quelle heure faut-il libérer la chambre ?|A2|4|4|What time is check-out tomorrow?|À quelle heure faut-il libérer la chambre demain ?|What time is check-out|t||travel|
+The air conditioning isn't working.|La climatisation ne marche pas.|A2|4|4|The air conditioning isn't working in my room.|La climatisation ne marche pas dans ma chambre.|The air conditioning isn't working|t||travel|
+There's no hot water.|Il n'y a pas d'eau chaude.|A2|4|3|There's no hot water in the bathroom.|Il n'y a pas d'eau chaude dans la salle de bain.|There's no hot water|t||travel|
+Could I have an extra blanket?|Pourrais-je avoir une couverture de plus ?|A2|3|3|Could I have an extra blanket, please?|Pourrais-je avoir une couverture de plus, s'il vous plaît ?|Could I have an extra blanket|t||travel|
+I'd like to extend my stay.|Je voudrais prolonger mon séjour.|B1|4|3|I'd like to extend my stay by one night.|Je voudrais prolonger mon séjour d'une nuit.|I'd like to extend my stay|t||travel|
+The rent includes...|Le loyer comprend...|B1|4|4|The rent includes water and electricity.|Le loyer comprend l'eau et l'électricité.|The rent includes|d||housing|
+I'm looking for a flat.|Je cherche un appartement.|A2|5|4|I'm looking for a flat near the centre.|Je cherche un appartement près du centre.|I'm looking for a flat|d||housing|
+When can I move in?|Quand est-ce que je peux emménager ?|B1|4|3|When can I move in?|Quand est-ce que je peux emménager ?|When can I move in?|d||housing|
+Are bills included?|Les charges sont-elles comprises ?|B1|4|4|Are bills included in the rent?|Les charges sont-elles comprises dans le loyer ?|Are bills included|d||housing|
+The heating isn't working.|Le chauffage ne marche pas.|A2|4|4|The heating isn't working in the bedroom.|Le chauffage ne marche pas dans la chambre.|The heating isn't working|d||housing|
+There's a leak in...|Il y a une fuite dans...|B1|4|3|There's a leak in the bathroom.|Il y a une fuite dans la salle de bain.|There's a leak in|d||housing|
+I'd like to make an appointment.|Je voudrais prendre rendez-vous.|A2|5|5|I'd like to make an appointment with Dr Lee.|Je voudrais prendre rendez-vous avec le docteur Lee.|I'd like to make an appointment|d||health|
+I've been feeling unwell.|Je ne me sens pas bien depuis un moment.|B1|4|3|I've been feeling unwell for a few days.|Je ne me sens pas bien depuis quelques jours.|I've been feeling unwell|d||health|
+It started two days ago.|Ça a commencé il y a deux jours.|A2|4|3|The pain? It started two days ago.|La douleur ? Ça a commencé il y a deux jours.|It started two days ago|d||health|
+Do I need a prescription?|J'ai besoin d'une ordonnance ?|A2|4|4|Do I need a prescription for this?|J'ai besoin d'une ordonnance pour ça ?|Do I need a prescription|d||health|
+Take it twice a day.|Prenez-le deux fois par jour.|A2|4|3|Take it twice a day after meals.|Prenez-le deux fois par jour après les repas.|Take it twice a day|d||health|
+I've got a cough.|J'ai de la toux.|A2|5|3|I've got a cough and a runny nose.|J'ai de la toux et le nez qui coule.|I've got a cough|d||health|
+I think I've broken my arm.|Je crois que je me suis cassé le bras.|A2|4|3|I fell. I think I've broken my arm.|Je suis tombé. Je crois que je me suis cassé le bras.|I think I've broken my arm|d||health|
+I can't sleep.|Je n'arrive pas à dormir.|A2|5|4|I'm so stressed that I can't sleep.|Je suis tellement stressé que je n'arrive pas à dormir.|I can't sleep|d||health|
+I need some rest.|J'ai besoin de repos.|A2|5|3|It's been a long week. I need some rest.|La semaine a été longue. J'ai besoin de repos.|I need some rest|d||health|
+My phone won't turn on.|Mon téléphone ne s'allume pas.|A2|5|4|My phone won't turn on this morning.|Mon téléphone ne s'allume pas ce matin.|My phone won't turn on|c||technology|
+I can't connect to the Wi-Fi.|Je n'arrive pas à me connecter au wifi.|A2|5|4|I can't connect to the Wi-Fi in my room.|Je n'arrive pas à me connecter au wifi dans ma chambre.|I can't connect to the Wi-Fi|c||technology|
+Have you tried turning it off and on again?|Tu as essayé de l'éteindre et de le rallumer ?|B1|4|4|It's frozen? Have you tried turning it off and on again?|C'est figé ? Tu as essayé de l'éteindre et de le rallumer ?|Have you tried turning it off and on again?|c||technology|
+Send me a message.|Envoie-moi un message.|A1|5|4|Send me a message when you're there.|Envoie-moi un message quand tu y es.|Send me a message|c||communication|
+Drop me a text.|Envoie-moi un texto.|B1|4|3|Drop me a text when you're leaving.|Envoie-moi un texto quand tu pars.|Drop me a text|c|i|communication|
+I'll text you.|Je t'envoie un texto.|A2|5|4|I'll text you the address.|Je t'envoie l'adresse par texto.|I'll text you|c|i|communication|
+Sorry, I missed your call.|Désolé, j'ai raté ton appel.|A2|5|4|Sorry, I missed your call. What's up?|Désolé, j'ai raté ton appel. Qu'est-ce qu'il y a ?|Sorry, I missed your call|c||phone|
+The line is busy.|La ligne est occupée.|A2|4|3|I tried to call, but the line is busy.|J'ai essayé d'appeler, mais la ligne est occupée.|the line is busy|c||phone|
+You've got the wrong number.|Vous vous êtes trompé de numéro.|A2|4|3|Sorry, you've got the wrong number.|Désolé, vous vous êtes trompé de numéro.|you've got the wrong number|c||phone|
+Can you speak up, please?|Vous pouvez parler plus fort ?|A2|4|3|It's noisy here. Can you speak up, please?|Il y a du bruit ici. Vous pouvez parler plus fort ?|Can you speak up, please?|c||phone|
+I'll put you on speaker.|Je te mets sur haut-parleur.|B1|4|3|Hold on, I'll put you on speaker.|Attends, je te mets sur haut-parleur.|I'll put you on speaker|c||phone|
+I'll leave a message.|Je vais laisser un message.|A2|4|3|She's not there, so I'll leave a message.|Elle n'est pas là, donc je vais laisser un message.|I'll leave a message|c||phone|
+@collocation
+pay a deposit|verser une caution|B1|5|4|You need to pay a deposit of one month.|Tu dois verser une caution d'un mois.|pay a deposit|d||housing,money|
+sign a lease|signer un bail|B1|5|4|We signed the lease yesterday.|Nous avons signé le bail hier.|signed the lease|d||housing|
+rent a flat|louer un appartement|A2|5|4|We rent a flat near the park.|Nous louons un appartement près du parc.|rent a flat|d||housing|
+own a house|être propriétaire d'une maison|B1|4|3|They own a house in Brittany.|Ils sont propriétaires d'une maison en Bretagne.|own a house|d||housing|
+fix a leak|réparer une fuite|B1|4|3|The plumber fixed the leak.|Le plombier a réparé la fuite.|fixed the leak|d||housing|
+do repairs|faire des réparations|B1|4|3|We need to do some repairs on the roof.|Nous devons faire des réparations sur le toit.|do some repairs|d||housing|
+take out a loan|contracter un prêt|B2|5|4|We took out a loan to buy the car.|Nous avons contracté un prêt pour acheter la voiture.|took out a loan|d||money|
+pay off a debt|rembourser une dette|B2|5|4|It took years to pay off the debt.|Il a fallu des années pour rembourser la dette.|pay off the debt|d||money|
+pay interest|payer des intérêts|B2|4|3|You'll pay interest on the loan.|Tu paieras des intérêts sur le prêt.|pay interest|d||money|
+make a payment|effectuer un paiement|B1|5|4|You can make a payment online.|Tu peux effectuer un paiement en ligne.|make a payment|d||money|
+transfer money|virer de l'argent|B1|5|4|I'll transfer the money tonight.|Je virerai l'argent ce soir.|transfer the money|d||money|
+check a balance|vérifier un solde|B1|4|3|You can check your balance on the app.|Tu peux vérifier ton solde sur l'appli.|check your balance|d||money|
+cancel a subscription|résilier un abonnement|B1|5|4|How do I cancel a subscription?|Comment résilier un abonnement ?|cancel a subscription|d||technology|
+create an account|créer un compte|A2|5|4|You need to create an account first.|Tu dois d'abord créer un compte.|create an account|d||technology|
+log into an account|se connecter à un compte|A2|5|3|I can't log into my account.|Je n'arrive pas à me connecter à mon compte.|log into my account|d||technology|
+back up your files|sauvegarder ses fichiers|B1|5|4|Remember to back up your files.|Pense à sauvegarder tes fichiers.|back up your files|w||it,pro|
+update an app|mettre à jour une appli|A2|5|3|You need to update the app.|Tu dois mettre à jour l'appli.|update the app|d||technology|
+take a screenshot|faire une capture d'écran|A2|5|4|Take a screenshot and send it to me.|Fais une capture d'écran et envoie-la-moi.|Take a screenshot|c||technology|
+scan a document|scanner un document|A2|4|3|Can you scan this document for me?|Tu peux scanner ce document pour moi ?|scan this document|w||technology|
+print a document|imprimer un document|A2|4|2|I need to print a document.|Je dois imprimer un document.|print a document|w||technology|
+go through customs|passer la douane|B1|4|3|We went through customs quickly.|Nous avons passé la douane rapidement.|went through customs|t||travel|
+go through security|passer le contrôle de sécurité|B1|4|3|We have to go through security now.|Nous devons passer le contrôle de sécurité maintenant.|go through security|t||travel|
+board a plane|embarquer dans un avion|B1|4|3|We boarded the plane at noon.|Nous avons embarqué à midi.|boarded the plane|t||travel|
+miss a flight|rater un vol|A2|5|3|We nearly missed our flight.|Nous avons failli rater notre vol.|missed our flight|t||travel|
+apply for a visa|demander un visa|B1|5|4|You need to apply for a visa.|Tu dois demander un visa.|apply for a visa|t||travel|
+travel light|voyager léger|B1|4|3|I always travel light.|Je voyage toujours léger.|travel light|t||travel|
+@phrasal_verb
+plug in|brancher|A2|5|3|Plug in your laptop here.|Branche ton ordinateur ici.|Plug in|d||technology|
+scroll down|faire défiler vers le bas|A2|5|3|Scroll down to the bottom of the page.|Fais défiler jusqu'en bas de la page.|Scroll down|d||technology|
+wipe out|anéantir, éliminer|B2|4|3|The storm wiped out the village.|La tempête a anéanti le village.|wiped out|n||basics|
+wear out|user, épuiser|B1|5|4|I've worn out my shoes.|J'ai usé mes chaussures.|worn out|d||basics|
+wash up|laver la vaisselle (UK)|A2|5|3|I'll wash up after dinner.|Je ferai la vaisselle après le dîner.|wash up|d||housing|
+warm up|s'échauffer, réchauffer|B1|5|3|Let's warm up before we run.|Échauffons-nous avant de courir.|warm up|d||leisure|
+watch out|faire attention (variante)|A2|5|4|Watch out, the floor's wet!|Attention, le sol est mouillé !|Watch out|c||safety|
+work up|développer, se préparer|B2|3|2|I worked up the courage to ask.|J'ai rassemblé mon courage pour demander.|worked up|c||feelings|
+write off|annuler, considérer comme perdu|B2|4|3|The car was written off in the crash.|La voiture a été déclarée épave après l'accident.|written off|n||money|
+@connector
+what's worse|pire encore|B1|5|3|It's late and, what's worse, it's raining.|Il est tard et, pire encore, il pleut.|what's worse|c||fn_explain|
+better still|mieux encore|B1|4|3|Call me or, better still, come over.|Appelle-moi ou, mieux encore, passe me voir.|better still|c||fn_suggest|
+worse still|pire encore (soutenu)|B2|4|2|It failed. Worse still, nobody noticed.|Ça a échoué. Pire, personne ne l'a remarqué.|Worse still|c|f|fn_explain|
+that is to say|c'est-à-dire|B1|5|4|Next week, that is to say on Monday.|La semaine prochaine, c'est-à-dire lundi.|that is to say|c||fn_rephrase|
+i.e.|c'est-à-dire (à l'écrit)|B2|5|4|Send it by Friday, i.e. in two days.|Envoie-le d'ici vendredi, c'est-à-dire dans deux jours.|i.e.|w||pro,writing|
+e.g.|par exemple (à l'écrit)|B2|5|4|Bring ID, e.g. a passport.|Apportez une pièce d'identité, par exemple un passeport.|e.g.|w||pro,writing|
+@idiom
+Lose your head.|Perdre la tête.|B2|3|3|Stay calm, don't lose your head.|Reste calme, ne perds pas la tête.|lose your head|c||feelings|
+Put your foot down.|Mettre le holà.|B2|3|3|It's time to put your foot down.|Il est temps de mettre le holà.|put your foot down|c||decision|
+Over the moon.|Aux anges.|B1|4|3|She was over the moon about the news.|Elle était aux anges en apprenant la nouvelle.|over the moon|c|i|feelings|
+On cloud nine.|Sur un petit nuage.|B2|3|2|He's been on cloud nine since the wedding.|Il est sur un petit nuage depuis le mariage.|on cloud nine|c|i|feelings|
+Down in the dumps.|Avoir le cafard.|B2|3|3|She's a bit down in the dumps today.|Elle a un peu le cafard aujourd'hui.|down in the dumps|c|i|feelings|

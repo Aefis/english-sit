@@ -95,6 +95,13 @@ describe('ordre et cartes', () => {
     expect(ordered.map((i) => i.id)).toEqual(['key-b1', 'minor-a2']);
   });
 
+  it('ne range pas par ordre alphabétique à score égal, et reste stable', () => {
+    const items = ['a-1', 'a-2', 'a-3', 'a-4', 'b-1', 'b-2', 'b-3', 'b-4'].map((id) => ({ id, level: 'A1' as const, frequency: 5, priority: 5 }));
+    const ids = assignOrder(items).map((i) => i.id);
+    expect(ids).not.toEqual(items.map((i) => i.id));
+    expect(assignOrder([...items].reverse()).map((i) => i.id)).toEqual(ids);
+  });
+
   it('convertit Zipf en bandes', () => {
     expect([6, 5, 4.5, 4, 3].map(zipfToFrequency)).toEqual([5, 4, 3, 2, 1]);
   });
