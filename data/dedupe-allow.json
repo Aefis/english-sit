@@ -1167,5 +1167,40 @@
       "mislead"
     ],
     "reason": "Adjectif à part entière."
+  },
+  {
+    "ids": [
+      "what-about-you",
+      "whats-it-about"
+    ],
+    "reason": "Sans rapport."
+  },
+  {
+    "ids": [
+      "hiking",
+      "hike"
+    ],
+    "reason": "Activité à part entière."
+  },
+  {
+    "ids": [
+      "gardening",
+      "garden"
+    ],
+    "reason": "Activité à part entière."
+  },
+  {
+    "ids": [
+      "painting",
+      "paint"
+    ],
+    "reason": "Nom à part entière."
+  },
+  {
+    "ids": [
+      "shopping",
+      "shop"
+    ],
+    "reason": "Activité à part entière."
   }
 ]

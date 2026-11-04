@@ -1,0 +1,152 @@
+# Lot 037 : B1-C1 (mots soutenus R-Z, conversations de la vie courante, voyages, sport, cuisine)
+@word
+rollout|déploiement|B2+||4|The rollout starts in June.|Le déploiement commence en juin.|rollout|w||pro,project|pos=n
+sanction|sanction, sanctionner|B2+||3|The UN imposed sanctions.|L'ONU a imposé des sanctions.|sanctions|n||politics|pos=n
+saturated|saturé|B2+||3|The market is saturated.|Le marché est saturé.|saturated|w||pro,business|pos=adj
+scrutinize|examiner minutieusement|C1||3|They scrutinized every detail.|Ils ont examiné chaque détail minutieusement.|scrutinized|w|f|pro,analysis|pos=v
+setback|revers, contretemps|B2||5|We've had a minor setback.|Nous avons eu un petit contretemps.|setback|w||pro,project|pos=n
+shortfall|déficit, manque|B2+||4|There's a shortfall in the budget.|Il y a un manque dans le budget.|shortfall|w||pro,money|pos=n
+sideline|activité secondaire, écarter|B2+||2|He was sidelined after the merger.|Il a été mis à l'écart après la fusion.|sidelined|w||career|pos=v
+simultaneously|simultanément|B2||4|Two things happened simultaneously.|Deux choses se sont produites simultanément.|simultaneously|c||time|pos=adv
+skepticism|scepticisme|B2+||3|The plan was met with skepticism.|Le plan a été accueilli avec scepticisme.|skepticism|n||analysis|pos=n
+solicit|solliciter|C1||3|We're soliciting feedback from staff.|Nous sollicitons l'avis du personnel.|soliciting|w|f|pro,communication|pos=v
+stagnate|stagner|C1||3|Wages have stagnated.|Les salaires ont stagné.|stagnated|n|f|analysis|pos=v
+standpoint|angle, point de vue (technique)|B2+||3|From a legal standpoint, it's fine.|D'un point de vue juridique, c'est bon.|standpoint|w||pro,fn_opinion|pos=n
+staple|aliment de base, agrafe|B2||2|Rice is a staple food here.|Le riz est un aliment de base ici.|staple|d||food|pos=n
+stark|net, frappant|C1||3|It's a stark contrast.|C'est un contraste frappant.|stark|a|f|description|pos=adj
+stifle|étouffer|C1||3|Too many rules stifle creativity.|Trop de règles étouffent la créativité.|stifle|w|f|management|pos=v
+stigma|stigmate, honte|B2+||2|There's still a stigma around mental illness.|Les maladies mentales restent stigmatisées.|stigma|n||health|pos=n
+strain|tension, pression|B2||4|The job puts a strain on my family.|Le travail met ma famille à rude épreuve.|strain|c||feelings|pos=n
+subordinate|subordonné|B2+||3|She treats her subordinates well.|Elle traite bien ses subordonnés.|subordinates|w|f|pro,management|pos=n
+subsequently|par la suite|B2+||4|He subsequently resigned.|Il a démissionné par la suite.|subsequently|w|f|time|pos=adv
+substantiate|étayer, justifier|C1||3|Can you substantiate this claim?|Pouvez-vous étayer cette affirmation ?|substantiate|a|f|argument|pos=v
+succumb|succomber|C1||2|He succumbed to the pressure.|Il a succombé à la pression.|succumbed|c|f|feelings|pos=v
+suppress|réprimer, étouffer|B2+||3|She suppressed a smile.|Elle a réprimé un sourire.|suppressed|c|f|feelings|pos=v
+surveillance|surveillance|B2+||2|The area is under surveillance.|La zone est sous surveillance.|surveillance|n||safety|pos=n
+sway|faire pencher, influencer|C1||3|The data swayed the board.|Les données ont influencé le conseil.|swayed|w|f|pro,decision|pos=v
+tactful|plein de tact|B2+||4|Try to be tactful.|Essaie d'avoir du tact.|tactful|c||communication|pos=adj
+tactic|tactique|B2||3|We need to change tactics.|Nous devons changer de tactique.|tactics|w||pro,business|pos=n
+tailor|adapter, sur mesure|B2+||4|We tailor our services to each client.|Nous adaptons nos services à chaque client.|tailor|w||pro,business|pos=v
+tamper|trafiquer|C1||2|Someone tampered with the data.|Quelqu'un a trafiqué les données.|tampered|n|f|rules|pos=v
+tarnish|ternir|C1||2|The scandal tarnished her reputation.|Le scandale a terni sa réputation.|tarnished|n|f|risk|pos=v
+testament|preuve, témoignage|C1||2|It's a testament to her hard work.|C'est une preuve de son travail acharné.|testament|w|f|description|pos=n
+tighten|resserrer, durcir|B2||4|They've tightened the rules.|Ils ont durci les règles.|tightened|n||rules|pos=v
+tiresome|pénible, lassant|B2+||2|It's a tiresome task.|C'est une tâche pénible.|tiresome|c|f|description|pos=adj
+transcend|transcender|C1||2|Good design transcends trends.|Le bon design transcende les modes.|transcends|a|f|analysis|pos=v
+transient|passager, éphémère|C1||2|It's only a transient problem.|Ce n'est qu'un problème passager.|transient|a|f|analysis|pos=adj
+transmit|propager, transmettre (maladie, signal)|B2||3|The virus is transmitted by air.|Le virus se transmet par l'air.|transmitted|d||health|pos=v
+trajectory|trajectoire|B2+||3|Her career trajectory is impressive.|Sa trajectoire professionnelle est impressionnante.|trajectory|w||pro,career|pos=n
+turmoil|tourmente, agitation|C1||3|The country is in turmoil.|Le pays est dans la tourmente.|turmoil|n|f|analysis|pos=n
+unconditional|inconditionnel|B2+||2|It's unconditional love.|C'est un amour inconditionnel.|unconditional|c||feelings|pos=adj
+underpin|étayer, sous-tendre|C1||3|Trust underpins everything we do.|La confiance sous-tend tout ce que nous faisons.|underpins|w|f|pro,analysis|pos=v
+underscore|souligner|C1||3|This underscores the need for change.|Cela souligne la nécessité de changer.|underscores|w|f|pro,analysis|pos=v
+undervalued|sous-évalué|B2+||3|I feel undervalued at work.|Je me sens sous-estimé au travail.|undervalued|w||feelings|pos=adj
+unfold|se dérouler|B2+||4|Let's see how things unfold.|Voyons comment les choses se déroulent.|unfold|c||fn_nuance|pos=v
+unforeseen|imprévu|B2+||5|Due to unforeseen circumstances, we're closed.|En raison de circonstances imprévues, nous sommes fermés.|unforeseen|w|f|pro,risk|pos=adj
+unify|unifier|B2+||2|We need to unify the two teams.|Nous devons unifier les deux équipes.|unify|w||management|pos=v
+unilateral|unilatéral|C1||2|It was a unilateral decision.|Ce fut une décision unilatérale.|unilateral|n|f|politics|pos=adj
+unparalleled|sans égal|C1||2|She has unparalleled experience.|Elle a une expérience sans égale.|unparalleled|w|f|description|pos=adj
+unravel|démêler, s'effondrer|C1||2|The plan began to unravel.|Le plan a commencé à s'effondrer.|unravel|n||basics|pos=v
+unsettling|troublant, déstabilisant|B2+||3|It was an unsettling experience.|Ce fut une expérience troublante.|unsettling|c||feelings|pos=adj
+unwarranted|injustifié|C1||3|The criticism was unwarranted.|La critique était injustifiée.|unwarranted|w|f|argument|pos=adj
+upheaval|bouleversement|C1||3|It was a time of great upheaval.|Ce fut une période de grands bouleversements.|upheaval|n|f|analysis|pos=n
+uptake|adoption, assimilation|C1||2|Uptake of the app has been slow.|L'adoption de l'appli a été lente.|Uptake|w|f|pro,analysis|pos=n
+upturn|reprise, amélioration|B2+||3|There's been an upturn in sales.|Il y a eu une reprise des ventes.|upturn|n||pro,analysis|pos=n
+vindicate|justifier, donner raison|C1||2|The results vindicated her approach.|Les résultats ont donné raison à son approche.|vindicated|w|f|argument|pos=v
+vocal|qui s'exprime fort|B2+||3|She's been very vocal about the problem.|Elle s'est beaucoup exprimée sur le problème.|vocal|w||communication|pos=adj
+wane|décliner|C1||2|Interest has started to wane.|L'intérêt a commencé à décliner.|wane|n|f|analysis|pos=v
+wholesale|de gros (commerce)|B2||3|We buy at wholesale prices.|Nous achetons aux prix de gros.|wholesale|w||pro,business|pos=adj
+willingness|bonne volonté, disposition|B2||4|I appreciate your willingness to help.|J'apprécie ta volonté d'aider.|willingness|w||personality|pos=n
+withstand|résister à|B2+||3|It's built to withstand storms.|C'est construit pour résister aux tempêtes.|withstand|n|f|basics|pos=v
+workaround|solution de contournement|B2||5|We've found a workaround.|Nous avons trouvé une solution de contournement.|workaround|w||pro,it|pos=n
+worthless|sans valeur|B2||3|These shares are now worthless.|Ces actions n'ont plus aucune valeur.|worthless|n||money|pos=adj
+zeal|zèle|C1||1|He works with great zeal.|Il travaille avec beaucoup de zèle.|zeal|c|f|personality|pos=n
+athletics|athlétisme|A2||2|She's a star in athletics.|C'est une star de l'athlétisme.|athletics|d||leisure|pos=n
+basketball|basket-ball|A1||3|He plays basketball at school.|Il joue au basket à l'école.|basketball|d||leisure|pos=n
+volleyball|volley-ball|A1||2|We played volleyball on the beach.|Nous avons joué au volley sur la plage.|volleyball|d||leisure|pos=n
+golf|golf|A1||2|My boss plays golf.|Mon chef joue au golf.|golf|d||leisure|pos=n
+rugby|rugby|A2||2|Rugby is huge in Wales.|Le rugby est très populaire au pays de Galles.|Rugby|d||leisure|pos=n
+hockey|hockey|A2||2|Ice hockey is popular in Canada.|Le hockey sur glace est populaire au Canada.|hockey|d||leisure|pos=n
+cycling|cyclisme, vélo|A2||3|I go cycling on Sundays.|Je fais du vélo le dimanche.|cycling|d||leisure|pos=n
+jogging|jogging|A2||3|I go jogging twice a week.|Je fais du jogging deux fois par semaine.|jogging|d||leisure|pos=n
+hiking|randonnée|A2||3|We love hiking in the Alps.|Nous adorons la randonnée dans les Alpes.|hiking|d||leisure|pos=n
+gardening|jardinage|A2||3|Gardening helps me relax.|Le jardinage m'aide à me détendre.|Gardening|d||leisure|pos=n
+painting|peinture, tableau|A2||3|There's a nice painting in the hall.|Il y a un beau tableau dans l'entrée.|painting|d||leisure|pos=n
+shopping|courses, shopping|A1||5|I hate shopping.|Je déteste faire les boutiques.|shopping|d||shopping|pos=n
+traveller|voyageur|A2||3|He's an experienced traveller.|C'est un voyageur expérimenté.|traveller|t||travel|pos=n
+tourism|tourisme|A2||3|Tourism is vital here.|Le tourisme est vital ici.|Tourism|t||travel|pos=n
+sightseeing|tourisme, visites|A2||4|We did some sightseeing in Rome.|Nous avons fait un peu de tourisme à Rome.|sightseeing|t||travel|pos=n
+souvenir|souvenir (objet)|A2||3|I bought a souvenir for my mum.|J'ai acheté un souvenir pour ma mère.|souvenir|t||travel|pos=n
+guidebook|guide de voyage|A2||2|It's in the guidebook.|C'est dans le guide.|guidebook|t||travel|pos=n
+hostel|auberge de jeunesse|A2||3|We stayed in a hostel.|Nous avons séjourné dans une auberge de jeunesse.|hostel|t||travel|pos=n
+campsite|camping|A2||2|The campsite is near the lake.|Le camping est près du lac.|campsite|t||travel|pos=n
+timetable|horaires|A2||3|Check the train timetable.|Regarde les horaires des trains.|timetable|t||transport|pos=n
+sunscreen|crème solaire|A2||2|Don't forget your sunscreen.|N'oublie pas ta crème solaire.|sunscreen|t||health|pos=n
+sunglasses|lunettes de soleil|A2||3|I left my sunglasses in the car.|J'ai laissé mes lunettes de soleil dans la voiture.|sunglasses|t||clothes|pos=n
+swimsuit|maillot de bain|A2||2|Bring your swimsuit.|Apporte ton maillot de bain.|swimsuit|t||clothes|pos=n
+@chunk
+Where do you want to go?|Où veux-tu aller ?|A1|5|3|We have a week off. Where do you want to go?|Nous avons une semaine de libre. Où veux-tu aller ?|Where do you want to go?|t||travel|
+Have you been here before?|Tu es déjà venu ici ?|A2|5|3|Nice place! Have you been here before?|Bel endroit ! Tu es déjà venu ici ?|Have you been here before?|t||small_talk|
+How long are you staying?|Tu restes combien de temps ?|A2|5|4|How long are you staying in Berlin?|Tu restes combien de temps à Berlin ?|How long are you staying|t||small_talk|
+What's the best way to get there?|Quel est le meilleur moyen d'y aller ?|A2|5|4|What's the best way to get there from here?|Quel est le meilleur moyen d'y aller d'ici ?|What's the best way to get there|t||travel|
+Is it worth visiting?|Ça vaut la peine d'y aller ?|B1|5|4|That museum? Is it worth visiting?|Ce musée ? Ça vaut la peine d'y aller ?|Is it worth visiting?|t||travel|
+What's there to do around here?|Qu'y a-t-il à faire par ici ?|A2|4|3|What's there to do around here at night?|Qu'y a-t-il à faire par ici le soir ?|What's there to do around here|t||travel|
+What's the local speciality?|Quelle est la spécialité locale ?|A2|4|3|What's the local speciality here?|Quelle est la spécialité locale ici ?|What's the local speciality|d||food|
+It's a must-see.|C'est à voir absolument.|B1|5|4|The old town is a must-see.|La vieille ville est à voir absolument.|a must-see|t||travel|
+We had a great time.|Nous avons passé un très bon moment.|A2|5|4|Thanks for the trip, we had a great time.|Merci pour le voyage, nous avons passé un très bon moment.|we had a great time|c||leisure|
+The view is breathtaking.|La vue est à couper le souffle.|B1|4|3|From the top, the view is breathtaking.|Du sommet, la vue est à couper le souffle.|the view is breathtaking|t||description|
+I'm a bit jet-lagged.|Je souffre un peu du décalage horaire.|B1|4|3|Sorry, I'm a bit jet-lagged today.|Désolé, je souffre un peu du décalage horaire aujourd'hui.|I'm a bit jet-lagged|t||travel|
+Do you do any sport?|Tu fais du sport ?|A2|5|3|You look fit. Do you do any sport?|Tu as l'air en forme. Tu fais du sport ?|Do you do any sport?|c||leisure|
+I play tennis at weekends.|Je joue au tennis le week-end.|A2|3|2|I play tennis at weekends with friends.|Je joue au tennis le week-end avec des amis.|I play tennis at weekends|c||leisure|
+I'm trying to get fit.|J'essaie de me remettre en forme.|B1|5|4|I'm trying to get fit before summer.|J'essaie de me remettre en forme avant l'été.|I'm trying to get fit|d||health|
+I go to the gym three times a week.|Je vais à la salle trois fois par semaine.|A2|4|3|I go to the gym three times a week.|Je vais à la salle trois fois par semaine.|I go to the gym three times a week|d||leisure|
+Who's winning?|Qui est en train de gagner ?|A2|5|3|Is the match on? Who's winning?|Le match a commencé ? Qui est en train de gagner ?|Who's winning?|d||leisure|
+What's the score?|Quel est le score ?|A2|4|2|You're watching the match? What's the score?|Tu regardes le match ? Quel est le score ?|What's the score?|d||leisure|
+It was a draw.|C'était un match nul.|A2|4|3|Who won? It was a draw.|Qui a gagné ? C'était un match nul.|It was a draw|d||leisure|
+Have you seen the latest...?|Tu as vu le dernier... ?|A2|5|3|Have you seen the latest Bond film?|Tu as vu le dernier James Bond ?|Have you seen the latest|d||leisure|
+What's it about?|De quoi ça parle ?|A2|5|4|That book looks good. What's it about?|Ce livre a l'air bien. De quoi ça parle ?|What's it about?|d||leisure|
+Who's in it?|Qui joue dedans ?|A2|4|3|A new film? Who's in it?|Un nouveau film ? Qui joue dedans ?|Who's in it?|d||leisure|
+Don't tell me the ending.|Ne me raconte pas la fin.|A2|5|3|Don't tell me the ending, I haven't seen it.|Ne me raconte pas la fin, je ne l'ai pas vu.|Don't tell me the ending|d||leisure|
+I couldn't put it down.|Je n'ai pas pu le lâcher.|B1|4|3|It's a great book. I couldn't put it down.|C'est un excellent livre. Je n'ai pas pu le lâcher.|I couldn't put it down|d||leisure|
+It's worth seeing.|Ça vaut le coup d'être vu.|B1|5|3|Go to the exhibition, it's worth seeing.|Va à l'exposition, ça vaut le coup d'être vu.|it's worth seeing|d||leisure|
+What's on tonight?|Qu'est-ce qu'il y a ce soir ?|A2|4|3|What's on at the cinema tonight?|Qu'est-ce qu'il y a au cinéma ce soir ?|What's on|d||leisure|
+Two tickets for..., please.|Deux billets pour..., s'il vous plaît.|A1|4|3|Two tickets for the eight o'clock show, please.|Deux billets pour la séance de vingt heures, s'il vous plaît.|Two tickets for|d||leisure|
+@collocation
+score a goal|marquer un but|A2|5|3|He scored the winning goal.|Il a marqué le but de la victoire.|scored the winning goal|d||leisure|
+go skiing|aller skier|A2|5|3|We go skiing every winter.|Nous allons skier chaque hiver.|go skiing|t||leisure|
+go camping|faire du camping|A2|5|3|We went camping in Scotland.|Nous avons fait du camping en Écosse.|went camping|t||leisure|
+go fishing|aller à la pêche|A2|4|2|My father goes fishing at weekends.|Mon père va à la pêche le week-end.|goes fishing|d||leisure|
+go sightseeing|faire du tourisme|A2|5|3|We went sightseeing in Rome.|Nous avons fait du tourisme à Rome.|went sightseeing|t||travel|
+go dancing|aller danser|A2|4|2|Let's go dancing tonight.|Allons danser ce soir.|go dancing|d||leisure|
+go for a drive|faire un tour en voiture|A2|3|2|We went for a drive along the coast.|Nous avons fait un tour en voiture le long de la côte.|went for a drive|t||leisure|
+go for a coffee|aller prendre un café|A2|5|4|Shall we go for a coffee?|On va prendre un café ?|go for a coffee|c||leisure|
+watch a match|regarder un match|A2|4|2|Let's watch the match at the pub.|Regardons le match au pub.|watch the match|d||leisure|
+plan a trip|préparer un voyage|A2|5|3|We're planning a trip to Peru.|Nous préparons un voyage au Pérou.|planning a trip|t||travel|
+book a hotel|réserver un hôtel|A2|5|3|I've booked a hotel near the beach.|J'ai réservé un hôtel près de la plage.|booked a hotel|t||travel|
+check the weather|regarder la météo|A2|5|3|Check the weather before you leave.|Regarde la météo avant de partir.|Check the weather|t||weather|
+take the stairs|prendre l'escalier|A2|5|2|Let's take the stairs.|Prenons l'escalier.|take the stairs|d||basics|
+take the lift|prendre l'ascenseur|A2|5|2|We took the lift to the top.|Nous avons pris l'ascenseur jusqu'en haut.|took the lift|d||basics|
+get a tan|bronzer|A2|4|2|I got a tan on holiday.|J'ai bronzé pendant les vacances.|got a tan|t||leisure|
+get sunburnt|prendre un coup de soleil|A2|4|3|I got sunburnt on the beach.|J'ai pris un coup de soleil à la plage.|got sunburnt|t||health|
+lose your passport|perdre son passeport|A2|3|2|Don't lose your passport.|Ne perds pas ton passeport.|lose your passport|t||travel|
+enjoy your holiday|profiter de ses vacances|A2|4|2|Enjoy your holiday!|Profite bien de tes vacances !|Enjoy your holiday|t||small_talk|
+jet lag|décalage horaire|B1|5|4|I've got terrible jet lag.|Je souffre d'un terrible décalage horaire.|jet lag|t||travel|
+@idiom
+Take the plunge.|Se jeter à l'eau.|B2|4|3|I finally took the plunge and quit.|Je me suis enfin jeté à l'eau et j'ai démissionné.|took the plunge|c||decision|
+Ring a bell.|Dire quelque chose.|B1|5|4|Does that name ring a bell?|Ce nom te dit quelque chose ?|ring a bell|c||fn_hesitate|
+See the light at the end of the tunnel.|Voir le bout du tunnel.|B2|3|3|We can finally see the light at the end of the tunnel.|Nous voyons enfin le bout du tunnel.|see the light at the end of the tunnel|c||feelings|
+Sell like hot cakes.|Se vendre comme des petits pains.|B2|4|3|The tickets are selling like hot cakes.|Les billets se vendent comme des petits pains.|selling like hot cakes|d|i|shopping|
+Set in stone.|Gravé dans le marbre.|B2|4|4|This plan isn't set in stone.|Ce plan n'est pas gravé dans le marbre.|set in stone|w||pro,project|
+Shoot the breeze.|Discuter de tout et de rien.|B2|2|2|We just sat around shooting the breeze.|Nous sommes restés à discuter de tout et de rien.|shooting the breeze|c|i|small_talk|
+Sleep like a log.|Dormir comme une souche.|B1|3|2|I slept like a log last night.|J'ai dormi comme une souche cette nuit.|slept like a log|d|i|daily_routine|
+Spread yourself too thin.|Se disperser.|B2|4|3|You're spreading yourself too thin.|Tu te disperses trop.|spreading yourself too thin|w|i|work|
+Straight from the horse's mouth.|De source sûre.|B2|2|2|I heard it straight from the horse's mouth.|Je l'ai appris de source sûre.|straight from the horse's mouth|c|i|communication|
+Take a back seat.|Passer au second plan.|B2|3|3|I'm taking a back seat on this project.|Je passe au second plan sur ce projet.|taking a back seat|w|i|project|
+Through thick and thin.|Contre vents et marées.|B2|3|2|She stood by him through thick and thin.|Elle l'a soutenu contre vents et marées.|through thick and thin|c||relationships|
+Tighten your belt.|Se serrer la ceinture.|B2|4|3|We'll have to tighten our belts.|Nous allons devoir nous serrer la ceinture.|tighten our belts|c||money|
+Turn a blind eye.|Fermer les yeux sur quelque chose.|B2|4|3|The manager turned a blind eye.|Le responsable a fermé les yeux.|turned a blind eye|w||rules|
+Up to scratch.|À la hauteur.|B2|4|3|Your work isn't up to scratch.|Ton travail n'est pas à la hauteur.|up to scratch|w|i|work|
+Walk on eggshells.|Marcher sur des œufs.|B2|3|3|I feel like I'm walking on eggshells.|J'ai l'impression de marcher sur des œufs.|walking on eggshells|c||relationships|
+Weather the storm.|Surmonter la crise.|B2|3|3|The company weathered the storm.|L'entreprise a surmonté la crise.|weathered the storm|w||pro,business|
+With flying colours.|Haut la main.|B2|3|3|She passed with flying colours.|Elle a réussi haut la main.|with flying colours|d||learning|
+Word of mouth.|Bouche-à-oreille.|B1|5|4|Our business grows by word of mouth.|Notre entreprise se développe par le bouche-à-oreille.|word of mouth|w||pro,business|

@@ -55,7 +55,7 @@ appetite|appétit|B1||3|I've lost my appetite.|J'ai perdu l'appétit.|appetite|d
 backyard|jardin de derrière|A2||2|The kids are playing in the backyard.|Les enfants jouent dans le jardin.|backyard|d||housing|pos=n
 bully|harceler, brute|B1||3|He was bullied at school.|Il s'est fait harceler à l'école.|bullied|d||learning|pos=v
 calculate|calculer|A2||4|We need to calculate the cost.|Nous devons calculer le coût.|calculate|w||numbers|pos=v
-distinguish|faire la différence|B2||4|It's hard to distinguish between them.|Il est difficile de les distinguer.|distinguish|c||basics|pos=v
+distinguish|distinguer, discerner|B2||4|It's hard to distinguish between them.|Il est difficile de les distinguer.|distinguish|c||basics|pos=v
 dominate|dominer|B2||3|Two companies dominate the market.|Deux entreprises dominent le marché.|dominate|w||business|pos=v
 economist|économiste|B2||2|Economists expect a recovery.|Les économistes prévoient une reprise.|Economists|n||money|pos=n
 forehead|front|A2||2|He kissed her on the forehead.|Il l'a embrassée sur le front.|forehead|d||body|pos=n
