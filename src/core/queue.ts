@@ -45,7 +45,7 @@ export interface QueueResult {
   counts: { learning: number; review: number; fresh: number };
 }
 
-function inDirection(kind: CardKind, direction: Direction): boolean {
+export function inDirection(kind: CardKind, direction: Direction): boolean {
   if (direction === 'en-fr') return kind === 'recognition';
   return direction === '' || kind !== 'recognition';
 }
@@ -54,7 +54,7 @@ function inDirection(kind: CardKind, direction: Direction): boolean {
  * Sans sens imposé, la production attend que la compréhension soit consolidée, pour ne pas
  * interroger sur un élément jamais vu. Choisir FR → EN lève ce blocage.
  */
-function isUnlocked(ref: CardRef, cards: Map<string, CardState>, direction: Direction): boolean {
+export function isUnlocked(ref: CardRef, cards: Map<string, CardState>, direction: Direction): boolean {
   if (ref.kind === 'recognition' || (ref.kind === 'production' && direction)) return true;
   const parent = ref.kind === 'production' ? 'recognition' : 'production';
   return cards.get(ref.id.replace(ref.kind, parent))?.state === State.Review;

@@ -1,5 +1,4 @@
 import { useState } from 'preact/hooks';
-import { NO_FOCUS, type Focus } from '../core/queue';
 import type { Store } from '../core/store';
 import { Browse } from './Browse';
 import { Review } from './Review';
@@ -17,8 +16,6 @@ type Tab = (typeof TABS)[number][0];
 export function App({ store }: { store: Store }) {
   useStore(store);
   const [tab, setTab] = useState<Tab>('review');
-  // Conservée entre onglets, mais pas au rechargement : une sélection oubliée masquerait des cartes dues.
-  const [focus, setFocus] = useState<Focus>(NO_FOCUS);
   return (
     <>
       <nav class="tabs" aria-label="Navigation principale">
@@ -29,7 +26,7 @@ export function App({ store }: { store: Store }) {
         ))}
       </nav>
       <main>
-        {tab === 'review' && <Review store={store} focus={focus} onFocus={setFocus} />}
+        {tab === 'review' && <Review store={store} />}
         {tab === 'browse' && <Browse store={store} />}
         {tab === 'stats' && <StatsView store={store} />}
       </main>

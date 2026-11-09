@@ -13,6 +13,8 @@ npm install
 npm run dev
 ```
 
+Pour réviser, configure une partie (thèmes, niveaux, types, sens, nombre de cartes) puis réponds « Je connais » ou « À réviser ». Les cartes à réviser reviennent à la fin de la partie. La partie en cours est gardée dans le navigateur : un rechargement la reprend où tu en étais.
+
 Raccourcis en révision : `Espace` ou un clic retourne la carte, `H` affiche l'indice, `1` répond « Je connais », `2` répond « À réviser », `S` lit la réponse.
 
 ## Commandes

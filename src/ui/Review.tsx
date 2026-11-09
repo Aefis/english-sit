@@ -1,9 +1,14 @@
-import { useEffect, useRef, useState } from 'preact/hooks';
+import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
+import type { ComponentChildren } from 'preact';
 import { clozeHint, spokenAnswer, type CardKind } from '../core/cards';
-import { matchesFocus, NO_FOCUS, type Focus } from '../core/queue';
-import { LEVELS, type Item } from '../core/schema';
+import {
+  answerCard, candidates, DEFAULT_CONFIG, followUpCard, parseCardId, parseConfig, parseGame, phase, SIZES,
+  startGame, startRetryRound, type Game, type GameConfig,
+} from '../core/game';
+import { LEVELS, type Item, type ItemType } from '../core/schema';
 import type { Store } from '../core/store';
-import { LEECH_LAPSES, Rating, type CardState, type Grade } from '../core/srs';
+import { LEECH_LAPSES, newCardState, Rating, type CardState, type Grade } from '../core/srs';
+import { THEMES } from '../core/themes';
 import { Badges, Highlighted, ItemDetails, speak, useStore } from './shared';
 
 const KIND_LABELS: Record<CardKind, string> = {
@@ -18,129 +23,236 @@ const GRADES: { rating: Grade; label: string; className: string }[] = [
   { rating: Rating.Again, label: 'À réviser', className: 'again' },
 ];
 
-const CATEGORIES: [Focus['category'], string][] = [
-  ['', 'Toutes'],
+const TYPE_LABELS: [ItemType, string][] = [
   ['word', 'Mots'],
   ['chunk', 'Expressions'],
   ['collocation', 'Collocations'],
   ['phrasal_verb', 'Phrasal verbs'],
   ['idiom', 'Idiomes'],
   ['connector', 'Connecteurs'],
-  ['pro', 'Anglais pro'],
 ];
 
-function FocusBar({ focus, onFocus }: { focus: Focus; onFocus: (focus: Focus) => void }) {
-  // Rendre le focus à la page pour qu'Espace retourne la carte juste après le choix.
-  const pick = (patch: Partial<Focus>) => (event: Event) => {
-    (event.target as HTMLSelectElement).blur();
-    onFocus({ ...focus, ...patch });
-  };
-  const value = (event: Event) => (event.target as HTMLSelectElement).value;
-  return (
-    <div class="focus-bar">
-      <label>
-        <span>Catégorie</span>
-        <select
-          value={focus.category}
-          onChange={(e) => pick({ category: value(e) as Focus['category'] })(e)}
-        >
-          {CATEGORIES.map(([id, label]) => <option key={id} value={id}>{label}</option>)}
-        </select>
-      </label>
-      <label>
-        <span>Niveau</span>
-        <select value={focus.level} onChange={(e) => pick({ level: value(e) as Focus['level'] })(e)}>
-          <option value="">Tous</option>
-          {LEVELS.map((level) => <option key={level} value={level}>{level}</option>)}
-        </select>
-      </label>
-      <label>
-        <span>Sens</span>
-        <select value={focus.direction} onChange={(e) => pick({ direction: value(e) as Focus['direction'] })(e)}>
-          <option value="">Les deux</option>
-          <option value="en-fr">EN → FR</option>
-          <option value="fr-en">FR → EN</option>
-        </select>
-      </label>
-    </div>
-  );
-}
+const DIRECTIONS: [GameConfig['direction'], string][] = [['', 'Les deux'], ['en-fr', 'EN → FR'], ['fr-en', 'FR → EN']];
 
-function DoneMessage({ store, focus, onFocus, onContinue, learning }: {
-  store: Store;
-  focus: Focus;
-  onFocus: (focus: Focus) => void;
-  onContinue: () => void;
-  learning: number;
-}) {
-  const focused = focus.category !== '' || focus.level !== '' || focus.direction !== '';
-  const empty = !store.items.some((item) => matchesFocus(item, focus));
-  const moreElsewhere = focused && store.queue().next !== null;
-  const canContinue = store.queue(focus, true).next !== null;
+// La partie et les derniers réglages restent dans le navigateur, pour survivre à un rechargement.
+const GAME_KEY = 'english-sit:game';
+const CONFIG_KEY = 'english-sit:game-config';
 
-  let title = "C'est tout pour aujourd'hui";
-  let detail = learning > 0
-    ? `${learning} carte(s) à réviser reviendront dans quelques minutes.`
-    : 'Tes prochaines cartes seront prêtes demain.';
-  if (empty) {
-    title = 'Aucun élément pour cette sélection';
-    detail = 'Essaie une autre catégorie ou un autre niveau.';
-  } else if (focused) {
-    title = 'Plus de cartes prévues pour cette sélection';
-    detail = moreElsewhere
-      ? "Il reste des cartes prévues aujourd'hui en dehors de cette sélection."
-      : "Tu as aussi fini toutes les autres cartes prévues aujourd'hui.";
+function readJson(key: string): unknown {
+  try {
+    const raw = localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
   }
-
-  return (
-    <div class="panel done">
-      <h1>{title}</h1>
-      <p>{detail}</p>
-      <div class="actions">
-        {moreElsewhere && <button class="primary" onClick={() => onFocus(NO_FOCUS)}>Tout réviser</button>}
-        {canContinue && (
-          <button class={moreElsewhere ? 'secondary' : 'primary'} onClick={onContinue}>Continuer quand même</button>
-        )}
-      </div>
-    </div>
-  );
 }
 
-export function Review({ store, focus, onFocus }: { store: Store; focus: Focus; onFocus: (focus: Focus) => void }) {
-  useStore(store);
-  const [, setTick] = useState(0);
-  useEffect(() => {
-    const timer = setInterval(() => setTick((t) => t + 1), 30_000);
-    return () => clearInterval(timer);
-  }, []);
+function writeJson(key: string, value: unknown) {
+  try {
+    if (value === null) localStorage.removeItem(key);
+    else localStorage.setItem(key, JSON.stringify(value));
+  } catch {
+    // Stockage indisponible (navigation privée) : la partie marche, sans reprise après rechargement.
+  }
+}
 
-  const [free, setFree] = useState(false);
-  const { next, counts } = store.queue(focus, free);
-  const item = next ? store.byId.get(next.itemId) : undefined;
+const toggle = <T,>(list: T[], value: T) => (list.includes(value) ? list.filter((v) => v !== value) : [...list, value]);
+const plural = (n: number, word: string) => `${n} ${word}${n > 1 ? 's' : ''}`;
+
+function Chip({ on, onClick, children }: { on: boolean; onClick: () => void; children: ComponentChildren }) {
+  return <button type="button" class="chip" aria-pressed={on} onClick={onClick}>{children}</button>;
+}
+
+function Setup({ store, config, onChange, onStart }: {
+  store: Store;
+  config: GameConfig;
+  onChange: (config: GameConfig) => void;
+  onStart: () => void;
+}) {
+  const available = useMemo(
+    () => candidates({ items: store.items, cards: store.cards, suspended: store.suspended, config, now: Date.now() }).length,
+    [store.revision, config],
+  );
+  const count = config.size === null ? available : Math.min(config.size, available);
+  const set = (patch: Partial<GameConfig>) => onChange({ ...config, ...patch });
 
   return (
-    <section class="review">
-      <FocusBar focus={focus} onFocus={onFocus} />
-      {free && (
-        <p class="free-note">
-          Révision libre : ces cartes n'étaient pas prévues aujourd'hui.
-          <button class="link" onClick={() => setFree(false)}>Arrêter</button>
+    <div class="panel setup">
+      <h1>Nouvelle partie</h1>
+      <p class="muted small">Coche ce que tu veux réviser. Si rien n'est coché dans un groupe, tout est inclus.</p>
+
+      <fieldset>
+        <legend>Thèmes</legend>
+        <div class="chips">
+          {THEMES.map((t) => (
+            <Chip key={t.id} on={config.themes.includes(t.id)} onClick={() => set({ themes: toggle(config.themes, t.id) })}>
+              {t.label}
+            </Chip>
+          ))}
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Niveaux</legend>
+        <div class="chips">
+          {LEVELS.map((level) => (
+            <Chip key={level} on={config.levels.includes(level)} onClick={() => set({ levels: toggle(config.levels, level) })}>
+              {level}
+            </Chip>
+          ))}
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Types</legend>
+        <div class="chips">
+          {TYPE_LABELS.map(([type, label]) => (
+            <Chip key={type} on={config.types.includes(type)} onClick={() => set({ types: toggle(config.types, type) })}>
+              {label}
+            </Chip>
+          ))}
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Sens</legend>
+        <div class="chips">
+          {DIRECTIONS.map(([direction, label]) => (
+            <Chip key={direction} on={config.direction === direction} onClick={() => set({ direction })}>{label}</Chip>
+          ))}
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Nombre de cartes</legend>
+        <div class="chips">
+          {SIZES.map((size) => (
+            <Chip key={String(size)} on={config.size === size} onClick={() => set({ size })}>{size ?? 'Toutes'}</Chip>
+          ))}
+        </div>
+      </fieldset>
+
+      <div class="actions setup-start">
+        <button class="primary" disabled={count === 0} onClick={onStart}>
+          {count === 0 ? 'Aucune carte pour cette sélection' : `Lancer la partie (${plural(count, 'carte')})`}
+        </button>
+      </div>
+      {config.direction === '' && count > 0 && (
+        <p class="muted small setup-note">
+          En mode « Les deux », chaque carte anglais → français que tu connais ajoute sa version français → anglais plus loin dans la partie.
         </p>
       )}
-      <p class="counts" aria-label="Cartes restantes">
-        <span>{counts.fresh} nouvelles</span>
-        <span>{counts.learning + counts.review} à réviser</span>
-      </p>
-      {next && item ? (
-        <Flashcard key={`${next.id}:${next.reps}`} store={store} card={next} item={item} />
-      ) : (
-        <DoneMessage store={store} focus={focus} onFocus={onFocus} onContinue={() => setFree(true)} learning={counts.learning} />
-      )}
+    </div>
+  );
+}
+
+export function Review({ store }: { store: Store }) {
+  useStore(store);
+  const [config, setConfig] = useState<GameConfig>(() => parseConfig(readJson(CONFIG_KEY) ?? DEFAULT_CONFIG));
+  const [game, setGame] = useState<Game | null>(() => parseGame(readJson(GAME_KEY), (id) => store.byId.has(id)));
+  const [stopping, setStopping] = useState(false);
+
+  const saveGame = (next: Game | null) => {
+    setGame(next);
+    writeJson(GAME_KEY, next);
+  };
+  const changeConfig = (next: GameConfig) => {
+    setConfig(next);
+    writeJson(CONFIG_KEY, next);
+  };
+  const start = (from: GameConfig) => {
+    setStopping(false);
+    saveGame(startGame({ items: store.items, cards: store.cards, suspended: store.suspended, config: from, now: Date.now() }));
+  };
+
+  if (!game) {
+    return (
+      <section class="review">
+        <Setup store={store} config={config} onChange={changeConfig} onStart={() => start(config)} />
+      </section>
+    );
+  }
+
+  const current = phase(game);
+  if (current === 'break') {
+    return (
+      <section class="review">
+        <div class="panel done">
+          <h1>Pile terminée !</h1>
+          <p>Il te reste {plural(game.retry.length, 'carte')} à réviser.</p>
+          <div class="actions">
+            <button class="primary" onClick={() => saveGame(startRetryRound(game))}>Revoir ces cartes</button>
+            <button class="secondary" onClick={() => saveGame({ ...game, retry: [] })}>Terminer la partie</button>
+          </div>
+        </div>
+      </section>
+    );
+  }
+  if (current === 'done') {
+    const firstTry = game.total - game.missed.length;
+    return (
+      <section class="review">
+        <div class="panel done">
+          <h1>Partie terminée</h1>
+          <p>{plural(game.total, 'carte')} jouée{game.total > 1 ? 's' : ''}, dont {firstTry} connue{firstTry > 1 ? 's' : ''} du premier coup.</p>
+          <div class="actions">
+            <button class="primary" onClick={() => start(game.config)}>Rejouer avec les mêmes réglages</button>
+            <button class="secondary" onClick={() => saveGame(null)}>Changer les réglages</button>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  const id = game.pending[0];
+  const ref = parseCardId(id)!;
+  const item = store.byId.get(ref.itemId)!;
+  const card = store.cards.get(id) ?? newCardState(ref, Date.now());
+
+  const answer = async (rating: Grade, elapsedMs: number) => {
+    const known = rating === Rating.Good;
+    const followId = known ? followUpCard(item, card.kind, game.config.direction) : null;
+    // Seule une carte jamais vue s'ajoute : les autres reviendront à leur date.
+    const follow = followId && !store.cards.has(followId) ? followId : null;
+    saveGame(answerCard(game, id, known, follow));
+    await store.review(card, rating, elapsedMs);
+  };
+
+  const played = game.total - game.pending.length;
+  return (
+    <section class="review">
+      <div class="game-bar">
+        <p class="counts" aria-label="Avancement de la partie">
+          {game.round === 1 ? (
+            <>
+              <span>{played} / {game.total}</span>
+              <span>{game.retry.length} à réviser à la fin</span>
+            </>
+          ) : (
+            <span>Révision : {plural(game.pending.length, 'carte')} restante{game.pending.length > 1 ? 's' : ''}</span>
+          )}
+        </p>
+        {stopping ? (
+          <p class="stop-confirm">
+            Arrêter la partie ? Les réponses déjà données sont gardées.
+            <button class="link" onClick={() => saveGame(null)}>Oui, arrêter</button>
+            <button class="link" onClick={() => setStopping(false)}>Non</button>
+          </p>
+        ) : (
+          <button class="link stop" onClick={() => setStopping(true)}>Arrêter la partie</button>
+        )}
+      </div>
+      <Flashcard key={`${id}:${game.round}:${game.pending.length}`} store={store} card={card} item={item} onAnswer={answer} />
     </section>
   );
 }
 
-function Flashcard({ store, card, item }: { store: Store; card: CardState; item: Item }) {
+function Flashcard({ store, card, item, onAnswer }: {
+  store: Store;
+  card: CardState;
+  item: Item;
+  onAnswer: (rating: Grade, elapsedMs: number) => Promise<void>;
+}) {
   const [flipped, setFlipped] = useState(false);
   const [hint, setHint] = useState(false);
   const [busy, setBusy] = useState(false);
@@ -152,7 +264,7 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
   const grade = async (rating: Grade) => {
     if (busy) return;
     setBusy(true);
-    await store.review(card, rating, Date.now() - shownAt.current);
+    await onAnswer(rating, Date.now() - shownAt.current);
   };
 
   const flip = () => setFlipped(!flipped);
@@ -167,8 +279,8 @@ function Flashcard({ store, card, item }: { store: Store; card: CardState; item:
     const onKey = (event: KeyboardEvent) => {
       if (event.ctrlKey || event.metaKey || event.altKey || event.repeat) return;
       if (event.key === ' ' || event.key === 'Enter') {
-        // Un bouton de la carte qui a le focus garde son action native.
-        if ((event.target as Element).closest('.flashcard button, .focus-bar select, .done button')) return;
+        // Un bouton qui a le focus garde son action native.
+        if ((event.target as Element).closest('.flashcard button, .game-bar button')) return;
         event.preventDefault();
         flip();
       } else if (!flipped && event.key === 'h' && !isRecognition) {
