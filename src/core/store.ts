@@ -52,6 +52,9 @@ class Database extends Dexie {
 }
 
 /** Le contenu (deck.json) reste séparé de la progression (IndexedDB), liée par des id stables. */
+/** Code d'erreur traduit par l'interface. */
+export const INVALID_BACKUP = 'invalid-backup';
+
 export class Store {
   private db = new Database();
   private listeners = new Set<() => void>();
@@ -153,7 +156,7 @@ export class Store {
 
   async importBackup(backup: Backup): Promise<void> {
     if (backup.format !== 'english-sit-backup' || backup.version !== 1) {
-      throw new Error("Ce fichier n'est pas une sauvegarde valide.");
+      throw new Error(INVALID_BACKUP);
     }
     await this.db.transaction('rw', [this.db.cards, this.db.reviews, this.db.prefs, this.db.meta], async () => {
       await Promise.all([this.db.cards.clear(), this.db.reviews.clear(), this.db.prefs.clear()]);

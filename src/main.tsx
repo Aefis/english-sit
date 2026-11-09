@@ -13,7 +13,7 @@ async function start() {
     await store.load((await response.json()) as Deck);
     render(<App store={store} />, root);
   } catch (error) {
-    root.textContent = `Impossible de charger l'application : ${String(error)}`;
+    root.textContent = `The app could not load: ${String(error)}`;
   }
 }
 

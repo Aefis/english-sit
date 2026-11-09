@@ -1,38 +1,28 @@
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import type { ComponentChildren } from 'preact';
-import { clozeHint, spokenAnswer, type CardKind } from '../core/cards';
+import { clozeHint, spokenAnswer } from '../core/cards';
 import {
   answerCard, candidates, DEFAULT_CONFIG, followUpCard, parseCardId, parseConfig, parseGame, phase, SIZES,
   startGame, startRetryRound, type Game, type GameConfig,
 } from '../core/game';
-import { LEVELS, type Item, type ItemType } from '../core/schema';
+import { LEVELS, TYPES, type Item } from '../core/schema';
 import type { Store } from '../core/store';
 import { LEECH_LAPSES, newCardState, Rating, type CardState, type Grade } from '../core/srs';
 import { THEMES } from '../core/themes';
+import { useI18n, type Dict } from './i18n';
 import { Badges, Highlighted, ItemDetails, speak, useStore } from './shared';
 
-const KIND_LABELS: Record<CardKind, string> = {
-  recognition: 'Anglais → français',
-  production: 'Français → anglais : dis-le à voix haute',
-  context: 'Situation : que dis-tu ?',
-};
-
 /** Deux choix seulement : le calendrier reste caché. L'ordre donne les touches 1 et 2. */
-const GRADES: { rating: Grade; label: string; className: string }[] = [
-  { rating: Rating.Good, label: 'Je connais', className: 'good' },
-  { rating: Rating.Again, label: 'À réviser', className: 'again' },
+const GRADES: { rating: Grade; label: (t: Dict) => string; className: string }[] = [
+  { rating: Rating.Good, label: (t) => t.known, className: 'good' },
+  { rating: Rating.Again, label: (t) => t.toReview, className: 'again' },
 ];
 
-const TYPE_LABELS: [ItemType, string][] = [
-  ['word', 'Mots'],
-  ['chunk', 'Expressions'],
-  ['collocation', 'Collocations'],
-  ['phrasal_verb', 'Phrasal verbs'],
-  ['idiom', 'Idiomes'],
-  ['connector', 'Connecteurs'],
+const DIRECTIONS: [GameConfig['direction'], (t: Dict) => string][] = [
+  ['', (t) => t.both],
+  ['en-fr', () => 'EN → FR'],
+  ['fr-en', () => 'FR → EN'],
 ];
-
-const DIRECTIONS: [GameConfig['direction'], string][] = [['', 'Les deux'], ['en-fr', 'EN → FR'], ['fr-en', 'FR → EN']];
 
 // La partie et les derniers réglages restent dans le navigateur, pour survivre à un rechargement.
 const GAME_KEY = 'english-sit:game';
@@ -57,7 +47,6 @@ function writeJson(key: string, value: unknown) {
 }
 
 const toggle = <T,>(list: T[], value: T) => (list.includes(value) ? list.filter((v) => v !== value) : [...list, value]);
-const plural = (n: number, word: string) => `${n} ${word}${n > 1 ? 's' : ''}`;
 
 function Chip({ on, onClick, children }: { on: boolean; onClick: () => void; children: ComponentChildren }) {
   return <button type="button" class="chip" aria-pressed={on} onClick={onClick}>{children}</button>;
@@ -69,6 +58,7 @@ function Setup({ store, config, onChange, onStart }: {
   onChange: (config: GameConfig) => void;
   onStart: () => void;
 }) {
+  const { lang, t } = useI18n();
   const available = useMemo(
     () => candidates({ items: store.items, cards: store.cards, suspended: store.suspended, config, now: Date.now() }).length,
     [store.revision, config],
@@ -78,22 +68,22 @@ function Setup({ store, config, onChange, onStart }: {
 
   return (
     <div class="panel setup">
-      <h1>Nouvelle partie</h1>
-      <p class="muted small">Coche ce que tu veux réviser. Si rien n'est coché dans un groupe, tout est inclus.</p>
+      <h1>{t.newGame}</h1>
+      <p class="muted small">{t.setupHint}</p>
 
       <fieldset>
-        <legend>Thèmes</legend>
+        <legend>{t.themes}</legend>
         <div class="chips">
-          {THEMES.map((t) => (
-            <Chip key={t.id} on={config.themes.includes(t.id)} onClick={() => set({ themes: toggle(config.themes, t.id) })}>
-              {t.label}
+          {THEMES.map((theme) => (
+            <Chip key={theme.id} on={config.themes.includes(theme.id)} onClick={() => set({ themes: toggle(config.themes, theme.id) })}>
+              {lang === 'en' ? theme.en : theme.label}
             </Chip>
           ))}
         </div>
       </fieldset>
 
       <fieldset>
-        <legend>Niveaux</legend>
+        <legend>{t.levels}</legend>
         <div class="chips">
           {LEVELS.map((level) => (
             <Chip key={level} on={config.levels.includes(level)} onClick={() => set({ levels: toggle(config.levels, level) })}>
@@ -104,43 +94,41 @@ function Setup({ store, config, onChange, onStart }: {
       </fieldset>
 
       <fieldset>
-        <legend>Types</legend>
+        <legend>{t.typesLegend}</legend>
         <div class="chips">
-          {TYPE_LABELS.map(([type, label]) => (
+          {TYPES.map((type) => (
             <Chip key={type} on={config.types.includes(type)} onClick={() => set({ types: toggle(config.types, type) })}>
-              {label}
+              {t.typesPlural[type]}
             </Chip>
           ))}
         </div>
       </fieldset>
 
       <fieldset>
-        <legend>Sens</legend>
+        <legend>{t.direction}</legend>
         <div class="chips">
           {DIRECTIONS.map(([direction, label]) => (
-            <Chip key={direction} on={config.direction === direction} onClick={() => set({ direction })}>{label}</Chip>
+            <Chip key={direction} on={config.direction === direction} onClick={() => set({ direction })}>{label(t)}</Chip>
           ))}
         </div>
       </fieldset>
 
       <fieldset>
-        <legend>Nombre de cartes</legend>
+        <legend>{t.size}</legend>
         <div class="chips">
           {SIZES.map((size) => (
-            <Chip key={String(size)} on={config.size === size} onClick={() => set({ size })}>{size ?? 'Toutes'}</Chip>
+            <Chip key={String(size)} on={config.size === size} onClick={() => set({ size })}>{size ?? t.all}</Chip>
           ))}
         </div>
       </fieldset>
 
       <div class="actions setup-start">
         <button class="primary" disabled={count === 0} onClick={onStart}>
-          {count === 0 ? 'Aucune carte pour cette sélection' : `Lancer la partie (${plural(count, 'carte')})`}
+          {count === 0 ? t.noCards : t.start(count)}
         </button>
       </div>
       {config.direction === '' && count > 0 && (
-        <p class="muted small setup-note">
-          En mode « Les deux », chaque carte anglais → français que tu connais ajoute sa version français → anglais plus loin dans la partie.
-        </p>
+        <p class="muted small setup-note">{t.bothNote}</p>
       )}
     </div>
   );
@@ -148,6 +136,7 @@ function Setup({ store, config, onChange, onStart }: {
 
 export function Review({ store }: { store: Store }) {
   useStore(store);
+  const { t } = useI18n();
   const [config, setConfig] = useState<GameConfig>(() => parseConfig(readJson(CONFIG_KEY) ?? DEFAULT_CONFIG));
   const [game, setGame] = useState<Game | null>(() => parseGame(readJson(GAME_KEY), (id) => store.byId.has(id)));
   const [stopping, setStopping] = useState(false);
@@ -178,11 +167,11 @@ export function Review({ store }: { store: Store }) {
     return (
       <section class="review">
         <div class="panel done">
-          <h1>Pile terminée !</h1>
-          <p>Il te reste {plural(game.retry.length, 'carte')} à réviser.</p>
+          <h1>{t.pileDone}</h1>
+          <p>{t.left(game.retry.length)}</p>
           <div class="actions">
-            <button class="primary" onClick={() => saveGame(startRetryRound(game))}>Revoir ces cartes</button>
-            <button class="secondary" onClick={() => saveGame({ ...game, retry: [] })}>Terminer la partie</button>
+            <button class="primary" onClick={() => saveGame(startRetryRound(game))}>{t.reviewThem}</button>
+            <button class="secondary" onClick={() => saveGame({ ...game, retry: [] })}>{t.endGame}</button>
           </div>
         </div>
       </section>
@@ -193,11 +182,11 @@ export function Review({ store }: { store: Store }) {
     return (
       <section class="review">
         <div class="panel done">
-          <h1>Partie terminée</h1>
-          <p>{plural(game.total, 'carte')} jouée{game.total > 1 ? 's' : ''}, dont {firstTry} connue{firstTry > 1 ? 's' : ''} du premier coup.</p>
+          <h1>{t.gameOver}</h1>
+          <p>{t.summary(game.total, firstTry)}</p>
           <div class="actions">
-            <button class="primary" onClick={() => start(game.config)}>Rejouer avec les mêmes réglages</button>
-            <button class="secondary" onClick={() => saveGame(null)}>Changer les réglages</button>
+            <button class="primary" onClick={() => start(game.config)}>{t.replay}</button>
+            <button class="secondary" onClick={() => saveGame(null)}>{t.changeSettings}</button>
           </div>
         </div>
       </section>
@@ -222,24 +211,24 @@ export function Review({ store }: { store: Store }) {
   return (
     <section class="review">
       <div class="game-bar">
-        <p class="counts" aria-label="Avancement de la partie">
+        <p class="counts" aria-label={t.progressLabel}>
           {game.round === 1 ? (
             <>
               <span>{played} / {game.total}</span>
-              <span>{game.retry.length} à réviser à la fin</span>
+              <span>{t.atEnd(game.retry.length)}</span>
             </>
           ) : (
-            <span>Révision : {plural(game.pending.length, 'carte')} restante{game.pending.length > 1 ? 's' : ''}</span>
+            <span>{t.reviewing(game.pending.length)}</span>
           )}
         </p>
         {stopping ? (
           <p class="stop-confirm">
-            Arrêter la partie ? Les réponses déjà données sont gardées.
-            <button class="link" onClick={() => saveGame(null)}>Oui, arrêter</button>
-            <button class="link" onClick={() => setStopping(false)}>Non</button>
+            {t.stopAsk}
+            <button class="link" onClick={() => saveGame(null)}>{t.stopYes}</button>
+            <button class="link" onClick={() => setStopping(false)}>{t.stopNo}</button>
           </p>
         ) : (
-          <button class="link stop" onClick={() => setStopping(true)}>Arrêter la partie</button>
+          <button class="link stop" onClick={() => setStopping(true)}>{t.stop}</button>
         )}
       </div>
       <Flashcard key={`${id}:${game.round}:${game.pending.length}`} store={store} card={card} item={item} onAnswer={answer} />
@@ -253,6 +242,7 @@ function Flashcard({ store, card, item, onAnswer }: {
   item: Item;
   onAnswer: (rating: Grade, elapsedMs: number) => Promise<void>;
 }) {
+  const { t } = useI18n();
   const [flipped, setFlipped] = useState(false);
   const [hint, setHint] = useState(false);
   const [busy, setBusy] = useState(false);
@@ -301,7 +291,7 @@ function Flashcard({ store, card, item, onAnswer }: {
         <div class="flip-inner">
           <div class="face panel" aria-hidden={flipped} inert={flipped}>
             <header class="card-head">
-              <span class="kind">{KIND_LABELS[card.kind]}</span>
+              <span class="kind">{t.kinds[card.kind]}</span>
               <Badges item={item} />
             </header>
             <div class="prompt">
@@ -317,14 +307,14 @@ function Flashcard({ store, card, item, onAnswer }: {
             </div>
             {!isRecognition && !hint && (
               <div class="actions">
-                <button class="secondary" onClick={withoutFlip(() => setHint(true))}>Indice</button>
+                <button class="secondary" onClick={withoutFlip(() => setHint(true))}>{t.hint}</button>
               </div>
             )}
           </div>
 
           <div class="face face-back panel" aria-hidden={!flipped} inert={!flipped}>
             <header class="card-head">
-              <span class="kind">Réponse</span>
+              <span class="kind">{t.answer}</span>
               <Badges item={item} />
             </header>
             <div class="prompt">
@@ -341,25 +331,25 @@ function Flashcard({ store, card, item, onAnswer }: {
                 </>
               )}
               <div class="actions">
-                <button class="link" onClick={withoutFlip(listen)}>Écouter</button>
+                <button class="link" onClick={withoutFlip(listen)}>{t.listen}</button>
               </div>
             </div>
             <ItemDetails item={item} store={store} />
             {card.lapses >= LEECH_LAPSES && (
-              <p class="leech">Carte récalcitrante : {card.lapses} oublis. Pense à la suspendre dans Explorer.</p>
+              <p class="leech">{t.leech(card.lapses)}</p>
             )}
           </div>
         </div>
       </div>
 
       <div class="actions flip-actions">
-        <button class="secondary" onClick={flip}>Retourner la carte</button>
+        <button class="secondary" onClick={flip}>{t.flip}</button>
       </div>
 
       <div class="grades">
         {GRADES.map(({ rating, label, className }, index) => (
           <button key={rating} class={`grade ${className}`} disabled={busy} onClick={() => void grade(rating)}>
-            <span>{label}</span>
+            <span>{label(t)}</span>
             <kbd>{index + 1}</kbd>
           </button>
         ))}

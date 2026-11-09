@@ -1,8 +1,9 @@
 import { useState } from 'preact/hooks';
 import { LEVELS, TYPES } from '../core/schema';
-import type { Backup, Store } from '../core/store';
+import { INVALID_BACKUP, type Backup, type Store } from '../core/store';
 import { computeStats, type Bucket } from '../core/stats';
-import { TYPE_LABELS, useStore } from './shared';
+import { useI18n } from './i18n';
+import { useStore } from './shared';
 
 function Tile({ label, value, note }: { label: string; value: string | number; note?: string }) {
   return (
@@ -15,12 +16,13 @@ function Tile({ label, value, note }: { label: string; value: string | number; n
 }
 
 function ProgressRow({ label, bucket }: { label: string; bucket: Bucket }) {
+  const { t } = useI18n();
   const pct = (n: number) => (bucket.total ? (n / bucket.total) * 100 : 0);
-  const summary = `${bucket.mastered} maîtrisés, ${bucket.learning} en apprentissage, sur ${bucket.total}`;
+  const summary = t.barSummary(bucket.mastered, bucket.learning, bucket.total);
   return (
     <div class="bar-row" title={summary}>
       <span class="bar-label">{label}</span>
-      <div class="bar" role="img" aria-label={`${label} : ${summary}`}>
+      <div class="bar" role="img" aria-label={`${label}: ${summary}`}>
         {bucket.mastered > 0 && <span class="seg mastered" style={{ width: `${pct(bucket.mastered)}%` }} />}
         {bucket.learning > 0 && <span class="seg learning" style={{ width: `${pct(bucket.learning)}%` }} />}
       </div>
@@ -30,6 +32,7 @@ function ProgressRow({ label, bucket }: { label: string; bucket: Bucket }) {
 }
 
 function MyProgress({ store }: { store: Store }) {
+  const { t } = useI18n();
   const [message, setMessage] = useState('');
 
   const exportFile = () => {
@@ -47,24 +50,22 @@ function MyProgress({ store }: { store: Store }) {
     if (!file) return;
     try {
       await store.importBackup(JSON.parse(await file.text()) as Backup);
-      setMessage('Sauvegarde restaurée.');
+      setMessage(t.restored);
     } catch (error) {
-      setMessage(`Import impossible : ${error instanceof Error ? error.message : String(error)}`);
+      const text = error instanceof Error ? error.message : String(error);
+      setMessage(t.importFailed(text === INVALID_BACKUP ? t.invalidBackup : text));
     }
     input.value = '';
   };
 
   return (
     <div class="panel settings">
-      <h2>Ma progression</h2>
-      <p class="muted small">
-        Ta progression reste dans ce navigateur. Exporte-la de temps en temps : c'est ta seule copie de secours, et le
-        moyen de la retrouver sur un autre appareil. Importer remplace la progression actuelle.
-      </p>
+      <h2>{t.myProgress}</h2>
+      <p class="muted small">{t.progressHelp}</p>
       <div class="actions">
-        <button class="secondary" onClick={exportFile}>Exporter</button>
+        <button class="secondary" onClick={exportFile}>{t.exportBtn}</button>
         <label class="button secondary">
-          Importer
+          {t.importBtn}
           <input type="file" accept="application/json" hidden onChange={(e) => void importFile(e)} />
         </label>
       </div>
@@ -75,32 +76,34 @@ function MyProgress({ store }: { store: Store }) {
 
 export function StatsView({ store }: { store: Store }) {
   useStore(store);
+  const { lang, t } = useI18n();
   const stats = computeStats(store.items, store.cards, store.logs, store.scheduler, Date.now());
-  const rate = stats.successRate === null ? '–' : `${Math.round(stats.successRate * 100)} %`;
+  const rate = stats.successRate === null ? '–' : `${Math.round(stats.successRate * 100)}${lang === 'fr' ? ' ' : ''}%`;
+  const tl = t.tiles;
 
   return (
     <section>
       <div class="tiles">
-        <Tile label="Vocabulaire actif estimé" value={stats.activeVocabulary} note="retrouvable en production maintenant" />
-        <Tile label="Vocabulaire passif estimé" value={stats.passiveVocabulary} note="compris à la lecture maintenant" />
-        <Tile label="Maîtrisés" value={stats.mastered} note="stabilité de 30 jours ou plus" />
-        <Tile label="En apprentissage" value={stats.learning} />
-        <Tile label="Jamais vus" value={stats.unseen} />
-        <Tile label="Taux de réussite" value={rate} note="30 derniers jours" />
-        <Tile label="Révisées aujourd'hui" value={stats.reviewsToday} />
-        <Tile label="Série" value={`${stats.streak} j`} />
+        <Tile label={tl.active} value={stats.activeVocabulary} note={tl.activeNote} />
+        <Tile label={tl.passive} value={stats.passiveVocabulary} note={tl.passiveNote} />
+        <Tile label={tl.mastered} value={stats.mastered} note={tl.masteredNote} />
+        <Tile label={tl.learning} value={stats.learning} />
+        <Tile label={tl.unseen} value={stats.unseen} />
+        <Tile label={tl.success} value={rate} note={tl.successNote} />
+        <Tile label={tl.today} value={stats.reviewsToday} />
+        <Tile label={tl.streak} value={tl.days(stats.streak)} />
       </div>
 
       <div class="panel">
         <div class="legend" aria-hidden="true">
-          <span><i class="swatch mastered" /> Maîtrisés</span>
-          <span><i class="swatch learning" /> En apprentissage</span>
+          <span><i class="swatch mastered" /> {tl.mastered}</span>
+          <span><i class="swatch learning" /> {tl.learning}</span>
         </div>
-        <h2>Par niveau</h2>
+        <h2>{t.byLevel}</h2>
         {LEVELS.map((level) => <ProgressRow key={level} label={level} bucket={stats.byLevel[level]} />)}
-        <h2>Par catégorie</h2>
-        {TYPES.map((type) => <ProgressRow key={type} label={TYPE_LABELS[type]} bucket={stats.byType[type]} />)}
-        <ProgressRow label="Anglais pro" bucket={stats.professional} />
+        <h2>{t.byType}</h2>
+        {TYPES.map((type) => <ProgressRow key={type} label={t.types[type]} bucket={stats.byType[type]} />)}
+        <ProgressRow label={t.businessEnglish} bucket={stats.professional} />
       </div>
 
       <MyProgress store={store} />

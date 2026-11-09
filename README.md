@@ -15,6 +15,8 @@ npm run dev
 
 Pour réviser, configure une partie (thèmes, niveaux, types, sens, nombre de cartes) puis réponds « Je connais » ou « À réviser ». Les cartes à réviser reviennent à la fin de la partie. La partie en cours est gardée dans le navigateur : un rechargement la reprend où tu en étais.
 
+L'interface est en anglais par défaut ; le bouton `FR` en haut à droite la passe en français, et ce choix est gardé dans le navigateur. Le contenu des cartes reste anglais/français dans les deux cas. L'onglet About donne le contact et les crédits.
+
 Raccourcis en révision : `Espace` ou un clic retourne la carte, `H` affiche l'indice, `1` répond « Je connais », `2` répond « À réviser », `S` lit la réponse.
 
 ## Commandes

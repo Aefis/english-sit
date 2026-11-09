@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'preact/hooks';
 import { splitHighlight } from '../core/cards';
-import type { Item, ItemType } from '../core/schema';
+import type { Item } from '../core/schema';
 import type { Store } from '../core/store';
+import { useI18n } from './i18n';
 
 /** Redessine le composant à chaque changement du store. */
 export function useStore(store: Store): number {
@@ -9,15 +10,6 @@ export function useStore(store: Store): number {
   useEffect(() => store.subscribe(() => setRevision(store.revision)), [store]);
   return revision;
 }
-
-export const TYPE_LABELS: Record<ItemType, string> = {
-  word: 'Mot',
-  chunk: 'Expression',
-  collocation: 'Collocation',
-  phrasal_verb: 'Phrasal verb',
-  idiom: 'Idiome',
-  connector: 'Connecteur',
-};
 
 export function speak(item: Pick<Item, 'audio' | 'variant'>, text: string, accent: string) {
   if (item.audio) {
@@ -43,19 +35,21 @@ export function Highlighted({ item }: { item: Pick<Item, 'example_en' | 'highlig
 }
 
 export function ItemDetails({ item, store }: { item: Item; store: Store }) {
+  const { t } = useI18n();
+  const d = t.details;
   const family = item.family
     ? store.items.filter((i) => i.family === item.family && i.id !== item.id).map((i) => i.english)
     : [];
-  const variantLabel = item.variant === 'both' ? null : `${item.variant} · autre variante : ${item.counterpart}`;
+  const variantLabel = item.variant === 'both' ? null : `${item.variant} · ${t.otherVariant}: ${item.counterpart}`;
   return (
     <dl class="details">
-      {item.sense && <Detail label="Sens">{item.sense}</Detail>}
-      {item.ipa && <Detail label="API">{item.ipa}</Detail>}
-      {item.forms && <Detail label="Formes">{item.forms}</Detail>}
-      {variantLabel && <Detail label="Variante">{variantLabel}</Detail>}
-      {item.also_accept.length > 0 && <Detail label="Aussi possible">{item.also_accept.join(' · ')}</Detail>}
-      {item.notes && <Detail label="Note">{item.notes}</Detail>}
-      {family.length > 0 && <Detail label="Même famille">{family.join(' · ')}</Detail>}
+      {item.sense && <Detail label={d.sense}>{item.sense}</Detail>}
+      {item.ipa && <Detail label={d.ipa}>{item.ipa}</Detail>}
+      {item.forms && <Detail label={d.forms}>{item.forms}</Detail>}
+      {variantLabel && <Detail label={d.variant}>{variantLabel}</Detail>}
+      {item.also_accept.length > 0 && <Detail label={d.also}>{item.also_accept.join(' · ')}</Detail>}
+      {item.notes && <Detail label={d.note}>{item.notes}</Detail>}
+      {family.length > 0 && <Detail label={d.family}>{family.join(' · ')}</Detail>}
     </dl>
   );
 }
@@ -70,12 +64,13 @@ function Detail({ label, children }: { label: string; children: preact.Component
 }
 
 export function Badges({ item }: { item: Item }) {
+  const { t } = useI18n();
   return (
     <div class="badges">
       <span class="badge">{item.level}</span>
-      <span class="badge">{TYPE_LABELS[item.type]}</span>
-      {item.register !== 'neutral' && <span class="badge">{item.register}</span>}
-      {item.tags.includes('pro') && <span class="badge">Pro</span>}
+      <span class="badge">{t.types[item.type]}</span>
+      {item.register !== 'neutral' && <span class="badge">{t.registers[item.register]}</span>}
+      {item.tags.includes('pro') && <span class="badge">{t.pro}</span>}
     </div>
   );
 }
